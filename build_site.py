@@ -530,7 +530,7 @@ def index_page(records):
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=os.path.join(HERE, "site"))
+    ap.add_argument("--out", default=os.path.join(HERE, "docs"))
     ap.add_argument("--root", default=HERE)
     args = ap.parse_args()
 
