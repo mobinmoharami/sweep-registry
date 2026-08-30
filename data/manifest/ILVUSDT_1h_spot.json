@@ -1,0 +1,485 @@
+{
+  "files": [
+    {
+      "bytes": 9465,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:07+00:00",
+      "rows": 208,
+      "sha256": "257c15599e905d00af40c076e03c1ad43f654147b41a73e61c022086ef380c14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 32333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:07+00:00",
+      "rows": 744,
+      "sha256": "7d135c54e850583baddbf8dadbb2399872d7fc444abdb76a508a81ba55b70129",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:07+00:00",
+      "rows": 720,
+      "sha256": "3e0574889e045a6c75c1d3358bb1e8fa971c203410671a0991626bf4f5def9c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33418,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:08+00:00",
+      "rows": 744,
+      "sha256": "a64320ed085baf6e1eadb335a43e3a72d5623bf323faabbb2aeccf74d2f7c40e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 31969,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:08+00:00",
+      "rows": 744,
+      "sha256": "0f8a1ad34aa0800161c727bbc2b43384e80acde9443dae23a20398143013fac9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:08+00:00",
+      "rows": 672,
+      "sha256": "c6a75fc1c1b67bb63bfa9559d537957a844394d07aaa963abd210311a4cb2de6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 31196,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:08+00:00",
+      "rows": 744,
+      "sha256": "ca6e8d0c4f0b082c9602f78a99f7f824a1cb2e57f4d7b1b72fdfe860604f432f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29752,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:09+00:00",
+      "rows": 720,
+      "sha256": "01bf56cfae163702be7a01391b4dacd69d388cbf765a1f26cbcafd49ff478482",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 30788,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:09+00:00",
+      "rows": 744,
+      "sha256": "984485a8f9ff77e7c4f0acdafdb610c4affa1f3c695dea15ae57ca65ecd4b528",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 29660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:09+00:00",
+      "rows": 720,
+      "sha256": "bc30ca2c097235f7c8b4aca113e16b2bc02813bf91c2e9b61b4faaaff4abe203",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:09+00:00",
+      "rows": 744,
+      "sha256": "f2f3f8a1035bbc1991d54338033555fd788f2e24bffbf849f70e830a9ef55080",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30235,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:09+00:00",
+      "rows": 744,
+      "sha256": "9ae17b5c85011194d43ce48c19670d3afd4b5be36b21baa10dd1ffb8702a782e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 28943,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:10+00:00",
+      "rows": 720,
+      "sha256": "25a7b457d7ab1c794f1530e3b508bc63837c902977d2ec079ce70fdd32793696",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29642,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:10+00:00",
+      "rows": 744,
+      "sha256": "a53fc1117bea363c32f3ac48c8491024172d0e06c106282f43db25c87290cd88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 28966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:10+00:00",
+      "rows": 720,
+      "sha256": "d8bf5db8b9efe2977df5eaeb48e290f732b12bdcc7cc4d33f3ff1ccd6aaf355c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:11+00:00",
+      "rows": 744,
+      "sha256": "31d8852d25fc9725ee7050bd48ceff177f9a5463463adfdc0b1a36d4a7cecece",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32748,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:11+00:00",
+      "rows": 744,
+      "sha256": "e4b99c211e658e1e283ed5eb909fd9712ec1528a34c37302aa17451593e86999",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30970,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:11+00:00",
+      "rows": 672,
+      "sha256": "beba6abfe251ce52a4d7b97afd4fed7fccb15832d3bb027444141448257bbc4b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 33690,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:11+00:00",
+      "rows": 743,
+      "sha256": "c910092748f8f42714f3ecb167c227b370ade5394c0979626071b0d7b2095865",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:12+00:00",
+      "rows": 720,
+      "sha256": "7f24e2a9b40d1f4568894c48e94656998ea7690b195285f74729235d3f861346",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:12+00:00",
+      "rows": 744,
+      "sha256": "2c1c36457cdebbf0a2df73d1e9d821e7632a26e7990682658410f266b3d1dbee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30743,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:12+00:00",
+      "rows": 720,
+      "sha256": "2c2e7ad604ea5f4576759aff07ac6f0e8357654049dcf8fdd14f0485e967e623",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:12+00:00",
+      "rows": 744,
+      "sha256": "ffc7d6c884f1aa73afb2fca7602554b4daabb1d938d0d91f4a2131d154ee346b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31877,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:13+00:00",
+      "rows": 744,
+      "sha256": "74e0def07f9d91002251b77d5ecad682c04b4704adcec2de316f75097266269e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29362,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:13+00:00",
+      "rows": 720,
+      "sha256": "7fd151696dcde9f7ac99b82d990e37e37086d49f4094e35759c562cc19ae6fef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:13+00:00",
+      "rows": 744,
+      "sha256": "b5e11c0cd8b418e0eb4f05c72303f74a3ddb05c651c085ceaa3c792530e61898",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:14+00:00",
+      "rows": 720,
+      "sha256": "7882c035cf4b0ce43651181d837e46db8db2a72d18528b01f3a4d34079847e3a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34861,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:14+00:00",
+      "rows": 744,
+      "sha256": "a2b79ce65e81bc89417c1e82ef217c970ce5b36b73e68f651f956ce83565c2b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:14+00:00",
+      "rows": 744,
+      "sha256": "fcf35b1e96f50dc59f538e5a39f9d7c0ebc2b5f23be93db382356860073101c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32296,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:14+00:00",
+      "rows": 696,
+      "sha256": "bd52775398801ae244a4ac0729310260b3af34f9959bb10e16c2ce0f537ad97b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35506,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:14+00:00",
+      "rows": 744,
+      "sha256": "e04e3bf77a6e54866b2bc3a22a503e98351b3ff934427e71dd38de1f96d31a5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33423,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:15+00:00",
+      "rows": 720,
+      "sha256": "016f1b24bad29de05fce07fdf783fa6a512105c3225542dbed15b4c906b29ced",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:15+00:00",
+      "rows": 744,
+      "sha256": "26e00699dd4db9dcd9d3a434f78e08c6d1ee8999c695ef973736865e918f1251",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:15+00:00",
+      "rows": 720,
+      "sha256": "d88acf57094bdbcce5a939b02a4295db55baa6d105cf9de9646656bc44fc4c18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33671,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:15+00:00",
+      "rows": 744,
+      "sha256": "0b33adfc9d1179498b050d7d44370be72ecb0dc6f4a9d649e6a629b212b7bfde",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:15+00:00",
+      "rows": 744,
+      "sha256": "7c59683d9cd49a785e2083da806a6fc3c33fb48452c2603a810404291c3deae9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32109,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:16+00:00",
+      "rows": 720,
+      "sha256": "3341b37691289cde20b725d590440997cd58fbbfbc06d38564089410c8cfe5d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33138,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:17+00:00",
+      "rows": 744,
+      "sha256": "1e9c10299546bf90e7fcca0590ca29f7ab58620c5a1a10db280cf2318e352dc5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33390,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:17+00:00",
+      "rows": 720,
+      "sha256": "e0ef43d1632c13a8a5c370de9ab0126b3f8b76e0aea6adb2208692b8f115f497",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34477,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:16+00:00",
+      "rows": 744,
+      "sha256": "245e2121361fc5c41f87868dc354040b6d4a0ad72d4c97f92aed86007ff41cde",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33597,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:17+00:00",
+      "rows": 744,
+      "sha256": "fd8d893bfcfb37a3c77a07b4d194e25857e0aa5a73fb29a80be2d324938a5669",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30348,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:17+00:00",
+      "rows": 672,
+      "sha256": "56ac38ee7f340d207f5e6ec388c7855753b25ffadcd411e01bc13bf6e108262f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32597,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:18+00:00",
+      "rows": 744,
+      "sha256": "6dd4701dc9665e8e91e46b6bd8fc6a291da92c6ebe745dc682428bfc83e72f8f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:18+00:00",
+      "rows": 720,
+      "sha256": "e18e1dc76a5b0e05b9d5c545be3ac3f77e6f0dc5543b3697629804b488b98dd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32882,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:18+00:00",
+      "rows": 744,
+      "sha256": "9aa3dab65a5fa23ae9c35d6e4155786e5cedb869cce8c07ec423df29ecf0ee4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:18+00:00",
+      "rows": 720,
+      "sha256": "9244425a46b1db4145270b61db3065356f1480915ccdcea26c459e3307e6f369",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32577,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:19+00:00",
+      "rows": 744,
+      "sha256": "9050db54419004a7b5364450d22c4154e64bc01b78215699724a1d650df0bede",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33668,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:18+00:00",
+      "rows": 744,
+      "sha256": "1465a5fcb4627bac203d33da1ee47262c379396b8773ea39fb65ae848e4de2e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:20+00:00",
+      "rows": 720,
+      "sha256": "7793a96b59f6f6b7626b19009a33f1ddb82898056b69d6498c5c7db126219c9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32745,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:19+00:00",
+      "rows": 744,
+      "sha256": "ef2569d63dbd36c9dbe6ae5e81429d0ebfd2ad3ff1be04784803cea8a9885d1e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:20+00:00",
+      "rows": 720,
+      "sha256": "d4e5584998c048668a2295c64e7f38dceaff77ce7c2e112a608ecd4e77a481a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30745,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:20+00:00",
+      "rows": 744,
+      "sha256": "8e938feb597eb602b4ff7f93accfd59770f22678c673ca92edb0d70d4351b987",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31351,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:20+00:00",
+      "rows": 744,
+      "sha256": "b2d83755544b88c21246af0046925a260c3ade6f41c2d756418745cf3977b99a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27274,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:19+00:00",
+      "rows": 672,
+      "sha256": "d8909f3ca4e7c6838caed3824828bacf08192cfa194e7ac7cbbaa1628720b438",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30022,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:21+00:00",
+      "rows": 744,
+      "sha256": "0b3ee754399f105021a2cc60ead99ce5273a76fe5d61b15611db709f72fe67ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29923,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:20+00:00",
+      "rows": 720,
+      "sha256": "bc4a7384400bf671bc91f53f5c2b0ad1c381af2a564896bdeae85abebc248098",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29953,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:21+00:00",
+      "rows": 744,
+      "sha256": "ed7bb147fb70874587b0a6db937b46bb78e969b372980d40806353649c2a0c11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:21+00:00",
+      "rows": 720,
+      "sha256": "a0873ceebe01cf12d1a26e8587d08c77ad054e8a336854b65c43313117ede419",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 28351,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:22+00:00",
+      "rows": 744,
+      "sha256": "c2953114a31eb840476bb2b7917e981dc1e65032d9c5e869878836810e1ef67c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ILVUSDT",
+  "total_rows": 42567
+}

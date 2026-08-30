@@ -1,0 +1,653 @@
+{
+  "files": [
+    {
+      "bytes": 15130,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:58+00:00",
+      "rows": 403,
+      "sha256": "45f5919958c6195702a39bbb039a4e0ca14f2eb61b7abefb5dcac0dcca3445a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 24687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:59+00:00",
+      "rows": 744,
+      "sha256": "bb704fb3e4aaaa4a39e26613a3dd5dc1b347a0391a1e80bb711a01937b1156b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 25895,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:59+00:00",
+      "rows": 744,
+      "sha256": "c213a38ddc0a3980c8b08c072da60fe829874325be6c48c9a29e18550312a9cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 29102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:58+00:00",
+      "rows": 690,
+      "sha256": "bfd97d0ea4352f80def9620c4b1530dc4dd1a1a7710a582b6cab785e1ec8aaa0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 29213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:59+00:00",
+      "rows": 743,
+      "sha256": "d2742fa4e91ba76482cb7106a3582588000cd94c8768337c5002d2575f512351",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 28441,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:00+00:00",
+      "rows": 718,
+      "sha256": "ebff37205bf4133146e244c89220474df18fa5efd0c2e3327307c25565a88cff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 32787,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:00+00:00",
+      "rows": 744,
+      "sha256": "2cd16a9e38204fa8e29d76a0303f83a0b0a7f7098e91d43865d824f6e7a94896",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 32228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:00+00:00",
+      "rows": 717,
+      "sha256": "661524ead2197be5b24329071953ff1c325841ac934174a65c98cc64d9a14a9c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 33614,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:00+00:00",
+      "rows": 744,
+      "sha256": "3eaf5013184923aff11e060965ae646b778ea528433ff43527ca93b7ba16a7f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 33924,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:01+00:00",
+      "rows": 744,
+      "sha256": "fb09b0d370c04b4dc391cd742c51a20016f3681e56b173f23655c6cd3258155c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 32966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:01+00:00",
+      "rows": 720,
+      "sha256": "ea156ee17ffd99423a3466b8bbead9ccea3087d480c417c0e82bbdd61fa0c957",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 31518,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:01+00:00",
+      "rows": 744,
+      "sha256": "a4b3ce498560c419066de16ba9c9ccd66b6d99b3db8bb73501d792686066f110",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 30873,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:01+00:00",
+      "rows": 719,
+      "sha256": "cf4de213eb685d5ae812a1e5d4582b9089def8f8cab3c6ee50e6af455ed5ce7b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 32273,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:01+00:00",
+      "rows": 740,
+      "sha256": "c3dd05dc7397ab96a09dc127346ad1d6a9730ad03b94f7c18e49d78c750a2208",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34494,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:02+00:00",
+      "rows": 744,
+      "sha256": "e246da4307a47d70c69c27ae378597f8bae3049328dc0c2b527bf7788b6777ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:02+00:00",
+      "rows": 671,
+      "sha256": "67a86c02f782e140eed54c081d7a9bd1a7b4cd067dba087d2d00194ec580f88a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 37211,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:02+00:00",
+      "rows": 743,
+      "sha256": "58fac9326d1994d00982641ec27ebb151e1e82d0835846e0cac2ba8a0e66583c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36092,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:03+00:00",
+      "rows": 715,
+      "sha256": "cca671e2f6786241f6125dc9c5a0640952f1863ed18379797d0ed20620a8d936",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 37619,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:02+00:00",
+      "rows": 744,
+      "sha256": "eddf1003951ba1f0cc6de406a08d4f312bea8c398de2d955ffc90842fb248a99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 34999,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:03+00:00",
+      "rows": 720,
+      "sha256": "2297bbbf63b6f2b6ca9a11c40a51a0c2c4082d0a7b23a935a8cbcf4e094cdf2c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 35438,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:04+00:00",
+      "rows": 744,
+      "sha256": "ab2f70015db4c9ea512b0e186bb33478863602c89b4b93caa224220c2f7cae81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37630,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:04+00:00",
+      "rows": 740,
+      "sha256": "d6783bb85b1ea4183c0d8719acecbd1d2647d863dd8c0bc57b0585480316388a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 34199,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:03+00:00",
+      "rows": 718,
+      "sha256": "e06cc4ec5c6afb430e9a218a2d40c3722a03cda2c41b6a99037a72ef7cbbcbba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 35021,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:04+00:00",
+      "rows": 744,
+      "sha256": "7f3ce9b24666ad36d21f69bfe6d90f02ec8634292b194cc3bf487c159606975a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 36271,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:04+00:00",
+      "rows": 720,
+      "sha256": "ec0ee2d82414be0abb9b78f06d4b17467ca67a4b0eb28b3ef88fbd868fda0f07",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 35911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:04+00:00",
+      "rows": 744,
+      "sha256": "c85563f8786e87aa3ab20c35de5a25cb497b3dd4e0b848793987b35ee9042b3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 35017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:05+00:00",
+      "rows": 744,
+      "sha256": "24e93bada98d2c666cb9e47c28a252f7c6b3941cd881bbec1f250eb558cf4c94",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 31925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:05+00:00",
+      "rows": 672,
+      "sha256": "5d2cae18ed009b054800a324aa5f73cf9ea17d6721cf909e63d2e9b5302eb6ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 34892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:05+00:00",
+      "rows": 744,
+      "sha256": "3a7c37980dabd07dff99cc0ca79bdbe4437afd3b1a2eb5c672792b3e1a3d732d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 33408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:05+00:00",
+      "rows": 720,
+      "sha256": "72e239012d29b7ea854076ae2b110e0947a30fee97e50537e962532264e3df96",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 34880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:06+00:00",
+      "rows": 744,
+      "sha256": "8dc039f95a88ab40c43a7a924f42935d915220865da242c49025c748c450a7ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 32958,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:06+00:00",
+      "rows": 720,
+      "sha256": "f1e59cbdc36d29dfc569bec2c018f2fd0e8e1e6f19b7a0654e7226ac78a460b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 744,
+      "sha256": "4d3246f60e903812f953d4d3aa72ae1c84d4be2ff3d6db827e942e0bd5d05c40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33477,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 744,
+      "sha256": "e1a64f6a0674fe2fe6122f78d2fbf1d321daef3a172c56bb09d4a8cf19c07893",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 720,
+      "sha256": "b0f43da0105211f9c0670aa9024a999c40fdb91c3cc2f0a85e7917314b5305b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 744,
+      "sha256": "a3c6b8345c8cb5317441b8d378def5ab4b619541822857c1031f8a65f828e114",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31798,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 720,
+      "sha256": "89b59f2f3aacad0a3aaeeeae64127fd8fcaf78cf3f27f43eef35bc06ce1b7dfb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:07+00:00",
+      "rows": 744,
+      "sha256": "eace69eed44637a7e2ce66355fbd10c990d44a42b67ad112fa8357551aec2b40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:08+00:00",
+      "rows": 744,
+      "sha256": "e57e7fc65037b649d4f677cd935746c218df913b7cc40c420574217454f41dc5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:08+00:00",
+      "rows": 672,
+      "sha256": "d70ecd47d08039a9bab7bdbc22b75d9a003f7e02b62cf2b25232faa632c26745",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:08+00:00",
+      "rows": 743,
+      "sha256": "1ae7e4b8872d9a39c8d9ef48244e7dfdbcca2aa7b335c67d29d1d65a40b708db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:09+00:00",
+      "rows": 720,
+      "sha256": "cc41948f3ac3032d23d9aa95cc83c3b22f2bc830fd9afa1108e1f1504bad9cf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31725,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:09+00:00",
+      "rows": 744,
+      "sha256": "162503de02b7fd82d81a893e065227428e8629b939fbb9d9648127f5f642f706",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30756,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:09+00:00",
+      "rows": 720,
+      "sha256": "f1ecac4f7a5868daf400833555c5784f343c127bf590c1407f11f1087e3517ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31189,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:09+00:00",
+      "rows": 744,
+      "sha256": "419d4bb7601fe64a0d23399d0cf4f4ea4c22a05240d38e295ebcd2c803c80f47",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:09+00:00",
+      "rows": 744,
+      "sha256": "4c9bbf0b9a080b2e17557cdd2a8079170557d011965fe365b544b0a9b26e63c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29594,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:10+00:00",
+      "rows": 720,
+      "sha256": "cd009b5bb2c532ddfecf41c82b28a703640df97f99e6bb4c87bbff7199ea201f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32706,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:10+00:00",
+      "rows": 744,
+      "sha256": "4a4debcf36ad7a96e14397d934fba525d6af0e623c00bc63abbcb18d5be1346b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31954,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:10+00:00",
+      "rows": 720,
+      "sha256": "6c32a417687a42cc136f4631e9a6a5b3ed7790727ffc2526d971b145ce051c7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34877,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:11+00:00",
+      "rows": 744,
+      "sha256": "55a7ade4e269454e784bffee6684a72ef349566df540c8e6cf08f6139786d865",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33757,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:11+00:00",
+      "rows": 744,
+      "sha256": "08729f78faf00c766c7a5ecf1ee41df6916627efde6af5da0b0257f8f6c3a106",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 31629,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:10+00:00",
+      "rows": 696,
+      "sha256": "5bd628cd5f81299841312b5ad619bfe40238fb9166ffd3710bd791df18c136e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35292,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:12+00:00",
+      "rows": 744,
+      "sha256": "419c964da0b36bebfc956d69128db48404fcedf26c1affa9cb112ce9e11c722c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33825,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:12+00:00",
+      "rows": 720,
+      "sha256": "f829eb49f55e04fa8a1a567f783391b05c9d6826b5b77d70e23d71461b1e75ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:12+00:00",
+      "rows": 744,
+      "sha256": "bedc18266a8d4f15509105f1f5f47e40630a99edbd5eb4a2f0586781a79495ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32985,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:12+00:00",
+      "rows": 720,
+      "sha256": "f33b9fd1d9bc7bff67341beae133db23a8ecb01599bfd4f02fe3891af246032c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:13+00:00",
+      "rows": 744,
+      "sha256": "ed1cb494436fd457cada5966f47d459d248487a0de146e40bce8785eeadcbbae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32985,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:13+00:00",
+      "rows": 744,
+      "sha256": "5a21a413a62139278e0bcadca3fee0aefc2ccbe4cd3974941dc1525a12036e6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 31452,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:12+00:00",
+      "rows": 720,
+      "sha256": "0cbfe6a7079b611ed75b0c9966818ad5ed54f9254eb6a33eb96be2611bd66080",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:13+00:00",
+      "rows": 744,
+      "sha256": "b4e92e018ce88d670d060c05d6f0b80de3c714da97e20f52cc4c1c81dfdae87d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33081,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:14+00:00",
+      "rows": 720,
+      "sha256": "ff16ffc80df67825e25220a6e6ca70cf9ac49ad23cab1760d77c61999141f387",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34421,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:13+00:00",
+      "rows": 744,
+      "sha256": "59a92bb03cec24e69a7727ce3e3910a465032376a207cb211600f6030f1f912d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:14+00:00",
+      "rows": 744,
+      "sha256": "48648caff3b375aa71a70008ce821fba4746287ce24768f09eceb96f3ce73f1d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29934,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:15+00:00",
+      "rows": 672,
+      "sha256": "2ff1a25c89618fa39df1af610ed7058d897d5026ac5532e33918020d7af5ef81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32165,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:14+00:00",
+      "rows": 744,
+      "sha256": "d87af14fe8be8dae62f86c3eb55a788e19ded914dd07debd8a7d5604bd04205a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31437,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:15+00:00",
+      "rows": 720,
+      "sha256": "b1ddc2bf7a30a5d7613d96d1500576f5889639a7fbbe6c786a3a0244f902e5eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:15+00:00",
+      "rows": 744,
+      "sha256": "93f37f784ad84c530ad4d3b2409903920c00dcac0c9ae7b2d23ffb1c13d2cf8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:15+00:00",
+      "rows": 720,
+      "sha256": "b094db057fab640c2c5d35e0229969417c78547d8bf70637af8f9955b401627f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32366,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:16+00:00",
+      "rows": 744,
+      "sha256": "5e269570afc4b19dfe2848a8fd8dea937433dc086fefe40174ee6d6710169e41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32574,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:16+00:00",
+      "rows": 744,
+      "sha256": "31c401a2810a790f46cb3dc08b565d442ed5cdd4689af1599544d9de625dc264",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:16+00:00",
+      "rows": 720,
+      "sha256": "9ff9182a13f3b480f236dc9b40d17cff0e27992ad952cc14110dec590d3527ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32293,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:16+00:00",
+      "rows": 744,
+      "sha256": "5962135177510d75f23db7f9061dc2b462f51885567ddbddc6047ce8cc96358f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:16+00:00",
+      "rows": 720,
+      "sha256": "724117f4113da708c05b32a86b75399ad8dd83d120e95f2f3a18a4f85e0b3bc8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29797,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:17+00:00",
+      "rows": 744,
+      "sha256": "bed85cc1cf05eb9ad308a1458fc9e4befb9e1eddbc4ae526a6fe9f96f316b672",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:17+00:00",
+      "rows": 744,
+      "sha256": "f6ec80f18d2e7cb9df3825823e930688783facd8dcd3e8d1ef45e51fd97fe802",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27448,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:18+00:00",
+      "rows": 672,
+      "sha256": "0d4d4f52fc485e6c3a1ffeebafcfa7e9771193510620a535fac67010e818316c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29972,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:18+00:00",
+      "rows": 744,
+      "sha256": "37dd9285b66f3d7b93555f5ecc62d5bc8671c53568ef5f5822791574ad4f123b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 27918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:17+00:00",
+      "rows": 720,
+      "sha256": "e2d90ea056b9bef1ee644a3d88a7a79712d4dcdfe3d7e9d6f83d6e341b78721b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29082,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:18+00:00",
+      "rows": 744,
+      "sha256": "8df3b87989baaed20803ac608e8e40e936b014ffb4d87bcb17d596d0bc8f704f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28216,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:18+00:00",
+      "rows": 720,
+      "sha256": "f39575ee3a07d2308e8a2f5bfba6f6f3123a742bc9bb3919dad8902336dcc1c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTXUSDT/1h/IOTXUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "IOTXUSDT",
+  "total_rows": 58068
+}

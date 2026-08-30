@@ -1,0 +1,333 @@
+{
+  "files": [
+    {
+      "bytes": 3075,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:00+00:00",
+      "rows": 62,
+      "sha256": "b72d758ab084e87c7685ada71fa7c110605f0e1ea85ca9baa5fc7811a9a1677e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 33890,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:01+00:00",
+      "rows": 744,
+      "sha256": "1d284c0f76b1cfa609630aaf21f13eeed33e0b89949b99dc29bfd431e0fe18ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 34005,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:00+00:00",
+      "rows": 720,
+      "sha256": "1dfb35efeda75bd414f1c36698eeeda82e0ffbf6c5ab8d19075cabedea5b3acb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 35349,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:00+00:00",
+      "rows": 744,
+      "sha256": "feab404fbadf859b07b0e126a052545dbaca77d2adb9a086fb55b7bb8bf20325",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34552,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:01+00:00",
+      "rows": 744,
+      "sha256": "af140f1926ab728d2741b2a460d8089df4012570bc0e19a3920d0550540e718a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 32587,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:00+00:00",
+      "rows": 720,
+      "sha256": "e24c01cb4779f073d2c650f2af4516a1f1c626b68a5d56e87841fbc709752af9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 35415,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:02+00:00",
+      "rows": 744,
+      "sha256": "caf94b4f92f88c4ea2b792677566a1e0c1c952687c1e192c2d733952228a7693",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 35786,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:01+00:00",
+      "rows": 720,
+      "sha256": "3999afe10d04b7f97a2e2b545e73f3a82438e43b8677328f80681575210445ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 37394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:02+00:00",
+      "rows": 744,
+      "sha256": "976446e319891ac8cb2c38b424b3a5f3dc9f5aba5c971e45e1cba8afdf47ff91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 37271,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:02+00:00",
+      "rows": 744,
+      "sha256": "0312d37ce64ffdded63be36589a88834372f3bfb002bf5f18a333afeef225bb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 34987,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:01+00:00",
+      "rows": 696,
+      "sha256": "0800477d3326eceb04ba4dc5a1758d658c79a1a5739094911200b681656e39fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 38678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:03+00:00",
+      "rows": 744,
+      "sha256": "910665c0d8122e2d973dd6850cba90c302df225da6537ca170edf05c95948927",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 37253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:03+00:00",
+      "rows": 720,
+      "sha256": "bcbd3085230ac26af301bdeafeba8f650aebe3d33cd6e5e84fbc80f9a046e260",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 38501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:03+00:00",
+      "rows": 744,
+      "sha256": "c185e8103c2c53f0833f7f75a97ceec5bdcce15db7fb21ea039cab8e1e964ac0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 37250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:03+00:00",
+      "rows": 720,
+      "sha256": "f39c6bd9233e794e03b8a692d4ea28a9b1cabb4e35abeff7e7934f67572cecf2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 38544,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:04+00:00",
+      "rows": 744,
+      "sha256": "8d4a678263449cc1f8a2c9d5d290fd13325fc14291bbc120b407c4983cac7203",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 38745,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:04+00:00",
+      "rows": 744,
+      "sha256": "7391c62f5c817d41f7439bfc71b5b41554f7d9e9ad2351d0d70108614ac91cf1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 37578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:04+00:00",
+      "rows": 720,
+      "sha256": "a81350477cef13d7eb2810f0b549075c6a2554a130f6d9e117521600ff0a3f16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 39136,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:04+00:00",
+      "rows": 744,
+      "sha256": "1d1db0c9d8a7392545396e270aa5e10bb972582a518a8ea2671082af6456a9a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 39453,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:05+00:00",
+      "rows": 720,
+      "sha256": "7f6ce03959850790694ff04d6d2dce3175020272f29d73076a3ff2650c45a79b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 40863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:05+00:00",
+      "rows": 744,
+      "sha256": "d56be3b439a2cfb2819e3f267643ade241de6e88577b30dba0a0fdf72f147a68",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 40711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:05+00:00",
+      "rows": 744,
+      "sha256": "04e7374d7d9be11f9332399618b705b491b87b61780f7705068b0de036c5995d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 36886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:06+00:00",
+      "rows": 672,
+      "sha256": "2df173055e8bd3f2340a369f329391c3aa539538d24b4ac0b768b339e41f4269",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 40613,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:06+00:00",
+      "rows": 744,
+      "sha256": "9de10940aec4c4cab9501545535b1382d8cf00cca9f7660fe7772ead91881902",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 38913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:06+00:00",
+      "rows": 720,
+      "sha256": "08da65a10b09aa4bac4e4a712852b049fdaca78ade41a01d3a0045667784843f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 40230,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:06+00:00",
+      "rows": 744,
+      "sha256": "8e80cf6d0cad032cc2c8ab32d5ebffb0f1dbd118a93961abc4b35469e9fde939",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 38956,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:06+00:00",
+      "rows": 720,
+      "sha256": "858c6c1af33975ef24781127232ee79c556833307047b7955ef70255183ca764",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 40043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:07+00:00",
+      "rows": 744,
+      "sha256": "ddcdba64d5c58a805a31f1339d32cb8f84d4c0e8c551cb394e72ac287e1b9f17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 40190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:07+00:00",
+      "rows": 744,
+      "sha256": "acdd507610c26486925e5d1b4b00b0786780a407ffbcc0f0d3cfd7fca5696bdf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 38251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:08+00:00",
+      "rows": 720,
+      "sha256": "72076572b02689e273d50e830e4eff6b362855e1c2490584901f2a58473e51cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 40453,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:08+00:00",
+      "rows": 744,
+      "sha256": "0e6cc51bc5ab0217b0571f295707e624c2406a10199b24d79d7c8532d7419bd3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 39370,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:08+00:00",
+      "rows": 720,
+      "sha256": "a7620d370b1fff6c19f9013341fc1956b3ce3ce74e10e233e9bda866f2d31aeb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 39517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:07+00:00",
+      "rows": 744,
+      "sha256": "79cefb3a44f82f53eff83304a4cf7f7f6c6cd6a48074f6027882219a72d124f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 39554,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:09+00:00",
+      "rows": 744,
+      "sha256": "9d13add63e48463a0466a534cf13bae40e521e4e22b5f766bcad11219b788809",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 36288,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:09+00:00",
+      "rows": 672,
+      "sha256": "eb702ed8ae7fe2eb7c40ce8a48d0b6371a48628b2826766e6d691c94d98ead42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 39297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:09+00:00",
+      "rows": 744,
+      "sha256": "fd78d7498998553d88ed1dc8f1249f63f8321643799ab600c4d8ef7bb331e71d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 37550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:09+00:00",
+      "rows": 720,
+      "sha256": "bd943ddaea141babf710dde101328e76dc14a414747d63529a756bdd114cbde6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 38612,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:09+00:00",
+      "rows": 744,
+      "sha256": "bdef9fb9e2830595a4d4f803ecd62f54a2ac0a0b387fce091dd08a90b523c194",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 38348,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:10+00:00",
+      "rows": 720,
+      "sha256": "3ccd5fc99b187cbcf56677cfdf6474e86f47e4364b6053c0675f234f329d892b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 38843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:10+00:00",
+      "rows": 744,
+      "sha256": "9f1e2ddac1fb146fafe30df4a7225d457f1247ba4336252bab78e44edca2246b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WBTCUSDT/1h/WBTCUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "WBTCUSDT",
+  "total_rows": 28574
+}

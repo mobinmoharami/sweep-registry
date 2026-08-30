@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 21099,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:40:29+00:00",
+      "rows": 443,
+      "sha256": "2e60fa242a3e18eb41d727ade820e910c9eb1b28eca7a5984bf92508f7a706ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SKHYBUSDT/1h/SKHYBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SKHYBUSDT",
+  "total_rows": 443
+}

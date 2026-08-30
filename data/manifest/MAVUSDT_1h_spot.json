@@ -1,0 +1,317 @@
+{
+  "files": [
+    {
+      "bytes": 3200,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:44+00:00",
+      "rows": 64,
+      "sha256": "6f70d8b823c10311e323605ff2dde14a70e25bf28124db1b4110e21b360cb1a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:44+00:00",
+      "rows": 744,
+      "sha256": "f9b2818d03849e9f7fd0ec051ec193c8fd53001ac9bc7bee5b3b5388f6da7b52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30857,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:44+00:00",
+      "rows": 744,
+      "sha256": "4063b352d414cac857286bf8f6969c6c938c5a86069b541c21e1d33b2bec0911",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 30127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:44+00:00",
+      "rows": 720,
+      "sha256": "b8c43b99708b660e61f38c0c758ae332273132adda838540657258d2acf74c4a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31037,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:44+00:00",
+      "rows": 744,
+      "sha256": "8aebaace3a02f356c862115179f0d9595cb7696cc203fedd8f6cbfeb9babb7b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31306,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:45+00:00",
+      "rows": 720,
+      "sha256": "a0471a1805abd3414cfd72f68429590e3b2429862b85cd724fadeda9909c45f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32854,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:45+00:00",
+      "rows": 744,
+      "sha256": "599faf2ff4dfa3c913d63649305713f93a162669e556fa52e8b61d6d82d34e0e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33828,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:45+00:00",
+      "rows": 744,
+      "sha256": "4cada2c65a61d9ac76c85e09c84a8130bdb943547bbc1e83db6ae728125a5321",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:46+00:00",
+      "rows": 696,
+      "sha256": "c6c542922bb5f3ccdeb6b86c5044801ae0d0381f99d293586cbea2756a1b58ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:46+00:00",
+      "rows": 744,
+      "sha256": "06f5fbe7c377a590b42b172ca94bdee9d3a7f30e48ed6839e876f8519c424ff2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31680,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:46+00:00",
+      "rows": 720,
+      "sha256": "263b53bce20de691f24d72b3ffd151ecfb61fb5452c23a595ae4343edbcf4a64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:47+00:00",
+      "rows": 744,
+      "sha256": "3997589fa1216fe5068305013b4f5548c30efd0f03c9b38004bc2f9fe3815a04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30848,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:47+00:00",
+      "rows": 720,
+      "sha256": "589b7b3d8f320a59e0cc204110c99620b696bb48fdeb956001265024d1d21a9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31140,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:47+00:00",
+      "rows": 744,
+      "sha256": "dcbe5e1696cacca7f73e50243469147a67c66e5ced96ccf3ccf5143ca7cbb7aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:48+00:00",
+      "rows": 744,
+      "sha256": "94b536f6c2ec54a11f18d067d9d0b1831d24d1da33f447f3bc48c9d0fdf07b79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29693,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:47+00:00",
+      "rows": 720,
+      "sha256": "d16a9d993b3a008861e2057201fb5ef528f0e7b59a04925c578c5e8b56257309",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30741,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:48+00:00",
+      "rows": 744,
+      "sha256": "47ccda41cf9324d067990d462ac0d38da579640b3e610af6e879c7d20653b644",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:48+00:00",
+      "rows": 720,
+      "sha256": "3795ee22f27c19dd5f05534382eae8f9c90b06f9ec68e54a42b5503b10b0c58a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 31892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:48+00:00",
+      "rows": 744,
+      "sha256": "69fe957fe8a038d73afd16a4139e7510553eb04e59e86f578519c0fe2f68e9e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 30779,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:48+00:00",
+      "rows": 744,
+      "sha256": "105e866be933a35339ea56480200ab2d2907d6cc602bf19eb6497765b103126f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 27531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:49+00:00",
+      "rows": 672,
+      "sha256": "554d0a25a8db1de904a9a8d71660edfe8825c4ffc03529a6431ef2cf18ea4c15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32439,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:49+00:00",
+      "rows": 744,
+      "sha256": "4ef8668b95b08e06fa72076cc8a19b3089584aa9e47a2f448bbaf1a3baa40a2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:49+00:00",
+      "rows": 720,
+      "sha256": "bb4cad23f9ffd19b96290887d6a9bb7a08fe9c3b7caa492ced4109b1d01bd101",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32897,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:50+00:00",
+      "rows": 744,
+      "sha256": "759937429cd7646a0ed65799223c41c275a4d5e38ab12f2e42a45c5da27903a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30836,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:50+00:00",
+      "rows": 720,
+      "sha256": "d9635642d7049551bba78ed5203d921229765941ddbe2810e436fde2135e426c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34470,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:50+00:00",
+      "rows": 744,
+      "sha256": "904c21886d4a8328e0d9a1deaeb515b921790ef7c88ef6aac7072ec30b895bad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:50+00:00",
+      "rows": 744,
+      "sha256": "c6eb25c475263b5033f4b2ab16ca06c87d39aa9797688f7a8bc6eececb416813",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33496,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 720,
+      "sha256": "6158b170d298ec1277c56f885fb230b1deb191386baa207b593b5ff007321759",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32919,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 744,
+      "sha256": "d8e69f361bb55a2647efb39a51bd61dba7092c35750b1b1b359a413edfc14ad1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31808,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 720,
+      "sha256": "cdafda705bdf17c867c797b324f7c2113c966eb96bdb2477d8c90a6678ad9e3a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31329,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 744,
+      "sha256": "4e444e4d389031bb7d04f68a3bed80d14a06dfae56d81a2c781d896efcb0a3a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31188,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 744,
+      "sha256": "8868bf2907223b4676accff0efe61feab6dadb4ab5fdd64d8e78635fe4462147",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27511,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:51+00:00",
+      "rows": 672,
+      "sha256": "753a783d1a45657bbee96def08c336549d3332253e345f9c7974869766b016f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30141,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:53+00:00",
+      "rows": 744,
+      "sha256": "990b76a2f0e2ec57f9889902807dc3b182d596cf268e559f5d4047a5f68b0935",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29947,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:53+00:00",
+      "rows": 720,
+      "sha256": "b5fdb408c077462cffba01eb3187ab01891ac9c76afc1dc8156b584c63211a82",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:53+00:00",
+      "rows": 744,
+      "sha256": "762a2d830b30698ef1c1ac541a01edf514cf2cb35b18238060fa4e0e25b613ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28553,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:53+00:00",
+      "rows": 720,
+      "sha256": "ad39cb09cb886fd300b8b9caada138b75c5798eb51c6c15eefa66ac7e3720c10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29071,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:53+00:00",
+      "rows": 744,
+      "sha256": "f0ead173ca3ff835566c9b82129b7824b41d4b3e8bfa92fd71652639af9bf090",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MAVUSDT/1h/MAVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MAVUSDT",
+  "total_rows": 27112
+}

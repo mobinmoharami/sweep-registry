@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 7184,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:20+00:00",
+      "rows": 157,
+      "sha256": "4abd4e1a5319a7ea14dd2bbe9e4005180c2682e3a155017023fb7e1159561941",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 30450,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:21+00:00",
+      "rows": 672,
+      "sha256": "16c84fde775122d3694dc343ef66243b16824a80b5555b7b755cba2cc49cc1ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35389,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:21+00:00",
+      "rows": 744,
+      "sha256": "8c4ba4c5b77d22eb77cdc75b06d6a531e61fcc40a9914b6c38abca25260a73be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 33254,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:21+00:00",
+      "rows": 720,
+      "sha256": "4d4e128febff778c59ea52d797b1e038f7f452e205107412626bd8086e7f5c6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 38968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:21+00:00",
+      "rows": 744,
+      "sha256": "7848015156bf69ed88ab02684ae2759c5fd19229204367667e706881272030e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 38348,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:22+00:00",
+      "rows": 720,
+      "sha256": "ae3fc1e540da5a423de66284a24e242ac8e4e9111f9caad35a706677e9ed6d5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 37898,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:22+00:00",
+      "rows": 744,
+      "sha256": "450e796fe5d63f9f148c9560f34fd1e68ccfffde5ee544e6fb6d08b73c620458",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 37310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:22+00:00",
+      "rows": 744,
+      "sha256": "b6ab77aecf489448d272c198bce86313b656ba260b771dc4fd5f586d44ca993f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 37489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:23+00:00",
+      "rows": 720,
+      "sha256": "256548c67bf49f8e51f91700d7d26ce8e66f87192c0caa081c086a90251f0187",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 36509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:22+00:00",
+      "rows": 744,
+      "sha256": "059acee5fe7e777c96a172261da29ff05544e6b92a29e2c561ebe60e243ba694",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 35389,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:23+00:00",
+      "rows": 720,
+      "sha256": "ee4a7ab86160e3c2d44c2bde2a932e201ecf0096237f6a4f241d0ba1b50aa48b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:06:23+00:00",
+      "rows": 627,
+      "sha256": "5b630efc4bafe39fc6da3a1fbae805b3a38e42a75d1b66499a3795ebe73ea5c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ANCUSDT/1h/ANCUSDT-1h-2022-12.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ANCUSDT",
+  "total_rows": 8056
+}

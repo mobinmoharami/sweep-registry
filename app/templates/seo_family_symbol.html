@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}{{ meta.label }} on {{ symbol }}: tested and scored{% endblock %}
+{% block desc %}{{ meta.label }} tested on {{ symbol }} across {{ '{:,}'.format(summary.variants) }} parameter combinations, pre-registered and sealed before testing. Best score {{ '%.3f'|format(summary.best_dsr) }}.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_family', slug=slug) }}">&larr; {{ meta.label }}</a>
+  <h1 class="glow">{{ meta.label }}<br>on {{ symbol }}</h1>
+  <p class="lede">{{ meta.claim }}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  {{ m.numbers(summary) }}
+  <div class="block" style="margin-top:34px">
+    <p class="tag">Result</p>
+    <p>{{ m.verdict_line(summary) }} {{ symbol }} was one of the symbols in
+    {{ summary.n }} sealed test{{ 's' if summary.n != 1 }}, and the best version
+    scored {{ '%.3f'|format(summary.best_dsr) }}.</p>
+    <p>{{ meta.catch }}</p>
+  </div>
+  {{ m.rowtable(summary.rows) }}
+  {{ m.limit_note(summary) }}
+</section>
+</div>
+{% endblock %}

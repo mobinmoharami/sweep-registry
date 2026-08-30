@@ -1,0 +1,269 @@
+{
+  "files": [
+    {
+      "bytes": 28379,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:34+00:00",
+      "rows": 564,
+      "sha256": "96e465c99f5a723d8e5778c64e43573a256630d342829318c53fd04fae2ae465",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 38733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:34+00:00",
+      "rows": 744,
+      "sha256": "883e9691a21cd2a839ce756bac89c447a21da5b258c360f7e272af30d83c04cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 37719,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:34+00:00",
+      "rows": 744,
+      "sha256": "f4a19fc69c1a26568ee3e12529a5d0a99060279949ab92ec9bdddeead025ed6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 34787,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:35+00:00",
+      "rows": 696,
+      "sha256": "bc38a233dfd7d5b601284796bd5601e8e35302a72779384b73a64b7c0c20581a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 37858,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:34+00:00",
+      "rows": 744,
+      "sha256": "e84666de23337d9a9e61999ef747af90b11bd3e9d5c1ee93844a22626de890a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35902,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:35+00:00",
+      "rows": 720,
+      "sha256": "561bcd5b5bf543a14d0f61b9b033f130688108883347be7ea6c89c89c9ce435c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34103,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:36+00:00",
+      "rows": 744,
+      "sha256": "af6fb7ac1480ebd4db65c3975f300bf282ba50cb6130e89632fa07bb9e39e276",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 33481,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:36+00:00",
+      "rows": 720,
+      "sha256": "466cb0337ff8c8e735833078516de40445392b19bd8b6a7a6458b22a1df514df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:36+00:00",
+      "rows": 744,
+      "sha256": "56ba57049abf3334d97a6cd2b045f002dca2abc7940cfa8dbbb9201797fe2e93",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33628,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:36+00:00",
+      "rows": 744,
+      "sha256": "d30a0dd0c1e8a0cb60e6522c4abd2056a48d1a77bc5d952ac717f812403e1dfb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:36+00:00",
+      "rows": 720,
+      "sha256": "4d767ac2bda0ebd958dbab53abf27ad9c70de36e06dde4597dc892da49347e8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33343,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:37+00:00",
+      "rows": 744,
+      "sha256": "15969a005b45b14fead5d9db7beb9935efee8c82f519a50a816f12c78f74d113",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33142,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:37+00:00",
+      "rows": 720,
+      "sha256": "66ade59281b3329c066cba2617931f3d94c1642186fb73e28c80dcea3099378e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:37+00:00",
+      "rows": 744,
+      "sha256": "426eae62ae4200f8c88937db4374d9ee3f5367e7ed084950683874dfcd294079",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33176,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:37+00:00",
+      "rows": 744,
+      "sha256": "f972e76ee38d187fe919a33672c80f6234308673b9f8630bd0a94d75ceb6da72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30085,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:38+00:00",
+      "rows": 672,
+      "sha256": "bb223e532a6477c5a5d9f59f6346cc6e301341a642e86d8807585b6637d9569a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32665,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:38+00:00",
+      "rows": 744,
+      "sha256": "fde9cfd636087b0cd34641c05de4da911d891f07264dd433bf60b247251b7f0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31093,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:37+00:00",
+      "rows": 720,
+      "sha256": "d94cf6c449814c59332ede7bcfc2813868be736a906f2d97abc6c31d273913ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 34627,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:38+00:00",
+      "rows": 744,
+      "sha256": "bcc2d6f1a52c091c54708164052f3b3701638beb16a5925949699be682e042b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33624,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:39+00:00",
+      "rows": 720,
+      "sha256": "65e7f11e6d5d1a3c5fbdbc560c0e34575ba3f12eb9538fbb3b4e5d0b481af522",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 35433,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:39+00:00",
+      "rows": 744,
+      "sha256": "41b3bbe60e366db36424c6b5f0150c83b93e522703d7599870bf1be5278a4aba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 35151,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:39+00:00",
+      "rows": 744,
+      "sha256": "2e3bde4955ed0b0b18ef394e2670d4763e19abec0dd5ad4ffe516e41e4501b7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:39+00:00",
+      "rows": 720,
+      "sha256": "8c39c1d17054f5c1ae72e8ccd3f8513bfd301bb4b8b04316c2f1da8471fd9b87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34661,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:40+00:00",
+      "rows": 744,
+      "sha256": "698d9befb75f65ea8700e7e771217af6a12fc5cba3f3c9d360de4aec1f89db5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33379,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:40+00:00",
+      "rows": 720,
+      "sha256": "302aa203ed239f3ae185d4295d2a08ae5f2a34d7fb9ab944524e9f30ec3b5240",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33893,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 744,
+      "sha256": "0567c9fad8eb4103cf61f0febed0379bf2b97af37b5f74e38a7706d9d693521a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 744,
+      "sha256": "67f0de79511a04b6e6ad5c17ab68d4763fa905e72637d5cf3e20f120fa695937",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 672,
+      "sha256": "2e34eeacba8cb9745a8715170f8d8b353017c4c155abd290c1f5911c539a1a10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32533,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 744,
+      "sha256": "48ec15e8873dbfb448e029867072a0aaca7e92c503f9f4750a3b76ca694b1d09",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33355,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 720,
+      "sha256": "98ac6223aee43aab863b5e04a0bee51878d301b281b1645ccc6004be61015b1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34379,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:41+00:00",
+      "rows": 744,
+      "sha256": "5abcc9e9b8bd863db0b92c8d9f3533e49e7026882fd29f8da5418662b7f4d8e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32945,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:44:42+00:00",
+      "rows": 720,
+      "sha256": "24393c5880294902d467746f07dfbaae00999986a9610e6ce20279b8b991bd06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ORDIUSDT",
+  "total_rows": 23196
+}

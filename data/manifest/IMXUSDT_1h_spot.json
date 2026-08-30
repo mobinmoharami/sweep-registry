@@ -1,0 +1,453 @@
+{
+  "files": [
+    {
+      "bytes": 23994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 518,
+      "sha256": "8b08515012fe2630476e5e3a4440f3cc98a9c72c98078b81e0643fa47c5d31ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 31606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:28+00:00",
+      "rows": 672,
+      "sha256": "807db2afe78ef60c9a113cb9f7dccfdaabdd1a4ec0eb5a3f3860c1a4b53b015d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35437,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 744,
+      "sha256": "515094a32c0591dd7e9c73cc62bc9c1409d08b1b7d188e8f9959738e1d02f617",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 33807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:28+00:00",
+      "rows": 720,
+      "sha256": "3e612f14d375b6db01a2e4482d3a3f3c5ef430f4e3eef1737e8a08f883fbf6af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 34847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 744,
+      "sha256": "a6884a3f1c612e1325aa1bc28fd4dd399f204c11292894cb7b7e78b69b7795a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 32802,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 720,
+      "sha256": "4b2e55eacb6df8d7ea46f49fbd142e22580cedbb9b952f4bf6a99ec44d70a371",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:30+00:00",
+      "rows": 744,
+      "sha256": "acb348fae1c3f9960aa646092676fd65563a356da6bd076a0640fe765c66dd43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 744,
+      "sha256": "ccb2c64f2a6a1e3aee5bc9979c3e7f4b9c9b4b4abb8c3898e59e9840660bb1be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31051,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:29+00:00",
+      "rows": 720,
+      "sha256": "2ced0752ef1f9ca8764984b94babb0cf2cd2c5ac2f6419b8b73e578c3e28cdb9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:30+00:00",
+      "rows": 744,
+      "sha256": "11a708876a3dc99ad3daa02b006b387f91d6b4ac442e06272c05b399d8de82b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:30+00:00",
+      "rows": 720,
+      "sha256": "e2411c8e6bf30b3c2a79170cea5bb36c11951da285aa4d346fcfc518e9a0f56a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:30+00:00",
+      "rows": 744,
+      "sha256": "7db2f0638ca65558ecab74941616212efeb277cd1823a9d31e6c902c5e71e031",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32132,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:31+00:00",
+      "rows": 744,
+      "sha256": "005ce33fc4cac93c2f35daaec9f2793accebb3bb719439aef388ed5b8e139606",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31227,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:30+00:00",
+      "rows": 672,
+      "sha256": "a25ebfed48e5c57e6335681e4c940f91129c2af3f0475fe9344c435e75b75fad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 34621,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:31+00:00",
+      "rows": 743,
+      "sha256": "55b0b4d8fc4c12bfc3710d07106a8da5deb118b4476f64ea766c49ac2a9e327f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 32243,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:32+00:00",
+      "rows": 720,
+      "sha256": "d1fc9a22ac73b1b274546e7d1272c527ac3c19b198c8763c205e4b3677c5318c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 32548,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:32+00:00",
+      "rows": 744,
+      "sha256": "86bf7622d7d1de15ab26a6022826cad1f3fc6c8239e79e56f8f489bf2ecc6c4b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31553,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:32+00:00",
+      "rows": 720,
+      "sha256": "58be6ff57cd79fa31645bcdf2dd65f2b4853845c7fad9456206c64960c869bc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 33049,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:32+00:00",
+      "rows": 744,
+      "sha256": "c6bc9ab039304d8714268a662ee02739b3a0af03082855894a611be63e577a23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:33+00:00",
+      "rows": 744,
+      "sha256": "2e3b394f19bcb657bbacca2b76535fff6840566cdd87f2dc7bc42ecf57b44173",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 33781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:33+00:00",
+      "rows": 720,
+      "sha256": "837e77c78c7fc4fae52ff9a9ed4af77948b8e931e31957b2d641d8c961654f70",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 34994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 744,
+      "sha256": "7f1aa325fd0c2133deca707a142dc8db9a34c18a4b0c10676e014b5376376b39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 36304,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 720,
+      "sha256": "42ba751b29ab74137cc4d9b688e9e0f68eb0c29523ff225a20fe25815dee4d0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 37950,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 744,
+      "sha256": "84fbcd9867a88184b895de94e1b2802b55b481dbad3cb8685c5cc28e7a82eba7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 36731,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 744,
+      "sha256": "ac0abd4a059416a36d7373a3a840abfffa6a767d9fcdda2bea6db4af4dc73c05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 35248,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 696,
+      "sha256": "fe1313d93d256c79c2991dfe1ef2f0b4c4f7333f64b16adcef269aa90c48df5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 37586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:34+00:00",
+      "rows": 744,
+      "sha256": "aa699e2b2f56ce301067ca511bfed9722131a06f27f126a93184b888beaae4bd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35724,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:35+00:00",
+      "rows": 720,
+      "sha256": "a78f725c9f8b5018e24d050bd52e8017a89b7cd5496d1c8ed53d0181cd89d14e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 36529,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:35+00:00",
+      "rows": 744,
+      "sha256": "da23b427d6427e08345587160930b37a6a41bb9fc6d4770c8bd2abcba2040bdc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 34853,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:36+00:00",
+      "rows": 720,
+      "sha256": "93f2b9501e1c4f6688bdf694f0cdfd5bd6f6f706c38e7a3fc6e65bed01f77a11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 35521,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:36+00:00",
+      "rows": 744,
+      "sha256": "3d4ccd2f1dfcc281c59a870107fbe4fff565abd3394f324daa445ba46a248784",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:36+00:00",
+      "rows": 744,
+      "sha256": "70d479e62189e6d96bf8bff6b4e05d808826ed44b4c9ee2682e32dc97c1dcd38",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32273,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:35+00:00",
+      "rows": 720,
+      "sha256": "e15fcd361caf9117c09b74725d532e0ae7f159bd570007a95bef19074979bfa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33119,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:37+00:00",
+      "rows": 744,
+      "sha256": "7579dd5735e9b699bdfc2a1fcfdc49a1f27f0b6f9719588a708b1d65808ec80b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33341,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:37+00:00",
+      "rows": 720,
+      "sha256": "c8dfe4b13b4a8bc53afc258a5eb7ba1f7e6a794ca96dc6c708ad172b21207ec2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34073,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:37+00:00",
+      "rows": 744,
+      "sha256": "ad093900eaee2153e948dd5f0efcaea8c7fb5e72ce8d5a669f3413d761e07604",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33730,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:37+00:00",
+      "rows": 744,
+      "sha256": "32ee180a63c60c8dfdd7e2aef950ccdeb17dd502ca771bf7851e5fe325988ef0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30307,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:37+00:00",
+      "rows": 672,
+      "sha256": "7be46bdba01f1de139dc55f5efba546395630cbb1848e8178bb7fc881c38b7eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:38+00:00",
+      "rows": 744,
+      "sha256": "65473649b3dabf8d6b849364f3be1529602b7db6ec08d6d6cd7961e06a6258fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:38+00:00",
+      "rows": 720,
+      "sha256": "a8bc6c145681c7460b26f9bfdb399afd9b69ed7f00a17264f71b16089cae4483",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33437,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 744,
+      "sha256": "550da120367e053c1a6d1996044f18855bbe06a03f214df7a97dfe8e2142903c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 720,
+      "sha256": "65ba75422ebfad801cbf4f5280fc02620116e81d10a45b60d31406859f4236ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 744,
+      "sha256": "bad98e93f3f9a595d128eaa5617d30dfd3d86f59120771fff3a285f561f2c617",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 744,
+      "sha256": "cd2e21c575cf62cc845d3fad1b36ad8da38e84adb923228169b76bfdaba2e529",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32462,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 720,
+      "sha256": "688ee4b983330eb5a38378378ab3a135575440ca08e2daf7867ffdce7e7b30c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33259,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 744,
+      "sha256": "8109b62978d2cbfe2453c1aeb3161d513b7ba2e09a5b6e522c0d7f185f83ef8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:39+00:00",
+      "rows": 720,
+      "sha256": "c5e60be9ff1d944a59482d86ba1cb168362a1c80aac04aa27b1f2f2f2dac6fa5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 744,
+      "sha256": "100391fa3c4419c3c48b3cf2702fff02eb747697ebea1db8c672f1bcd9ba68a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32202,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 744,
+      "sha256": "33a757da3c2381626eb70336d6bdb0e779224432e90da7dfae7598a5730a1baa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30922,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 672,
+      "sha256": "773988bfce5436fe45d8c4209a6055a06a9c0c751f5f50d2140e2452f3d3356c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33797,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:40+00:00",
+      "rows": 744,
+      "sha256": "0c6661da0ee545332da2907d7a2cba3fce454a57128668b59033bb4e82f65052",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32490,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 720,
+      "sha256": "a0562538c38c0f9e02c1ae4ca1c88024c8c2b039ece903d30481f4fec5f81718",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33453,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 744,
+      "sha256": "bcc8766df94cac7ec34b91391be5f9b8cd243bb471057c5f0dd3abc0609c5fea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:41+00:00",
+      "rows": 720,
+      "sha256": "752050314eb9d42a813088705feff0cae3a354859053150ba72ebf9255725985",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32476,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:42+00:00",
+      "rows": 744,
+      "sha256": "09388e9a4d9dd558143d298af7766f7643d05280d783e3c446d19ce860f9f7d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IMXUSDT/1h/IMXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "IMXUSDT",
+  "total_rows": 39925
+}

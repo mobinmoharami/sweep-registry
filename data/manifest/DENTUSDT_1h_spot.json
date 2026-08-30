@@ -1,0 +1,661 @@
+{
+  "files": [
+    {
+      "bytes": 5093,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:29+00:00",
+      "rows": 116,
+      "sha256": "134c5a7b78780438227d3c65fc1feb4f46b4a62467bf3fe42b7664ecb133c218",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 29879,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:29+00:00",
+      "rows": 720,
+      "sha256": "ff358f8197d3b61e0177958872aef98a82daf856b4cc12181ef70aafb25c5d27",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 31646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:28+00:00",
+      "rows": 744,
+      "sha256": "f0b3e6f850606a2bd94ac243b92b0ad71bdb9a1ebb22a0332c92c9a0c8f90aa9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 30228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:29+00:00",
+      "rows": 716,
+      "sha256": "54174fbbd0a73b964f3e5dc87f5ca41d73086d5506b2bf72a02820cff19a8914",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 29223,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:30+00:00",
+      "rows": 744,
+      "sha256": "ef02c080291e81a9e8288bec0b8b5d3cb38a9d63af5e7308374f8c2a02ea2ee1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 29011,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:30+00:00",
+      "rows": 744,
+      "sha256": "942ed3372212b93167948c8be0a09b2c4e925fa63f49851a64c402db566d233e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 30212,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:30+00:00",
+      "rows": 690,
+      "sha256": "2c7f91fc8ec0b0ab9fd6817332d917de25d3444a2b862d54caccc0057f0c6c2d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 31504,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:30+00:00",
+      "rows": 743,
+      "sha256": "3c50c206449d356516b777e900381ee964f5449a1a655587bff5e25736225abc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 28517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:30+00:00",
+      "rows": 718,
+      "sha256": "ec1c0cc49931af6f3da9231a0713193c97b811491ab9654f310e62713a587600",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 32132,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:31+00:00",
+      "rows": 744,
+      "sha256": "77269ec671fc78e2631d96b24f31df697c5de0214faa0dd50b3919c171dfa23a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 30887,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:32+00:00",
+      "rows": 717,
+      "sha256": "442cb70fcce310448d51508110937d08e5d012300feb3725d93439850134e415",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 32894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:31+00:00",
+      "rows": 744,
+      "sha256": "49e7bf64fa10c1e26c9dc58b6d553b6f049dc6c7db6d6539ac1b2414d807b1ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 33860,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:32+00:00",
+      "rows": 744,
+      "sha256": "a2d2df17d6a55a7b11de2dff6f4072131f4976b1c4bd0beab46d14c53585eff8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 31101,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:32+00:00",
+      "rows": 720,
+      "sha256": "922824d7962ed83c1b8ed33fe3eb79d7dfebca3ccdd8f0ae526a665e06ed05a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 29912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:32+00:00",
+      "rows": 744,
+      "sha256": "0d79e0ffe7904f7629742f4cb16e25c1c9b4746bb8869fa913841d46e9540476",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 31120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:33+00:00",
+      "rows": 719,
+      "sha256": "6425d3c439e3c64bf6c8adbfd97bc554a915b9fb292117e91b7c2b2d9b1ea615",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 33097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:33+00:00",
+      "rows": 740,
+      "sha256": "aa26829537e8042791353cfd494c6d20651c6169ee2a740c782fcf4652869850",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34759,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:33+00:00",
+      "rows": 744,
+      "sha256": "e5ceec3a9e4b7a9085a8560f23671fd9baf0cde42cacc1b35ca15f81fd078985",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 34297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:34+00:00",
+      "rows": 671,
+      "sha256": "20730ffccfebc60ab5980a5d25841a92971de8b561102743f508842dcf49da60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:34+00:00",
+      "rows": 743,
+      "sha256": "cf55a1c418291fda6a521cd1138d28b9e040d6d2d7c61b876a4633e051c180a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 40011,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:34+00:00",
+      "rows": 715,
+      "sha256": "9096941480e418a897bca460ebbfd8575ba8e9aa18cd570eb95b3a7213938c65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 40388,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:35+00:00",
+      "rows": 744,
+      "sha256": "119736c5e36cf0b4812dad89a2ef47f247218684f1a0c20de638613c7cd1d7b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 37943,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:34+00:00",
+      "rows": 720,
+      "sha256": "ed7cbbdbe713c99804b007990db3ab5b8e55c4a67e0a17145b67e158e24b9c5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 38387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:35+00:00",
+      "rows": 744,
+      "sha256": "3b0f6b7a4be00fe63c77d1bc62a710ebb050413eaf3e1c369c61aead9dce848f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 39563,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:35+00:00",
+      "rows": 740,
+      "sha256": "07512bc2dd516c3750071c75db728a8b81360cbb156aa4ead852b5788f65ef80",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 36302,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:35+00:00",
+      "rows": 718,
+      "sha256": "4a239a304344f69ac978fe53cb5522050c817562b58a3a13ec32ee453de61cd3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 37493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:35+00:00",
+      "rows": 744,
+      "sha256": "b63db7a7d6e3faed2c9b342e43168a9ed388d17c40af008a24ebc2acc59ae6f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 36445,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:36+00:00",
+      "rows": 720,
+      "sha256": "ab4fc8df2caa52283c4f9e1280090647597b9d3ed6328f9ae6db4103d0a27f31",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 36866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:37+00:00",
+      "rows": 744,
+      "sha256": "c0e4977a04a9109a98404cf2e091b88bc32b7163c61ac2b2c4ae8d7973b94a20",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 36256,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:37+00:00",
+      "rows": 744,
+      "sha256": "1e1e1291a094e80ec672323f121f7bfcb4590c7a98847c6d25e10dbfa5c21c2c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32795,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:37+00:00",
+      "rows": 672,
+      "sha256": "ccff50a737082d3bfb827569701b5a2f58d4c63f2f5a0557aee7e55c78e12def",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35879,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:36+00:00",
+      "rows": 744,
+      "sha256": "8b3111c12309957d2b5aeffa26cbfbfc9ad285d6e0e6eea3877a2f11d1360356",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34748,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:37+00:00",
+      "rows": 720,
+      "sha256": "ed4c7b97b329761523c79f0ee5374b9e4b96387996c3adfcbf8b3229a7eb7638",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 35793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:37+00:00",
+      "rows": 744,
+      "sha256": "acaf98be01981553fc8570748ab5a9c251a45f39c1addfe1fd9444bc770c5217",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33679,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 720,
+      "sha256": "af9ed2b74e460445758348e1426345893b75882b792e75479223a8941c6d0ff0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34207,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 744,
+      "sha256": "6f930c9f8731f50b566c6c71e849fb68d753c26dcaff7b70e004e13d38ce1950",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33882,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 744,
+      "sha256": "a4d310d9d7155d6397bda4447f5f29fc209d3a3ae3d71bac7bb0897f3aad96b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31975,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 720,
+      "sha256": "8b50a409892921a2473d198c72d1ec96840f46deaf791564c13b308ff9005b4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 32017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 744,
+      "sha256": "5ac61e83b4a77f6440260a8a148407cc8abe7c8cc0541dde723b917df4fb5b05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31992,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:38+00:00",
+      "rows": 720,
+      "sha256": "e4259e627a119af99c95481faecd8ec8e039c7319f65716bd3d9340990c186aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:40+00:00",
+      "rows": 744,
+      "sha256": "4595309b9aa5e072b71c88e51f573890be5904ed06bccea84584dac6e3a72313",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33290,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:39+00:00",
+      "rows": 744,
+      "sha256": "e63c6d6db5d87f675abe5deb816bee937f36dca13f9cba9cf67721e6862aaadc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:39+00:00",
+      "rows": 672,
+      "sha256": "ee9c749ca11487ef52eaf813039f037be76334e3ceb292795428f840bde99f9f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 33887,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:40+00:00",
+      "rows": 743,
+      "sha256": "7fe8dbb62dd49fb7158190771f02ad23eb288a0ac818ef8b1698e3f4d1596796",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 32020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:40+00:00",
+      "rows": 720,
+      "sha256": "8e158dc12b126e637454ab05ff5fdd688b4fd7e88a7d9385d23f001b5ded5a79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 32028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:40+00:00",
+      "rows": 744,
+      "sha256": "e548b22ec549bfa2ba4b2f925b754eb4bfba0bb23f30afbbae66b3f1ba7153ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:40+00:00",
+      "rows": 720,
+      "sha256": "1c8ec3ee76a50314a47faa93b06e49cd20638ae133027779192df05314b6b53c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:41+00:00",
+      "rows": 744,
+      "sha256": "e408adcbb48a3eead3a112aa91f3a70983e57682332ad8c1de4449beba68172c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:41+00:00",
+      "rows": 744,
+      "sha256": "6450402c96c36fb70614b759e02e88825566aec8ad8fb3f69bf31525588a2cc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 30100,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:41+00:00",
+      "rows": 720,
+      "sha256": "83ca912b71e3b2e442a176d6b0e4f035f3d68555febbec847e20a15f0c382f2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32101,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:42+00:00",
+      "rows": 744,
+      "sha256": "0945885804f5ec29f3d6f1b89cb54b3919f750f1affa00a26b04932d7b1a6881",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31859,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:42+00:00",
+      "rows": 720,
+      "sha256": "5fcfc7ca1510a70c3439f68fa3a0f0770fe906bbccb474cea500fc34b227c72d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34399,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:41+00:00",
+      "rows": 744,
+      "sha256": "72fd5330381f0072f9441c32864675b9a9bf79e15310ebdd51fae3b28d903c94",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33938,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:42+00:00",
+      "rows": 744,
+      "sha256": "6a8dd758a15605e0369752c40bc2ebf3c07225729548808036713e797a26449a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 31888,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:43+00:00",
+      "rows": 696,
+      "sha256": "c263c0a18611107841561e790046cf0f6c5518597141310c9a8bbe04b7d38749",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:43+00:00",
+      "rows": 744,
+      "sha256": "b1ce91221a597bd35dc873f845cfc16f30af53453d937d4b70ed7b7708660630",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:43+00:00",
+      "rows": 720,
+      "sha256": "567c61ecce4259b25b4c66c9fc34fb68913c3e0009bac939e54bcfd77a6a206c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33375,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:43+00:00",
+      "rows": 744,
+      "sha256": "1a6e80c6dfe67b66135b746b86f29bfc65cc398506207d06bb9987e0ff827589",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32080,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:43+00:00",
+      "rows": 720,
+      "sha256": "a090f8e699d7cda9ea8a929ec52e99d1d002b01cb801e22328323b4435ff5e4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33071,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:44+00:00",
+      "rows": 744,
+      "sha256": "753d3473306ff6ec250b0249cca2e367bf0fcd4941373bcfa08163860631f835",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32972,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:44+00:00",
+      "rows": 744,
+      "sha256": "ddd42eef1f4b87065861027b52cd1727d1c73c5f57e9731bcfb05e0b9e11b6d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 31546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:44+00:00",
+      "rows": 720,
+      "sha256": "64127c00eb3950bed1e16ec79e4fe8d018613ecab482a907cad998f50952e224",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:44+00:00",
+      "rows": 744,
+      "sha256": "f43b7a70976155c9bdf906d4875b1c06c4d4a00fe27a2d9f69c4fe884ef10231",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33360,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:45+00:00",
+      "rows": 720,
+      "sha256": "e493c92e3ac9e6ccda90fb9468cbc5eef2a47b6c7502965fd67c3e793baf72cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:44+00:00",
+      "rows": 744,
+      "sha256": "6ef0fb2238bed8eca42470a123977d1efd728912448e560a53274372ea5cdb6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34443,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:45+00:00",
+      "rows": 744,
+      "sha256": "279451e51256752a782343c78bb42ee412ef181635bd9063bb628e0025997976",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30450,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:45+00:00",
+      "rows": 672,
+      "sha256": "c9afa7bfe95b8bd6026bfa1cbd5860e22726730e1084d638e7515cbd5277ee01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32596,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:46+00:00",
+      "rows": 744,
+      "sha256": "96fb6ffb1205507448d00edd4e3c87095c11532616908fd0420fceb35c21d6b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31400,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:46+00:00",
+      "rows": 720,
+      "sha256": "bab061e91a18952be2b3b61bad0fccaeca08d1c3d23feab1964dc949098676db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33113,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:46+00:00",
+      "rows": 744,
+      "sha256": "bffc5b5c1b559fd483137f4bd0759138b938f44afeae0306ec1b478fd2023caf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:47+00:00",
+      "rows": 720,
+      "sha256": "9987edacdd5a30c03740bf7073f40ec55123852ee4b3cd047ebccf8d4898b312",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32702,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:47+00:00",
+      "rows": 744,
+      "sha256": "0f8f10d3a1f55aa6192809b2fa57f5a3ffc62444d6617a8227677a28a5dac7ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:47+00:00",
+      "rows": 744,
+      "sha256": "b99e99774068fd167beedb9fcd53115f60b725d3ddd9ff311980abb2e1411234",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:47+00:00",
+      "rows": 720,
+      "sha256": "6f8d90a78e07a419a748c55a5a1fbff471c8220779f52e6f667c66fb28e80b55",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31890,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:48+00:00",
+      "rows": 744,
+      "sha256": "9f5b5124d5f2fae7d794bd8588919f7b0d47ccddae456c7f08640830e124e22f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:48+00:00",
+      "rows": 720,
+      "sha256": "e2ae878c448010e05ab2ecde353dd33d64d969d9bd1f422da71cd75dca1e6610",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30821,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:48+00:00",
+      "rows": 744,
+      "sha256": "56e8afb43ee009673c6493229c3fb07c846236b70c7959c3c82be0c1987ad898",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:49+00:00",
+      "rows": 744,
+      "sha256": "032076009eb342f09da53cb1a1fa9b8d0d29fb537118b964d00bc898848466da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27351,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:49+00:00",
+      "rows": 672,
+      "sha256": "a2891219a474eced0b0170d876919a11b13f84147274b6915a0b95f17b4cb52e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32530,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:49+00:00",
+      "rows": 744,
+      "sha256": "574fd01a99adddbc14d3bb7f8367c1f753084318930cb35a360aba95e8575550",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 27516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:18:49+00:00",
+      "rows": 651,
+      "sha256": "a62c63b176bcc4970abab9790947cfe75cdc5e68a6146069e6dfdddf95087290",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DENTUSDT/1h/DENTUSDT-1h-2026-04.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DENTUSDT",
+  "total_rows": 58428
+}

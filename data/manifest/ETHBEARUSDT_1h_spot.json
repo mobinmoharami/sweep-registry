@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 227,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:58+00:00",
+      "rows": 1,
+      "sha256": "461706871f6b3945f2baa39c2f22bb479f3a5bf85dffa2bb7be0c7255ac9cf0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHBEARUSDT/1h/ETHBEARUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 32268,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:59+00:00",
+      "rows": 632,
+      "sha256": "3b86b48c92b382b980a6ef5a0970683cc1c440ab0e2b2c5aaf085a00d57c66fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHBEARUSDT/1h/ETHBEARUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 38689,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:58+00:00",
+      "rows": 729,
+      "sha256": "2be7050a1ff6b6435192a74518ec152d835d6eb5de0074f724c07b102d0f621d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHBEARUSDT/1h/ETHBEARUSDT-1h-2020-03.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ETHBEARUSDT",
+  "total_rows": 1362
+}

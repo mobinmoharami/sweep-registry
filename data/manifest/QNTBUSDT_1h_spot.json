@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 8272,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:32:19+00:00",
+      "rows": 227,
+      "sha256": "d5a4229b663379ceebd50d5ce5e5ff6e2b0072bc64eb3b2d4d4ffe8e6c84b90c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QNTBUSDT/1h/QNTBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "QNTBUSDT",
+  "total_rows": 227
+}

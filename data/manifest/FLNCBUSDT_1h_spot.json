@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2386,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:21+00:00",
+      "rows": 60,
+      "sha256": "7fc79ce0234825e6c28cf7f034699254b921d142f642837814ce545d5922fc74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FLNCBUSDT/1h/FLNCBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "FLNCBUSDT",
+  "total_rows": 60
+}

@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 18715,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:49:20+00:00",
+      "rows": 462,
+      "sha256": "65122010fa79f02270420398b255aa096a2025ae14cf09abe80d9751204762de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CRCLBUSDT/1h/CRCLBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:49:19+00:00",
+      "rows": 744,
+      "sha256": "79e3eff5fa69c8b59834ce90a4484afbb61808e93864970c7873547e25edba06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CRCLBUSDT/1h/CRCLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CRCLBUSDT",
+  "total_rows": 1206
+}

@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 29635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:35+00:00",
+      "rows": 664,
+      "sha256": "ef69a334dc16fa7fc50ab45e1fadb3a1ca3b293c2cc01bf5e1b9d84886c4bcce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MANTRAUSDT/1h/MANTRAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:35+00:00",
+      "rows": 720,
+      "sha256": "b7e6749833be3976df2f6a3a08c6e2bbc3ffb70c92f6fb2a161e82c11531d793",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MANTRAUSDT/1h/MANTRAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31594,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:35+00:00",
+      "rows": 744,
+      "sha256": "843a80d9a9f5dc7d69dca9ed39c37c0644107cc7364636a7cc387807ca9fb680",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MANTRAUSDT/1h/MANTRAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:35+00:00",
+      "rows": 720,
+      "sha256": "0ebd5714f341b6717c8b646bfef2adab7bc97298a2988e7e2c5894fb4e04e54f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MANTRAUSDT/1h/MANTRAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30298,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:15:35+00:00",
+      "rows": 744,
+      "sha256": "20bf9e4afba561035fd4c08ee180ab792684489edb4aa27a855ece29da7c6eea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MANTRAUSDT/1h/MANTRAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MANTRAUSDT",
+  "total_rows": 3592
+}

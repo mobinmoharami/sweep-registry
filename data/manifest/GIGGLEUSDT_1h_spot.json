@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "bytes": 8666,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:26+00:00",
+      "rows": 162,
+      "sha256": "7c91887ca6f09728e3b2240c69bc5d6e96a00443cb88c9fb26c854ce39420e69",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 36780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:26+00:00",
+      "rows": 720,
+      "sha256": "36ee967671be545f207935267f0f9a8a8d6ae8976cc74c76c3e4eec58cb1475b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 35936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:26+00:00",
+      "rows": 744,
+      "sha256": "1bcaa646c41d471c11c09a673d8b5bf0cad68931d28c7ac33baa1f4008e1bae0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:27+00:00",
+      "rows": 744,
+      "sha256": "cffd4a6c093b7b2b0b4b576fd90f14b3ded1f4be540893ea402dd1fdb89d7131",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:27+00:00",
+      "rows": 672,
+      "sha256": "41c453e34baf50400b65a4ce4631be5c0e32e981e0b71d7989e31576389109e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33671,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:27+00:00",
+      "rows": 744,
+      "sha256": "69b8d76ac9644acc0db74ca2b8889fcee4074061be58070d8b0715b5c56db5ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:27+00:00",
+      "rows": 720,
+      "sha256": "81790d752abdc109612e57bf0804cdd1eb6acdbaa0f7df8b3e3b3a1e5fec71a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34220,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:28+00:00",
+      "rows": 744,
+      "sha256": "dcb525ea94c02b5b993c868985116932de233d004afc134f23ff25ffebfcdc92",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:28+00:00",
+      "rows": 720,
+      "sha256": "8dc63ebef163efd9bd25fa17b13f4775e09c4a247e599158d334903ccace686f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32850,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:28+00:00",
+      "rows": 744,
+      "sha256": "0f9e18d1052c85079bbf8b9cb6984bd5912897c539498d04dd70089574a9001a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GIGGLEUSDT/1h/GIGGLEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GIGGLEUSDT",
+  "total_rows": 6714
+}

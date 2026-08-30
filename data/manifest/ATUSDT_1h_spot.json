@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 4241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:15+00:00",
+      "rows": 82,
+      "sha256": "79f7f8820abb28b072dc4bd0451a2354a2ed8199b31cc4cf77949464f7365d1d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 35223,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:15+00:00",
+      "rows": 744,
+      "sha256": "4aff5ec1899afc7adc3b2d7ed3b2ae1cb717bf3d5f046ce196118241ef3ad14d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:15+00:00",
+      "rows": 744,
+      "sha256": "eb7f745d4e1a9aa7dc77a2f922b8e3ce2457636fc401be26a8850b8d10a1011b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:15+00:00",
+      "rows": 672,
+      "sha256": "db58aded865258f72f0037c4f2d60ce86c3b06494dcd0b728aa0f352270c9627",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30751,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:15+00:00",
+      "rows": 744,
+      "sha256": "36c9cc05297443af2c6a8ebbc66d2b5bf9c194ae89247c04e4de309df7505a3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:16+00:00",
+      "rows": 720,
+      "sha256": "f68a60af67e5479561a53c8e04703ce09db11d7367ed48d3766384191b43c048",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31446,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:17+00:00",
+      "rows": 744,
+      "sha256": "3b3046a24c491497a32ff16945e6cf6c935eaa946f658f018b1df6b48184ac99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30422,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:17+00:00",
+      "rows": 720,
+      "sha256": "f8c2773f5ab54bc5e204d2709982f3976d1d892b154592b4536f8fc82ad09f06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:16+00:00",
+      "rows": 744,
+      "sha256": "d13d99034f419357f8bd5b980aa8ac9761c241811cb0bc5d9a8348061825c464",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATUSDT/1h/ATUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ATUSDT",
+  "total_rows": 5914
+}

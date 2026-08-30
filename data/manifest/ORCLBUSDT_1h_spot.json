@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9198,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:36+00:00",
+      "rows": 227,
+      "sha256": "3dbd17f41d817d5d52e486909d73c6e63cee2d0070d00ddcbd9ae1fa50c5f19e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ORCLBUSDT/1h/ORCLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ORCLBUSDT",
+  "total_rows": 227
+}

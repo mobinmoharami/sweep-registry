@@ -1,0 +1,8 @@
+{
+  "status": "VOID",
+  "reason": "Not an independent test. The continuation families were exact position-wise inversions of SW-0002's reversion families, so every statistic returned as the precise arithmetic negative of the original to four decimal places: gross Sharpe -0.2901 became +0.2901, z of -5.542 became +5.542. An exact inversion is an identity, not a replication. Kept rather than deleted: removing a sweep because it turned out uninformative is the selective reporting this registry exists to document.",
+  "notes": [
+    "The one thing it does establish: gross Sharpe is antisymmetric under position inversion, so any symmetric bias — costs, spread, microstructure — contributes zero to it. Combined with the shuffled-null result, that rules out lookahead as the source of the SW-0002 effect."
+  ],
+  "updated_utc": "2026-08-01T22:45:25+00:00"
+}

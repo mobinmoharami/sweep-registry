@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 8013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:10+00:00",
+      "rows": 232,
+      "sha256": "fe1880018507c730b14fa0ae51e6a296e0a7a3c2a3b0c57ce2db06b0d1847e40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 22862,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:10+00:00",
+      "rows": 672,
+      "sha256": "f5669c9067da27a35d383b3f6f2e13a1b0e0ed55e5815c61071ff738cc0ffefe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 25907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:10+00:00",
+      "rows": 744,
+      "sha256": "a04be7df811834fcc047200144ae1395ff7b1db9f9119597a38034532249f89f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 26068,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:10+00:00",
+      "rows": 720,
+      "sha256": "d0a907a3d47fa053be1b2f5f9963dd7948f440415fee9821cd6cc24e65551c88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 26319,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:11+00:00",
+      "rows": 744,
+      "sha256": "4438f8fa3cf25ac45e79c9e7dd7b2a558c4732000b351aea4c7a6aa3b4f45a08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 26123,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:10+00:00",
+      "rows": 720,
+      "sha256": "6ce960eab4e7b76f7040dd99cab44e11de2496ff5bcb8b82048ed489959dd0b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 27203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:11+00:00",
+      "rows": 744,
+      "sha256": "b93359c5316c9da5d003d0b65b05b387d73575132813cb32ba90d3eabe9d28c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RLUSDUSDT/1h/RLUSDUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "RLUSDUSDT",
+  "total_rows": 4576
+}

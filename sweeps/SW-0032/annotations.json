@@ -1,0 +1,15 @@
+{
+  "notes": [
+    "This is the only family in 33 records to show a coherent signal, and it is also the only one with substantial published academic support in crypto. The test cannot confirm it: the detection limit is around 1.6 annualised Sharpe and the observed effect is roughly 0.7.",
+    "SW-0035, embargoed until 2029-06-30, is the holdout test — and its pre-registration states up front that it is underpowered. Confirming a true Sharpe of 0.72 at z=2 with 80% power needs roughly 136,000 hourly bars, about 15.6 years. Four years gives about 29%."
+  ],
+  "confirmatory": [
+    "Pre-registered test: does the best of 90 cross-sectional momentum variants clear DSR 0.95? Verdict: NO. DSR 0.809 — the closest any sweep in this registry has come, and still short."
+  ],
+  "exploratory": [
+    "96% of variants were positive with a median annualised Sharpe of 0.51 and a best of 0.98 against an expected-under-null of 0.64. The family behaves as one thing rather than as a spread of better and worse rules.",
+    "PBO is 0.479, near the 0.5 coin-flip line. Choosing among these 90 variants carries almost no information out of sample. That is consistent with a uniform family-wide effect and inconsistent with some variants genuinely being better.",
+    "The effect comes from the stable end of the universe, not the volatile end. Splitting by symbol lifetime: 81 long-lived symbols (>40,000 bars) give a net Sharpe of 0.72, while 55 short-lived symbols (<20,000 bars) give 0.04. A spurious altcoin-volatility artefact would show the opposite, and the effect is stronger where liquidity is better."
+  ],
+  "updated_utc": "2026-08-01T22:45:25+00:00"
+}

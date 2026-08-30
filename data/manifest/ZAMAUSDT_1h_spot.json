@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "bytes": 30775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:36+00:00",
+      "rows": 635,
+      "sha256": "3e836f89997fbe7c4b662779bb0625ae0090eed17654e981ad1ddbbda59d1aa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33264,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:37+00:00",
+      "rows": 744,
+      "sha256": "903a091f41f6e59fcf2cba6a3a10b79f695c7d81e1a35926aec27434aa86b0ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:37+00:00",
+      "rows": 720,
+      "sha256": "0c0a315a344f3da51d44d48707e99c98ec0ff0b2364c57f7902e4503a23f878a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33267,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:37+00:00",
+      "rows": 744,
+      "sha256": "73da15626621efec6b4ae9eb673134553fb70a01ae224016f5c36c8dc180d225",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:38+00:00",
+      "rows": 720,
+      "sha256": "4f7bb2bf49aa6c5dac69a4e68b0851bec97e51b8627175286751af8ba82351c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33841,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:38+00:00",
+      "rows": 744,
+      "sha256": "748a40144da112a2c6eeb47719285a16019a1f7123cb2c895108d0754e76d76f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZAMAUSDT/1h/ZAMAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ZAMAUSDT",
+  "total_rows": 4307
+}

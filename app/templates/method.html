@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Method{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">How a strategy<br>gets tested.</h1>
+  <p class="lede">Four steps, in this order, every time. The order is the
+  method — running them in a different sequence would make the results
+  unfalsifiable.</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  <div class="pillars" style="gap:52px">
+    <div><span class="n">01</span><h3>Write it down</h3>
+      <p>The rule, every parameter that will be tried, the data, the costs, and
+      the score it has to beat. All of it, before any data is loaded.</p></div>
+    <div><span class="n">02</span><h3>Seal it</h3>
+      <p>The document is hashed and the hash is timestamped onto the Bitcoin
+      blockchain. Anyone can verify later that it existed, unaltered, before
+      the test ran.</p></div>
+    <div><span class="n">03</span><h3>Run everything</h3>
+      <p>Every combination is tested, not just the ones that look promising.
+      Dead variants that never trade are excluded from the count so they do not
+      inflate the bar.</p></div>
+    <div><span class="n">04</span><h3>Score against luck</h3>
+      <p>The best result is compared with what the best of that many random
+      strategies would have scored anyway. Only a result that clears that,
+      by the margin fixed in step one, counts.</p></div>
+  </div>
+
+  <div class="block" style="margin-top:56px">
+    <p class="tag">The number almost nobody reports</p>
+    <p>Every record states the smallest real edge the test could have detected
+    at all. Without it, "we found nothing" and "our instrument was too blunt to
+    see anything" look identical — and most published negative results do not
+    distinguish them.</p>
+  </div>
+  <div class="block">
+    <p class="tag">Sealed, not merely claimed</p>
+    <p>Two of the records here are marked void: one was an arithmetic mirror
+    that could not have been an independent test, and three were scored from a
+    run that had crashed. They stay published with the reason attached, because
+    a registry that quietly removes its own errors is asking not to be
+    believed.</p>
+  </div>
+  <div class="block">
+    <p class="tag">What a failure does and does not mean</p>
+    <p>A strategy that does not pass has not been proven worthless. It has been
+    shown not to produce an edge large enough for this test to distinguish from
+    chance, on this data, with these costs. Smaller edges may exist and would be
+    invisible here. That limit is printed on every record rather than buried.</p>
+  </div>
+</section>
+</div>
+{% endblock %}

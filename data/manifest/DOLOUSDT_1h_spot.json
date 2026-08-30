@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 5413,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:00+00:00",
+      "rows": 104,
+      "sha256": "834e4de2b7042daa559b9952924dfe66a7a57a4579d041b10c747c6a1f687b86",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 34044,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:01+00:00",
+      "rows": 720,
+      "sha256": "b33753ad6e1ef1fd1066d7f20ca386bd6358ef173d6c1d96c31f5b5ad617315b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33080,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:01+00:00",
+      "rows": 744,
+      "sha256": "a25bdae6817fb3663484de5f20a90a8da050f1ea9f9a7c257021a0c6ea47ed2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:01+00:00",
+      "rows": 720,
+      "sha256": "571284f91550b45afb9d4cb3f8dd64a289f94783a6be16e5f0725338d32f3893",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 32866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:01+00:00",
+      "rows": 744,
+      "sha256": "4fc7bd00c42e4f901ea48fd84c46e139c5ec3dd815a01b190167c1a42869cc08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35598,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:01+00:00",
+      "rows": 744,
+      "sha256": "9db4f14fb8b7c6235f18186801e300df5776ef5eb72fe673c0759b215ffdf146",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 31057,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:02+00:00",
+      "rows": 672,
+      "sha256": "80d81423b379a2158cf63c3d7bf321e0196150fa789e5623d2bb0d839098c988",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:02+00:00",
+      "rows": 744,
+      "sha256": "4b4be0f71b9759a1a7eea2092a5d4098e9f073c329d5c43c5fe1551288ba60b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32435,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:02+00:00",
+      "rows": 720,
+      "sha256": "590e1d5311ae39d16bd37833ac1229fd824e94084a22a58860974abf44dd7da8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:02+00:00",
+      "rows": 744,
+      "sha256": "2a6d8d85995ebf1ee8e213e94758a81f77a54672ecc10a98eaa88c255a720b26",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31598,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:03+00:00",
+      "rows": 720,
+      "sha256": "3db52237334e6bf9018ad0fd116d21c692e2478d0826f90758363f74f9dbf0e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:03+00:00",
+      "rows": 744,
+      "sha256": "dfe511b56f066de5b8d1573db1b3633f407b06ba5aeb774301e58bc9dd7ae099",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DOLOUSDT/1h/DOLOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DOLOUSDT",
+  "total_rows": 8120
+}

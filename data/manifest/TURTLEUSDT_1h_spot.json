@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "bytes": 11149,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 225,
+      "sha256": "7b3161a9e0edd00da87fc281c9fcc909286d27c6ec4c7120d9f23029857d4952",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 720,
+      "sha256": "c3701ae241a7485ea26db7f211548ba348b23bb7dfd4c9ff048b8f260e1767d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 744,
+      "sha256": "cce3aec57be34378aecbc74614e774c2085872d0b3a8ef587a2340ea5b788295",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 744,
+      "sha256": "1e556a403355074c70a319cc6ede079abc921dc181441e0f01bfee3d42369032",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27556,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 672,
+      "sha256": "e1fd1712bbcea418152443ef123b220a3f790f56657bfc69e2b4264843921c0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30078,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:50+00:00",
+      "rows": 744,
+      "sha256": "0886302a5541040a4cd2ac7c9b0519bdcac3e0b7ff370d3bde14c47ae23bf615",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29473,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:51+00:00",
+      "rows": 720,
+      "sha256": "0c1bb5d15478f083b3501ed6aca1ab62b21439e06ac2cdba5bfd18021a097a3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29915,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:52+00:00",
+      "rows": 744,
+      "sha256": "4abf2ef5e089b6db14a972f759762f9726c5618bfe8cd01845ac44fc2c77daf6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 27909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:51+00:00",
+      "rows": 720,
+      "sha256": "1738fa89dd135a5b8bd62a081156be89541dd42d80c2dc603039d8927361e612",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 28282,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:52+00:00",
+      "rows": 744,
+      "sha256": "d1562edd22dc4342d01f5c708767f7e604c6ac1120060e38196ad8547da17649",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TURTLEUSDT/1h/TURTLEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "TURTLEUSDT",
+  "total_rows": 6777
+}

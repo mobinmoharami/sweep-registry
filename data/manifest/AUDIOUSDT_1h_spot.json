@@ -1,0 +1,573 @@
+{
+  "files": [
+    {
+      "bytes": 9876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:40+00:00",
+      "rows": 197,
+      "sha256": "cebe3a8f567b1d32f49cfce2a595ccbe468ca10d0f000c1a21ec974903b0640e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 33619,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:41+00:00",
+      "rows": 719,
+      "sha256": "a6b896042dfb777450ec4ae0f8b2e22c7fcbcfad878675618a878d336a7aa623",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 34877,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:41+00:00",
+      "rows": 740,
+      "sha256": "b15e55d0f4dd3d94ccad11c874f8f955155a138667ae4b84ae6f1647cf0224e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:42+00:00",
+      "rows": 744,
+      "sha256": "608b3690d845df7f79701ec9f6bf7aa7ce403790e219d00d3e64ae0a90eac82f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:42+00:00",
+      "rows": 671,
+      "sha256": "3d0653da1e883a0e9198589db9926ce632d06955fdbe30516e67fa8e770c46cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38600,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:41+00:00",
+      "rows": 743,
+      "sha256": "943d09366a548cc7a239a3143100e6c86b5e9b402694e55040c78677751d9eef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37016,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:42+00:00",
+      "rows": 715,
+      "sha256": "b304b2771b7b3e26b10ab1af0d9bc7681295a9fa7aa8e2d5ada7b299099177fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 37430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:43+00:00",
+      "rows": 744,
+      "sha256": "2b76f71c65d36360e9ee945fc6574f2750f7fc0ed4c6f1dd9b09ecff12ee6863",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 35013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:43+00:00",
+      "rows": 720,
+      "sha256": "375763b42c6acebb058cb6e1c0c6580a03665c4d21c1ea84a27097753f9e5983",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 37135,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:43+00:00",
+      "rows": 744,
+      "sha256": "274a9b965c7d81418fd90c5425fc8188da264b2ca467ab13da81405ed731af4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37186,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:43+00:00",
+      "rows": 740,
+      "sha256": "78fa5ef16d13200f60670b2f8c743b6fe629f5da36c0d6defaafaf70b3122ffe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32589,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 718,
+      "sha256": "9e15a306fa70185c92d49fd54756ee0b15c7838a517c2a44d7c552e1c8af935c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 32582,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 744,
+      "sha256": "229fe93828f73080dc5b567b699c617a600c04342751c9b117077d697fb5d879",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32303,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 720,
+      "sha256": "afc099ee5a1052976aac055c21f41393ab24ba4ddcba423e2c83c61bc6f2cdfe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 32495,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 744,
+      "sha256": "1c412b4e4f2bd5a937e9cc3d794aeaf025997352090c0f2daf5913efd0cae5b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 31386,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:45+00:00",
+      "rows": 744,
+      "sha256": "cef36995e478f0bb0897cc8ea7dac3610fee89f650c05223a6440aa7052d5754",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 672,
+      "sha256": "39d5e3c4d518db78a76f17fe35141da38b7dde8273fb78936ae811db734d36c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 31430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:45+00:00",
+      "rows": 744,
+      "sha256": "0875cc1b047d98b9b876fc2beace4a430cfae7e6798a57ea0f16cf9b814ea72d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:44+00:00",
+      "rows": 720,
+      "sha256": "5c99e4f03855a1115987032e130b6b460d06541aeab6290810600c65b1577c6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32021,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:45+00:00",
+      "rows": 744,
+      "sha256": "9353edc1ce7eb67e86f2fe5a55a8a2202db82ab1c5b0dcd2be22cb4101a5e2d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30077,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:46+00:00",
+      "rows": 720,
+      "sha256": "708acfc2531f760dfe5bcbe77d338170fbfef5101008fc71044b65c24731d40c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:45+00:00",
+      "rows": 744,
+      "sha256": "7752e82dfd441dab69909d362451d202a012100e338dc850be73c896aba95077",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 29850,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:46+00:00",
+      "rows": 744,
+      "sha256": "c3aef88dd8488eae9c63a93a7c474584e10b177a522820c1b6d067ad61a39e19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 27886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:46+00:00",
+      "rows": 720,
+      "sha256": "aea49fa7d1399aea51bb8b424cd86c87c46dddacfb0330bae1df92469c4a678c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 27907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:46+00:00",
+      "rows": 744,
+      "sha256": "666514ccecf2d302b4638a501ca8a7ea0870c69848ac302fb026b827fac9dd76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:47+00:00",
+      "rows": 720,
+      "sha256": "251c7dde0038b85da9d806b2805acfa9f9f8b872e5e0a445a0e402d8e07298d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30974,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:47+00:00",
+      "rows": 744,
+      "sha256": "7ea77bc313a50a4f8ad84b2195149fb257fad39018f43a5798325a42634a963c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 744,
+      "sha256": "87e895e9b42d1d2d780df0b6a1c247b4b04bc62b125a249844544f67573c1d52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31143,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 672,
+      "sha256": "f16586e2b59f58be66f5d1ec16bd285637aea2d171f4dca4b30e92251edd0dde",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 33535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 743,
+      "sha256": "b5557d527f0db3639ca1c891a4b1de31cdd4eb8e0eb0200e2e1232d7bf9794a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 32632,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 720,
+      "sha256": "74929406331683508899c7dfeb3c538bea5b7b258cfae1978fcd77d537f33db6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 32363,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 744,
+      "sha256": "52a3bdec07705be5758d39c330f6826cd6d9d3a3718edfc57b862a91a809a5cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31348,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:48+00:00",
+      "rows": 720,
+      "sha256": "b9649cacd8e7feae3e256b88c83b7e2eb83119f080d5b8921b8cfe78e6cdd0e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31592,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:49+00:00",
+      "rows": 744,
+      "sha256": "b1c45e587478557360f67e3b94e8fa52dd1eb65035697b583f417bdaaa6e31fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31684,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:49+00:00",
+      "rows": 744,
+      "sha256": "df2cb6beb51fcb802713ecefc62b4e3d56e120c97fdb96cc0a7765b9a3a7f3e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29978,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:49+00:00",
+      "rows": 720,
+      "sha256": "863518773f094ba5a8d11b28b7c7de34ae4cc0c8c05dc519a58ae1b8a62d95da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:50+00:00",
+      "rows": 744,
+      "sha256": "10ede7e643ef14990fd91f15cf2454cf98197c2bece35904266dd3cceb64c883",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31663,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:49+00:00",
+      "rows": 720,
+      "sha256": "5309e5bc30bde81251d6731d3a67843aac89c53a12d757c599cc7b5d1b05bb8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 33218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:49+00:00",
+      "rows": 744,
+      "sha256": "1e3d64a9f1799d8de96e91fa55292244afddd58c5f15d57a409d92121187c0da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:50+00:00",
+      "rows": 744,
+      "sha256": "9f84463e8ae40864eb6dfbc543721193927d5f15df25d0bcac3237d01d91a892",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30566,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:50+00:00",
+      "rows": 696,
+      "sha256": "55e43984f898ad770f49a326e45f6fa559dae881860d79d79a9a56bcee44e98a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 34217,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:51+00:00",
+      "rows": 744,
+      "sha256": "1046474da0e9bae6301dc15f3e4b6d29da132816208cb68eb70b22212029fd0f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:51+00:00",
+      "rows": 720,
+      "sha256": "a5d471b2b526bfb7551d606d0281d35189c8fb1dd8b611ea5226112921fe4159",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33119,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:51+00:00",
+      "rows": 744,
+      "sha256": "4147cad23ba68a84ba2de3b17cdc4d216724c39055c96693f59ad6bb10363118",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31864,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:51+00:00",
+      "rows": 720,
+      "sha256": "fe919282b7f17fabb7134ba66feed7f4636d9a0ee707334d2cf5c9d7c87af2c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:52+00:00",
+      "rows": 744,
+      "sha256": "3ee2c34abb613cb1f071503e9a900986734ac902252965b2d46e007d7e6c6c84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32484,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:52+00:00",
+      "rows": 744,
+      "sha256": "8d1ac7dece6df612bee2bb8b97ca9c10e3e40803a23948cade0f6181052fb857",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30724,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:52+00:00",
+      "rows": 720,
+      "sha256": "bd3a1d38c8181e030e1432d9c0daffdd9df0382a34f1dede2ccf78aef421e2f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:52+00:00",
+      "rows": 744,
+      "sha256": "667216910e8a6493a528acfc62caf5adf2d7a5d379aae252f0b9f926ebb05f9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32391,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:53+00:00",
+      "rows": 720,
+      "sha256": "437acdbdbb5eb48fa5a418316d1e1425f193c12b9644f698cd3c271fbd8e9bd0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:53+00:00",
+      "rows": 744,
+      "sha256": "3d3817a1a4b12de700b12c3b2b9318c99e9ea7bc75231466219b3aec5fb2f5d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32610,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:53+00:00",
+      "rows": 744,
+      "sha256": "b416816f6d36854c6aa200dc0b003521c2770882eab8622a8a8b0065ea681fd9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29204,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:54+00:00",
+      "rows": 672,
+      "sha256": "958464cc74e79c501e06c2889fbdfe9f18f3c3004a8bf4bdc12f42dffae74619",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31699,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:54+00:00",
+      "rows": 744,
+      "sha256": "857db4688b4e1782d8216d3b4fbe99a017b11c3c607b6715401d29f7818b947d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:54+00:00",
+      "rows": 720,
+      "sha256": "94e89e9a5a36176366cfb402ae03f5dbbb8f11fcfd55e64cd69197ebd8b0b5fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:54+00:00",
+      "rows": 744,
+      "sha256": "c9e930b163c153fa41e6e45f532167c9faafe5c45c646d0943754759fa284996",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 720,
+      "sha256": "d362ce6dfb0732f22a729a37e58e0a5627c74941ef318e88287a1c2f363f8b3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 744,
+      "sha256": "e4ea8c76f5d436fab1450aba9250bfbed8dad2628aa1e323fb2057c6d81edbfb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 744,
+      "sha256": "39c2d24d3c27a2b3c95af823779e5f28ae8bbe0f32a3c1ac5bbcdf3c7295775f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29039,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 720,
+      "sha256": "990547cef20799d09510078c3b1b4974e64a344c31dba654827ab5a4c6f75ef7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30540,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:56+00:00",
+      "rows": 744,
+      "sha256": "fdf55527f3527da8a8481acdb4feb1f3b5d635e506ebe103fcc472241d527e92",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29720,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 720,
+      "sha256": "72c7210d5b0dc1ccee204ebc1148bd5458f4579991295c723eaec5ded3d0dc0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 28995,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:55+00:00",
+      "rows": 744,
+      "sha256": "1352b3db6b187289430b7dacb8d68a59a2a6f2f62f37819fb872629201fd5e40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29227,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:57+00:00",
+      "rows": 744,
+      "sha256": "918efe0a61edb2f9c7d18c1acdca87db2e5adb976f15c260637040b1f4faaed7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 26173,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:57+00:00",
+      "rows": 672,
+      "sha256": "9e79cd34d4e53b8415b0959e5af1d2dfa2f693efe577cb7a9b8932a0a9eceb57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32480,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:57+00:00",
+      "rows": 744,
+      "sha256": "b706eec2a9557f37856c207023582a7998017d9bd0f05e67c9823fe4b98922b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32206,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:57+00:00",
+      "rows": 720,
+      "sha256": "f7c4fe70d7b6e8ffbd11307b748ecbb6a6589150174280cb579019f24a65ff9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:57+00:00",
+      "rows": 744,
+      "sha256": "9b6b7e98533d65d368cda4adce2097e67a1c7660d81a66b3a899747abc3c0d22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:58+00:00",
+      "rows": 720,
+      "sha256": "9e3296aa0320cf4efa26a96974394bbcf4c0a0cf7ea7864c4fcfef42268668ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31424,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:58+00:00",
+      "rows": 744,
+      "sha256": "723465de2f1478e19fe2aa9cf728c9671c3333bd64035272d0becb1f68e741ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUDIOUSDT/1h/AUDIOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AUDIOUSDT",
+  "total_rows": 50554
+}

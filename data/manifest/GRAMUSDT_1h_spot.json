@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 32541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:03:15+00:00",
+      "rows": 712,
+      "sha256": "343e78bf148f06d463d43e2b04cea65b1dbd9f3997f014d19d1ac0c1a78a588f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GRAMUSDT/1h/GRAMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GRAMUSDT",
+  "total_rows": 712
+}

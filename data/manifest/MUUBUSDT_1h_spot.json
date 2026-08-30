@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9475,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:20:59+00:00",
+      "rows": 227,
+      "sha256": "e31030592f3a30206e89fb5f21646091d98aa9bedbcbd4d705ef25053dbbdc20",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MUUBUSDT/1h/MUUBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MUUBUSDT",
+  "total_rows": 227
+}

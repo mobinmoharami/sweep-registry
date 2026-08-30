@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2608,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:39+00:00",
+      "rows": 60,
+      "sha256": "86be4784df1cf09f4d11983d721522ea172e214c734b1de8db99d66f035a7737",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMATBUSDT/1h/AMATBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AMATBUSDT",
+  "total_rows": 60
+}

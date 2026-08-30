@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}{{ label }}: does it work? Tested and scored{% endblock %}
+{% block desc %}{{ label }} — {{ note }} Tested as part of {{ '{:,}'.format(summary.variants) }} parameter combinations, pre-registered and sealed before running.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_family', slug=slug) }}">&larr; {{ meta.label }}</a>
+  <h1 class="glow">{{ label }}</h1>
+  <p class="lede">{{ note }}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  <div class="block" style="margin-top:0">
+    <p class="tag">Why this setting has no special status</p>
+    <p>Popular settings are popular because they were the defaults in an early
+    book or platform, not because they were selected by evidence. Here the
+    whole grid around them was tested, so this value competed against every
+    neighbour on identical data.</p>
+    <p>It did not separate from them. {{ m.verdict_line(summary) }} The best
+    version anywhere in the grid scored {{ '%.3f'|format(summary.best_dsr) }}
+    against the 0.95 required.</p>
+  </div>
+  {{ m.numbers(summary) }}
+  <div class="block" style="margin-top:34px">
+    <p class="tag">The underlying claim</p><p>{{ meta.claim }}</p>
+    <p>{{ meta.catch }}</p>
+  </div>
+  {{ m.rowtable(summary.rows) }}
+  {{ m.limit_note(summary) }}
+</section>
+</div>
+{% endblock %}

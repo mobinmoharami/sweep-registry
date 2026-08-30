@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 16190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:25+00:00",
+      "rows": 442,
+      "sha256": "df534d064bdcaa429611fe1d929a05b49d31be8233ac9f9d729675e26229ad14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 25329,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:26+00:00",
+      "rows": 720,
+      "sha256": "4ad320dd3c36ce560e89048d0f59335bdcdbf13508f0c1367762f24f62dcfe49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 26280,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:26+00:00",
+      "rows": 744,
+      "sha256": "167df121aa3affe95cf3ea92beeba72fa2034b66315c6c6512dd9e54a17cd550",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 24458,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:26+00:00",
+      "rows": 720,
+      "sha256": "9b4f5469dd4654d0e112bbdf73c0491bfddfc9e068863c2133f1f68c569ed4ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 25824,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:27+00:00",
+      "rows": 744,
+      "sha256": "415568992da9fed072eefc1c5959f27403deab67ade62cc28d6ce79eb7296217",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 25750,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:27+00:00",
+      "rows": 744,
+      "sha256": "3824732e863f6517cc5822d9a4e17bd91de851dfd594eb401fa77e54a1ce25e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 22494,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:27+00:00",
+      "rows": 672,
+      "sha256": "f0d6ad3a400b804f07e7ef7165482a09d41abd8006c4922c949a6d4e0438f91c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 23388,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:27+00:00",
+      "rows": 744,
+      "sha256": "fcad86d25c3988e8a882cb450a2c88240e87a14a81db3a72177c6683d331310f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 21696,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:28+00:00",
+      "rows": 720,
+      "sha256": "3844b55d9ec1494546deaec0cc930c01b49301a1ab10a29dbdbcd152992d0c0e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 22228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:28+00:00",
+      "rows": 744,
+      "sha256": "05c0a0e22c25b2b8504a0340be38477c08a1a064b725e51431b2444c1e07a7e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 22641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:28+00:00",
+      "rows": 720,
+      "sha256": "ce358ef78adddb26d0f905dd72bc1693cb87c832a60d13ca89c293bf199dae25",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 21919,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:42:28+00:00",
+      "rows": 744,
+      "sha256": "6723d2dc0358f0d35deb240a2e81363de576c2779e53023b7baa25fd7d8eb175",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BFUSDUSDT/1h/BFUSDUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BFUSDUSDT",
+  "total_rows": 8458
+}

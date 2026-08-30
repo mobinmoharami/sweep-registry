@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Method notes: how strategy testing goes wrong{% endblock %}
+{% block desc %}Plain explanations of backtest overfitting, the Deflated Sharpe Ratio, multiple testing, survivorship bias, and pre-registration in trading.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">Method notes</h1>
+  <p class="lede">The statistics behind every record here, explained without
+  the notation. These are the reasons a backtest can look excellent and mean
+  nothing.</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  <div class="pillars">
+    {% for c in concepts %}
+    <div>
+      <h3><a href="{{ url_for('seo_concept', cslug=c.slug) }}"
+         style="color:inherit;text-decoration:none">{{ c.title }} &rarr;</a></h3>
+      <p>{{ c.question }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+</div>
+{% endblock %}

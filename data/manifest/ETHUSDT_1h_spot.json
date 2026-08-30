@@ -1,0 +1,869 @@
+{
+  "files": [
+    {
+      "bytes": 20502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 356,
+      "sha256": "e8a059b1792de43a6a75780103b776782727ca4d8b4d1ad4494b42c480c5c6b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2017-08.zip"
+    },
+    {
+      "bytes": 40420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 713,
+      "sha256": "b1856a6b94912a29aa627b5ec9c013b8a7680af28f321909dc1d8347bbedec83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2017-09.zip"
+    },
+    {
+      "bytes": 42488,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 744,
+      "sha256": "d3d589b30d621d0e31ca538ab7d24e9ef180e4f20fba11e7e07bd2cb4c30ce22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2017-10.zip"
+    },
+    {
+      "bytes": 42635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 720,
+      "sha256": "6ddf8e075d3a37dc562e23256d345ee81a522cc0d5f85d377f5f27d33fc119cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2017-11.zip"
+    },
+    {
+      "bytes": 43044,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 744,
+      "sha256": "19c7f837276cb4a83bc06e8980008e1f8628af980c708c381f694297591d939e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2017-12.zip"
+    },
+    {
+      "bytes": 41014,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:27+00:00",
+      "rows": 743,
+      "sha256": "884fb186232c8c1c8fee29dd768b77e1015e0097769f559fb63980287a3e96a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-01.zip"
+    },
+    {
+      "bytes": 35315,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:28+00:00",
+      "rows": 640,
+      "sha256": "e1fe7f0dd649f4bfc94c43e071d8c47360bdc9f6e63b8b5926c316490bb99220",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-02.zip"
+    },
+    {
+      "bytes": 40062,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:29+00:00",
+      "rows": 744,
+      "sha256": "30e21e25299d62747bf2c1e72e1f2ac7a84fb42fe8dd4b18008097e7e658fbab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-03.zip"
+    },
+    {
+      "bytes": 38706,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:29+00:00",
+      "rows": 720,
+      "sha256": "517ff7fb242c9e5b4c04e0cdc9a877dd74f339d6508ecfbb03a40a9d395d9eab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-04.zip"
+    },
+    {
+      "bytes": 40396,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:28+00:00",
+      "rows": 744,
+      "sha256": "96e76aad0d76259a46c6939eec7fca2f03d3257efc132314d0c7841f21590563",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 38094,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:29+00:00",
+      "rows": 709,
+      "sha256": "89ca6f4f5f3d7eda63a1e2b73e89137c84de07f64dca9f3137c0b5720a373f16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 39428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:29+00:00",
+      "rows": 737,
+      "sha256": "52e7fc8fcd45d532b9c39c7188e7b0f23c7cd0b1fb85ab9f96a1f769e985d45e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 40152,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:30+00:00",
+      "rows": 744,
+      "sha256": "08aa5c8650555341cb9a97bb36d224a885f7f43d2639062d86dc73999ba7a8c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 39154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:30+00:00",
+      "rows": 720,
+      "sha256": "4dc44f74cddfb7fdb4e443bfc5625ddd01a219bd05bf9b828edebb460cad24d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 38544,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:30+00:00",
+      "rows": 741,
+      "sha256": "cb5965743f2d34dcbc9e74c838e631d102ded65bbab6af7f9be1f1a47c1d5902",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 37852,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:30+00:00",
+      "rows": 713,
+      "sha256": "c5ec22c135d03b693efc18ee5a800976eeeffa0d77c2018eb4b8001c34dbd261",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 39734,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:31+00:00",
+      "rows": 744,
+      "sha256": "c879eedf9c34e514d4366a521c9270641359128168b493e5e7c1c86fdc47cccd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 39432,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:31+00:00",
+      "rows": 744,
+      "sha256": "dfcb945fc3bb86dbb6695e5c043b6e55cd239c52abd7cabdaa7bafef2c9ddf1b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 35539,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:31+00:00",
+      "rows": 672,
+      "sha256": "274f269cdb4d5e261776f36dc013dfd894e6708b3ef1716b50e8d35e9e16f6c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 38409,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:32+00:00",
+      "rows": 738,
+      "sha256": "00baadffa3bb44317c2b8b188da4303b486e9c06c042f6ef735755257ad246dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 38262,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:32+00:00",
+      "rows": 720,
+      "sha256": "1a71dd3568ff0c875ef870f0023d2a9e7c8cdd7d7b427e373cdddb9b02909c51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 39800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:32+00:00",
+      "rows": 734,
+      "sha256": "147ba87d425554fe66c387c44100f6c6fbf0857d116ebbe16a5854ae5662f2c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 39069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:33+00:00",
+      "rows": 720,
+      "sha256": "3b51d2c72e8ba3891bb8631d226a5d1610ada0abc8095f7b48de539db8fcd6e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 40233,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:33+00:00",
+      "rows": 744,
+      "sha256": "341560f517488020a87e50c379b37cc2605dbeceeb29a171d8f078186e2ed6eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 38918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:33+00:00",
+      "rows": 736,
+      "sha256": "84a769439af04f0c8413c32f9c8dcfd5a29241b8bcfb389776b296a6b4f8b6d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 38471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:33+00:00",
+      "rows": 720,
+      "sha256": "4c2f8e47ac294e8f10726273b5a637ed172e98711915960eb5d15e71421d1ea7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 39685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:34+00:00",
+      "rows": 744,
+      "sha256": "546117d59598496fcb3122772c2c9bf45d0c2dd7a25a9b07bd78a9cb83ad677b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 37868,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:33+00:00",
+      "rows": 716,
+      "sha256": "222067844687455cf1f50022f906eb19eb0001e690378f3c5a12e89dd7bdc721",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 38826,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:34+00:00",
+      "rows": 744,
+      "sha256": "c7734b09fafca18a99f4906ba33b34a37cb96b8c0f866e6b92f9e951f99f5b8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 39551,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:34+00:00",
+      "rows": 744,
+      "sha256": "9e0ca4d30bcb22d5c876b912b3160445d2410634d09e9584060f592c30a06402",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 37876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:34+00:00",
+      "rows": 690,
+      "sha256": "1cf8a5b129d16bed072c46e158b5914247007ec7e00b489880f422c80c73afbe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 40856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:34+00:00",
+      "rows": 743,
+      "sha256": "2d80640a11d7de0eb052637d25aa95eb42602a927ad7c0be6d77a7689fbe93d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 39174,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:35+00:00",
+      "rows": 718,
+      "sha256": "0171b734b6131a542d79e35dc2ffbf886c1353574ef0983e95c4a8eb2856e56a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 40466,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:35+00:00",
+      "rows": 744,
+      "sha256": "4a02d33138486434643a314ea561e274f95c9d93124763d15cbf18bf809ca771",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 38510,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:35+00:00",
+      "rows": 717,
+      "sha256": "d605f9ad1cc5556cfef7559f2d9e5cda0e55deba7f8ec03ea253bf8ec2f99d81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 40313,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:35+00:00",
+      "rows": 744,
+      "sha256": "3a740ceed16217e109224e01ca0ce552d241bf39045d82d29f69e61f13149ff8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 41392,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:35+00:00",
+      "rows": 744,
+      "sha256": "2b50f4e13ad28b1502cb99abb6e2d71048a46f207ecbd02aa4720ae1e451f703",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 40089,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:36+00:00",
+      "rows": 720,
+      "sha256": "1bbbb6fece1ff1f5ac8b42b8073686bc1e05e1cee404f453843a5cb5716d3a95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 40737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:36+00:00",
+      "rows": 744,
+      "sha256": "7dac6824ff1762f704b9cd6becab4282ceada67be26f0466d378341c41db0ea2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 40447,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:37+00:00",
+      "rows": 719,
+      "sha256": "a1b583dd091363fa1375bced29f78f69889c6da219d1c136b9d0f9269a19158b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 41720,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:36+00:00",
+      "rows": 740,
+      "sha256": "3928cbf56a66752d619eb438b92e0bc8cca2c8f0420237e5f5e81fdc19db13ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 43823,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:36+00:00",
+      "rows": 744,
+      "sha256": "01d6bb8175fb847a256ca1cc14dce06194a86c740d7edc951a5d2835aba9b577",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 39318,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:37+00:00",
+      "rows": 671,
+      "sha256": "f2e871ec862f36045bfa06a05210832d6b772a101a62b18bc7acddf906083b44",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 43093,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:37+00:00",
+      "rows": 743,
+      "sha256": "64d15bc69f1788ccfa775cea47bf2f614a2ccb4eccf66257f512c8cd99d497ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 41907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:37+00:00",
+      "rows": 715,
+      "sha256": "299b928009158743a92860a66c75ba898243ecbdfa8ef9b346c0a7fd553bcbff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 44688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:38+00:00",
+      "rows": 744,
+      "sha256": "56707e7dbceacc194a6ecd31ea2b2a75a5c5f428182e63055217188c7e47c89d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 42407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:38+00:00",
+      "rows": 720,
+      "sha256": "e5244f5f095543d47d24a617c67292cf5daf95cc403407f5fff2fbd394580512",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 43318,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:38+00:00",
+      "rows": 744,
+      "sha256": "7048eb9eec2a091a3550f16870b93165eb21885ba6e217dac28682aebf248241",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 43105,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:38+00:00",
+      "rows": 740,
+      "sha256": "9e390848fe76625e72b8f4eac86d405ed33c79ca9d79d9af14266c54d9d215af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 40803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:39+00:00",
+      "rows": 718,
+      "sha256": "c10a61248a5c92280e35beadcfdf33220fdc0561ab1973893a4fe5a3335d3b78",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 42076,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:39+00:00",
+      "rows": 744,
+      "sha256": "332cdaac0de88dd2452c0ed2561f86e99ebba6f89d9db69b35aa9f52acafe805",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 40833,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:40+00:00",
+      "rows": 720,
+      "sha256": "fc8093a34678bd6ce4436c411127a69f245b2d5cfa6208aee67ffda504a70664",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 41944,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:40+00:00",
+      "rows": 744,
+      "sha256": "7cec67435b94112e7d1a8ec45b4d0167735102d12cb8649699aedf5018b09a80",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 41862,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:40+00:00",
+      "rows": 744,
+      "sha256": "14a3875732b7e404be2522aec94b5f17fc43f81e77c0a68fdd72980ea644ef5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 37936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:40+00:00",
+      "rows": 672,
+      "sha256": "2c155824e909de8c1f91a41bbdc2356c29f3c16944db3982a7c912ff58083eb3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 41670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:41+00:00",
+      "rows": 744,
+      "sha256": "9af5cd5120e2942f763f0a45cec35b0a98322015d52b29884655875f8bfe361d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 40240,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:41+00:00",
+      "rows": 720,
+      "sha256": "d47fd9d00967d87564a52cc7025960de98513f863a83018e9f9dd0eb5875df39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 41837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:41+00:00",
+      "rows": 744,
+      "sha256": "382390f47d0660bb3dc16aaedf7901002a2293ca7a375045b08d956208c95615",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 40835,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:41+00:00",
+      "rows": 720,
+      "sha256": "9fd8dabf04723354423f643b62b74ac5f1046e28f855c0e15d9eb68b5e49f559",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 42054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:41+00:00",
+      "rows": 744,
+      "sha256": "87c81755af5e05b5b24182eed98582284b6896048d231a245581d76df669d4b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 41777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:42+00:00",
+      "rows": 744,
+      "sha256": "7792ffb44dbcd7a9964ea796ffc2dc2049b5437a5a317c07b64eb4be8aac1a13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 40195,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:42+00:00",
+      "rows": 720,
+      "sha256": "e64c3e782b8421fa035843584bff1ddcdee84ee1bcb06d6e154915855d6917c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 40772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:42+00:00",
+      "rows": 744,
+      "sha256": "e0e1d08f8e089a0273e2ad62ad052b690d4082c82bf56da6f7b2c37795e2ab6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 39897,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:42+00:00",
+      "rows": 720,
+      "sha256": "109c93bc5db33562650e146c9a9332ec4496dae5021cf942f5c75317c75d16eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 40023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:43+00:00",
+      "rows": 744,
+      "sha256": "6f704c3ed1be5ce404b5ca53e733e42b005308714218ff9e21d15e7cfb128f01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 40509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:43+00:00",
+      "rows": 744,
+      "sha256": "6a646f674ecfa736db1e6fd0c4ebaf26594806efde851f2c7081aec533714e3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 36954,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 672,
+      "sha256": "c23f2ce377caba0279a932cfea93701bd02c996879293c5c395eaba06a943039",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 41120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 743,
+      "sha256": "90d268be1e0d39f7411f88ca3c0f21fe110fee7ff3c1dd054555e1fea6e22d8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 39687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 720,
+      "sha256": "36598c7b9ac93706b8c9f9e6da11bc2137f605c442dab139ac35e397efcd9473",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 40460,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 744,
+      "sha256": "e03f762cd90b9a4eb6bf3499a05f4df84a71fd23f18d8b1b9c2e88eb469b0f2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 39155,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 720,
+      "sha256": "7ca4b8f6f6ff04f6899fe49b68df2c7b60841dfadb4a334631491af2d192bfbf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 39931,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:44+00:00",
+      "rows": 744,
+      "sha256": "b141e7b3ec07f24756b1c5c27b562acfe06d331678a49c493a5fa2cba44eb97a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 39655,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:45+00:00",
+      "rows": 744,
+      "sha256": "25930d0ba8280ec82b879d130071582c3ee4d5a1fbe31dc34c016b2c314d3525",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 38385,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:45+00:00",
+      "rows": 720,
+      "sha256": "3453dc6570a7193ab358e5a4c592439b4073028b1ab09412610d9409cf330219",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 40238,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:45+00:00",
+      "rows": 744,
+      "sha256": "d91229dd47c4cf53b8e326b500295a4fb9f0316faca0e2149076065bc53ae049",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 39562,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:45+00:00",
+      "rows": 720,
+      "sha256": "2be46057e4a5b40b4b7c6bdf5b163aa22e353048e62907e730cd471fbf3a62b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 41082,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:46+00:00",
+      "rows": 744,
+      "sha256": "89ec0d0b4f4ee72f4f1c2fad52ec1d94435d525bb107ae23d6f9716c77dbc428",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 41245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:46+00:00",
+      "rows": 744,
+      "sha256": "1fdb3a8fa6b77ef30ef17ed4b71b184172ef1f812d83bd0f50bbd08e71a92057",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 38782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:46+00:00",
+      "rows": 696,
+      "sha256": "f080ff288b2f7e85e78c5370a8a3258b93f85531ff96b4131c1b7889649a8ba4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 42083,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 744,
+      "sha256": "4eb16ab0c5db15e5e0d77827f5c19c215c7ce601a5501d9563b75bda7602f46e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 40291,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 720,
+      "sha256": "8b710fad720ae0bc75eaded37b3add95ca49122ae398f3f6e33e57e864da781e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 41346,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 744,
+      "sha256": "0307d64f0d9ae6ff4001442a014d7b02dcbc5a003dcc36ba139f1c9695996b51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 39586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 720,
+      "sha256": "59ee6920bd72d93d1130c89711c93ea192bbfd5f82b548dcb0448f66450f6a06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 41340,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:48+00:00",
+      "rows": 744,
+      "sha256": "83181cfcc1f1e32a542e2c220cbd58acd1c550cc64ad1e2c414e47088266aa7c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 41335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:48+00:00",
+      "rows": 744,
+      "sha256": "d908255a48978f6acb769c4b856a3307c58a8c19dbf2b3b7f10067245d5e8b89",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 39572,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:48+00:00",
+      "rows": 720,
+      "sha256": "bfbdda97d03abac469199120ec3c2f1305e2d5947e9155ff84dbeafe33cd4a67",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 41095,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 744,
+      "sha256": "cbb13664485b6c9a6365da7ae23299b722ab5926a6aed516add486ef501883bc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 40916,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:47+00:00",
+      "rows": 720,
+      "sha256": "29cd30419b86d5dff5467a7a81d43e492aaaeb3669db216ab8badaad5fe610ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 42106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:49+00:00",
+      "rows": 744,
+      "sha256": "84312b7dc2b5c903853c78d94f587ef1d24b7960d7bd95f5bfe3afc3db006203",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 42253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:49+00:00",
+      "rows": 744,
+      "sha256": "f7350a6f3b51de466a0db52ba890cf296d4faeb6e84811b9606f87ad39ccf3ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 38410,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:49+00:00",
+      "rows": 672,
+      "sha256": "40c2f73850422d47ca7d044959cecc39ff3416f6e3c88f30636da4a01a0b6e31",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 41867,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:50+00:00",
+      "rows": 744,
+      "sha256": "dc32ecad498d19f8663633196ec84cbd480595c89aa1ae6062c0fa0b8d9bd11d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 40375,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:50+00:00",
+      "rows": 720,
+      "sha256": "73f39799fae1ba4ef291c6785b934a6c817426ef8ef60e1bdf42078efd27893d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 42206,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:50+00:00",
+      "rows": 744,
+      "sha256": "720a319face496acff79d8e6279b9b03f31495097d555c74daa076cd66421bee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 40653,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:51+00:00",
+      "rows": 720,
+      "sha256": "780788805b48a094886590d939ef45372db2ee053aa5d464f8e135121df2b8eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 42467,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:51+00:00",
+      "rows": 744,
+      "sha256": "d5c4c2482004a49b479ff5bfbdb885b25035ace24e5f95edd8057507718df366",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 43041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:51+00:00",
+      "rows": 744,
+      "sha256": "1ebdd24f8e1df5369518b721fdb0bfaaca9892ae71499b82783194573f804cad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 40873,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:51+00:00",
+      "rows": 720,
+      "sha256": "f83ffff284b408574a4571e83fabc5c641e20edc71818912541cc38ec7e1be43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 42832,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:51+00:00",
+      "rows": 744,
+      "sha256": "f3668059619d772ae8f7167d82666dcc6e2f88f17e6fd66a4a8098c9cd8ba042",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 41327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:52+00:00",
+      "rows": 720,
+      "sha256": "3c0171cdd5eef1ece36c818ace3a07cc48e331cb9d991488a8db917bc496b78d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 42005,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:52+00:00",
+      "rows": 744,
+      "sha256": "7a7a35ce7b9be9bafa0a00c47370acc57a48329a3289c21cb19f1185f6430fdb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 41945,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:53+00:00",
+      "rows": 744,
+      "sha256": "eb060da7fb1adc65c7999f7d1f4f3b004edf2335311bb32d05a86f9577c21106",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 38274,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:53+00:00",
+      "rows": 672,
+      "sha256": "8c8c6e664688497711832add90349b8617caf7e8892f085e97fe4290989fe78b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 41894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:53+00:00",
+      "rows": 744,
+      "sha256": "0bf4dc37f2b201a8891f63dd76164742ed7d4fa24c24065a2e7709f34488ff74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 40057,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:52+00:00",
+      "rows": 720,
+      "sha256": "46d62ed100717d8195bce4c07a41dc7606f41abc491ca71f9bfe653d2b92bfc0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 41042,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:54+00:00",
+      "rows": 744,
+      "sha256": "8c4cef22ad7046183621f1a41155e91301780a3c9f377d7770763027b08e2462",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 40134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:54+00:00",
+      "rows": 720,
+      "sha256": "e24954ab4ada9dc5f6bbf9ac30275d459a5729fb522f045f627296b4ad7ee985",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/1h/ETHUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ETHUSDT",
+  "total_rows": 77629
+}

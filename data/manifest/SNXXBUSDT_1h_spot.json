@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9716,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:42:19+00:00",
+      "rows": 227,
+      "sha256": "85e354d74be157e6fb191443d1f6b63e37ecf7bab773f4597f38130f19f4f24d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SNXXBUSDT/1h/SNXXBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SNXXBUSDT",
+  "total_rows": 227
+}

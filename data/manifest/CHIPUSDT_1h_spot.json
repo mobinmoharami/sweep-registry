@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "bytes": 11944,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:47:13+00:00",
+      "rows": 227,
+      "sha256": "edf594d67e5c1bb0ec65e67c492fd0a9e980987923fefa8a0af8b9bffe4724b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 35393,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:47:13+00:00",
+      "rows": 744,
+      "sha256": "f40af06b133694b9303a967660d3ccc6d5ee5ff3909750a27f21c7d13415cdd4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33088,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:47:13+00:00",
+      "rows": 720,
+      "sha256": "1028ff489f2fe85a4fec63f9881d0d2ec10ac3839b292001a5b84093a9df9318",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32304,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:47:13+00:00",
+      "rows": 744,
+      "sha256": "391c3c2fab332b6a7e59d427d7735917b1272f214e0c7374734490cebaf08c11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CHIPUSDT",
+  "total_rows": 2435
+}

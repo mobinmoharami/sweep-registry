@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 8694,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:49:44+00:00",
+      "rows": 227,
+      "sha256": "a7a3c998714cfd083c7eb284d0aee6a42dfffff4e6c6a3eee99ddfe90a427ba5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CRWVBUSDT/1h/CRWVBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CRWVBUSDT",
+  "total_rows": 227
+}

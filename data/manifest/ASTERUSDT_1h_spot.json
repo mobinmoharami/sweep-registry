@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "bytes": 31012,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:11+00:00",
+      "rows": 612,
+      "sha256": "81dd29cf06fcb902c4cf0a08f9ea1400e176c2aacaf66e17e4280440aa742117",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 35924,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:12+00:00",
+      "rows": 720,
+      "sha256": "15a4af6ccec374ff944f35c3cadc2288fcbff2c97ebfbd2859dc890db6d31587",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 35342,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:12+00:00",
+      "rows": 744,
+      "sha256": "d107d98408cbd198527bdd4d52f58fdf0d47799c1f3b553927fbf39140a00cf3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 34875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:12+00:00",
+      "rows": 744,
+      "sha256": "7b8ca2c942fb9757d394a8e55123193dc21715af1b66ef8c68ee33942b579c06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 31560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:12+00:00",
+      "rows": 672,
+      "sha256": "ef9f31babc7fc60c2673a76c661e1da8b875f35afc3f810fe3a1bc6b3f2e035e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33403,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:12+00:00",
+      "rows": 744,
+      "sha256": "bb73350ad1f112470692a4c3d86df7afec51a3f7166e33fe8fb08425b2b06b08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31520,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:13+00:00",
+      "rows": 720,
+      "sha256": "1ba12232cc5c1c35a039603dd9382566b2b749f77c6955ad9ab0a33ab41280f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33378,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:13+00:00",
+      "rows": 744,
+      "sha256": "eaed654082707b05eb8ddd4d7f6c6175f2caf28e68e18b2a79d986c43ad943ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32347,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:13+00:00",
+      "rows": 720,
+      "sha256": "9719a9290d465a2b235db200fd68d59f62576128e55e0f8644df8c9081f7c063",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31290,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:13+00:00",
+      "rows": 744,
+      "sha256": "2e8bd8c074946edeaa2fb29de7b7aafbf0eaa8d799cb4e88578b111014e0e111",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ASTERUSDT",
+  "total_rows": 7164
+}

@@ -1,0 +1,797 @@
+{
+  "files": [
+    {
+      "bytes": 34183,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:44+00:00",
+      "rows": 664,
+      "sha256": "8e79b696f9005f482b4a834ca04338ec076b35ddcde8bd2a8687a4b6d94c5a51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 35934,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:44+00:00",
+      "rows": 709,
+      "sha256": "fe93cd01c2455aab0b2212935f24a1f8794b600e47c57737d46ef50ffd7529ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 36343,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:43+00:00",
+      "rows": 737,
+      "sha256": "579eb4c29f68bd10a4cbb5f95cf159576172a51bc990b30e7e821b6b4570cfbb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 37130,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:44+00:00",
+      "rows": 744,
+      "sha256": "7876c1dcc97164b24f4ef4401e8009cc36e0f0188cb85c4ff92e82744eb78993",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 36688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:44+00:00",
+      "rows": 720,
+      "sha256": "c4193fd96dbb0f8c4f1da5fcfc6d779f10a2446667d41bcf702d2ae17a838f0d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 37415,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:44+00:00",
+      "rows": 741,
+      "sha256": "df71fb18eaff83ecb2fe9b5b059991d580d7f9e4e0b69ec3c96090d0de76c4be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 36652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:45+00:00",
+      "rows": 713,
+      "sha256": "2f07784ad9a07ec64d2196ea835e7ea665eb1c94c6040b3ca40f6589cceda4cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 37766,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 744,
+      "sha256": "1851555a7e457fc31822d39557fcb651cf22f58cf7f26af42be4c7553f991465",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 36899,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 744,
+      "sha256": "546e26f902de89e7a28566b55103f9cad49d8943aa665fa95e68b644267bd385",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 33488,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 672,
+      "sha256": "3d93cc03dfb6fd80744ca8c54715e0aa3fac6cd5cf7796fd26b2c9a1e2e1c9a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 35960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 738,
+      "sha256": "53597213a6b802bb52c6a72553b963287eaf4ba3164260726ba229d037651670",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 36146,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 720,
+      "sha256": "37b125682cda36028eb4a0fc5b08f2ed2d59d2b7b258ff93d675406cee4850f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 37637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:46+00:00",
+      "rows": 734,
+      "sha256": "89fe516bbf5fb03d216976c24b1a9eddb484d992eca016c9d4603dce98fdb78f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 37193,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:47+00:00",
+      "rows": 720,
+      "sha256": "eb6b178a0709e63fe2bdf4a7ad70bf7b9fb02bf3235f350a433dd4c212c724ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 37586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:47+00:00",
+      "rows": 744,
+      "sha256": "f2159d9b67fc7984f8e855ee0f6e0233a5f1b84d5dbd6e64c9b22658863c2372",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 36457,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:47+00:00",
+      "rows": 736,
+      "sha256": "0f90818d843cac4b8a6dcd99ce09e0c9d364a3dfe202e29f4b2f62b9e129c713",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 35907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:48+00:00",
+      "rows": 720,
+      "sha256": "c3baa932f2dad70aa687fdb7cedccc973cc3927d010a85cb04fc7f67982a3e6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 37472,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:48+00:00",
+      "rows": 744,
+      "sha256": "3a3ccc9d0ff2bf23ebf17909d4795410dacf423327a81f2331ec5d6d89150c6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 35744,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:48+00:00",
+      "rows": 716,
+      "sha256": "33d03b02d74eb19bcae99278ce7bccab38db2f559e04e6f5e04bae127ee7f50a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 36349,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:48+00:00",
+      "rows": 744,
+      "sha256": "3d99d7de02840d6d74dea82d62171f84b777c5a8043ae38fd58079b5b44f069a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 37164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:48+00:00",
+      "rows": 744,
+      "sha256": "6d3c6e97ad191075edc3e851ae629439c9f05d4a512d0f702a08854b4d6f2dd7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 35693,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:49+00:00",
+      "rows": 690,
+      "sha256": "46a4dd2ea2aaf71ad34e298c66f4fd08dad5991ad1586f17f062d7a26e39f24b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 37967,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:50+00:00",
+      "rows": 743,
+      "sha256": "d6ffc4debb2056d7405d47a258e0362ec06294a1370b9d4023b822e03e148b7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 35928,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:50+00:00",
+      "rows": 718,
+      "sha256": "ee109631971e10b4e78fcd4bf01c0c1a44e8e305089f0313c8677ce65a756728",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 37106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:50+00:00",
+      "rows": 744,
+      "sha256": "53212ceec479499ed11ba1dc52c10831f077f209fa3bcc67d0b571c5ba9b58ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 35142,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:50+00:00",
+      "rows": 717,
+      "sha256": "66fe7be668d26c8b472c6536aeecbf43b9502a73c3a59a49189243a53999939e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 37440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:50+00:00",
+      "rows": 744,
+      "sha256": "b34c0c5310059a6c6934e39e4009b7e9e9d1a8401aab5e16045fa1e5fdcd2006",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 38554,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:51+00:00",
+      "rows": 744,
+      "sha256": "c6e7d10022a88013f21deb07593eecb12ad82839a9afaeb13314f7af3c51414e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 36396,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:51+00:00",
+      "rows": 720,
+      "sha256": "a164aeab6827996c6a56e774115de952833c2741b2f231b6a1ba9a81d84b1e4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 37245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:51+00:00",
+      "rows": 744,
+      "sha256": "19320ca14976dd7735f0cad1d1422ced50274c92c993e43d915d83328906a7dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 38025,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:52+00:00",
+      "rows": 719,
+      "sha256": "1c467210d25fd2b2e745ea02b78bbd46a93dd0122dec1e535cd78c7ed1b39d4c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 40489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:52+00:00",
+      "rows": 740,
+      "sha256": "006d64df2a6ec9f1462075bff97a03c9feadc6dbfe01b08aa52e47ad3a9246b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 40051,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:52+00:00",
+      "rows": 744,
+      "sha256": "547a7c359666086072f24b6af2056aa08b1fd2a2450476c9f56d31c55b139d18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 36893,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:52+00:00",
+      "rows": 671,
+      "sha256": "998bf641c713c800807bcf50c84e0fc74eb4c7c2a2ad5df6d66fca7174aa1f77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:52+00:00",
+      "rows": 743,
+      "sha256": "bdf9fb6687fb1044e5c560c4a37147ac9d09dbecd14b03a54c5c546e7b695a5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 40504,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:53+00:00",
+      "rows": 715,
+      "sha256": "0a5f1ce7d9724726e75a8da116bf2adda123a8e78530f7e309d3f6633865b5f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 41275,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:54+00:00",
+      "rows": 744,
+      "sha256": "6aae8ca0411fb079bd97b6a2928420fd2314d6937a659af46043e9651e86a44d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 38635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:54+00:00",
+      "rows": 720,
+      "sha256": "97bf1c3547d34cea80e8f6267265cce36bede0b760476e9e215f96704302f197",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 39071,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:53+00:00",
+      "rows": 744,
+      "sha256": "18f1db3600b8ac5bce58aa525a56512b0c62eb4679a3052abbfe6a41fbf76f79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 39341,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:54+00:00",
+      "rows": 740,
+      "sha256": "023f48b1cc5cd2934817ca4c32d6c49ce7436eb9a767cdca5e65c3aa206ae8eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 34964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:54+00:00",
+      "rows": 718,
+      "sha256": "1bf6a19694019605f3d8914d01ba4d26b7735fd0e5bb001cac6947fc6b5471a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 35859,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:54+00:00",
+      "rows": 744,
+      "sha256": "7203e4bfed4dfcc86823eb18ef2e5494813b091ce173e86f9292f4e17d4848fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 34746,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:55+00:00",
+      "rows": 720,
+      "sha256": "ab342c4ec5ab6955f959781ac2ae2ace6fc7ee49e66c79f4324f5334237318f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 35705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:55+00:00",
+      "rows": 744,
+      "sha256": "5ef1521a608eb28cd3ceeac69f0156d21d3da881e41bdd7aedb2a2f73534dd8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 35064,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:55+00:00",
+      "rows": 744,
+      "sha256": "3dd1aac953fbf7ed2d3f019bd3d85e7b1cfc335493723b02ea422543eb12be6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32480,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:56+00:00",
+      "rows": 672,
+      "sha256": "aa4fc993b3a634164574297fe55143652af3543ac87a1bba2865177808e20541",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35140,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:55+00:00",
+      "rows": 744,
+      "sha256": "7f919c2ea70d24ec90f617a697216c1fe6f0eaaf27a4c4d5514b59ef8b87b907",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 33733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:56+00:00",
+      "rows": 720,
+      "sha256": "fc87ce152ba125900f7a3e181edb514a1dd2c625ddea4f9c25aa3fb9b7393da7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 35208,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:56+00:00",
+      "rows": 744,
+      "sha256": "d597c3bf8094b9ae317154ca762ffdb7669c1207a6952682b37fd65e1d31cb76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:57+00:00",
+      "rows": 720,
+      "sha256": "8347834a6951818114ad6aa914833ce1585123bc35bbe34623f2bc5f3108049a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34208,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:56+00:00",
+      "rows": 744,
+      "sha256": "67e062f1453d9b60f34d472829d4d1670ac24176af9b554b3650150b8e4da364",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:57+00:00",
+      "rows": 744,
+      "sha256": "ee7291e5da57026319d088b29376b13f5eece37520a7181fd1040acf5f68298a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 33732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:57+00:00",
+      "rows": 720,
+      "sha256": "ab5af203255ab893f20301362b07cdd93bf2686a794a6dffd1bb75588be1ae34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 34646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:58+00:00",
+      "rows": 744,
+      "sha256": "2cd0fa7d849f8be4e42171bec9b715886088619d062474b77756d15e7e489e16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 33826,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:57+00:00",
+      "rows": 720,
+      "sha256": "13f222c67465b9eba0a0eb0644d43a1c22cc16b2be8c533e8e578c8a2028bdc1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 33734,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:58+00:00",
+      "rows": 744,
+      "sha256": "a8cc8dcc3e93c0ef22dcf842336f355b2ecbb8ab49b8124631c3894b45905105",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 34242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:58+00:00",
+      "rows": 744,
+      "sha256": "5efb145b921b6d2adcf73338eaf787033e333033c49623a0d9152682e91b9f93",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30691,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:58+00:00",
+      "rows": 672,
+      "sha256": "907ff8915cdf9ea1c02c4949c6872d208f5f2c81c18e1751dcf1166fe2902118",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 35023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:58+00:00",
+      "rows": 743,
+      "sha256": "f714a3c98ba10e82a79ec8fe126b78d70a9b3804dbbde00294c0d1d3f3280df2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 33433,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:59+00:00",
+      "rows": 720,
+      "sha256": "de8ce6aedf975d5ef89560a93a1fefb35ea51d06719a3636dd37034883c396a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 34153,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:00+00:00",
+      "rows": 744,
+      "sha256": "c5ea3091f0e130331c00ef75d36a2a2403cf4134c392fbf8b85ec97b6c21ae9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 33479,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:00+00:00",
+      "rows": 720,
+      "sha256": "ebf9c8259a56ba70e5dfd37ec36ede85443ece2c352ba13a33017a8b5bfe83ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 34980,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:00+00:00",
+      "rows": 744,
+      "sha256": "5c92d13b871a149840ce45cac89991a0401451f3475c503a1e1622d71839a6b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:02:59+00:00",
+      "rows": 744,
+      "sha256": "dd70ed1784aafd35b6a2b6b304abefc8a7acb20900bcee24889f5f3746219e1d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 32859,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:00+00:00",
+      "rows": 720,
+      "sha256": "fe3e268b4464a8745240f6dcc5c3d245c23f42e6d0432f2cef254ed49cb4f50b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 34235,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:01+00:00",
+      "rows": 744,
+      "sha256": "70407de31af716063c041443ad0b8563adfb7c78bf6d20001060e5ce7142b2b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33940,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:01+00:00",
+      "rows": 720,
+      "sha256": "8f58815f558f51def4455ad31e5afe0b43548e54c8905541bee72b5058504a6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34661,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:02+00:00",
+      "rows": 744,
+      "sha256": "25152d0d103af6372f509ee705ab8739a9aef936f9862f745a19f12f2cc99192",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34572,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:02+00:00",
+      "rows": 744,
+      "sha256": "77159b42f03dfbe6cd42a05d3491081d34a37293f97b0972b3391757d3c3dcbc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32404,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:02+00:00",
+      "rows": 696,
+      "sha256": "4491e38698b5d787da8616136e0c2090e2b6c5efd3e937657245410274e9544c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:02+00:00",
+      "rows": 744,
+      "sha256": "b2cb09642dfc521ca15e203e2c6d2d96e67c81467005fa9d43aa5ea74f316918",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:03+00:00",
+      "rows": 720,
+      "sha256": "60ac7130e31cd5dee55c5107adbcf52b4b38874e9757a2c5599c6c4ae262bcf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34173,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:03+00:00",
+      "rows": 744,
+      "sha256": "6a10159e5b18de42a3a88bcf7502e881a2013143d70720df347b7fbbae023971",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:03+00:00",
+      "rows": 720,
+      "sha256": "218efe7887d1dee55eb9094bc16361f2bde83fec29e33143d3d9f7a3df72a4d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 35107,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:04+00:00",
+      "rows": 744,
+      "sha256": "35b918d07cd7dc678cee9f7d65f468b556b9310490110151cea866e5b1a8eccb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:04+00:00",
+      "rows": 744,
+      "sha256": "00648458df95d1c616e1a44f19a6e8b25269071c685cba625897f732c1c205c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:04+00:00",
+      "rows": 720,
+      "sha256": "c8f04c971faf07da02d29d68e27c1b83e1e42709a50c06dfe8be43f00fdb14c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:05+00:00",
+      "rows": 744,
+      "sha256": "76afc2abe3a70a2c79f5706d6a66e5154a58927613f033d2c76e4ac5d5eedca7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 35755,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:04+00:00",
+      "rows": 720,
+      "sha256": "010994259de1aa0378e21fd2a4755153b69f1f6f4779d91b0098a4d4c4d5545c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 37436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:05+00:00",
+      "rows": 744,
+      "sha256": "31f6d94510b7db48db22109cdcfed960112bda90a8ff5c670ae528cbf3b05db4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 37403,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:05+00:00",
+      "rows": 744,
+      "sha256": "217109fad8b3a8681b6f860a0c5c461810c735b07a1153044310e86606be12ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 33692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:06+00:00",
+      "rows": 672,
+      "sha256": "1a8f692561213eac27013427cf7df056822217467329fcf5bcd428525da86ee5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 36885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:06+00:00",
+      "rows": 744,
+      "sha256": "c70843debb833b68b05f8a73ca174d0e329e2d8ab34fc1b5e77c86d18e872202",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 36202,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:06+00:00",
+      "rows": 720,
+      "sha256": "72fecc94a24cebd0b7d04d03e72e10a64d441f9b0f729ee7fcb7a40bed866362",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 38159,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:07+00:00",
+      "rows": 744,
+      "sha256": "6d03555be628369abcc80946a41dfd485710364466871befc3084b05d4f2c1f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 36438,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:07+00:00",
+      "rows": 720,
+      "sha256": "45067e46f6dbd885b03d59fb797407391c41910cc570ad23b90aa719d12742f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 38983,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:07+00:00",
+      "rows": 744,
+      "sha256": "9445599dbaad1ff2b1a102b18ec7a6a436b906f22f0ce2b32c2f7a8d1f3dd5ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 38536,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:07+00:00",
+      "rows": 744,
+      "sha256": "b2f06ce11bb56fcbe97de82ee0f21be58f41811589612fc7e42d82bd7f695197",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 36774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:07+00:00",
+      "rows": 720,
+      "sha256": "6e7cc11c407faa368c2215b8f5adad29afe6bb70c33c74aa5b23bf50dcfb9d20",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 38428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:08+00:00",
+      "rows": 744,
+      "sha256": "4645b87ae8b4a3ab7c936b4ead2748e3ce9e3961208d4e40fbba897f63e39560",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 37154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:08+00:00",
+      "rows": 720,
+      "sha256": "a411aedae1fb7140ab043885223a890a35b3887ffdba85f34437cf26b83937b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 37289,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:08+00:00",
+      "rows": 744,
+      "sha256": "c1f7afa290b1e8c4ef3bc84a3d992d779e636ad69ac700dd24a0847d2f704a49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 37678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:09+00:00",
+      "rows": 744,
+      "sha256": "31af99c0ea11a3b6d7e062e7755ba3240ea1369d2fc1c0b30fcfe0ca7d68b1b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 34376,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:09+00:00",
+      "rows": 672,
+      "sha256": "7fd13cd45c932ae481142213d4035df0ccce048a6dfb2e306c146746540ee2fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 37357,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:09+00:00",
+      "rows": 744,
+      "sha256": "fb697b2abd451ed92c624c457b021fdd38f589e84428ab25dca337d41617aa72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 35448,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:10+00:00",
+      "rows": 720,
+      "sha256": "a6e372008a5940aba04f5a8aa86b75163657180b276aca365f87c993c0930e32",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 36615,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:10+00:00",
+      "rows": 744,
+      "sha256": "03a0520e027df25a9aaba468d585799c30458fbfba7b0588f6f7b3cf7013312c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 35910,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:03:10+00:00",
+      "rows": 720,
+      "sha256": "1a923423f6574df3a2cf51c2ef44847d7df6b5d1a5ca8857d5eef75692143a77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "XRPUSDT",
+  "total_rows": 71425
+}

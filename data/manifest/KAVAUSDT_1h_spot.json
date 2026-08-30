@@ -1,0 +1,661 @@
+{
+  "files": [
+    {
+      "bytes": 8352,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:14+00:00",
+      "rows": 166,
+      "sha256": "29f4d62faef3e20befc8e422212a4b2a0d6dff6f7c7f724af2a792ce2e1bdca4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 33802,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:15+00:00",
+      "rows": 716,
+      "sha256": "2345ad193e0c2cff3530833854ff2ff7276b96631d81d5d871a626444c6cab47",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 33718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:14+00:00",
+      "rows": 744,
+      "sha256": "16f554c77819991e199876931b850d40410e28a258b904a68f4293615880b559",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 32547,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:14+00:00",
+      "rows": 744,
+      "sha256": "cac11dd1ef09543099d721db2db4005cfa7de2e70dafc1f4edf7846d1ec675ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 31331,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:15+00:00",
+      "rows": 690,
+      "sha256": "9b8c2ed4b6f95faf54ec720aff0534b766a60c83a3c838324e5c222ba779bd23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 33373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:14+00:00",
+      "rows": 743,
+      "sha256": "223104a14e865b5502eac0ba39bdd3ed71de5e6c8ddec9cd40362c1298fab520",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 33195,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:15+00:00",
+      "rows": 718,
+      "sha256": "3940fc37f79a7712b5a73335895806988344727641c9be2bc7cb22858eaea175",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 34835,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:16+00:00",
+      "rows": 744,
+      "sha256": "508d6ce03121064146412ca69bdc406ee69a8a17b866bcc784e5d67b28bc1c19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 33988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:16+00:00",
+      "rows": 717,
+      "sha256": "92e5aa4f6bf89702eee033fce6ab7c97fc27c00352313ff337ef417ad90410ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 36526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:16+00:00",
+      "rows": 744,
+      "sha256": "9def1b6f264e4c07468cc806021dabc940c26fff8cbf318e52198eb3b7990b67",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 37487,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:16+00:00",
+      "rows": 744,
+      "sha256": "44ff4c2a28d54f32bda315f01d9590316203d40e4351d457ee8bb7eda64f509f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 35336,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:16+00:00",
+      "rows": 720,
+      "sha256": "39afadad3b26614644cbfe4a0cd8c903647b575b2e441a656f15552115f36504",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 35803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:17+00:00",
+      "rows": 744,
+      "sha256": "c4516a67c40618c124a6474f734fbb2c7a4529d0c11980bbfe466456cba087f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 35430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:17+00:00",
+      "rows": 719,
+      "sha256": "8709f379c81ebf2fb42f283e5d4a0a86474d51d7b29f42ff3859e15a86a1484f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 35136,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:18+00:00",
+      "rows": 740,
+      "sha256": "3e873d211bdd80609758f968fa9964bf3cc7da5d7c90fe328c7785edd71a3ffa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 37137,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:17+00:00",
+      "rows": 744,
+      "sha256": "b5c72fc2ea1c7f6669fda4ba3dde2747369e729800780ee73f492663bf44d749",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 34605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:17+00:00",
+      "rows": 671,
+      "sha256": "f0d6fc1988909f823fdf79328a83a71dd7b61c8a551d85580f0a0ca6b7f38ba9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:18+00:00",
+      "rows": 743,
+      "sha256": "a3f9d587a14ac1b79657b2ba486638a6bfe15a520b7e4c4c5414df1cffe01eec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:19+00:00",
+      "rows": 715,
+      "sha256": "55e57d51f71a08e80a648f0770cadf575be7a2c9662b986f8d4c7371e3495710",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38622,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:18+00:00",
+      "rows": 744,
+      "sha256": "73b64ff64ca960d5e8aa019077c426d7610993b3b4b5c651e8fa2fbb4e044768",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36969,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:19+00:00",
+      "rows": 720,
+      "sha256": "99175b1a2f01dbc2b8a3ec04993f3970292909bc9e7655923420648ea039741e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 37709,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:19+00:00",
+      "rows": 744,
+      "sha256": "829fdd351498173a8ad6967a02b10a4c60e655f1cd614bb1fa48b8f10527e5bf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37981,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:18+00:00",
+      "rows": 740,
+      "sha256": "5cd627b5b8806d78aa61c62edbc5cc96755510488bc86b1624c58b828d56fb4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:19+00:00",
+      "rows": 718,
+      "sha256": "715e9084c6c5117e5e1c2d2d0a5abf8fbbbb54b36252735b0bad83bd038a783b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:20+00:00",
+      "rows": 744,
+      "sha256": "6eb508524b3524e43598c6ca7953f9eb344957d744a1219f4e64f23a09d2def5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:20+00:00",
+      "rows": 720,
+      "sha256": "ed14ab262b4c0ffb4c17852065ec795aec32010fa0c0b33bfefaf4ea5094b4ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:20+00:00",
+      "rows": 744,
+      "sha256": "d4088d5065e0795072e93da414ec54f8db38a20f05135ddb9538a51542ec0835",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33601,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:21+00:00",
+      "rows": 744,
+      "sha256": "ba79a26e0146b90af68a46161eb367ebd74ab26451988cc98b27a6db80780962",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:21+00:00",
+      "rows": 672,
+      "sha256": "794bd7f024380eb98c26fa0afe776c987cb23065c7d0a12ebf6cfab834270a4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32172,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:21+00:00",
+      "rows": 744,
+      "sha256": "e67e312033a90d2dfa925069b1287b78ac567abccfada4883792fe6a08995493",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32145,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 720,
+      "sha256": "2caf937b6fe4add88e1630626fe6eca0ed415610fea0a874110da129fc4d3746",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 33164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 744,
+      "sha256": "4f9edf1557c4cf2030d7625df02b2a7f57c9d222100dabf874436046a51e7175",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 720,
+      "sha256": "728e9b836cf319c252ce0cd19164d262022d31604018e72b51ba98f792ce679a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 744,
+      "sha256": "490295c23d2f930db2ab7676afaf3c47c47bd22548827015ba7e0172e399da43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 744,
+      "sha256": "80dae9580f4c44d5521c75f15aaab109cfefe1f9f6cf65bd5376d93de7b3504f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:22+00:00",
+      "rows": 720,
+      "sha256": "a107680c16907425cc506395591afcae523a731e30f83f26e231087f0ca479df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29884,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 744,
+      "sha256": "23b52250ce4e5f0a7990e12cdd8a4c73eaa26b495aeb257b4f23647f665a6515",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30099,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 720,
+      "sha256": "db3ad7d2bb77f699ee66b6897b55506b91d7e28fb1a92c928a13279fda64fcb4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 29941,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 744,
+      "sha256": "b53e1cf7dfacae64952664e0730130bc4b8a51559477c1bfcb6e82e8461a9d7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 31609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 744,
+      "sha256": "fa45765a3aab8d027711a0ce270ece80b2b287ee436362e6107ab68bd4246b71",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28037,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 672,
+      "sha256": "1cd1ab7d53cde2a4027bd810d744920ee72ec1578f07a35c4832c8c54b1b248c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31497,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:23+00:00",
+      "rows": 743,
+      "sha256": "318858438904b6e34b4497f4da2740c1cbb8e5d781eea635fcf9d4006f5d592f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29221,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:24+00:00",
+      "rows": 720,
+      "sha256": "d03d821d7d830743f6dff88d4cb99d59e472036ea2e7fe144d4865c6408e6f28",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31342,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:25+00:00",
+      "rows": 744,
+      "sha256": "f60bffa9ac5a6f80f9978087da2a719eb65e670ff0908ea98bef29f528db4de7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30263,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:25+00:00",
+      "rows": 720,
+      "sha256": "ca448902fe993b321f1b34a6c215271813468d4bd8baff78b58129ca2fcf6f24",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30180,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:25+00:00",
+      "rows": 744,
+      "sha256": "0a4c0cf1c5a91241b539d1d89e17c9b19810345dfef07cc5eff66561f2c6df93",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29400,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:25+00:00",
+      "rows": 744,
+      "sha256": "386d6f43331e14b011b461169070c4608bd61c1c2a3462c88ecdb4ef64787a7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:26+00:00",
+      "rows": 720,
+      "sha256": "1b87f2af482d317ff7a760b6101a38ff8a4de4c45c1d6e1924357654f91e9983",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:26+00:00",
+      "rows": 744,
+      "sha256": "65a406eaebf62df961d580cac6d5616a1b881023a05b91b80f3d6b76857d1ece",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 29922,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:27+00:00",
+      "rows": 720,
+      "sha256": "91f580fc4fa22295b069527501606a718c9ed96573f5c9e9d69d338c2e942796",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31416,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:26+00:00",
+      "rows": 744,
+      "sha256": "88fd2238245c0218b39165e47652c0706b64bd76989e862a6bc1d8d30efe84fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31313,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:27+00:00",
+      "rows": 744,
+      "sha256": "7be96b79410b87a6f75ef78d40e842ddb7f7c9ed44c89219489b76a92c7793e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:27+00:00",
+      "rows": 696,
+      "sha256": "20fd5c9e40d3230e1070f55ac7b065f8d92b88da979e38b8a785f5860fdd6bb7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35306,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:27+00:00",
+      "rows": 744,
+      "sha256": "77a49a4e84f5663a2e6bbf8725492431caede60fdaca3be1ff80612118500c5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33375,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:27+00:00",
+      "rows": 720,
+      "sha256": "0d0ee06dd9ae93bf95cc7175f1c43137325f14167e080b5138083fd9c7c866ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:28+00:00",
+      "rows": 744,
+      "sha256": "725ab6902444d44318c37d4b8e249004f9e36d5b4426cfd346e1ae5ca783da13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:28+00:00",
+      "rows": 720,
+      "sha256": "ec1b6d114ed575957addbafd03616521b95f77fe2eed3c3a680ee476ec2c2740",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32696,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:28+00:00",
+      "rows": 744,
+      "sha256": "6789d2a0b1df63227622d0c4d8a62f2a0daa110e1a1ab24bb19f94665977aa5e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:28+00:00",
+      "rows": 744,
+      "sha256": "c87fd5980d1fca2a464d28ddde864367f908bc318a21bdfe2513ee8fa3db7673",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 31688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:29+00:00",
+      "rows": 720,
+      "sha256": "b7adeb1fd12c450391368db27303d75bdbee2a5c51964d1ef2fe52e25559f171",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32947,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:29+00:00",
+      "rows": 744,
+      "sha256": "b291dc83479b93468527dafa8ff5756e3ce22eeb5c698f90d7a07af7d6fe8863",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33078,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 720,
+      "sha256": "5508f3ed5999f221df14a82b11613d37585281e5ac9b337ddd794d84a41d52b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34240,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 744,
+      "sha256": "1655456783b9d7213dbc3f59c1eca0c1ea26090c24d94b7d1b7033781aa6d389",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33890,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 744,
+      "sha256": "1a5fdf6370eee7b0d4b787dfca4703bb9cc9a81b46d3cc1941da7c8bac3c62d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30754,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 672,
+      "sha256": "0a2dec68c1cb1a283edcc8d6da4dde73f452d62fd17551aa9f9a939a00f5577e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33930,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 744,
+      "sha256": "836bf64ce94c1c1c83fc30541b7afd53ebbae0ae055d2cfe413ba558a8fb97d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32343,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:30+00:00",
+      "rows": 720,
+      "sha256": "bc0fc55e0e88dda469b98db52728c400163f38ccf9c82390eb065f735a752984",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33326,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:31+00:00",
+      "rows": 744,
+      "sha256": "1f618c2ea611a43b424a1cf802e2e933e65b86b498f0efe9bde81faab2c24ebb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31385,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:31+00:00",
+      "rows": 720,
+      "sha256": "1018690d17a03f80d64a17a167c1c33a9bb003d5a70711a5b5adf1c5b937235e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32792,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:32+00:00",
+      "rows": 744,
+      "sha256": "67207df2e0e0b721250a323d6c5ae42a52edc140c53bc56c77c83b7b96770533",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:32+00:00",
+      "rows": 744,
+      "sha256": "44ba9a33c5a69dd2cf201ff76fa0257d637dcdafb72f04443dd884d4358e920a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30874,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:32+00:00",
+      "rows": 720,
+      "sha256": "73177a125bd963c137f96ee2ae422438d6d5ed43854ed36871d4b9fe66c8c882",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32569,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:32+00:00",
+      "rows": 744,
+      "sha256": "43d845048f004997ad85c5aac4d761a58b32ff15dcd3de9f03e08049b026af5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31616,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 720,
+      "sha256": "0ba53916c186e6772a30031bd39ee5d9ebe21ad7462416b1c4247e8a8d7215db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31170,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 744,
+      "sha256": "a1986e3a3eccd22b36462ffef62a377ef6610ce9855faa831cd541fd7c175168",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30987,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 744,
+      "sha256": "4931a1f6c188f6849e6da2e3f0f609e9125464ca41abbe689dc743a45e8f6dc7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27510,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 672,
+      "sha256": "dcd73afe51dfd1ad182687ff8b78b72af42a28ae3d34ed4fb668cf0af9553467",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33951,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 744,
+      "sha256": "1bb66c4dc5f760df7cb0950aa4df189b52633a0f01e40d5783332a4fa9dcae2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32353,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:33+00:00",
+      "rows": 720,
+      "sha256": "de384dfd5d6b0280e79f566156e3c700b44e32e12eb051fd55a4a6d322e36bf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33540,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:34+00:00",
+      "rows": 744,
+      "sha256": "2f995e3a03863f6627bcf2860a2600a414538bc88c121a7393299ec62cd20b01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32099,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:34:34+00:00",
+      "rows": 720,
+      "sha256": "72424fb7bd0b7950d18df15c3c731cd3f154dfc9c952b9c8e85a545cac620220",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KAVAUSDT/1h/KAVAUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "KAVAUSDT",
+  "total_rows": 58547
+}

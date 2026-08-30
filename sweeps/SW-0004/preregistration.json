@@ -1,0 +1,84 @@
+{
+  "sweep_id": "SW-0004",
+  "title": "Holdout confirmation: short-horizon continuation on BTC and ETH spot, hourly",
+  "hypothesis": "SW-0002 found, post hoc, that short-horizon mean reversion carries a systematically negative market-neutral gross Sharpe across its search space (observed -0.336 against a shuffled null of 0.008 +/- 0.062, z = -5.5). SW-0003 could not confirm this: because its rules were exact position-wise inversions, every statistic was the arithmetic negative of SW-0002 and carried no independent information. This sweep is the first genuinely independent test. It applies the identical search space to data that was sealed at the time of the original finding and has never been loaded, inspected or summarised. Prediction: mean market-neutral gross Sharpe of the continuation family will be POSITIVE and distinguishable from shuffled data at |z| >= 2.",
+  "search_space": {
+    "families": [
+      "zscore_continuation",
+      "rsi_continuation",
+      "bollinger_breakout"
+    ],
+    "parameters": {
+      "lookback": [
+        10,
+        20,
+        30,
+        50,
+        80,
+        120
+      ],
+      "entry_threshold": [
+        1.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0
+      ],
+      "exit_rule": [
+        "mean_touch",
+        "opposite_band",
+        "fixed_n_bars"
+      ],
+      "holding_cap_bars": [
+        4,
+        12,
+        48
+      ]
+    },
+    "n_trials": 1620,
+    "enumeration_note": "Identical to SW-0003. Not one parameter changed. Changing the search space between the discovery sample and the holdout would destroy the only thing this test provides.",
+    "family_descriptions": {
+      "zscore_continuation": "z-score of close vs rolling mean, follow extremes",
+      "rsi_continuation": "Wilder RSI threshold, follow extremes",
+      "bollinger_breakout": "intrabar break of Bollinger band, follow"
+    }
+  },
+  "data": {
+    "symbols": [
+      "BTCUSDT",
+      "ETHUSDT"
+    ],
+    "start": "2025-07-01",
+    "end": "2027-09-30",
+    "timeframe": "1h",
+    "source": "binance public klines via data.binance.vision, see data/manifest/",
+    "holdout": "THIS SWEEP IS THE HOLDOUT. The window was sealed in the SW-0002 pre-registration on 2026-07-31 and has not been loaded, plotted or summarised. It can be spent exactly once: any rerun, parameter change or second look makes it in-sample forever."
+  },
+  "protocol": {
+    "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period. Market exposure removed per variant by regressing gross returns on the underlying bar returns; the residual Sharpe is the quantity of interest.",
+    "costs_bps": 4.0,
+    "slippage_bps": 2.0,
+    "execution_model": "signal from bar t close, held over bar t+1, no partial fills, position capped at 1x notional per side",
+    "survivorship_note": "symbols fixed at the start of the period, no delisting selection"
+  },
+  "decision_rule": {
+    "metric": "cross_sectional_residual_sharpe_z",
+    "alpha": 0.05,
+    "threshold": 2.0,
+    "note": "CONFIRMED if z >= +2. REFUTED if z <= -2, which would mean the effect reversed sign out of sample and the SW-0002 finding was period-specific. INCONCLUSIVE if |z| < 2. An inconclusive result is recorded as inconclusive and the holdout is spent: it is not retried on a longer window. Fixed before any result was computed. Not adjustable."
+  },
+  "planning": {
+    "periods_per_year": 8760,
+    "n_observations": 19000,
+    "assumed_var_trial_sharpes": 1.8e-05,
+    "assumed_skewness": -0.2,
+    "assumed_kurtosis": 8.0,
+    "assumed_null_residual_sharpe_sd": 0.118,
+    "null_runs": 20,
+    "power": 0.8,
+    "cscv_splits": 16,
+    "sd_source": "SW-0002 measured a null sd of 0.062 over 68,490 observations. The null spreads as 1/sqrt(n), so 19,000 observations gives 0.062*sqrt(68490/19000) = 0.118. Estimated before the data was touched; the diagnostic measures the true null directly and the record reports both.",
+    "earliest_run_date": "2027-09-30",
+    "power_note": "The effect under test is 0.336. Power was computed BEFORE choosing the window, deliberately, because the holdout can only be spent once: 12 months gives 48% power, 24 months 77%, 26 months ~80%. Running this in 2026 would most likely have burned the only independent test available on a coin flip. The window therefore ends 2027-09-30 and the sweep is frozen now but executed then. This is pre-registration in the medical sense: the claim is locked today, the data arrives later."
+  }
+}

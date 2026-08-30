@@ -1,0 +1,12 @@
+{
+  "notes": [
+    "A numpy 'Degrees of freedom <= 0' warning appears during this sweep. It comes from all-NaN columns — symbols not yet listed — passing through nanstd. Those columns return NaN and are dropped by the ranking, so the result is unaffected."
+  ],
+  "confirmatory": [
+    "Pre-registered test: DSR 0.823 against a 0.95 threshold. Verdict: NO."
+  ],
+  "exploratory": [
+    "Marginally stronger than plain cross-sectional momentum (SW-0032, DSR 0.809), consistent with the standard argument that scaling by volatility stops the most volatile assets dominating the ranking. The difference is far too small to call a result."
+  ],
+  "updated_utc": "2026-08-01T22:45:25+00:00"
+}

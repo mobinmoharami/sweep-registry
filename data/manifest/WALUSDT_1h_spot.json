@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "bytes": 25203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:11+00:00",
+      "rows": 521,
+      "sha256": "4da002c8bb82600c1342dc1fc8a211d143af01c33e47b0c281d882030c9215ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32181,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:11+00:00",
+      "rows": 720,
+      "sha256": "2dd070aff9a724c96f5d3ad844d161c7b832daa8d26304006800734b5ce6f651",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31324,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:11+00:00",
+      "rows": 744,
+      "sha256": "ff201044560459c9dd06c1309276a1ed6299a7a2bdc1c2101dcdeb4c3395912d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:12+00:00",
+      "rows": 744,
+      "sha256": "9b6434aa28554cf7cb050e79aaf8d3f9190cf53f8a187a81533b8ed291520757",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28095,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:12+00:00",
+      "rows": 672,
+      "sha256": "6bc41b7eaacd3207226380950d44340e41eaa3e47fda171a4c27d7cd5788e234",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30382,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:12+00:00",
+      "rows": 744,
+      "sha256": "8f0695764a620ae935a3694fae6494f6889998cbb456ad92238721b0620d2b37",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:12+00:00",
+      "rows": 720,
+      "sha256": "d2af1f5a941068e14166e31cdaeaca11cfbd5b618ad66553a2bbd4ba6af79fbf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30879,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:13+00:00",
+      "rows": 744,
+      "sha256": "972bd06309aa5b931dc61a388cbae68d2f371884144807e9c11627a6e70afb23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30592,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:13+00:00",
+      "rows": 720,
+      "sha256": "dcb411d74eb9bca602329915ca4eb3f242c8ded6c8ccbe407fafb8a8274e362c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 28665,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:55:13+00:00",
+      "rows": 744,
+      "sha256": "0c43a033225f386bac6a4c37db9a1bf6991ae19eb0b028e43e8e5859f0cd654d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WALUSDT/1h/WALUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "WALUSDT",
+  "total_rows": 7073
+}

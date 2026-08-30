@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 14901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:33+00:00",
+      "rows": 395,
+      "sha256": "70f71447f00a1ae905fcd6844a56b0df42804de90570b05c5a4bad35ddedcd65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RKLBBUSDT/1h/RKLBBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "RKLBBUSDT",
+  "total_rows": 395
+}

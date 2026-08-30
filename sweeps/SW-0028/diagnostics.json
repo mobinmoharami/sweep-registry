@@ -1,0 +1,61 @@
+{
+  "breakeven_cost_bps": {
+    "best_variant": 38.032,
+    "median": -0.941,
+    "note": "round-trip cost at which a variant's mean return reaches zero"
+  },
+  "cost_bps_total": 1.5,
+  "directional_tilt": {
+    "mean": 0.0003,
+    "median": 0.0,
+    "share_net_short": 0.2988
+  },
+  "gross_sharpe_annual": {
+    "max": 0.9307,
+    "mean": -0.1912,
+    "median": -0.1841,
+    "p05": -0.8999,
+    "p95": 0.5005,
+    "share_positive": 0.358
+  },
+  "market_beta": {
+    "mean": -0.0024,
+    "median": -0.0
+  },
+  "market_neutral_residual_sharpe_annual": {
+    "mean": -0.1861,
+    "median": -0.1845,
+    "share_positive": 0.3654
+  },
+  "mean_exposure": 0.033,
+  "mechanism": "SIGNAL WITH INVERTED SIGN. Gross returns are negative and stay negative after removing market exposure (residual Sharpe -0.19, market explains only 2%). The rules carry predictive content pointing the wrong way. Note this is still a fitted direction chosen after the fact \u2014 the opposite rules must be pre-registered and tested separately.",
+  "n_variants": 405,
+  "net_sharpe_annual": {
+    "max": 0.7791,
+    "mean": -0.5297,
+    "median": -0.4217,
+    "share_positive": 0.2296
+  },
+  "null_calibration": {
+    "n_runs": 10,
+    "note": "Null datasets reuse the real bar returns in random order: same distribution, no serial structure. If the observed value sits inside this spread it is an artefact of the measurement, not a property of the market.",
+    "observed": -0.1861,
+    "residual_sharpe_mean": 0.0003,
+    "residual_sharpe_sd": 0.061,
+    "z_score": -3.052
+  },
+  "preregistration_sha256": "88c1722b652f584f2572bca6db818868a7cc15df1f651eacce81aca808aab3ab",
+  "sweep_id": "SW-0028",
+  "turnover_per_bar": {
+    "median": 0.000287,
+    "p05": 4.1e-05,
+    "p95": 0.04805
+  },
+  "variance_explained": {
+    "gross_sharpe_by_directional_tilt": 0.0118,
+    "gross_sharpe_by_market_beta": 0.0162,
+    "net_sharpe_by_gross_sharpe": 0.622,
+    "net_sharpe_by_log_turnover": 0.4359,
+    "net_sharpe_by_turnover": 0.565
+  }
+}

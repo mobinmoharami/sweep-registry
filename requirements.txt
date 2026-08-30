@@ -1,0 +1,4 @@
+# core analysis is pure standard library.
+# numpy is needed only for PBO (CSCV).
+numpy>=1.24
+flask>=3.0

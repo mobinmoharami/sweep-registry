@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24720,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:48+00:00",
+      "rows": 587,
+      "sha256": "0e0514ccf027edc85a7f76a4bbcf01061783ba6c6c0ee9dae44e8f47e4617c58",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GOOGLBUSDT/1h/GOOGLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GOOGLBUSDT",
+  "total_rows": 587
+}

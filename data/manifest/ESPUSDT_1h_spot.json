@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "bytes": 19578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 395,
+      "sha256": "425448ee64c33ef13674a71b7e72886de598351bc51b1b312e9a35e99ed952ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33632,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 744,
+      "sha256": "6e718e2e1ea2b40069f274472f9fe05605e31978647f98a8f7a04503c1978a6d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31381,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 720,
+      "sha256": "3bc2992e35ee6a1bf53dcefb396ee2ca4fb767a9100a15ee36c26a09cd98d560",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31577,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 744,
+      "sha256": "c1ea44f41b8f1770af6f680425e273db7d1949cfe28ec9ea46d8bbc932df7bec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31632,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 720,
+      "sha256": "a4870768705b41fc2b08a600505447efaf73fabb7c0fdbd3ed3b18d6efbf47d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32466,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:56:06+00:00",
+      "rows": 744,
+      "sha256": "3214fd27ae62851519b65db99bfd45e10d2e444c04eeab235cf4b8de38162574",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ESPUSDT/1h/ESPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ESPUSDT",
+  "total_rows": 4067
+}

@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 16876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:11:05+00:00",
+      "rows": 348,
+      "sha256": "4e3c070822bf68cc7ad89dae8f4fd3c39852c8c0df93100320249d29c9186b89",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BEARUSDT/1h/BEARUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 33912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:11:05+00:00",
+      "rows": 690,
+      "sha256": "d06dd57e3f7737b9cefcf649ee75f1e7ba057cc6bdf4fef6d4d40a860ccf8a9c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BEARUSDT/1h/BEARUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 37620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:11:05+00:00",
+      "rows": 729,
+      "sha256": "99dac6404a5ca0fddb1b2ed05f7bf75dcadfbb4603049317356b30aa1bb2687d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BEARUSDT/1h/BEARUSDT-1h-2020-03.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BEARUSDT",
+  "total_rows": 1767
+}

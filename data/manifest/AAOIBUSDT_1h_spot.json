@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 16796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:28:35+00:00",
+      "rows": 395,
+      "sha256": "e750c10490a0c67b13c926e80c7ba4d74591fe588ac798a5136eacd75c0d97bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AAOIBUSDT/1h/AAOIBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AAOIBUSDT",
+  "total_rows": 395
+}

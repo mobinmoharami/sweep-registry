@@ -1,0 +1,557 @@
+{
+  "files": [
+    {
+      "bytes": 2210,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:47+00:00",
+      "rows": 42,
+      "sha256": "61a4b0bf1369dae5a5c7aac6a0aea3f58874dd757aee88f54eece6c4d3d3bbc2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 33002,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 744,
+      "sha256": "57a36ce2e980a153d0f465889547c7fd6e9dd9c8dfa10a1e172051e9462df6cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 30796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 671,
+      "sha256": "172f88766d02f4ad0bfb192d74cfc89bcabae849c21a7827a01361af940340a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 34692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 743,
+      "sha256": "3809a000e86f2401b8576af7fce8b8d3f6e220c509e2d9d1885c6e5f4a38ff97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 33312,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 715,
+      "sha256": "755821a2d4041e8a0556482c30a58482a3f480acea1cb981ec0b85d89d4a443c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 37052,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 744,
+      "sha256": "c989b12218bb27c481dc8b4eaafc67eb6a66422c751333e34c9fa042c0e9fe3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 33884,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:48+00:00",
+      "rows": 720,
+      "sha256": "c7da9b5b25727f3fcd178a0a17a7dc62d8e64ef6418b26e309e0de3aa3416a61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 34988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:49+00:00",
+      "rows": 744,
+      "sha256": "15905ebd5238cb1e9e1d4ffc82013248383b2ea286b71ece82bf88d511ff2ddf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 34451,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:49+00:00",
+      "rows": 740,
+      "sha256": "d8bbdd6bb7ee5042b158486d52ec77221f40fb1e3d285deb0b4c8cff2a76f2fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 29856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:49+00:00",
+      "rows": 718,
+      "sha256": "09d05749e6dbd91cec15aa2e13ff0070531b4328322de17a777f4f1cc40c3b73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30424,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:49+00:00",
+      "rows": 744,
+      "sha256": "2fece1133b84e3c15339978b25022ca96d118bf09cafabc4fd380850d16d45e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 28863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:50+00:00",
+      "rows": 720,
+      "sha256": "4ddc03fe9d3a7e4b01eb2b929a72ec3089b036f707062365a3069823bf4afe91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 29563,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:49+00:00",
+      "rows": 744,
+      "sha256": "f381a0355566a8181046febe6ce808711f9a31e50a4285eeff4b312d998015cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 28107,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:51+00:00",
+      "rows": 744,
+      "sha256": "69c50fa06fb7accc555398c5cf846efd618a3c801464169f85ad269421e27d74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 25848,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:50+00:00",
+      "rows": 672,
+      "sha256": "369bc641a3096a57d3a68bea4102d9e978997015ab7b05a01528081b29144cd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 30064,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:51+00:00",
+      "rows": 744,
+      "sha256": "24d721f6688a3fea505e01650998a2cc40e6a13098915b1a03ff5343ded4b116",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 28162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:51+00:00",
+      "rows": 720,
+      "sha256": "4380d90c322482195790963990471ca20f28b9dfac694fdd441cdd36da753c95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29183,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:51+00:00",
+      "rows": 744,
+      "sha256": "3e0b9c3e2acc69a345d8a064d270d1dde8610da5dac24322e410943a7bb07cac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:51+00:00",
+      "rows": 720,
+      "sha256": "83b66f57ba2dbdbcee02fea5bb37c86e705e592475bd6505ee8ac61ab945365e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 28743,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:52+00:00",
+      "rows": 744,
+      "sha256": "e7a0156ae28c31f03eaa5bf170d24aeeb60dac55a27b225389dc8f374d02f747",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 29313,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:52+00:00",
+      "rows": 744,
+      "sha256": "f7a34cd3db02fc66d47ae3342059a0a77e19fc457782f0f62fc01956eb4f11d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 27996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:53+00:00",
+      "rows": 720,
+      "sha256": "b6741a26ebb09384259e6f97b636c4b63e7bc4576dccc1de3833a925dc8e5751",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 27829,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:53+00:00",
+      "rows": 744,
+      "sha256": "b3df607f801ad87282e3a40fd4913701a4fcb07ffa8f137a5e200617bdd21322",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 28099,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:53+00:00",
+      "rows": 720,
+      "sha256": "77c7c2e860f454bb4e643818033afefb345c2d584fd441015435fef4120eced7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 26598,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:53+00:00",
+      "rows": 744,
+      "sha256": "dcd31d5bcc3c94677e51e1c8daeb93a116e9379d23305ed1ca552e9f91981f13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 28458,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:53+00:00",
+      "rows": 744,
+      "sha256": "a43443c9964f121c70e862659c540763737a99b70f061ad6ccb1b2fc54d3eb76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 25444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:54+00:00",
+      "rows": 672,
+      "sha256": "44716155e54848537edce6cfd45ab988e8e150ffdbf7f2fabedc770247e03fb5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 29185,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:54+00:00",
+      "rows": 743,
+      "sha256": "9f201c5132d89a9223f5466c34466bad95fcf86a8668c5a0b61b423162f53a91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30946,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:54+00:00",
+      "rows": 720,
+      "sha256": "c9cdcc48d630db8d2614f0fee0a80f62a4dad6523078490093908670f742f9f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:55+00:00",
+      "rows": 744,
+      "sha256": "4cc1b9cb010a9435a9e21b62b5411cee844f1f38c65af24c5ddd0b7bce1bb2fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29681,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:55+00:00",
+      "rows": 720,
+      "sha256": "cf0adc96b38ca3fff5e14292d627cabe835483efc56ff5fe9ab3cc3cca980a15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:55+00:00",
+      "rows": 744,
+      "sha256": "6166ff3a1c55a456cce8aa407d6114f323cd4e854747e2565341735436e41bad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31016,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:55+00:00",
+      "rows": 744,
+      "sha256": "edd7e0cf69b36cec17e0807821120786107cb6148aa5b776a409d50c28c3ddeb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:55+00:00",
+      "rows": 720,
+      "sha256": "8e523a04332fda6c9aa8323f5950c936657d6793d97c750bdbf1d99b20138d9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29917,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:56+00:00",
+      "rows": 744,
+      "sha256": "f39c98f9c301cf67019655ad19ea7180353293907430e906c4da928c12a6afd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30059,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:56+00:00",
+      "rows": 720,
+      "sha256": "33a08061b4420cc63ff274455e6230627fd6a5cbf510882d9dbdfd613ed1900e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 30991,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:57+00:00",
+      "rows": 744,
+      "sha256": "681cdf1fe1be76c57ec3bb724213e8f90f1f07117d75517e0beea94ecc51255a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31237,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:57+00:00",
+      "rows": 744,
+      "sha256": "0089509b7e7b507065cb868879f2b61897e7c27e40e7ce70dda50f54e1a92775",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 28827,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:57+00:00",
+      "rows": 696,
+      "sha256": "93797fe296416cf296be145717cf4e27ebb8f058cc3ec393cfb4042bc36000f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:57+00:00",
+      "rows": 744,
+      "sha256": "bab14ea2a0e4d22981f6816ccf2a243048a1a393e8f7ef3b93f02d8fe9ecaa98",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:58+00:00",
+      "rows": 720,
+      "sha256": "61521d15bae79cfd69dc8bb96280ed81a614426df3afcd73ff6602ca86ec8b60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32298,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:58+00:00",
+      "rows": 744,
+      "sha256": "1c20a24a70aa2a75906cf937d1aeb63673f723fbc5b3c17bf5df414f12843827",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31419,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:58+00:00",
+      "rows": 720,
+      "sha256": "a23f7bb16c05b054a22da765c7f7dda65edce20e39418bcbc5bc4e5227aaa7b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:58+00:00",
+      "rows": 744,
+      "sha256": "9a81a30e1b4a4064e49db747d19c270f0f02de1c0aacd8d14d470391c0fa9efb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31146,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:58+00:00",
+      "rows": 744,
+      "sha256": "60d4c35d3f9df1ed63b5d5398bb1134fb4731467e24699f414cb0d107c7d1128",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:59+00:00",
+      "rows": 720,
+      "sha256": "0d6b0c5fc33d706ad8f5bf4a8c0e2ded010c6f6c648f364d94d1e27826e1d6fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32319,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:59+00:00",
+      "rows": 744,
+      "sha256": "b636f300952c2300f7bf6435b709f824255a9550b81e3ae1e8a5961417ee8604",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30717,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 720,
+      "sha256": "d48ec24ecafa50eb42143877e9f55f624e437b3b977931412ad3df14574bde91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32347,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:59+00:00",
+      "rows": 744,
+      "sha256": "09f5382dc646b03032704fb57e4553bc5264a745e06dddef9036873b63c4890e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:36:59+00:00",
+      "rows": 744,
+      "sha256": "eec9003ec5735d94aa9c464ddfaad479d5eb6afe7fa6d89fddba8bebd00c6e17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 28980,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 672,
+      "sha256": "90f10c7a6bfca6f640d91d4a4f37812692ce170696653c8d23344e72cf2827ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 744,
+      "sha256": "51cf4a67f867c47aa617e70cab30561bfa2c8643808d954263b85cdf5c82dc53",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 29944,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:01+00:00",
+      "rows": 720,
+      "sha256": "be9096c5eeea6592be25457bef00e4b5552c72a603ba8c651da79f581af8a963",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31823,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 744,
+      "sha256": "adfb790f77e64aec285bd40645a5f9c9e2448c3e50f16049dd488bf175423cf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30330,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 720,
+      "sha256": "85117b38adde5e45f739629eb85c30623b2b6d565fbee6caa5109dd35fa41bb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31805,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:00+00:00",
+      "rows": 744,
+      "sha256": "d08563571f296f0378d36f482d419225e41bac16ccd54e3ca83207968d4a52c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:01+00:00",
+      "rows": 744,
+      "sha256": "f3ddc834b44ca451f7a252dc83d7f2e6213f73045d3b1a426da590ef7b534bc2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31105,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:01+00:00",
+      "rows": 720,
+      "sha256": "048d433737e242ece1a4c1a2ebf4ff2fdd81499bc0c3a6ba68622eb540fa5241",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32281,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:01+00:00",
+      "rows": 744,
+      "sha256": "8e03921bb249ea5fba57649790968e18bd7ecfa5bcf2183244b8db14a1345203",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30159,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:02+00:00",
+      "rows": 720,
+      "sha256": "0bbf94dadff037d259e25460597f5599381dca960ae47977c4e01bd2551eefbe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:02+00:00",
+      "rows": 744,
+      "sha256": "af5afc11c0a2edf415628d997f3df3d4e83bb82ad2e113f54a0fb2c2ed6b66fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:03+00:00",
+      "rows": 744,
+      "sha256": "d72e56dc8dc4faf7426dcadf956724d9f063a10f84ebe3657076c0dbfa4ff7b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:03+00:00",
+      "rows": 672,
+      "sha256": "65fc7c2ba90d2bebf5fa3d39701c94d1c93b1e1990c132093aa0e026574c2e78",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30117,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:03+00:00",
+      "rows": 744,
+      "sha256": "4889363ccdd191f38cedf82d7f431afac855c10dbde36b93ce02dcf6e8480142",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29981,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:03+00:00",
+      "rows": 720,
+      "sha256": "4f478e2b51552c9d4d68dbe337ee9c2357c5c81c896ff23d2672f790d82d7726",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29990,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:03+00:00",
+      "rows": 744,
+      "sha256": "47f164920fa71c942bc6935967b3be43472a8ac31f6c73afa0db716cac6011d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31738,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:04+00:00",
+      "rows": 720,
+      "sha256": "0cc14b16f65f3ec64ba0a573fc2399b66f38b149e0813c0ba48193525810d19d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32478,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:04+00:00",
+      "rows": 744,
+      "sha256": "defba699a90dc648bbdd3b88d4e9e5a81ff90f9580361fbfbedb032a928d3376",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ATMUSDT/1h/ATMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ATMUSDT",
+  "total_rows": 48940
+}

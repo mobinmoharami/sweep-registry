@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 16077,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:35:08+00:00",
+      "rows": 395,
+      "sha256": "e77718a022d942d7f673f6cd3211daa92a97ccc899e6893eafec56a0c97e4c36",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARMBUSDT/1h/ARMBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ARMBUSDT",
+  "total_rows": 395
+}

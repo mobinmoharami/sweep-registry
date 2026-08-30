@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 18290,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:06+00:00",
+      "rows": 348,
+      "sha256": "d9d275757597d9cddbac4df0ff6d82aa5dad2392a1f53f3f57454f193b30ef74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BULLUSDT/1h/BULLUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 36681,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:07+00:00",
+      "rows": 690,
+      "sha256": "bcbb87bdbab8f8e0bab5c1cd7e6bdcff21dcc020436860d50b6e5d5e54a22671",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BULLUSDT/1h/BULLUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 40227,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:07+00:00",
+      "rows": 729,
+      "sha256": "2240bb9759a4a6a379b094dd8c3cd5f474cc1b772551f944aae46bb02be94eb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BULLUSDT/1h/BULLUSDT-1h-2020-03.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BULLUSDT",
+  "total_rows": 1767
+}

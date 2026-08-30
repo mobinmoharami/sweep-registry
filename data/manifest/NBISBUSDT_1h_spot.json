@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 25247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:24+00:00",
+      "rows": 587,
+      "sha256": "e1aa36b3994769b556fbf702b018bb44125f4c388b16fca49d3bd5fef2f66af2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NBISBUSDT/1h/NBISBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NBISBUSDT",
+  "total_rows": 587
+}

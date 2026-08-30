@@ -1,0 +1,693 @@
+{
+  "files": [
+    {
+      "bytes": 10819,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:11+00:00",
+      "rows": 216,
+      "sha256": "270eab027321abedf7559949ea8fd52858ad0b8b519372d38f2b66940c59a6d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 34407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:11+00:00",
+      "rows": 744,
+      "sha256": "e3afbb70d03355f1ab1c3615bdb4a4fbcb6983c50ea3d419bbe817f424cd9f17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 33914,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:11+00:00",
+      "rows": 736,
+      "sha256": "7d8287492eae562257dde7261e58fca629e8fd9dc144dc20169d3a750d3b01a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 31912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:11+00:00",
+      "rows": 720,
+      "sha256": "44ce22d0756fcb5b76dd1947d1bcef0eae2d8aa8d82f10661cd4f67b211d76ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 32970,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:11+00:00",
+      "rows": 744,
+      "sha256": "ce6284c966080dd6f568fe055b38c3d5483e33427f238e16c83ecde42d749c22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 33200,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:12+00:00",
+      "rows": 716,
+      "sha256": "431d6bb718b9ab20b68166c07705de0356a9fec1d648e682e367924aa5a5f493",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 34027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:13+00:00",
+      "rows": 744,
+      "sha256": "be3ad36a83cdb0914f57b63c8d37f80acff9cc3a1e9ea83cdd0a178cfba251ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 33395,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:12+00:00",
+      "rows": 744,
+      "sha256": "729253d7a136d2f993b5fba403ea4704e8ee049808d33aadb7666c6b2ba68153",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 33429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:13+00:00",
+      "rows": 690,
+      "sha256": "de7e9ca2e517ef089d2eae50fea5968386a442de7df692a257432b53e22232f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 35317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:13+00:00",
+      "rows": 743,
+      "sha256": "3b59f7baccb50ac41b1a5cb25a011bf50bfc0418d5d7e73d18a2bfe1ad84e9f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 33657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:13+00:00",
+      "rows": 718,
+      "sha256": "efeb43b01221ce66a514adb491b62892d29e241f27fc5b8f6d3a522f966906f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 34707,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:14+00:00",
+      "rows": 744,
+      "sha256": "8674fa088a9689262159df992b77f4882c16a2c417a7dab6bb29b0ca7adfc1f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 33121,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:14+00:00",
+      "rows": 717,
+      "sha256": "1f583f511e366de3818c882eb774d7be249d9d2b4c5c4121a387ccef2eda8c4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 35904,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:14+00:00",
+      "rows": 744,
+      "sha256": "d90e7b8c878a8e286aef0df8c6655a9663e9396def8f62a455fa1c20328faf9a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 37438,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:14+00:00",
+      "rows": 744,
+      "sha256": "058301298709c6a9c45be97e942b7a3c9e794f7675c6f633c84381b604595a28",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 35139,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:14+00:00",
+      "rows": 720,
+      "sha256": "2a4d57d4157804b39d2f74b0c919e964f9d82b36fe23e00dc887aa81ecf2685f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 35371,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:15+00:00",
+      "rows": 744,
+      "sha256": "ba183d216485841b752fba637adaed830dd0e1322e9d385eb484f1c229c24038",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 34774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:15+00:00",
+      "rows": 719,
+      "sha256": "656113a902adb6b6d3a4544a8a6c2ad9f60c9cd1b6bc7c09059e9622d8757f22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 36036,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:16+00:00",
+      "rows": 740,
+      "sha256": "16d2d3dad5316243869ac82e6d4b35feb3c3ec5448edeab75a0b2d1bd0d33fd2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 37769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:15+00:00",
+      "rows": 744,
+      "sha256": "3e7a82f52e68e51e70296ce730d4db6a9f6919e78e83137ed2f9300be6fa8739",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 35232,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:16+00:00",
+      "rows": 671,
+      "sha256": "b567739e2eeebbc7553025d272ce278a62dc22f10da83a7de001f0b00ef7c6ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38211,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:16+00:00",
+      "rows": 743,
+      "sha256": "43dd74e44fcfeb8fdc9339d3f5833c68c7eb460e94b46e21e0edc8490dbe60fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36888,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:16+00:00",
+      "rows": 715,
+      "sha256": "37edf51a4fc2487442d16079f03445504f7956ddf6223b95ab0128efbd5054e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38286,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:17+00:00",
+      "rows": 744,
+      "sha256": "1e4437113b1238a402156459440293ada41e95c460782b4c51ee93fdb9039ac8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36378,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:17+00:00",
+      "rows": 720,
+      "sha256": "36964f83e9c8761ad6c5281fedfbcb64dfec6bfd7801af384c29e6666d2c563a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36503,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:17+00:00",
+      "rows": 744,
+      "sha256": "1dba2e28526af273241381acec2e66a26def1b01bc73ec0282c834db9987a7f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:18+00:00",
+      "rows": 740,
+      "sha256": "2dc2aca3905eb22668f237aa2bb1d24fccdcd18e0f4e179c75db0915b8b93138",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 34937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:18+00:00",
+      "rows": 718,
+      "sha256": "f3f3492f48d621e284993211a59bea3faf1512903b43b63554ac2b4837d36931",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 34856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:18+00:00",
+      "rows": 744,
+      "sha256": "31486615e6d3fc5730e05692abaa578cb53aba38f00573c2939572a4aca67818",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 33842,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:18+00:00",
+      "rows": 720,
+      "sha256": "6213be7ecc796260ec46fa783e303ed8ba2c5d03e0200d39c9e8e9e8758c5e57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 34497,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:18+00:00",
+      "rows": 744,
+      "sha256": "6f29ced7dfd37c5167fd724dda7b0b501c4baf66e70d91e710bdc5b789d9b06e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 34408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:19+00:00",
+      "rows": 744,
+      "sha256": "b064a7500e9d20ddd3d2b3efea478e090eb7962a81d6082bb1e5fea7384720a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 30703,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:19+00:00",
+      "rows": 672,
+      "sha256": "92caae7d7ecc1baa1c81c1fcc8c4fdc6a52a2ce82b6391948603b67eeba81805",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 33512,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:19+00:00",
+      "rows": 744,
+      "sha256": "d68761109d20ed879935051d22ea0d043f138be4fdb3652824fb8ca14b86496a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32369,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:20+00:00",
+      "rows": 720,
+      "sha256": "b5fde493a537835de1e327d10327ff77d182d469a0a0e598d3ae10c879d3a2f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 34163,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:20+00:00",
+      "rows": 744,
+      "sha256": "368953c353936129eccddb3495a2018443e4082c86ee64a2db443b21681e3f7b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31967,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:20+00:00",
+      "rows": 720,
+      "sha256": "13704652a2f5febcf4d28cacecce3d366f9ba05dd677e9ec634742dbdbc32d01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 32377,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:21+00:00",
+      "rows": 744,
+      "sha256": "071e973af2178146737055263822fb2ef56e4ed603c48d04b482f3d0695102f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:21+00:00",
+      "rows": 744,
+      "sha256": "bca77eeb8b09f610f2680009f4066c9912820a7c107bcd5a9a07db18016a017f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31570,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:21+00:00",
+      "rows": 720,
+      "sha256": "642b1924001c295bf3dfa44f4ec92686e95db130d15833e96f3bf62258c27e8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31992,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:21+00:00",
+      "rows": 744,
+      "sha256": "41a6a2bce9f017fa6dcb4c5df8c899bf8230959306dba94daef174022a572a33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 32455,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:21+00:00",
+      "rows": 720,
+      "sha256": "989625393fa06eb307b95709b8b3adf2dc2d07671e34574d151979804d210d08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31352,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:22+00:00",
+      "rows": 744,
+      "sha256": "605c36f4a67c09090fa33fe2536bc2084a683d4054956305089f99c60a22d27a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32008,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:22+00:00",
+      "rows": 744,
+      "sha256": "f0ea8cd24966bf5f7b693c7538e51d756af230579f592b0b69fa9a40fb9b7e20",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 29286,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:22+00:00",
+      "rows": 672,
+      "sha256": "cf09dec3b6fb086ca676f71cca5b3802f92596cf2b4d0f597687e51f711d503c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:23+00:00",
+      "rows": 743,
+      "sha256": "8de3227b1e16461d1d814a099df2f0762159565ce159a916e54d8edc2a617db9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30391,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:22+00:00",
+      "rows": 720,
+      "sha256": "2687bc4fc578d325bce5c8c95da32c480408ab0d98a6879d16f489fda0685c8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30565,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:23+00:00",
+      "rows": 744,
+      "sha256": "693daa3119a8d47fcefdca3aac61554e8b20c9526b4eaa96445e12ca76d2b0f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30074,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:24+00:00",
+      "rows": 720,
+      "sha256": "b31f9b86298a0463d9168720ca9cd1b8fca6841a16a711327d34565e1aa171b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31123,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:24+00:00",
+      "rows": 744,
+      "sha256": "0c582da1c2809c30c3f5489e815f67e41e267b4bd8acc1b4d9db8d98feeb5686",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:24+00:00",
+      "rows": 744,
+      "sha256": "3efa4c9625b9af6e19ebe49d7a8be2656ec8a733827d8694902ecfeb3a83d21b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29135,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:24+00:00",
+      "rows": 720,
+      "sha256": "85ceccb65adeff423527ed2fec94e598d61c6da51c1e79982dc62d8647b95eb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 30344,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:25+00:00",
+      "rows": 744,
+      "sha256": "f07988cdf8e94ceda0db0517a2b168c4f44b4d0018ef3a11f8ec604547c15e9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:25+00:00",
+      "rows": 720,
+      "sha256": "bd8522c87908ab7d596d9b77c5c6e6a7e88639eb3d1d3cff920a30f0e7ac773d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32895,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:25+00:00",
+      "rows": 744,
+      "sha256": "52ad508c2483057cb020a71e68b5e1d56de0e21575b08c1ce7610a3081c3e635",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:26+00:00",
+      "rows": 744,
+      "sha256": "dbbb315d2cfb6518547992aef03f3870739d61da735bef2d0fcb69b75b7c20fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:26+00:00",
+      "rows": 696,
+      "sha256": "e04ac5e5104fe1ab85f079b53ff5492fe8bc175185343b9ddb8550574528d6c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33486,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:26+00:00",
+      "rows": 744,
+      "sha256": "bd0f44280f920c94603898ca90b1c86220c77f058a53473a9e83bc01974c5402",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31464,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:26+00:00",
+      "rows": 720,
+      "sha256": "29470ccbfa8b5fb3cc2d5bfe0e14a60cbb3250d539ba421b37aaec11335f5e15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31576,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:27+00:00",
+      "rows": 744,
+      "sha256": "ebc646c176fa26624270ca63b03cbb24130d2bdf5955315db58264fb433a9610",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:26+00:00",
+      "rows": 720,
+      "sha256": "c35b8b8ff718acd1d621da4d95d5b841e0365a2ab216ad1cfcebe753bd9dffe5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30932,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:27+00:00",
+      "rows": 744,
+      "sha256": "7ca46ac40fb83ff2bbb7919ddcb3685b165a915994b8c96149bec77c845bc52a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:28+00:00",
+      "rows": 744,
+      "sha256": "3e49c1128679c96e63d37794cde789174ea4d8edaf9c09df82487f416403cf93",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29841,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:28+00:00",
+      "rows": 720,
+      "sha256": "6fb94509c35ac25894da1322fe114ce696d8c7966a31465ccd165423403af51e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30930,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:28+00:00",
+      "rows": 744,
+      "sha256": "7957d451288d633016210d265df730cd52be83129a0330e0c7cd3d70f61dde71",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32671,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:28+00:00",
+      "rows": 720,
+      "sha256": "cc71be527176fddfc07eef52f3ea2f675a2e63b70a69ee3f113c5751a8a05f5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:29+00:00",
+      "rows": 744,
+      "sha256": "fc9594d81e77eaaff82283d0ce5d3c0804236bef5706c3bd879dc1284dedcb64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34426,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:28+00:00",
+      "rows": 744,
+      "sha256": "e954db64a41f36898c77de69e3901e6ca299cb91907e13506f52eba5dea8e462",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30413,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:29+00:00",
+      "rows": 672,
+      "sha256": "9b2d363a15214638dafdc7989d5317876352fdeb2040ee6b3b40ea4e884d18a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32680,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:29+00:00",
+      "rows": 744,
+      "sha256": "8b3e05f864ce82e489f579bd12bf18ff5240ca593a521388298e0b60080c2dda",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31307,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:30+00:00",
+      "rows": 720,
+      "sha256": "613e66d287de2d3e2a67f31bf3cdb3f4a499501003b8c19e1ef8c1e5f5f01cb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32340,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:30+00:00",
+      "rows": 744,
+      "sha256": "3b721a08c706f1483adf2a7e751bf9e1db65092cdd175c39ef471e7bc282d896",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30545,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:30+00:00",
+      "rows": 720,
+      "sha256": "a9c3f8af7bc4626539ea36936747d40b5c32168682b6cf58c77a0d68474abf0a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:30+00:00",
+      "rows": 744,
+      "sha256": "f5482f80d073056851964e64d1c065b3c7422d4536eba5ce5f49a55de46fed0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:30+00:00",
+      "rows": 744,
+      "sha256": "31e0a3d46c642efc552c87c2828322a1dfb0a46e44425c77dc7ea92b38ea7352",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30618,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:31+00:00",
+      "rows": 720,
+      "sha256": "64d4626811520ae7845b2613ccba437db150cac775b9ce6fd4fa8244c4558551",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31730,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:32+00:00",
+      "rows": 744,
+      "sha256": "3ba7da0e0c931a58e8872c986c5619af7e035715c7bc3cc73289f847e63bd52c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30512,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:31+00:00",
+      "rows": 720,
+      "sha256": "0a9536d93b2a90b9c8f6bf7dae797d9fbd7d7815124c61cc7be453a91b46534c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30417,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:32+00:00",
+      "rows": 744,
+      "sha256": "40191e0940aa3e833ea38e4dd438278dc6bb3dd8f0ee4056edd9f9442b24b2e3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30779,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:31+00:00",
+      "rows": 744,
+      "sha256": "5e839505082f62615172f995d998674e71cf3610c79d0916698d214bc4b191ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:32+00:00",
+      "rows": 672,
+      "sha256": "5d7bdc887eda47955a3253da9be70f4844f6ead6177af5f4bc5ed66fca6ed939",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29902,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:33+00:00",
+      "rows": 744,
+      "sha256": "0385f0d8974efe195b92907e0afa2a79943d0e0c0faf4653b2d720bd69dc75ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30536,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:33+00:00",
+      "rows": 720,
+      "sha256": "7f18ad13b9c70e46e1eada3cfcdbf23a686d576a6761d9fc85a14d59e88463b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:33+00:00",
+      "rows": 744,
+      "sha256": "30744d322b2462f52bbfec5cb755d8715fd28c3f4c90034f5e3f1281ad58f033",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:33+00:00",
+      "rows": 720,
+      "sha256": "a796e5fdcd0a26488954a28c0bb16d53deb5e3a4dd459e98c1e676829ef842cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ALGOUSDT",
+  "total_rows": 61541
+}

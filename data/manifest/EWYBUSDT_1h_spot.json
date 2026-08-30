@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 7522,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:14+00:00",
+      "rows": 179,
+      "sha256": "be8549400ea6c4deefc89fe3953da5a10807ff5207326fceb2eb5cc9fc529b6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EWYBUSDT/1h/EWYBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:15+00:00",
+      "rows": 744,
+      "sha256": "673fd3ebe685b7b657dcb979da878c03ebb7d9d5658cf8dbf3bdd4fe480d19ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EWYBUSDT/1h/EWYBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "EWYBUSDT",
+  "total_rows": 923
+}

@@ -1,0 +1,533 @@
+{
+  "files": [
+    {
+      "bytes": 12426,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 234,
+      "sha256": "11c5ac5aaf78ba15d694b8e64dd7e9cc83b3dea1c95c5ab87ce20244383098a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 743,
+      "sha256": "e58a040e35402b1550a81e32b265d020b91fc9048d5e48e3e1467bd902a3aae9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37566,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 715,
+      "sha256": "c5ef9820396044d55a07fc6f975fdb8bc3c0f83aee41eb52666ae0f86f320401",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 39298,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 744,
+      "sha256": "5e6b723dafc88f3853151c7e9c07f24a0e3c2660cb0f15b2d4a365e4bc2668d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36818,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 720,
+      "sha256": "bbe3b6b4cde1bc093ac02ac9fe48272d429a37f0306bd4397c8fbb2a129842dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 37233,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:44+00:00",
+      "rows": 744,
+      "sha256": "e02b55c63bd11b1a25af73ab5777b5e55067bccba7770298899905fe5eaffb21",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:44+00:00",
+      "rows": 740,
+      "sha256": "084dee9201842698d823f686a0f4f9a2cab6b10d48a33908088043ca8f32c770",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:45+00:00",
+      "rows": 718,
+      "sha256": "cbbf19e64b3b6d83cb8146960f884b1c07ec74817816ef51c78d6a010be1e055",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33294,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:43+00:00",
+      "rows": 744,
+      "sha256": "083da065c2aa88516480f0e3914e4596b382f764bf5761f09a001888b436c609",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32624,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:44+00:00",
+      "rows": 720,
+      "sha256": "68e4afece0af3e90817b4fc90a289ff8cd97aebd920fb447081168d8896dad5d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33146,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:45+00:00",
+      "rows": 744,
+      "sha256": "c6f89931d5b030adf8dae688109df92d59fb15c5f14779e22fa2dc2d9b8369cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:45+00:00",
+      "rows": 744,
+      "sha256": "d7ceaef9c0c0177e6818c70afe94cd66d841718e383cce161caf6748b2f9fc42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29183,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:45+00:00",
+      "rows": 672,
+      "sha256": "a822cce640ae9426a78ad6ea331e0cb19dc1e108bee513bf896c505163ac88a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32234,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:46+00:00",
+      "rows": 744,
+      "sha256": "05fd1a36c38d454afd6ae8440e896a412a2ece1988516cd4fb91bb5e8bdc80f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32267,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:46+00:00",
+      "rows": 720,
+      "sha256": "875f6bece04a2c6611b3e1d18b557aa259120a314719b8475c9dfced0a8eec88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 34721,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:46+00:00",
+      "rows": 744,
+      "sha256": "420eb91e7b76234dcbf44cca9a45ec7f2c61b46d16f688d947c7e5b4eabff014",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:47+00:00",
+      "rows": 720,
+      "sha256": "3ac89709fcef30790925e3cf35928e20029e83968697c67000bd83decabed2e3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33580,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:47+00:00",
+      "rows": 744,
+      "sha256": "360a98618b78d5a3bf211f09200919e80c87b54605c91c15ae2d3e474d1d02b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33567,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:47+00:00",
+      "rows": 744,
+      "sha256": "355f32a04760d3d37823670f6c41fabb7e1d850ddcb9c3341b24e0bbf0cec1b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 32416,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:47+00:00",
+      "rows": 720,
+      "sha256": "bcbf567abfb1b1939bffbf24a3e9cb4f0472450a740c3b8e5f11a26ef8a796b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 32868,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:48+00:00",
+      "rows": 744,
+      "sha256": "fa0e42d2c3a32ea1986c785985db441f49692533823167d4753a20788665a4af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 32393,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:48+00:00",
+      "rows": 720,
+      "sha256": "6e7c007663aed68caf69b7712b056a60fbc4cedd5b3dcc36f9b0caca4c2931c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 32014,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:48+00:00",
+      "rows": 744,
+      "sha256": "cb56afccc63f125a71ef0932e249074f4f12fec9f4579e94b481dbc25ec6767b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:48+00:00",
+      "rows": 744,
+      "sha256": "06927d9cf7f072969455c973d19d4205a3f2e4da25c3f2535725314f291b4813",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30372,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:48+00:00",
+      "rows": 672,
+      "sha256": "57cdebe16fb1c61917d799450979be7480fa6f6704c9f9457e0a4e5601073d83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:49+00:00",
+      "rows": 743,
+      "sha256": "00db47cbaa8178477046764bc0dd3e0a70e7d0f0992cd6252cd012dd841d77df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 32098,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:49+00:00",
+      "rows": 720,
+      "sha256": "b4c99e5dfd3cf8b8be925c3fa074af3f52df814334eaa361b8d274013d93e0a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 33047,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:50+00:00",
+      "rows": 744,
+      "sha256": "99d58e69e39e0980726d1b1b57d454b0176703377d302cc5bee08433afb5ccb4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31969,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:49+00:00",
+      "rows": 720,
+      "sha256": "fb37cc5085642ffd41936231bffb3a5d59b54051c4af4f48c9e4d01907de48be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32188,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:50+00:00",
+      "rows": 744,
+      "sha256": "7fa86093143387a6c5da1bae0b2c2c14ef60d2240fbd4574b3501e84a9b879f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31616,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:50+00:00",
+      "rows": 744,
+      "sha256": "47a2e068c301a4829c6ba93e9a3a4443f9a86c916918fc3ca549bfd87f0186fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29904,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:51+00:00",
+      "rows": 720,
+      "sha256": "d782aebaa34f1ba31b670c44ab802e313125fef6795f200c295cf77af81cf02e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:51+00:00",
+      "rows": 744,
+      "sha256": "21b58f5f2116c09834b2e1e26d61bce61d706ce5aea421ed8708552c21fbd67c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 34349,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:51+00:00",
+      "rows": 720,
+      "sha256": "a888b6a54305e3cf1fc78b4caf927d88d7bd4eb5f4e798539d251eef6cfe8282",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35002,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:51+00:00",
+      "rows": 744,
+      "sha256": "43c1758a1e01962b25afd555f0d548398f50beec66fe7c85a48c4364e774555c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34286,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:51+00:00",
+      "rows": 744,
+      "sha256": "69a960ee8932db7ddb94807e403e867f85185b0e98b71dbf6944e43162e8cfb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 31913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:52+00:00",
+      "rows": 696,
+      "sha256": "211c7ee84001253456370855bedc3afc70552511fd258a76fdb7785705b56acc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35681,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:52+00:00",
+      "rows": 744,
+      "sha256": "3656f91b8954b51123d0a4df740298dc9edfa8bdc8b265363ef4be7c72a49684",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33365,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:52+00:00",
+      "rows": 720,
+      "sha256": "35337ce72d68444c8ede1013dd0c29330c52ab98f645cd6bbade9d66651c5988",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33533,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:53+00:00",
+      "rows": 744,
+      "sha256": "875faf5be3e1e3e866e9a5420c1a56396f865b92bb13db3975f13048f2cb4786",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32789,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:53+00:00",
+      "rows": 720,
+      "sha256": "c558eb8c363f2d299a3c767d5749fed2be3da3f8b52bdac07bcf4922dfed8c3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:53+00:00",
+      "rows": 744,
+      "sha256": "6d4217d3b0453ad9d05788973f1bdd0eddc4dad3201c4c54d3fe0877a47e97fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:54+00:00",
+      "rows": 744,
+      "sha256": "2f480f352d6fd5d6296bed8bc131e27549f08dfe28ac8ed673303458016c562e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32402,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:54+00:00",
+      "rows": 720,
+      "sha256": "b51a8db08bea61191908add35bbb3170731689450d303c775de065c544e495c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33030,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:54+00:00",
+      "rows": 744,
+      "sha256": "391f3f096be8003889a2f4f6eac9600a06cb9b2460f9d4424325c3f831417085",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:55+00:00",
+      "rows": 720,
+      "sha256": "4cb410702df04e2c43c825fdaebca5d91ec188aa6623ff191457faee97bc20f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:54+00:00",
+      "rows": 744,
+      "sha256": "3b394f0802566fdf49d3d36f894eeedbc3f94552618a9a90bf6cdbf6d16f6da7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:54+00:00",
+      "rows": 744,
+      "sha256": "8c56325926a3ee52db6dea07f90ead220e327062f5f7fa6109e6af8513e4d50d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 32855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:55+00:00",
+      "rows": 672,
+      "sha256": "5c05b7f077b750ccabc54f0514df892508695f728d426ff8ef272b20709a8359",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 35806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:56+00:00",
+      "rows": 744,
+      "sha256": "2650909606e7a18579189f3532fc9c7534b468e58b2166e52ec79001c54938d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 33709,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:56+00:00",
+      "rows": 720,
+      "sha256": "b0111cbce0c0a70632e07bfccdd4aa6baa69df9c1d4771da2b8a65fb2a587c95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 35063,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:56+00:00",
+      "rows": 744,
+      "sha256": "f04c96154021fa62b9e3a0f52821c3614af2a4d484f18f8d5f46d350f892573b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:56+00:00",
+      "rows": 720,
+      "sha256": "86ceae8e70da5c19ef00f29cd8b28e85df5306347c817eda20a2566f5f5ac3fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34870,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:56+00:00",
+      "rows": 744,
+      "sha256": "94e0383d4123f7908ee094ab2c512544cd2c9bbf7e9a6d5e5c2e0ea4b1e48920",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34449,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:57+00:00",
+      "rows": 744,
+      "sha256": "ef921898962a47bf32a6cc9f62e74ae2f82684870ab575d09a21b1086f98918b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33272,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:57+00:00",
+      "rows": 720,
+      "sha256": "8e05cdeee5ab58a702d684d87c6e8ec9c1e6746c81858bc5c5cfca903f43644a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 36518,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:57+00:00",
+      "rows": 744,
+      "sha256": "22df24d186991dffc63aca0b8e0970fc68165c9bc27d86c51eabd19b499769ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33621,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:58+00:00",
+      "rows": 720,
+      "sha256": "8b4bb2f131fadd33242ba5169b0c1c9e2ba0f1784ace4153e61864b87862e609",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:57+00:00",
+      "rows": 744,
+      "sha256": "1b4f76dc8e3dd281b5bd495744f6005d28a46b625f4b03f9b33b3ca1718fb009",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33558,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:58+00:00",
+      "rows": 744,
+      "sha256": "f877fd8449e5d007402a42f1c119f193a8774985f9f9b3709891197c6cd18516",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30209,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:59+00:00",
+      "rows": 672,
+      "sha256": "d94df1cfcf27bf728d94f7590d024b450ea61da333b3447d8a6307a33cba9b82",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32746,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:59+00:00",
+      "rows": 744,
+      "sha256": "2ddf73c964c8c2211f4dc06c9d41c5ce602a0b89deaf28c8c12b085b30c7c913",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31466,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:59+00:00",
+      "rows": 720,
+      "sha256": "01c231e99e693e87a9898a4ad7aa0ef6a8beb50879fcc929dd2cf0240673a283",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32323,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:59+00:00",
+      "rows": 744,
+      "sha256": "529cb9693cdc87e93ddec7f7f7a81812d831380506d489d380af46494ad0767b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:14:59+00:00",
+      "rows": 720,
+      "sha256": "8996eb86427b967ece0b191ee074c5ae5719b323095c39e7924da485b6903019",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CAKEUSDT/1h/CAKEUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CAKEUSDT",
+  "total_rows": 46973
+}

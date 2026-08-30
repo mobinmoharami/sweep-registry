@@ -1,0 +1,485 @@
+{
+  "files": [
+    {
+      "bytes": 722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 12,
+      "sha256": "03fb8204640df31d99d4acfe582eba3fded266e90638949d125d3413ad506fc2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30378,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 744,
+      "sha256": "93134176a05ff552dde899b12cf185a21b4cc95b04889992bc9cee3799920133",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 30003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 720,
+      "sha256": "adb3646da52c239c774d68436c0c46ab3889ce46cca04c709097730c08f0b7d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30496,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 744,
+      "sha256": "e38d66c25b4b16a486aa5019ef931dbf79a7307db7aea0c02a8e3b6ed8ae32d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 30973,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 744,
+      "sha256": "1ff77d8ed208142bfc2ec7a014ec744400d49770badea1e351e236ea188814c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28619,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:53+00:00",
+      "rows": 672,
+      "sha256": "85656c6722ed29c5f80d313a6601fe3b9696c046b790723385016cc7c4499aa1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 30837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:54+00:00",
+      "rows": 744,
+      "sha256": "c1ee352790bdbcad2ff1e6b7cb6ecb382f2c61500560b5ed9f77e736744846fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29521,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:54+00:00",
+      "rows": 720,
+      "sha256": "c653dcc123bfbe595d8e49e9fec6426490479d6a2caa28a601f92f1105aea379",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 744,
+      "sha256": "ed0d755066298c386665122e18fc2d66005f8fd90dcbc36505da19deefb98f79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28390,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 720,
+      "sha256": "f2b6988ba05ba24ff3645db1e655a75e7965ce732cacb40adacb253f86922551",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33497,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 744,
+      "sha256": "124ea70ce18ee272a10a73fb3596e9e7df1af25cb3ded4b78e7495031716d742",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32948,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 744,
+      "sha256": "b6b5407e0eb37283f6da9a844db983d265c83792b695193fb6734fb52ac8d2d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31174,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 720,
+      "sha256": "013ea79ab2ebdc9e68901de327087f7330f87e0ad2efa89f708a9b9a87c3abd8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31412,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:56+00:00",
+      "rows": 744,
+      "sha256": "460ea6e365bc9130d184b3f99fec2ceb1f594f17241d918e44c899faa786a03e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 32073,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:56+00:00",
+      "rows": 720,
+      "sha256": "57779b4d03e74c7be4cfd5bc9100d38559a07909ff131ec33a3af3bb368b5d55",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:56+00:00",
+      "rows": 744,
+      "sha256": "6814f7b17a5f8440fccb170d2e50b649730b36242b196d41f77476a0b75971e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32589,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:55+00:00",
+      "rows": 744,
+      "sha256": "8ee8d960c8d4f7100f22bf54ff0c94fc4fc4a58da955031a4c9e205c373919d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:57+00:00",
+      "rows": 672,
+      "sha256": "02dd190fdac2e56663d079379be6166b839ede293073d4a49a615f069ab34782",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:57+00:00",
+      "rows": 743,
+      "sha256": "89af8acaee1760ab05c2398124d23d46be870ac207eb43abb94666456944f6ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31194,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:57+00:00",
+      "rows": 720,
+      "sha256": "4626eb1ac9abd56f41b606fc5551e1ae54e117a7f6c226477a58b4152a24d072",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:58+00:00",
+      "rows": 744,
+      "sha256": "5891ed1e256c2d5aa90feb55c2bb6b03615b28cd044a5126a5913a58931b5bbd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:58+00:00",
+      "rows": 720,
+      "sha256": "13666ee368777e58246f6031c752628997a3d801846d620253562aa2dafa3ee0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:58+00:00",
+      "rows": 744,
+      "sha256": "773a90725a9b2ebefb4b114074d02d7417facbd2c57f3a3c4b5d0df0673f42b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31995,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:58+00:00",
+      "rows": 744,
+      "sha256": "d49e9e1cf2b590d7b15b9d5284b3d6be0f8554ce505cd1add4a6d34099f89f64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 31588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:58+00:00",
+      "rows": 720,
+      "sha256": "da74a91f86998366c96c8981e8e593549b3c18570b2096ac45f61c0f0271fc3f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32260,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:59+00:00",
+      "rows": 744,
+      "sha256": "77d708b3a0ee2473a6838930a21d796e7cc098bfa6f54607850d828df24d59e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 32352,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:59+00:00",
+      "rows": 720,
+      "sha256": "7d40a84680c8219f2e6b80d57eef8bcf6cc59c5a8eb91ca805e42a4e70ce2a95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:59+00:00",
+      "rows": 744,
+      "sha256": "d8e20b7094d333d89d470b3e68b3885234e352a52c4e14961e2dfcc16d20dabb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32756,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:59+00:00",
+      "rows": 744,
+      "sha256": "487cb2f3dd8c83483213ce57ab0774e0f49265cda96631aa0edd0bd5130cf2d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:57:59+00:00",
+      "rows": 696,
+      "sha256": "2af342dff602da72a4258d0e6ac2f0f58a230bbd79e9d4ed278574638ffd0489",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 34932,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:00+00:00",
+      "rows": 744,
+      "sha256": "e565c18db53896246313f4576aed0e9470f784913377efbe3a10327c96bda4ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32552,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:01+00:00",
+      "rows": 720,
+      "sha256": "ab45b7356c9b4e6a29ffb33c4c24018d8eb73e9cfd197e3ddc337b01265208fa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32512,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:00+00:00",
+      "rows": 744,
+      "sha256": "587f47fd90f333a2512f071d393a816b889541ad55a957a807da6c02cb8bffc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32576,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:00+00:00",
+      "rows": 720,
+      "sha256": "e20429a2cc359bba63ac9f6e75f954575b92d56136e893ed58f3bd7ebc590cb9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:01+00:00",
+      "rows": 744,
+      "sha256": "d6fee2baec095d0a375cdd5563ca7b17be8c015646e54bf1dd630a3d39aefa1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32839,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:01+00:00",
+      "rows": 744,
+      "sha256": "6f5ed4f1638286f627908fd30db884ecfffd2868c651a580c9e5ed6929024d6c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:02+00:00",
+      "rows": 720,
+      "sha256": "699bd8caad8b91dda858a183c46da91c9200c34b377d97e17ddd9e0a9343fa9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34236,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:02+00:00",
+      "rows": 744,
+      "sha256": "a5af6e47d0b497696511d6e7b1fa47ac029765a29122eb935a6a740393bd2b41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 34019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:02+00:00",
+      "rows": 720,
+      "sha256": "2cb3d7cea76fb2da261534cdb42d7652cb09e5d9ff54fe33bd18d32f465b4ccf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35011,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:02+00:00",
+      "rows": 744,
+      "sha256": "4462655d68b1e0addf5f0f4ec95173cb55a54026b63716d54e9897c3e50aa319",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34375,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:02+00:00",
+      "rows": 744,
+      "sha256": "edde8905fd9ff333d7e638654c621143ee23906c67aaaba71a447f95fb0576c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30579,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:03+00:00",
+      "rows": 672,
+      "sha256": "a33c5a3675d5e8373172d0b185bf1b05541c983ff891649b57f3bcda653cbe41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 744,
+      "sha256": "02e4a5efa890df678e2723c34d75a6053305c2e137a7055f08be8ca0d05740fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31814,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 720,
+      "sha256": "fc879b8f9419ff786899842384fd6d37294159e8e592b549603fcce41d1e2c8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33676,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 744,
+      "sha256": "0996c80a37b1aa7f5d01854306bf146d5c6ef478173f32b3429d78e08f8aa079",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 720,
+      "sha256": "455199399651156cb2fee7501701a430e6431bbf86792c15ebd992c084ddba0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33454,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 744,
+      "sha256": "a12daef6c8c07fe32d95347bf148dc58d5cc0df7b56d4f334e0d22b83b28994b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 744,
+      "sha256": "c247e73dce9106d34181116dfd5fb031eda84ebcba8a6ef682ad7939aa6f72f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31107,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:05+00:00",
+      "rows": 720,
+      "sha256": "7ddfa929d00ae497ecadb227847c8ebee15e570aa488843c29cf81af91c8788e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31669,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:05+00:00",
+      "rows": 744,
+      "sha256": "c9397f83afc3d955047891d0a07e61c87374d92260fcf553060acdbbfc5ae1e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30752,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:04+00:00",
+      "rows": 720,
+      "sha256": "b835e649b8df6728cb06b1551a647e6b0c02fe1c5f93b905b992e589a5c6d50d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30469,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:05+00:00",
+      "rows": 744,
+      "sha256": "1e6a1cd715332b7219935ddd7f0a831d507f71974c081aa9fb3eb9e6280d435b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30729,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:06+00:00",
+      "rows": 744,
+      "sha256": "e15eb8a13864c05687842d437ebf30d8a19c9def57ecd86936fb286f48d32f5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27330,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:06+00:00",
+      "rows": 672,
+      "sha256": "4bafbd503fb1f5a93f7896bebd7908b3c2142f9bf12ab3139f8acf4f2c3e5957",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32648,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:06+00:00",
+      "rows": 744,
+      "sha256": "4a14bf7025a45a005734bda86a96da3265dce3a525a4406e27d47fcc7c290c68",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33142,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:07+00:00",
+      "rows": 720,
+      "sha256": "af8ad85c371a51166d37c20c5ce769c17bdebbaddf787a086c9fef475a20d133",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:07+00:00",
+      "rows": 744,
+      "sha256": "4d442bb536e05d8cd40e083ff0fca3a65535f46c776e5383c0435b9f7abce5c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33514,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:07+00:00",
+      "rows": 720,
+      "sha256": "cf83b683a357ea5352acae9ba42e40bd67dda6bf31f10a5b7096eb8743cbf089",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31683,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:58:07+00:00",
+      "rows": 744,
+      "sha256": "90747aafc4219c70ae3f574211b298c2e59172266845406bb3a4c27f3ce19a2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FIDAUSDT/1h/FIDAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "FIDAUSDT",
+  "total_rows": 42371
+}

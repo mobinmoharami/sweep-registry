@@ -1,0 +1,11 @@
+{
+  "status": "VOID",
+  "reason": "run_xs_sweep.py was OOM-killed partway through; finalize.py then scored an all-zero returns matrix, which produces DSR exactly 0.5 and prints NO EDGE FOUND. That output is indistinguishable from a genuine null result and is not one. A guard now refuses to score a matrix where every variant has Sharpe exactly zero.",
+  "notes": [
+    "The failure mode mattered more than the sweep: a crashed run that looks like a finding is the worst thing this registry could publish."
+  ],
+  "superseded_by": "SW-0033",
+  "updated_utc": "2026-08-01T22:45:25+00:00",
+  "void_reason": "Returns matrix is identically zero - no variant was evaluated. The scorer treated the empty matrix as a valid null result. Re-run correctly as SW-0033; cite that record instead. Pre-registration and its Bitcoin timestamp remain valid; only the execution failed.",
+  "voided_utc": "2026-08-30T00:16:37.301894+00:00"
+}

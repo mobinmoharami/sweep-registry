@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2568,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:07+00:00",
+      "rows": 60,
+      "sha256": "05b82d73b0c28ec412295d888975a85c192f9da97903d7f6705a4d66ff276cb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DELLBUSDT/1h/DELLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DELLBUSDT",
+  "total_rows": 60
+}

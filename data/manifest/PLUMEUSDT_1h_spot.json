@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 15865,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:50+00:00",
+      "rows": 321,
+      "sha256": "25d0019405fac260bc0c78139f4ff1a878b60b4766c53a3bfcd751c266054f3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 34407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:50+00:00",
+      "rows": 720,
+      "sha256": "48e95754060dfbeb03d51e84006daa69279b955a22c954de30e0b22e804f5929",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:49+00:00",
+      "rows": 744,
+      "sha256": "452958935cebcc7acd844b2b7bb14322cc4c6f8db6bb613000dae968013fb277",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:50+00:00",
+      "rows": 720,
+      "sha256": "a0a4f45e02974a4b631d12082adf029a012dc6e5e341dd165a210e54f5e6e43d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33014,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:50+00:00",
+      "rows": 744,
+      "sha256": "8761f35892452e328f95851dc1db9e9a3ebadb6ce46c684c2408d48f210ab2a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:50+00:00",
+      "rows": 744,
+      "sha256": "4caa7906cc94a1e4d3f974830d2b6ff68cb3fd9ef7f1453060935152aaac079e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28569,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:51+00:00",
+      "rows": 672,
+      "sha256": "5220466791cef103cf0c8e598c950f3385adc6a548daf46c408db4cce61fa364",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32331,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:51+00:00",
+      "rows": 744,
+      "sha256": "0280e4400390618f7759117cfe41afc25a9bd1bedac88741fa5d243f4a4d8f73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31853,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:52+00:00",
+      "rows": 720,
+      "sha256": "9a3008717b4906a299c8a1c532e4a7b63353c6a5a393ec9515422fd0064dec98",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:51+00:00",
+      "rows": 744,
+      "sha256": "a3de75dba74f48237348c95ee6bbef0c98d0c67dd572c6333fc68760ae6cc342",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:51+00:00",
+      "rows": 720,
+      "sha256": "c38fa1d65f087bf6a038091a5569ebd23c32ad5e04d63e154fa5ba9dafa96a4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31367,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:52+00:00",
+      "rows": 744,
+      "sha256": "dd45fa067855088b5ce6fb4a7426f76e52a09a2efa708073846f957f09a22316",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLUMEUSDT/1h/PLUMEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PLUMEUSDT",
+  "total_rows": 8337
+}

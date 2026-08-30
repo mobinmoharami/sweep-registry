@@ -1,0 +1,557 @@
+{
+  "files": [
+    {
+      "bytes": 12436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:52+00:00",
+      "rows": 254,
+      "sha256": "8fdbb7f17f99f05b647984f1ab93040aa828c88d4112961a048f772e916e9da6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 32964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:52+00:00",
+      "rows": 744,
+      "sha256": "a044617e764c0ff4fb5752780505bf0ad36c57c54135ae24bb827dd7ef5a07cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 30757,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:52+00:00",
+      "rows": 671,
+      "sha256": "54ecd7d5be561589fb1b01fed71d971ec61310d5e6e37def0dc24f2552e6c169",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 34778,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:53+00:00",
+      "rows": 743,
+      "sha256": "21d554db0147c3b1a89d32a1597e7ab4c832df75812d6821e4e2c8fa1d40f214",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 34173,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:53+00:00",
+      "rows": 715,
+      "sha256": "b863f15c01c7dd9bc0deea323a2637a4c3654d2205dfbdc3090ad1d96a5dd10b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 36393,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:53+00:00",
+      "rows": 744,
+      "sha256": "ba619d191549f6b3dbd8317d04f32360af2126e3bcd93b927e7f7d4221da66d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 33118,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:54+00:00",
+      "rows": 720,
+      "sha256": "029be48a50815212ea382f797e925e7cd58a12295331678c34f7f146d60576f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 34258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:54+00:00",
+      "rows": 744,
+      "sha256": "98921400d46c9e40fca90fdc76ef7eb359baa686b9c5600353752ea53ce9b5d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 33820,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:54+00:00",
+      "rows": 740,
+      "sha256": "e410887e87f05ca6b94db98c358f7e49e649a2f5d2638ebddc26e912a01f8427",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30087,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:55+00:00",
+      "rows": 718,
+      "sha256": "638454f5a0586127833c156f13daf019f13a6582e63586fe598f0f427272b741",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:55+00:00",
+      "rows": 744,
+      "sha256": "614fe876c143831c3d1714cd1db2a98d1155ec45909464eab8c205af17c131fa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 28519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:55+00:00",
+      "rows": 720,
+      "sha256": "f53a4af0aed450c152e8c4863dabb749c2358b248bc7c63c1028cf343de01a0d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 29602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:56+00:00",
+      "rows": 744,
+      "sha256": "927bc8d9e2236f45a98fe964974a3e679f76f2a177b45148bf172f7d503741ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 28137,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:55+00:00",
+      "rows": 744,
+      "sha256": "4bbfde5264e61730b54bf98b7bc95f4620de3ed479b6e0d4841409dc670956ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 25819,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:55+00:00",
+      "rows": 672,
+      "sha256": "f9a49b5d53576abd4647b18d5f9f9bb9d718b2d6159ff4052755d568e5d5361b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 117187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:57+00:00",
+      "rows": 2976,
+      "sha256": "2592397fe21ee9fe7c7d80e8dd5a6e001d8f4c4f0e5f64c9036569d9ad645e7b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 27552,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:56+00:00",
+      "rows": 720,
+      "sha256": "524c10da17229a7749c44b3d3ff3769c28dd9d2694df6d99705750c1d8d1218d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:56+00:00",
+      "rows": 744,
+      "sha256": "fc6a20f8222d2630dbc9214e315797317c7c79a3ebdcae41fa8b81403a5f2710",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:56+00:00",
+      "rows": 720,
+      "sha256": "13e49bece314b3e422cc1dca98fb0574848668625c3f6db889432a9316d77bac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 28997,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:57+00:00",
+      "rows": 744,
+      "sha256": "7ab0a5638a21bae5753a641767798d04096ea4ffee9d1b54a69ca6e87fe7ea9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30295,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:56+00:00",
+      "rows": 744,
+      "sha256": "7aa310927aae2acfdb8dbf1142557a989cafdfd373de1f1e794f58360431b71a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 28695,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:57+00:00",
+      "rows": 720,
+      "sha256": "09e4731ab104eac01aa9db5566e85eb86dc95864525fc23e22a569d7dba29abf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 28308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:57+00:00",
+      "rows": 744,
+      "sha256": "7502261dfc69c26b47f1752704888e4ed78f3656e1b5cfb4003d0d4456014d36",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 28601,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:58+00:00",
+      "rows": 720,
+      "sha256": "5d5f00de2d860616059e54bc3fc0cd526ba2e3e7444d0afedabb998ca0caa4e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 26586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:58+00:00",
+      "rows": 744,
+      "sha256": "20c6f7a207cf421532a756010c42f8ade6925d4d77001475579eb368ff62fc6c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:58+00:00",
+      "rows": 744,
+      "sha256": "c68a5837b3b0d15fc820f33db45890b8a647ebc68717489a20968a039df86f91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 24692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:59+00:00",
+      "rows": 672,
+      "sha256": "09e1c760dcde1d6d91e9da2853737d48987ffb330d327bb73634a101e2ee7df2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 28394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:59+00:00",
+      "rows": 743,
+      "sha256": "da753a4684766e91935ee3059e704e3fc9638f15e79e0c6b3800dbdc796514b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:09:59+00:00",
+      "rows": 720,
+      "sha256": "5a854dc1d4dd63558ed660a075f2c4b06ce978cb39f3b3c79b82e597cc80a525",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31499,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 744,
+      "sha256": "be6c60f2b170d75d5a2e07928f83bc4ef49279821a3ba282412861e1ea6aced7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29872,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 720,
+      "sha256": "cedb824f10914bf90c6916e5fa7727b66af64b339b568679bd7bd65a9c1baa95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30540,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 744,
+      "sha256": "9fa7c026bcea53b4d535a88d60625c203231449a8a0740009ff030e212abcead",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30252,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 744,
+      "sha256": "a3ed3d1560fb7763af79ca4acd29ac77f9b7430ce71b05e6374bf0c633b1087f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28132,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 720,
+      "sha256": "c9c4f8d52d43cd103f48bf21c5295b101b35454774d426e683e6db1182d64b58",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 30801,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:00+00:00",
+      "rows": 744,
+      "sha256": "cd31d5ff1b1e345bc7539db468a193d22b81a99e48bf8b4044cd3c33b7489dcd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30771,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:01+00:00",
+      "rows": 720,
+      "sha256": "9a7d003ce1b03bbf6244cf543527d82a23808f26832f6155beee330840c8f088",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:01+00:00",
+      "rows": 744,
+      "sha256": "774392a3f3c5761710cee2212eed401c62358dfd4756f9813a7c53c58c7a280b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31263,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:01+00:00",
+      "rows": 744,
+      "sha256": "ee9f4d3f2f85f40159e3d78ec33d7cb3440678a21591007ab425d2d00841c37e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 28636,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:01+00:00",
+      "rows": 696,
+      "sha256": "e70842290da6e804b3116d4232b8c48a8d658dbce7f6f6c84a525bf6cef019b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:01+00:00",
+      "rows": 744,
+      "sha256": "87cfe50ceebb0aa5a04b800484334738865206c825575cf60c0c001be858ec30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31740,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:02+00:00",
+      "rows": 720,
+      "sha256": "a6fe674d95edd51ece7bdebc541b5c307a926afc87ab22c2b14e1d851835e210",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31906,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:02+00:00",
+      "rows": 744,
+      "sha256": "5b1cea79d89ccda4df7fe4c3a1520dc7dde2834bcfc22084220e2a5fb7c8c598",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30615,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:02+00:00",
+      "rows": 720,
+      "sha256": "3feab3c77b3b4fd1cc705daebb22a1872a7aa7c9f06b39b7ba611e10a3855465",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30891,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:02+00:00",
+      "rows": 744,
+      "sha256": "c0ad7d1ef48be1e23c73aa670414f6b6b1e8a54077734b25f3e58cc917ffdce7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30898,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:03+00:00",
+      "rows": 744,
+      "sha256": "342dedb887e56807a95e3a1e17f35bc8a221bf16a8677a58b278212aff0d9e0f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29305,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:03+00:00",
+      "rows": 720,
+      "sha256": "ee9875f9d0c9c48d58bda72423d01da0bf7b363da5657c07a1d2bfd5e36f9ea0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31921,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:03+00:00",
+      "rows": 744,
+      "sha256": "8ad2b4b317675c9af06b3bc881f5762aa533c36cc38a7996d8de974a61b3cb3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30649,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:04+00:00",
+      "rows": 720,
+      "sha256": "15c03415ab0d60b7908e71c85d4db0f04df80a3b32fa7e96fc03275e3e8b6f37",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32299,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:04+00:00",
+      "rows": 744,
+      "sha256": "092cc468aafa8443c6f9b6fb00122571008c3eb3ec76a4270340e1ea2f3cf3e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31677,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:04+00:00",
+      "rows": 744,
+      "sha256": "ba4723ba9cc33f6182336e0f5dae26ad26d123d89d1b17884c26ea4e51a30ab7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30096,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:04+00:00",
+      "rows": 672,
+      "sha256": "b01ef7ef2ee07844df7f78bcc078f4d8c7dee6ad7b6eb46da1e05ef9a3721e45",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32368,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:05+00:00",
+      "rows": 744,
+      "sha256": "bc181895acc55684cd2743cac8902d443bc30f6552a41726226c3ffdd52ff2be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30640,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:05+00:00",
+      "rows": 720,
+      "sha256": "d8071ccc62585cd44e421ef18fa05d478349098bfde21e5f4f2587fc68832f3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32080,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:05+00:00",
+      "rows": 744,
+      "sha256": "824515df5495f894728392c7c5428b8321884712790f91a12aa8349fefa9650c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:06+00:00",
+      "rows": 720,
+      "sha256": "367fae6f93f8a630d627c4760eb2aac2b1eaeac769cdd0b7adf8b3f4fef44379",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31479,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:06+00:00",
+      "rows": 744,
+      "sha256": "2e33a32dc4840c46fa1bb32f6434c9b412de15269a0c20fc10a964901a4c8f6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33249,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:06+00:00",
+      "rows": 744,
+      "sha256": "51f5d35498f49ed13ad5b1151482bdcb9380d3a4f51ac6011736284d7bb19c2c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:06+00:00",
+      "rows": 720,
+      "sha256": "37b30f79f8cbc6e9119493a961b913da2c8fed8f2bf612f161cda0cd578f00d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31751,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:07+00:00",
+      "rows": 744,
+      "sha256": "79e570a04316887c375c5e9b3aeb5ff2c7931a2cf418ba3750c7c177c3b6ad2d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:07+00:00",
+      "rows": 720,
+      "sha256": "c4450f26e251a11bd21f845682716ffc227020ce2a509cea6ff5c667fca47715",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:08+00:00",
+      "rows": 744,
+      "sha256": "32f3a887824e78a05f535db48a3411fbda24c00e2939ce47ee0fc3519a343b03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:08+00:00",
+      "rows": 744,
+      "sha256": "d1757fb8971841464c78f00ced664b34fa35e4412c8f0451598f3f09ceba958e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27838,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:08+00:00",
+      "rows": 672,
+      "sha256": "727b50fe5150899c22b374137577dba9ec6eda53d93d19a15822ce461d83d885",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29760,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:08+00:00",
+      "rows": 744,
+      "sha256": "d45955bc4800983dbce678522ba4ac1cd87f58e77d39a5be2969a5366b8bc3cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29432,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:09+00:00",
+      "rows": 720,
+      "sha256": "127f290a4a19aef40db2753f04b810f4dcefeb308057bd6e7db39d756ff8827c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30044,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:09+00:00",
+      "rows": 744,
+      "sha256": "855fd44eac65bee4c16793baa734c4b04f88ca55a618e01f2e327341c5c4bba7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29424,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:09+00:00",
+      "rows": 720,
+      "sha256": "3686ae55d2cabfa535accc065a40d6da25c09ebbca59d79dfa243c8bcac986f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29255,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:09+00:00",
+      "rows": 744,
+      "sha256": "314634fe9e09299a4baf018ba77b739afe134d58d5639d7d1366499e8c26e800",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JUVUSDT/1h/JUVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "JUVUSDT",
+  "total_rows": 49152
+}

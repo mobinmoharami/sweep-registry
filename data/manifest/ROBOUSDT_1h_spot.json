@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 30959,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:24+00:00",
+      "rows": 656,
+      "sha256": "eec0bbc72f30d82e68698ba037a99093b43721ae9f4d80497560544b6cdd67ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ROBOUSDT/1h/ROBOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:24+00:00",
+      "rows": 720,
+      "sha256": "17c704d03b9a89ef37a0cdeb37df6c6f5a91e90f9aa70269eb996f5ae8091797",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ROBOUSDT/1h/ROBOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:24+00:00",
+      "rows": 744,
+      "sha256": "aae6c76dd3a891e03c7e7b3fd5b4822262c0709807d17a3a99a19036594465ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ROBOUSDT/1h/ROBOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:25+00:00",
+      "rows": 720,
+      "sha256": "e94f790f5d6f2013d15375f4ed72f9a9f423a2faf02ad5e51ce90a2871bcc964",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ROBOUSDT/1h/ROBOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31214,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:36:25+00:00",
+      "rows": 744,
+      "sha256": "bc730c718efd87b2536db8a88396ace72011b5738510b146fc79c9ec9694a958",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ROBOUSDT/1h/ROBOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ROBOUSDT",
+  "total_rows": 3584
+}

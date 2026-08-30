@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 21957,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:39+00:00",
+      "rows": 419,
+      "sha256": "bad9e9c4c57ba0d4f0a2486728d93a85386afc176b301de5e210ca9c8c63278c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSBULLUSDT/1h/EOSBULLUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 36997,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:40+00:00",
+      "rows": 729,
+      "sha256": "fe0818f9f31c33e8827bf5e113f20f5715dd720e08c7c4e3b7e50821d499f1a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSBULLUSDT/1h/EOSBULLUSDT-1h-2020-03.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "EOSBULLUSDT",
+  "total_rows": 1148
+}

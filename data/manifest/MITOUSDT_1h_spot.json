@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 3009,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 57,
+      "sha256": "1631c7ef2370f017aeec0c7cdce89f2a410d04b7ec24696abf36cb217fbe0abf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 34390,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 720,
+      "sha256": "14ab3918a6a362036afa4f8eb94f6b14419a158473630b0b26595949d2e57f4a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34723,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:15+00:00",
+      "rows": 744,
+      "sha256": "6326b43cc883031dc9cf9907677e3cd0c4d3427cc274b4e1ae63e8da4434b8d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 34173,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 720,
+      "sha256": "71b2b0657667946ecfa45d824169c4b1b442d88dad4b395b8f4f8c8d4340d421",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33768,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 744,
+      "sha256": "c2eaeb04cfc66cc99f8442c2538f6c65902bc80f731b9f814cdc3e933607411d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 34252,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 744,
+      "sha256": "f5fbf6f2f730bc145f276fff2633254035d3ab7c5cd9b7b825f82ffed343be3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:16+00:00",
+      "rows": 672,
+      "sha256": "efc20afb64096dd3b354c99f8b936bd1882d4bb576184a68da652ae81c916b5d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:17+00:00",
+      "rows": 744,
+      "sha256": "95a00d41e017d0306cca317a5354f0fc6e2f3114bbcc62578fad1a59287c0b4c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32403,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:18+00:00",
+      "rows": 720,
+      "sha256": "8aece701c61171fbd15dafa67113bf2a1f21503b767ffdaa706f3ee63862399b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 35079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:17+00:00",
+      "rows": 744,
+      "sha256": "2555dfb45c8e97ea0d96395affd71f65fd210425859b4eb842b32b664530ad23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:17+00:00",
+      "rows": 720,
+      "sha256": "5923d1a13be49dbc5b88a50698cb750b82c4bf1c5829f5fe2e2668fc80b647cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:18:18+00:00",
+      "rows": 744,
+      "sha256": "3f4289b769c77d4786c8b3cc30bcd38f9310cda14d06b8ba8fb7be34bf729886",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MITOUSDT/1h/MITOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MITOUSDT",
+  "total_rows": 8073
+}

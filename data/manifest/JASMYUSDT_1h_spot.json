@@ -1,0 +1,461 @@
+{
+  "files": [
+    {
+      "bytes": 10004,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 204,
+      "sha256": "f705d66326a78b818d5988b1448c088f415ee9d8ec1f3fc0750a4722c6d1766f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 34668,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 744,
+      "sha256": "7fb3bc5cf599524e81a86ba0f155a1d964050d3bb796105b3372523f5d193bb6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33572,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 744,
+      "sha256": "ec85b4dd8b8b69e0178c7c224ac6d67f48f29fb585a23f107cfee910d4d35ecc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 30822,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 672,
+      "sha256": "d2d2f7691950d91823578bda631c7b4eeb9e6656fed3b9b42aa6e8ca15487473",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35574,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 744,
+      "sha256": "3dc4841b276bf170a18516b4f53bdc47854bce623dc7675be6f3a9d510c4567f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34108,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:40+00:00",
+      "rows": 720,
+      "sha256": "c0acba96f649135a2384c61f3de3e28748d7f8550db0451311c0155f4ece6f05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 38077,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:41+00:00",
+      "rows": 744,
+      "sha256": "880fa016917ab1e3d97dbd3847e7c654dbd5ebcf0e33ab8f73f2e233694a5bb7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 37484,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:41+00:00",
+      "rows": 720,
+      "sha256": "d7e8f41439f0ec4c3069cfd3444c34aaa4f10e31bee140bc1cf4426daa3120c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 38521,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:42+00:00",
+      "rows": 744,
+      "sha256": "7660b4085471826cc41887861f20fabf9ca96cf25d6751a7300a68f2c83f9536",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 38342,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:41+00:00",
+      "rows": 744,
+      "sha256": "a8c698ca0ab3e49c42f34365d498ff274f547a1b46783f5d4c7a999c8adbbbc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 36438,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:41+00:00",
+      "rows": 720,
+      "sha256": "3389b5af3381a8bc0a6ab4d6d6e1b63e3c82a83231d36ce418a91d54e71f1f66",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 37737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:42+00:00",
+      "rows": 744,
+      "sha256": "fd1f10210efc879bcab7422e95c20253bcc98228651ad2aeab10ba87618f9791",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 36882,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:42+00:00",
+      "rows": 720,
+      "sha256": "2ae84f359a79119c7ea1857a51373dbceb0886ff496a163bf7dc4725334c9552",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 36550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:42+00:00",
+      "rows": 744,
+      "sha256": "3e2389866a6da37e27fd9a66509fa5ce237fc54428d2fcb6fe565bce50c3522f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 37912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:43+00:00",
+      "rows": 744,
+      "sha256": "cd734fc5d420d6364851c77401759d3c8a903934a5652fce3c62dabb9cb218c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 34780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:43+00:00",
+      "rows": 672,
+      "sha256": "3db06e62c26e4022df007d840fe4deb7be94573d5248942f27c5d9d67510c38c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 37563,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:43+00:00",
+      "rows": 743,
+      "sha256": "3260b92a1117f434e44f3c8385b44997ef7ed86bfa1bae86cd5b925c4d5e8fee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 36785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:44+00:00",
+      "rows": 720,
+      "sha256": "d365891395a9b101d1aef41b140e130d272d3025bf67377ae25608a58b300d13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 37561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:43+00:00",
+      "rows": 744,
+      "sha256": "27e38eaf5b4fe5bda05324dfc27a95b9295a9ba86cb17d04e3ddfc9c34cf257a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 35739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:44+00:00",
+      "rows": 720,
+      "sha256": "ef311acdd1eb0abe2eafabcc8be8659702b0bf3603174cb8615a18063ab4bb35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 36288,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:44+00:00",
+      "rows": 744,
+      "sha256": "45e847abcbd2f0eac07c7b89957ca27dbc06840bab451a14f5aed803a561a8f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 36019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:45+00:00",
+      "rows": 744,
+      "sha256": "41ba98be3403b511547b7634d2f0c223469f7ec27b48ecd2f74bc820d0a6dd41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 34589,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:44+00:00",
+      "rows": 720,
+      "sha256": "5d9dce797ad1b11b7619e8a7c8b848606e28d2acd8ceb4577a45bafb5e5c4900",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 35962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:44+00:00",
+      "rows": 744,
+      "sha256": "3e48fa0e0528d7b4d09e40705d7f03614de979c8d21b23cacfa327d56a581c2a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 36093,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 720,
+      "sha256": "e2bde37285146e99a96647a47b4dda1ffd9832d92be49494c0c9322f20584dde",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 37638,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 744,
+      "sha256": "68e8a00a2007208b8fdf4514b5aaa9ef28077569ac3a49fbb96bc00341ecc23e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 36877,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 744,
+      "sha256": "f082212e84227183d7ee9f9877b4e1ebe76525a02c3ced8341438011f3cc43da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 36161,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 696,
+      "sha256": "3d1e3c2915849d60e7d4c54604ef211e1f2abbfe60fda725ac805af29fea4ad5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 39712,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 744,
+      "sha256": "55852b3a60e458915b94b9e4580fcc817cc3540aa01098980e7cd5c8b4d7be1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 37878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:46+00:00",
+      "rows": 720,
+      "sha256": "4f8fbc698cd9e16ee712d45429c40d12a515b944a7f632cdea197f63c83d5c16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 39020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:47+00:00",
+      "rows": 744,
+      "sha256": "42997a5bbf967c8ee45d300c41f5a3f2adeabc5232592b09e2daf7608f7a6225",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 38503,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:48+00:00",
+      "rows": 720,
+      "sha256": "b587421469724de557529d460bcbbc217c993c14180acd97a8dbfd1499fa45d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 37121,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:48+00:00",
+      "rows": 744,
+      "sha256": "c0edfdc047bc62e7205d97ae45a73cd7c7f14ee28aef5a77be8ccafb21ebfb3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 36541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:47+00:00",
+      "rows": 744,
+      "sha256": "04f8a2cf33cd13276463d7520dcaa884a99a082b710b04aad76a7ed138208300",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 34621,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:48+00:00",
+      "rows": 720,
+      "sha256": "e8465d53a272813a7092818719fac5585f7e417de6ffa58269979cb5070b2a03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 35541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:48+00:00",
+      "rows": 744,
+      "sha256": "0c5c22e493e2363bb0ffd6915b872fee836780827ce327de57cd64a8c06943a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 35764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:49+00:00",
+      "rows": 720,
+      "sha256": "cec62c24c024205a9461756cc0e2862f10b9fc186b48483e49839db1e6a50e12",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 38025,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:48+00:00",
+      "rows": 744,
+      "sha256": "84e6d2414ddaeaf3c226c99f74a2af2bdf0725e5646178c3af364073c305701a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 37103,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:49+00:00",
+      "rows": 744,
+      "sha256": "124668fa1d36d4a9f0b9dfebde2351be3920b5f348153a2442e534708d5d673d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 32911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:49+00:00",
+      "rows": 672,
+      "sha256": "6bee0d678a88319317fff6d694c0f15a222094d4b7904add931950c48b687b66",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 35646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:49+00:00",
+      "rows": 744,
+      "sha256": "2ed30b1b3c51dd95b89fb62efbf1425676229a8ce6cacaadbe89c88d228df115",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 34964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:50+00:00",
+      "rows": 720,
+      "sha256": "3b5946e4ad17b1f55681797d23a8c4085e30eecb48b5fe8f0b72b8898e26bc9f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 35602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:50+00:00",
+      "rows": 744,
+      "sha256": "2a4626ae4d18337cead69f852319aee82075515bff2f9f4e56056b14839f3ee7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33462,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:50+00:00",
+      "rows": 720,
+      "sha256": "235e590c24a84a1703604cf924a82f2aa723f63d9593441967c896a47a462ba4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 35537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:51+00:00",
+      "rows": 744,
+      "sha256": "4005e4c19fdb0a8f1c9740b0af89dd748696fecbe74fd8c2d2e61807cc685af3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:51+00:00",
+      "rows": 744,
+      "sha256": "5d080d6ae4735416d33ea1e463c03b9e630b6563d3dc3c0f2194d9e708030c63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32871,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:51+00:00",
+      "rows": 720,
+      "sha256": "0071a501358026d44f4bb87ea458bf6bdddced444f95d8c9560468b020b1cae3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:51+00:00",
+      "rows": 744,
+      "sha256": "0c441fa27be29dc27105d96041fd4b5546f48785fe5a663ced41b4eedc8b12aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33248,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:52+00:00",
+      "rows": 720,
+      "sha256": "2362dcb7924aa8ab6909d1dfbea194ad6c23b378ed5ca0a4e221fc1b7238db90",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 32985,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:52+00:00",
+      "rows": 744,
+      "sha256": "a668b70bdf255d53d89b5c6567e6ea2ee3f5cd0871e4c7cbcf1a5fcedb1a0063",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 34315,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:52+00:00",
+      "rows": 744,
+      "sha256": "e4581e2824c8e1d757d12f376fe0801f1e291d11f8e9766acad58631ccf7d602",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30087,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:52+00:00",
+      "rows": 672,
+      "sha256": "9af758c955eeeea65f9315e8a75550083a1c491f6bc6291e9ae51e0262ef560a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32492,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:53+00:00",
+      "rows": 744,
+      "sha256": "9fc0869046a35c9940aa35f8fa3edaea265bf0f4e1079f384b4af3ea0c01d18e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30725,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:53+00:00",
+      "rows": 720,
+      "sha256": "0329d5c9752f294bc2a3004065ebdc2552508309810d7c6fbdf36cd9359bf71d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32542,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:53+00:00",
+      "rows": 744,
+      "sha256": "09e62259490219f01b20157bd2f9649f04776110346edafb050056efad7ffc87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:33:54+00:00",
+      "rows": 720,
+      "sha256": "bcea4cee14b60b3fd40a0a0ff89ee0214dd3e5efe5d20b4b942060001975d18d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/JASMYUSDT/1h/JASMYUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "JASMYUSDT",
+  "total_rows": 40355
+}

@@ -1,0 +1,477 @@
+{
+  "files": [
+    {
+      "bytes": 13516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:23+00:00",
+      "rows": 252,
+      "sha256": "b57a98b0e41d6aece46f030b38548c64eba6c35c8425d4a3302bcf58e22f2ee4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 35434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:24+00:00",
+      "rows": 720,
+      "sha256": "1d5eb839d429be199b5829804927c8a2768a071183008fefd421511aa039d2db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 36601,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:24+00:00",
+      "rows": 744,
+      "sha256": "55f3f36242337d2e468b0c52341bdbaa2bc0fb1db8b18b1d05dd50a70051aad5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 35652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:24+00:00",
+      "rows": 744,
+      "sha256": "15bf17fb13fc8ca17e852fffae50a16c13e3610eda28c0230d217fdeea8ddb52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32008,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:25+00:00",
+      "rows": 672,
+      "sha256": "04fe1fefb115b0f9c4069cbcdfcd9bdce17dbce7c8b54c49cc44d1b1bfd87452",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 36222,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:25+00:00",
+      "rows": 744,
+      "sha256": "a3d53e2daf6ccc971b4a85213263ea7c7a71c13e2d0660fa862f6c0533d28cf7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34984,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:25+00:00",
+      "rows": 720,
+      "sha256": "f41e8d7ad8c052741f68863bb0b0ad2ae68e07360878555caf2c78faac39819f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 36019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:25+00:00",
+      "rows": 744,
+      "sha256": "610977f5ab5bdd3b660a4a4d0328e7e5fc1baa146ec069c69816c93a5d28fe42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 34060,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:25+00:00",
+      "rows": 720,
+      "sha256": "bdb145b1cba30fbb50912e3d4fec6964aff4ce96ba967b5a44a498341e8f1fe1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34227,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:26+00:00",
+      "rows": 744,
+      "sha256": "0606032c274bf63e250aa69b8da4dca25fe5aeb7e31a1a6da8d2c2b3270e1e59",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 36284,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:26+00:00",
+      "rows": 744,
+      "sha256": "4e8e14513a121549d6883a83094ff629857fa31950b6da7132d95e98ca3220ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 35944,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:26+00:00",
+      "rows": 720,
+      "sha256": "4c9b4c43baf9fdb74a4e30c94589502dd469fc5e8727f4afbbd276a0b621a628",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 36211,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:27+00:00",
+      "rows": 744,
+      "sha256": "166806d026a65d1fab0d1032b74e86ca64d272671c8c71ecd18e356df63e9723",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 36645,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:27+00:00",
+      "rows": 720,
+      "sha256": "b998c65be9bd243a30e6033199cf69b40298440a64f73dc42d5f66d8cb4b9dfd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 35359,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:27+00:00",
+      "rows": 744,
+      "sha256": "033fc58b04bab15236857232de0d746eb545a0d648748a568781a729f4f44697",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 35079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:27+00:00",
+      "rows": 744,
+      "sha256": "938ab36b886e7d9bcb346cd15bab5cd96f1f6f1b710a45d50672889fcda2c6b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31593,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:28+00:00",
+      "rows": 672,
+      "sha256": "8c3f40fc4c39110f027c4d138f70afe3c7aeb3e6e48508d717031550c27bf76b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 34402,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:28+00:00",
+      "rows": 743,
+      "sha256": "6e03f4e61096eafaf777660686cd4c203917eb4aa71b8c007fab0d1af7fea999",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 34178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:28+00:00",
+      "rows": 720,
+      "sha256": "f052c1e4ddfd8939222895319e39dd187cc94b8d7195c7ff15ab49a130b9bc69",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 33996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:29+00:00",
+      "rows": 744,
+      "sha256": "b2e9b4ae9e5609e0fdfbc1e742182990e6e675d8f824c38f8ae4b12b1eacda1b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 32993,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:28+00:00",
+      "rows": 720,
+      "sha256": "8e1c325fef40a2a0a0d5e9f22a5ed77b0cb2a810110d6b5fa3bf5d7e17aa2c8c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:29+00:00",
+      "rows": 744,
+      "sha256": "e341437c106df330e4dbb50ebe80f9dfbc954128f7644e8ad661d18458b94ccc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30590,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:29+00:00",
+      "rows": 744,
+      "sha256": "478eef05b63a2368830c0fa88825a4036e36f9db593ac30f2efeb29e5b8dc238",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28757,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:30+00:00",
+      "rows": 720,
+      "sha256": "38d9210e69108c6346ed4ab74cfc4760a317919e5bcf3bacff65bdb922481181",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29920,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:30+00:00",
+      "rows": 744,
+      "sha256": "7e2ecb1b451f3c4b5d9499e3d403ae1f7e6a098f23d6845e5ab91fc5c5dac945",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:30+00:00",
+      "rows": 720,
+      "sha256": "3a7296a08e05b46f2393449755ea7fe9a8a7b885c9f122e4af59a69ce13fb452",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31974,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:30+00:00",
+      "rows": 744,
+      "sha256": "211e2c23b1539e40c4501e6c170c0c806d154c8b795b0abddee6620d9cd5e3d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32656,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:31+00:00",
+      "rows": 744,
+      "sha256": "867730bd4c3679d97feba1ebb951dcf979946756c6d98ec7eb5e5b254b3be34d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29802,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:31+00:00",
+      "rows": 696,
+      "sha256": "d44d4aa95ff16f6b65f3840077248ce798d5537c544d0a70df2d321a8ab9a0c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33156,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:31+00:00",
+      "rows": 744,
+      "sha256": "cf75cd4d530f9c1fc39f706c163399868c650ced3b9a890f28c27c1f52aeffab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32047,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:32+00:00",
+      "rows": 720,
+      "sha256": "40b4140040f32b998c3105feb5ad753efce453e13fd97f6e2d36044627d1893a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:32+00:00",
+      "rows": 744,
+      "sha256": "127801b805b902cfb4c7d1002ce74ce200b2f64f5847802886c20fdfdb55fbb0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31021,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:31+00:00",
+      "rows": 720,
+      "sha256": "5181a7db6a48588c9f2c661497004b31906c69390b8440b0c3fdcd57b65ac8b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:32+00:00",
+      "rows": 744,
+      "sha256": "f5a06fec0eea81fe3a06a1baec7a1d547e18934eed678946a62ee241f34a2364",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31303,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:32+00:00",
+      "rows": 744,
+      "sha256": "458f71059b281bb89e0288b493046a2ad7d4b51851644cf02d34d7c3993a9e44",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:33+00:00",
+      "rows": 720,
+      "sha256": "a90902d99f9c173f660f7ce1d22d318ce33ecbc7701cce1e5596d5d689fbb52e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:33+00:00",
+      "rows": 744,
+      "sha256": "103697741fca32ecaac3f29eba70b46ac9574742c38f8190a0d1eef1a5a5b3c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31476,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:33+00:00",
+      "rows": 720,
+      "sha256": "a4cbfacc04618fb6ca8f29819ad41bce72af76afc8b1862769219d55df1fcdde",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32468,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:34+00:00",
+      "rows": 744,
+      "sha256": "44e6ab5d39e4d51376ea3c904c1d93dc4fc5bf355138a8185b7269518b450c22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31943,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:34+00:00",
+      "rows": 744,
+      "sha256": "a58efa4e1816dc6242deb45c1faa7683273cfd98d534999a78a7c2baed991b83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29479,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:34+00:00",
+      "rows": 672,
+      "sha256": "bfb3ef1d898de5842b7f429f29a7d0ad260df4482d523bafeaae38b41667b490",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31080,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:34+00:00",
+      "rows": 744,
+      "sha256": "6379f780b4150f01ca037f44e2e1ac4902ab2ad3a36ca28dfeab68859ac25eeb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30055,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:34+00:00",
+      "rows": 720,
+      "sha256": "fb603cc96c7042dd1a2bae1eea1acfe944a1fb29d66387735fb10c12077b3653",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:35+00:00",
+      "rows": 744,
+      "sha256": "bded95873db92231a43b990d6e6c3cc7c70822c3c2a0bb4c6035264c93d3d1b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29699,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:36+00:00",
+      "rows": 720,
+      "sha256": "dcd02dab9259d25fa65bb14d690bc26b85c2612dc0c0c9f5b5af573abf7e1cf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:36+00:00",
+      "rows": 744,
+      "sha256": "e888f0756520783aad176ce7fa785f05606427fe59603cea6d475f539b452158",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:35+00:00",
+      "rows": 744,
+      "sha256": "267c72cf40b34058ecd948cf37ef37b882601704355e9ddbf33ac7bce6ce8e30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30184,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:36+00:00",
+      "rows": 720,
+      "sha256": "79418e4fec2ba5c1cba1c561e8c40e5b41199dc7b8f03a183c2656be6bb3d361",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:36+00:00",
+      "rows": 744,
+      "sha256": "559e9dd24fadbf5762c48b7ed0ba0459df42bbd41cac59e7345364618be6c990",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:36+00:00",
+      "rows": 720,
+      "sha256": "c5b74f4a44adf9dff9855e87fa1302d6b69ad4c60411480d1ea3123c4f1ada3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30499,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:37+00:00",
+      "rows": 744,
+      "sha256": "31c0392cb9da67161edf9e5917a215a0ebb9514d212066c965938f194424a081",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:37+00:00",
+      "rows": 744,
+      "sha256": "5c33a5161ea77b49e4602515fb8c78ddf40fb2466e6afda55a80342848e1bebe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:37+00:00",
+      "rows": 672,
+      "sha256": "ea9826a34a919ef6f95e5ce2fca449d9c1d1e4940ee800acd1ef8b143ab1232f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30170,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:37+00:00",
+      "rows": 744,
+      "sha256": "e172672070f9b969170d92d776ec63fee5df6be82b8320990c3071f2715251ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:37+00:00",
+      "rows": 720,
+      "sha256": "c5e1d04a1fe71cf8362c09066f915559d882fe83e9b485106fef22ad201b91e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30012,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:38+00:00",
+      "rows": 744,
+      "sha256": "4ffc42cd7c2065a53322092f5834e81f0943b26682b6474988f4e386a1c3f9b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:38+00:00",
+      "rows": 720,
+      "sha256": "ab22dfbc311c71b62c090ba1aee9c0b3318fb099e3a402a4ce7d5a06856b6254",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:13:39+00:00",
+      "rows": 744,
+      "sha256": "621da0093e5deea8b86400806bf3b719e05a75997636331f33619cf75ce3d79c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LAZIOUSDT/1h/LAZIOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "LAZIOUSDT",
+  "total_rows": 41867
+}

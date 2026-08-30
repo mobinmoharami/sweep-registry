@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 17421,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:46:45+00:00",
+      "rows": 371,
+      "sha256": "e541dcf236ec296f30ca012c39cb453c9859650e74c60f0def9a229116429bcc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CFGUSDT/1h/CFGUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32827,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:46:45+00:00",
+      "rows": 720,
+      "sha256": "bc0c6b1f6cc0258e33979ff2791bef8596f1dea89e661b7805e7a28556a959d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CFGUSDT/1h/CFGUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:46:46+00:00",
+      "rows": 744,
+      "sha256": "f8fddf42c3f1ae08524e69accd21f667eb3815e53d8710cc89bd9eed81270ecb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CFGUSDT/1h/CFGUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:46:45+00:00",
+      "rows": 720,
+      "sha256": "25dcbc92ccccccc7c916682f369b6c0926ad4d1aa6ae17c3a14b75b1eed8e12e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CFGUSDT/1h/CFGUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31788,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:46:46+00:00",
+      "rows": 744,
+      "sha256": "11257a4e4ee67270567ec430fa1dc2bf4d8532ff380cdee3dc3a9a983b81c0a4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CFGUSDT/1h/CFGUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CFGUSDT",
+  "total_rows": 3299
+}

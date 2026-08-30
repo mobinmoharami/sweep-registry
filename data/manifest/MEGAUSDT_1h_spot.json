@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "bytes": 870,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:31+00:00",
+      "rows": 13,
+      "sha256": "7ccef259c31c062afc7a77605b360b168dcf0b9881a5b8742dae01bc8ce9e485",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MEGAUSDT/1h/MEGAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 36789,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:31+00:00",
+      "rows": 744,
+      "sha256": "70ed58cabe856a71f4708685b71c5fb37abf2ceec9299ca822bceb71ecd5fc24",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MEGAUSDT/1h/MEGAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 35703,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:30+00:00",
+      "rows": 720,
+      "sha256": "c7ffb4ad35b270ab2105dd4b1c872654070f6efc9e3e342bd4f06be7ab7b80fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MEGAUSDT/1h/MEGAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 35198,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:30+00:00",
+      "rows": 744,
+      "sha256": "a429c5462fc85509a4a995841e42d807f17253016d8e1dd04e7215c0ae6a9c0e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MEGAUSDT/1h/MEGAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MEGAUSDT",
+  "total_rows": 2221
+}

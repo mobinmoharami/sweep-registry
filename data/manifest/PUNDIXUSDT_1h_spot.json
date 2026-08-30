@@ -1,0 +1,525 @@
+{
+  "files": [
+    {
+      "bytes": 26155,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:33+00:00",
+      "rows": 519,
+      "sha256": "4dd80081ce33c5b23d712c65107e69e104dbff830a23ce8b9de5d912e948ebf2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 35941,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:33+00:00",
+      "rows": 744,
+      "sha256": "6803ce73c8623fa6d949918b39729f0cecd32a8b53fbecbdaa40cff85c3bc86c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 33571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:34+00:00",
+      "rows": 720,
+      "sha256": "1070cd504b0a8a1fde5d87c22ce4c887c11469363fea860c83a6dbb0eee91c2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 34963,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:33+00:00",
+      "rows": 744,
+      "sha256": "03c24c0afcfb3820b8c35030d039ad59047c2294eaf83e43ddeff094185e2a76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 34095,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:33+00:00",
+      "rows": 740,
+      "sha256": "78639e1617adaff93f126e5b35df9740f0b85f86b65a0a69c52315c6f1eb87b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30199,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:34+00:00",
+      "rows": 718,
+      "sha256": "b698fb878fa48c7cc32c2db3090530a847fc7d81f79be82fa8fe6a202650e5db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30850,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:34+00:00",
+      "rows": 744,
+      "sha256": "c82417a807f319e6c81af77badaa837a7bab49146a9644d92892c06bdc20bdee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 29455,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 720,
+      "sha256": "14ba2751fb43f83df391a05e579caf2eba7d66db1993afe016aaf8eeba3818a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30210,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 744,
+      "sha256": "5810a7dec0a0f21f6f3ce59399221c91d8c4934ed67628beda66b30677006fe3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 29543,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 744,
+      "sha256": "20009a1155ee39372b34c032397fe280ccf5a901f41b19d8d7e2f35addc3b76b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 26718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 672,
+      "sha256": "8aa498176e6d243c5c60ee09ea490cb6f4f87f27ba430a5f740f6aa248404e7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 28772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 744,
+      "sha256": "6d5f97ba6c0a5b047cb2292f6498b923830b7bfda4c262dbc1fd0d91c91363cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:36+00:00",
+      "rows": 720,
+      "sha256": "9556a8c23faff785295d805d9aba131d250c9ab7096a4fb68056792ec4a4c593",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29172,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:36+00:00",
+      "rows": 744,
+      "sha256": "84eb1050f1722145773b0d664c735786f93b843c2a6fdb6e5645ed5f0e26a6bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28195,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:35+00:00",
+      "rows": 720,
+      "sha256": "c6b507e458b995c9b1317a6ebdb4e7ba55876bc90aaf01996f29d6ed3eccaf3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 27823,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:36+00:00",
+      "rows": 744,
+      "sha256": "da934d34a46bdf97c03d17843b2ccea42ab2cf98e41145095c495a75e2399837",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 29268,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:37+00:00",
+      "rows": 744,
+      "sha256": "30e2dd1d7b3f6291a848cf5171905888bb10090ba17ef7db92f46147120e0a9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 28538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:36+00:00",
+      "rows": 720,
+      "sha256": "724c6256f15e81647cc875b0774278da1d36f3fca509136fcaf70314035661e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 28564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:37+00:00",
+      "rows": 744,
+      "sha256": "4e59c08ef29d9c9f2e3061bc99968899348aa3e94350aeba685d7e54af72aa68",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 27635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:37+00:00",
+      "rows": 720,
+      "sha256": "87285d83be2e6b80e1376c1c4bf4063b9afcf75cb416ead2a3168f74a1d7799c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 27211,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:38+00:00",
+      "rows": 744,
+      "sha256": "e249d5e17a1e77f1a483a1535eefe5c48c39ab7d18eb9e29cc3412ef3a9abc85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27931,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:38+00:00",
+      "rows": 744,
+      "sha256": "6fa1e8d0c21b07b0e50e9f766e97940c5de25e8199132a62fa82180af95944ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 26383,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:38+00:00",
+      "rows": 672,
+      "sha256": "176cc412a5c0b61fdaaf75e8ddbd31aff47fcee16fe619ae9ebe119e4c91d5de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 28317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:39+00:00",
+      "rows": 743,
+      "sha256": "36dd842c501123662c6f4afa5d2bbe89b6da142c7cec63014170962d23a4d2a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 26596,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:39+00:00",
+      "rows": 720,
+      "sha256": "c9a05374649f878877bc9abb17dfa452af3f111f6eee0be8f25777e1d9b96f8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 25940,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:39+00:00",
+      "rows": 744,
+      "sha256": "2f4b1e2e3ee1d5c8741a9f3786d81e443c51926eac0d7783bc5653d9a80bf66d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 25800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:39+00:00",
+      "rows": 720,
+      "sha256": "7218bfce42430d66d7b040e2e36bf650bb521bdb30a6487434874b2d21277f19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 27306,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:39+00:00",
+      "rows": 744,
+      "sha256": "bb88642296a30630611eaba1edd6170bc0716ba5fa812504ae0f13c30e9ffff4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 27147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:40+00:00",
+      "rows": 744,
+      "sha256": "d448a4d898235436baa8289b72ddddda4c714320d831697a39e7708f697e30c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29214,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:40+00:00",
+      "rows": 720,
+      "sha256": "02e809bb9386895725f0c61bba3d68730ead3ba5ed0f3f50a6b33d1208e2c10c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:41+00:00",
+      "rows": 744,
+      "sha256": "3b0052b0005182362b49f101d1466a35b37d6de8dd025081c3b9452c68c6cc30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31598,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:40+00:00",
+      "rows": 720,
+      "sha256": "44a12d092f8f3bbf0da61b2995e71656d5ba672934458ba675fb54bc90c9cc6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31481,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:41+00:00",
+      "rows": 744,
+      "sha256": "32e4e7b7497fbbcea1a46a99d2fad6756edb39e510f3f9d59b02269154024297",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:41+00:00",
+      "rows": 744,
+      "sha256": "018794e66878d43d5859f9aa9f223a0537ee5f2ee40889198a5239d4049bab2a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29204,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:41+00:00",
+      "rows": 696,
+      "sha256": "30a051bc442f388116c8da6a0b5398db591191ede9b1fa04b4024e50c666b7de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:41+00:00",
+      "rows": 744,
+      "sha256": "3830d0ace00f34e9af7a6ac5655abdd79482344240f471450fab1e1155679e7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:42+00:00",
+      "rows": 720,
+      "sha256": "887681d781ec11f375a3ca2f83a9fd857b56e89400499b2f2c16bd349e1cd5be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32339,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:42+00:00",
+      "rows": 744,
+      "sha256": "14f5d8e0dffd958d7f9c96224c956fc31e821746c1fd5f3409e6ad7209b55355",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31346,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:42+00:00",
+      "rows": 720,
+      "sha256": "bf3042752d4bf0465298ba8bfe2f4795f7ad5611f9b49337af6c9d33f86609bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32700,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:42+00:00",
+      "rows": 744,
+      "sha256": "73fa5b1a014bb4712ebfdc05d91cfa52454b5f095a5c8e6b86158950eec746c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32151,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:43+00:00",
+      "rows": 744,
+      "sha256": "da31800993bb2e547a6ea774ef5add62eec1ac56194b264b75c7384d64409522",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:43+00:00",
+      "rows": 720,
+      "sha256": "58b3e218e61c9ff1c50976ec652cbd0cd87997e99fe7bd3bd09a5e5777c23e3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31441,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:43+00:00",
+      "rows": 744,
+      "sha256": "ec2daea6bf45da79fba16982038b713dd8dba2ce2d0f6da143e14ef3d9180948",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:44+00:00",
+      "rows": 720,
+      "sha256": "20713236b4ba3ea469232778bc64f63271fb20dfe3fec8960e6d93e6e689f2b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:44+00:00",
+      "rows": 744,
+      "sha256": "685816dabf04281f23f1048e7f5e8e00bff1de7d797942dccbdd3304acd28d70",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:44+00:00",
+      "rows": 744,
+      "sha256": "085ebf5b88e0af0e7df49e6d801c7961565e4016ae6d204185af8ccb5cc0ade6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:44+00:00",
+      "rows": 672,
+      "sha256": "1fa6ddd02bad2f634267b88761d553bddd9ea4dabf1d0e884a9acd62d0586529",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:45+00:00",
+      "rows": 744,
+      "sha256": "89648aecbc2e1356982a1113f7a01f55aa2edddd43fab95459e6283112761c71",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31174,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:45+00:00",
+      "rows": 720,
+      "sha256": "5bd5bd45b64e1f3b7ed277ede113bdcfd4d8bd6bb155777e33a17cdb6a4e0ada",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 34325,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:45+00:00",
+      "rows": 744,
+      "sha256": "6141fa4efe8b714cc597ada2cbee718be329634fc6f2c29322f436ff51946e46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30650,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:46+00:00",
+      "rows": 720,
+      "sha256": "0fdb5047b4ebc069f949d9177d2c3c6aa00b7f7835f4993e6d23f678ec5463b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32442,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:46+00:00",
+      "rows": 744,
+      "sha256": "ec49b54baa46a8c6a57d2bfb86af2cf19e9c6b78f8f78c43f60f96c0898797b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31376,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:45+00:00",
+      "rows": 744,
+      "sha256": "29a51887c5e633f528a9fd073893507004971cecccf16ed5ba30635ccfe24a18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 720,
+      "sha256": "9ad10896469a3b8ab232cd69558eb09e77dd7f91cfcb125a065128e495a14f35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32417,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 744,
+      "sha256": "62f5fd70278ccf89251df4533238e7d6eef9b2b55529915969e0ac01d7e5f5c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30413,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 720,
+      "sha256": "440d96e594a673243aec02d9fd94584ea457b5f5bf89766c3a9d0a0c4ccba380",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 744,
+      "sha256": "1673f14d4ca8d5126e15b2b462e4f99a9c46ebda75a9307bcf1967ff34e2fb7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29639,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 744,
+      "sha256": "0020ae1b02b5774e462b22be5c2f45cef571ebeb45c11c7c982b6125a1df0f9a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27282,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:47+00:00",
+      "rows": 672,
+      "sha256": "318fb63d27dce5f8cac8b68f6a080b52c312787b978187ce562c44bc2478db41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 28622,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:48+00:00",
+      "rows": 744,
+      "sha256": "a6852093784cdbe95b81e85d047c1b1f243afaf57d2ff67d0062d7b90b9cc09d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 27651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:48+00:00",
+      "rows": 720,
+      "sha256": "902076515d775ef6b27e7c933d26c88c6b6262b2e9c056ec146ec550a7244566",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:48+00:00",
+      "rows": 744,
+      "sha256": "fd3399516b36633c99ec622a248bd2dcde7bc8307ea1596c1025dcb672abe238",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:48+00:00",
+      "rows": 720,
+      "sha256": "567a4ad2f404d9fdad87a8238dc3569ea0453767a1017bd144c6140a855f994e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 28387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:30:49+00:00",
+      "rows": 744,
+      "sha256": "afd8b0db9de67017215e8cede52d2e4cab9f20b3bff40c9338582c42e1645800",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PUNDIXUSDT/1h/PUNDIXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PUNDIXUSDT",
+  "total_rows": 46544
+}

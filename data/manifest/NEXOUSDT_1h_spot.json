@@ -1,0 +1,429 @@
+{
+  "files": [
+    {
+      "bytes": 1863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 34,
+      "sha256": "66606a73e7c0364dfe5d1daac58f1023f4f84d06286290de1bf26d350aeda5dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32400,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 744,
+      "sha256": "c647439c4b2ad664f75495b79bc8deff431ed4dc4c37470cd3ab065bb745036c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 720,
+      "sha256": "8dc7ba5e5b36b30c4453c890f4b3191a3f1fca67200d0cde4fc1db6607ecbbba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31016,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 744,
+      "sha256": "7852817c25554ee629538cb9a77018267de78f2336408389d189f4f0d3704677",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31841,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 744,
+      "sha256": "a956889488b7e83f3ee7cb1595dacefa906162808ad9a82ae0516af5a55a065b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30710,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:45+00:00",
+      "rows": 720,
+      "sha256": "aa82af2a85ac1c948f318b412379a15946bde15007dc17e93de163d724569294",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 30917,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:46+00:00",
+      "rows": 744,
+      "sha256": "41c0b92cb305f7f269e3ce1e3a2a5c5c32667d7e7b79cd7f7380e9f2ca0ddc3f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30680,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:46+00:00",
+      "rows": 720,
+      "sha256": "68d8a59b75fe079b9c33b87e4dbfba98fd3857973bb851e6fa859103de698f73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30542,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:46+00:00",
+      "rows": 744,
+      "sha256": "2041de8f568c6e75ad91df8f86f08936d05b9006c2f1363ee5405ad6ca19618b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 31588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:47+00:00",
+      "rows": 744,
+      "sha256": "80b983e0d720e2cd960f6be90911cf4435d573b784dda91628258d98ca3b3b9a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28128,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:47+00:00",
+      "rows": 672,
+      "sha256": "8c2abf668adac4f5c75e52420a265751af3ca545eaa047e6d7f3dfb9377df0c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31184,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:47+00:00",
+      "rows": 743,
+      "sha256": "25dbaed1e99f8feb15c9bb2b2aab61ea653d43cee470c3179c54ad11f38198a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:47+00:00",
+      "rows": 720,
+      "sha256": "1ef0844d13982cdfecb0ea5d8a48940714159b74ac4e5e59507664bff1740f03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:47+00:00",
+      "rows": 744,
+      "sha256": "d37b66d81b66a2165f3e684363c4254f68f65b38df569d47cdde7aee3140da15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:48+00:00",
+      "rows": 720,
+      "sha256": "a1246e730f4950c6ada51114fc7b8ca823c8b8216eaf5ebcba4239a503aefabe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29829,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:48+00:00",
+      "rows": 744,
+      "sha256": "3776e229224251d8640d552463ca097ce3536bdeffee4d671de8a0b2ed6e28e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29289,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:48+00:00",
+      "rows": 744,
+      "sha256": "08daec8f2713f516c4b0a45312115e3253a9cc0ffb467f901f66b840d0cb5af7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28208,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:49+00:00",
+      "rows": 720,
+      "sha256": "51f933678ffc9dcf1223ba830602d1a4843041a4416722e1dbcdde1f66c944fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29633,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:49+00:00",
+      "rows": 744,
+      "sha256": "11f9a0b121b597363893e7f98df010894f8b96d959a8bda97c049af3bc86c4c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 29704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:49+00:00",
+      "rows": 720,
+      "sha256": "9af51947188b4a295d48f74280af782e6d8e506a06ade197fa71d40d298bd853",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 30651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 744,
+      "sha256": "3e791bbfe3ac48c30881cc99f7c3a66d1f0be81be2d83c45d38ce6e790ca7632",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31117,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 744,
+      "sha256": "cc5e8ba78a1205148b4620c1c5359ffc3a183abb73dc4d6ba4eb5bcf9986a52a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 696,
+      "sha256": "94be86060f81faba285f1c55689e527a5208e3dc806f9cb69b222a549a432cab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32627,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 744,
+      "sha256": "09644e850407090a649972d38199bcc959b269a6b763279f8e88d28d58e75961",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31032,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:49+00:00",
+      "rows": 720,
+      "sha256": "f4f3281e9c9e278a7cd9f787847c13d600dc53657ef425c48993299c5f2578b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 744,
+      "sha256": "1441f84628aecb7fe6171825f7c24226aecb45155e7063834926226e86e59522",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:50+00:00",
+      "rows": 720,
+      "sha256": "4d7cd80035c5b469b2f3b725aedc537e03c3ca9e4372e5f6df089029dbf816e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:51+00:00",
+      "rows": 744,
+      "sha256": "cb588267e83da6c364f80d5ea25e67622224d9348dcc02db53246bd7e007586b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:52+00:00",
+      "rows": 744,
+      "sha256": "3bfa7ae3171ca5f144a2e37e410550c0183397c359b71a1cf84ee29afe576dc4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:52+00:00",
+      "rows": 720,
+      "sha256": "368a7b8b2f33c3b0e8005c94d0402588bbc986c8828cf237ce55c3a05fd04cf1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31066,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:52+00:00",
+      "rows": 744,
+      "sha256": "53c472d0ff04cfef653966bd2d0e6d9e90f6cbb898bdda7083b2b97c5892a52c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31607,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:52+00:00",
+      "rows": 720,
+      "sha256": "299f98791f6ea975da5b7f63039d59ce53ded45f58663127ba9a1f90a6abbc35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:51+00:00",
+      "rows": 744,
+      "sha256": "b8f6bcb92edfd2c53060c83eda55a81c1ce8e47d1026eae64392ab823610edc2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:53+00:00",
+      "rows": 744,
+      "sha256": "e428bf20525f854786fc909a7b83de760f0105623423c84c657e4568286446f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 28926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:53+00:00",
+      "rows": 672,
+      "sha256": "b8bfcc837d418e075d16c200821a693c62340d03028e790824bdecbf8567d1ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:53+00:00",
+      "rows": 744,
+      "sha256": "c6672bb3a43a1137c5f6108893a5311fbef58e7d9561d5421dcf94def1512fef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:53+00:00",
+      "rows": 720,
+      "sha256": "0cda4385b0a9cb3a40dc74d80e7e185d81c588c4c34cec29182017b5e4f8cdb6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:53+00:00",
+      "rows": 744,
+      "sha256": "0de082a51a783ec3036933b486103427d3e7e122f3efa0cc48526fb0a80db7e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:54+00:00",
+      "rows": 720,
+      "sha256": "4cd85ed6a066e19b9affd8bdbe70501822b101d819e38d4b70a4b1c5b46d2ee5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:54+00:00",
+      "rows": 744,
+      "sha256": "58f79d4daa7126fb5de59b2a4e71f1a26499dbc2e85d49ea10b4d45ccba5e33c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 744,
+      "sha256": "c05bbf96610db5313e73dc3df109823cc8907acfdc554a94702663bc50c38b4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 720,
+      "sha256": "ed3c363d69796ce9b7dd78c97008890c6759e38781068291a4cd558ef7e96901",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 744,
+      "sha256": "98b371ed6d4a60bbfed549d89ad088e632af561f3d4289846a7f69ad867947bf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30635,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 720,
+      "sha256": "18a759a6e4fac7ac91b094c9d8e06ed889b5beff4ce00a7fc2df81a5328d20ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 744,
+      "sha256": "6eef681a907cb9968bf58ec8d81e65fbcf41126489233751b3d0a32d3937cb1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30881,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:55+00:00",
+      "rows": 744,
+      "sha256": "9da36cd7e14b6191a09f85beff6db4a90c5e8490f6b01d0b261fbc9d48175bb8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28887,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:56+00:00",
+      "rows": 672,
+      "sha256": "e6ed4e4c45de22cfa6ca692b4e88e8d93ff5ee3ec60792d018dfe4640dff497d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:56+00:00",
+      "rows": 744,
+      "sha256": "1612760f40aa8a8b58650225a95b7be162c6a0493d5516fda46263de3a2e2422",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:56+00:00",
+      "rows": 720,
+      "sha256": "ee6c5275c8f0c32660d4080865e2301300b9efee76ace3a22805f5305311c4d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30244,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:56+00:00",
+      "rows": 744,
+      "sha256": "a76ac7097d75064114c416a333b91fb43abd31cdc456910a3de26d4d7bcdbad0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29481,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:57+00:00",
+      "rows": 720,
+      "sha256": "65b4bf242f5ed7b394056912d7a7c8a3aba03e099fc9dd7415bdc5d8aa67435d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:57+00:00",
+      "rows": 744,
+      "sha256": "64186d2f6f9abb51403177f24694af7c07c2e9dc4dcd74a9fb3a0509993e3025",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NEXOUSDT/1h/NEXOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NEXOUSDT",
+  "total_rows": 37305
+}

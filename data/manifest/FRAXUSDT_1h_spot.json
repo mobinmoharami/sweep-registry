@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 19347,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:44+00:00",
+      "rows": 400,
+      "sha256": "4d8ac131234a826856ab549c46221ddea465e3dbc6443871437f6e6651901cd9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29967,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:44+00:00",
+      "rows": 672,
+      "sha256": "530b974c02b131467129405ca83c5e5cbb4f41ae2b1ed65e2ed938b2c9c56fcd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31723,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:44+00:00",
+      "rows": 744,
+      "sha256": "1e1a1ebbbecebe5ceda561f53d64e81805f71559183aefab6bc660f5aa27b6b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:45+00:00",
+      "rows": 720,
+      "sha256": "55ef096cd198f3744920c9e60fbd062c77d4119ca85fe6fc81f6d44c0b62a037",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:45+00:00",
+      "rows": 744,
+      "sha256": "7459a4529b5283e249d7ccdcd353fac14e4ea30a99c2fa71103e08915a0f24bf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:45+00:00",
+      "rows": 720,
+      "sha256": "02841d5464f047cdcd3711803925a580d0321c40b24033e8599e4ccb495bf955",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:46+00:00",
+      "rows": 744,
+      "sha256": "46b202046821bb3ab8c7a5c5a7561966514efd2bb06b6743af4e7fb33af39e17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FRAXUSDT/1h/FRAXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "FRAXUSDT",
+  "total_rows": 4744
+}

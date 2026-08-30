@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}{{ title }}{% endblock %}
+{% block desc %}{{ question }} Tested across {{ '{:,}'.format(summary.variants) }} parameter combinations, sealed on Bitcoin before running. Best score {{ '%.3f'|format(summary.best_dsr) }} against 0.95.{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{
+ "@type":"Question","name":"{{ question }}",
+ "acceptedAnswer":{"@type":"Answer","text":"{{ 'One version passed.' if summary.any_passed else 'No version passed.' }} Tested across {{ '{:,}'.format(summary.variants) }} combinations with the threshold fixed in advance. Best score {{ '%.3f'|format(summary.best_dsr) }} against the 0.95 required."}}]}
+</script>
+{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_family', slug=slug) }}">&larr; {{ meta.label }}</a>
+  <h1 class="glow">{{ title }}</h1>
+  <p class="lede">{{ question }}</p>
+</div>
+
+<section style="border-top:0;padding-top:0">
+  <div class="spotlight" style="margin-top:0">
+    <p class="tag">Short answer</p>
+    {% if summary.any_passed %}
+      <h3>Yes, one version cleared the bar.</h3>
+    {% else %}
+      <h3>No. Not in {{ '{:,}'.format(summary.variants) }} versions.</h3>
+    {% endif %}
+    <p>The threshold was fixed and sealed on the Bitcoin blockchain before any
+    data was loaded, so it could not be moved once the answer was known. The
+    best version scored {{ '%.3f'|format(summary.best_dsr) }} against the 0.95
+    it needed.</p>
+    <div class="figs">
+      <div><b>{{ '{:,}'.format(summary.variants) }}</b><span>Versions</span></div>
+      <div><b>{{ '%.3f'|format(summary.best_dsr) }}</b><span>Best score</span></div>
+      <div><b>{{ '%+.2f'|format(summary.best_sharpe) if summary.best_sharpe is not none else '—' }}</b><span>Best return</span></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Why people believe it</h2>
+  <p>{{ meta.claim }}</p>
+  <p style="margin-top:16px">{{ meta.why_plausible }}</p>
+</section>
+
+<section>
+  <h2>What actually happens</h2>
+  <p>{{ meta.catch }}</p>
+  {% if pattern.startswith('best-') %}
+  <p style="margin-top:16px">The question of the best settings assumes some
+  settings work. Every combination was tested, and the spread between the best
+  and worst is what you would expect from luck at that sample size, which means
+  the "best" ones are the luckiest rather than the strongest.</p>
+  {% elif pattern.endswith('win-rate') %}
+  <p style="margin-top:16px">Win rate on its own decides nothing. A rule
+  winning 70% of the time and losing more on the losers than it makes on the
+  winners is a losing rule, so what is scored here is risk-adjusted return
+  after costs, not the fraction of trades that closed green.</p>
+  {% endif %}
+</section>
+
+<section>
+  <h2>The evidence</h2>
+  {{ m.rowtable(summary.rows) }}
+  {{ m.limit_note(summary) }}
+</section>
+</div>
+{% endblock %}

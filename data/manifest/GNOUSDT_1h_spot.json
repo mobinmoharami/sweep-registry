@@ -1,0 +1,493 @@
+{
+  "files": [
+    {
+      "bytes": 2080,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 42,
+      "sha256": "44d8a5ebffff2dbaace65faa76cc56c3f09f71ade0c0a79edaeefd6e6c598686",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 28909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:01:59+00:00",
+      "rows": 718,
+      "sha256": "71772e1d5828314bf180c1f427aa735d197675e966c54fdd2d3fa710d8ca0915",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 29767,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 744,
+      "sha256": "f4075c57fd8b4b6d027cf4aa0ff51e88db426a1b58b420e78a21bd287568c88b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 29005,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 720,
+      "sha256": "3b7bb903fee1762af5a4f098901fa3f65b269c9f6aeacf831d4f6ea08daa9494",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 744,
+      "sha256": "c7a3e15c7b1d3b207db8cbeaad6e4664179db98f5c8cb769743ed4dade7b1114",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 30074,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 744,
+      "sha256": "348e2ef9f4b1f9c3215ed16676c5d35d03d27cedfc089ae9366a6c630a44a6a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 26214,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:00+00:00",
+      "rows": 672,
+      "sha256": "b78f370f6b9819caa2b9b709510b2b952a5ddab7f50373343f1431f6aae1ad57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 28847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:01+00:00",
+      "rows": 744,
+      "sha256": "ba72434cf6467cf55b8fadeeb30f1efe4cbe4405783b25768114db2500ddbce8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 27682,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:01+00:00",
+      "rows": 720,
+      "sha256": "4d557f886604cf5be6b1625d1850e52e7cb8f10b968279de3cec094cbf1d32e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 28112,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:02+00:00",
+      "rows": 744,
+      "sha256": "ac484c0f33f9fed07ac5c3642029385f334c3cf05d9ff74665608ee01f7c1f4a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 27519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:02+00:00",
+      "rows": 720,
+      "sha256": "7aa570f738d0454b0130597a0e1a43baaacae292d94d7a64a68b39c0c58fa791",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 28766,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:02+00:00",
+      "rows": 744,
+      "sha256": "bf569befe78a8619aac9ceb4c648cdc6d9fb8256a2939b5fa13c47049fd8e7b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 28253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:02+00:00",
+      "rows": 744,
+      "sha256": "f07d1a6824905f356e32b704cd7b42cb7c3336da3f8c8fe37a9f0ecd36132000",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 26696,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:03+00:00",
+      "rows": 720,
+      "sha256": "fde32994d998e522d958b4293dc943ef552625b942430549b86a1f87c4ceef32",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 26714,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:03+00:00",
+      "rows": 744,
+      "sha256": "a8e6facd211b43f3377f20fc4dc502271228a4e4475fa06edf6237f65fcecc0a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 26880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:03+00:00",
+      "rows": 720,
+      "sha256": "a5c89b55b9596b6509a20469db5ed0b613fd2d595149555676252061526d262b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 26335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:03+00:00",
+      "rows": 744,
+      "sha256": "359dd9ef6bb5e81df9e297a1cb5833b1283b17fe0df19892312e11e551d8ff20",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:04+00:00",
+      "rows": 744,
+      "sha256": "ca87fda2a811d6cf0dfcf99dec61b706247759a7b3b3d1f9290d2f1c1aa14202",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 25223,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:04+00:00",
+      "rows": 672,
+      "sha256": "0b49c1d610fceadd6f1e089dccaecdda1de409e5b4fc5c1854c5c9da8bacc637",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 27628,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:04+00:00",
+      "rows": 743,
+      "sha256": "26531e055539375ff501b95dd7ab438922ffa7ad1da7f6de144e656942b458a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 25783,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:05+00:00",
+      "rows": 720,
+      "sha256": "e70acecbabac55041e82a941e7173f98bd279f73767e0fabda3f5512290c0e66",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 26526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:05+00:00",
+      "rows": 744,
+      "sha256": "9099b1d993b1a3006cc321ade2243faee9d3c07a07faa54962e54e0ba560c2cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 25555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:05+00:00",
+      "rows": 720,
+      "sha256": "5a5074dc1905e63d3514f91e6a2dbb11f956897dc3debbab83b393d28a53c7c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 26749,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:06+00:00",
+      "rows": 744,
+      "sha256": "1af7d3077f1d530e428686099bba70db68bef3167a43c8522675dd491ed1e846",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 25584,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:06+00:00",
+      "rows": 744,
+      "sha256": "3f692196d47d3ac5ce876824aa9115f80b63f97f15f21028487cb55c89026e2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 23876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:06+00:00",
+      "rows": 720,
+      "sha256": "fc84b258c9555d58f22b7117e59e3b8ccbef95496b46cd40e3827061b9c1b40c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 26489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 744,
+      "sha256": "ee6b8ce3c3d8a17d4ab76eb36bf0f4b85c56039d0280ecfce8a558f52f658286",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 28998,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 720,
+      "sha256": "e053892115cc705c98ebe0eaadef4f9b49e41ffe5f59e7ea2ec3cc5e4493d6c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 29892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 744,
+      "sha256": "f2d3913dfceb9a608292a18b4f27aae684e246e5db86eea4c7076098a795d739",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 29357,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 744,
+      "sha256": "e25b240135995f21c6cf7dbd9ed134030bfd1d1ba73a0c358e0f67bbf1efe3e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 28072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 696,
+      "sha256": "e21ba8c98caba8ff143264dafa174af92f76e1d1e19be7414652fe7a39d3f955",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 31329,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:07+00:00",
+      "rows": 744,
+      "sha256": "2e7726027713d7a9121db15219de19a69b63f9544d3a35175d68371555593019",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 30494,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:08+00:00",
+      "rows": 720,
+      "sha256": "502a5a050a9e8ae07673a9c295923288f300cb2828a44a9392cddad89ebf6c51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 30765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 744,
+      "sha256": "0b2d744836651d1a86bdd659b95a1e5841c7b40af657e6e7091a04bdce1b8ae8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 29307,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 720,
+      "sha256": "4670e2174f90da111a1524c5f6fe2c747aadecea393350a14488350014f1543a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30119,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 744,
+      "sha256": "3622c3ed7ea4200158511845f67d73ee63512896b313625b8babe07241e8fe75",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30034,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 744,
+      "sha256": "c88deaf4c728bb0481dc34a95ef26ba0249f110c0d8adef8fa7b8f0db3080f14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 720,
+      "sha256": "f13e8c63cd2cb13115355028771ec5140bc16e582105b4a2a9e748aec3b140b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 29892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:10+00:00",
+      "rows": 744,
+      "sha256": "c71dcccb0b7a7bc46469602439bd2b7d4a850e96a1c677d257e9830279f5055e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 29380,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:09+00:00",
+      "rows": 720,
+      "sha256": "3097add9c15ca3317530fba1e26775ad2c8c0356322a2409937395a0c4142006",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 30718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:11+00:00",
+      "rows": 744,
+      "sha256": "5adaa3781ad7732ea537a9be11017d7ed9cf759dd622bab63b9765585431f033",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 30177,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:10+00:00",
+      "rows": 744,
+      "sha256": "0c6f1977e5953c508d2ac2add2dd1b5b1ab2a0d65693b8b791e8f07f4b82aea8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 27327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:10+00:00",
+      "rows": 672,
+      "sha256": "deaf3f64e00c29db26286f57723adbef566712273eef511453b841e7ae212369",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 29737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:10+00:00",
+      "rows": 744,
+      "sha256": "30c2edb6cdad4a1a3b47fb4164137136b73c7f32dc122259270793fc711ce1c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 28282,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:11+00:00",
+      "rows": 720,
+      "sha256": "f849c483cede504a440feb5adb6f478811f4ce7f07ef0978e77fae1d8e9a37c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 29476,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 744,
+      "sha256": "d1448b81e25118751464988802e387b7da11dd9e1a60c21b999418f8295923fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 28490,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 720,
+      "sha256": "a24c1a22f8766f3d05bfc8a5f5f4dbbeb99707af168c838931d92d0d702fdad9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31696,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 744,
+      "sha256": "0ca8b03ecc807df553bb3023c7b066f441d1a0d8e09147b8dbe9575d7e56a1fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31923,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 744,
+      "sha256": "2b2c1a35a1cd19c4a50dd9dac09511aa5435e428e5371324ee54a552b93c143f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 720,
+      "sha256": "6ea14b09c50a6d158a0d29ac9836b0d534599f36385bea971d602528b5d584ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31866,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:12+00:00",
+      "rows": 744,
+      "sha256": "31ad45cd2c5f7f3b32256b74685e3ff176c3d4727c0517949208402017a83b47",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30963,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:14+00:00",
+      "rows": 720,
+      "sha256": "971ac1cddf88da80d331b5a8b88c4d0fb51492027ab1dd4bc2a70c7d0181aa94",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31011,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:14+00:00",
+      "rows": 744,
+      "sha256": "9aaef2c9ba8088523dcf4d71fd518cfd2a2409cdbe36e77a06b7ac8b01c42448",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31116,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:14+00:00",
+      "rows": 744,
+      "sha256": "b3296090214eac698529863468cde61df4f4b5f1192859112edec75921bd6125",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:13+00:00",
+      "rows": 672,
+      "sha256": "50bb6cedb491782afa582ccbc7fe716e1736d2afcee52d4d6e86c6d408c536ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30698,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:14+00:00",
+      "rows": 744,
+      "sha256": "9f63a293be0802021f230ae6ea056a13c9fd99588552d5669bb93d4e07ff26ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29273,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:14+00:00",
+      "rows": 720,
+      "sha256": "1208eeae7b180b149125caff0c1b7505bc4702a5c3301f0633f4f33e5080a1a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30857,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:15+00:00",
+      "rows": 744,
+      "sha256": "3a21c8a7a11fcebb241944fb3b403e6890150d39aff8b8f1f4fea3770c0907fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:15+00:00",
+      "rows": 720,
+      "sha256": "a134c72c41b5cd8c49edd08d99da358b5de14bf05199924ea85eca4fabd986a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:02:15+00:00",
+      "rows": 744,
+      "sha256": "97ecacff6e6e727f3f26804848c83ac33585d72d2e3f28d691c7224afaed4551",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GNOUSDT/1h/GNOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GNOUSDT",
+  "total_rows": 43119
+}

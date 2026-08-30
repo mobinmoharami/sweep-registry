@@ -1,0 +1,573 @@
+{
+  "files": [
+    {
+      "bytes": 10816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:20+00:00",
+      "rows": 210,
+      "sha256": "a834fafe3198fa7e9354ae23e82bf1041ae51d42e30f7af86ca80da9f23c5d8f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 35354,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:21+00:00",
+      "rows": 744,
+      "sha256": "8784b0dd7e97c424b9b67eefdb266e4582b48fd959c59fa8dd13a9f777026eff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 34120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:21+00:00",
+      "rows": 719,
+      "sha256": "79799a6045a9085d689bc5e2bb1f031d4188820b9a0a47f00d0e2518505d6e50",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 35072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:21+00:00",
+      "rows": 740,
+      "sha256": "42991d37de6766fb34d4c185b30f5f91cbd1df1b37ce02968a4687ea266b731a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 37858,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:22+00:00",
+      "rows": 744,
+      "sha256": "406b58e6f8516fe8b98db8e22a30227fb9aa614cadfb31f5b6f881fa7f1f2ada",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 35992,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:22+00:00",
+      "rows": 671,
+      "sha256": "85eb41d471b6ff68c5e8f0819d462e6b8b6c056d912fa3455fff3613488166be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:22+00:00",
+      "rows": 743,
+      "sha256": "c998addefa5e68abda1f8da48fa77b6d1834516953770f144752ae0d75a5869d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:23+00:00",
+      "rows": 715,
+      "sha256": "87150b7df69354e2c68bf5954d1050f83964b06477f667fc2b695407952bd060",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:23+00:00",
+      "rows": 744,
+      "sha256": "ef58e273ff03b38511a8b985f778eb672d4bc417696b880e6cb6530819ecf008",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 35787,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:23+00:00",
+      "rows": 720,
+      "sha256": "05af11335a419aef17281fdd1b32de5999e8461542bf94db9b6e32b62607a462",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36207,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:23+00:00",
+      "rows": 744,
+      "sha256": "552ef1877d7c8741fa8e23848856f5f098363885466bfb329feffb5c35d115b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:23+00:00",
+      "rows": 740,
+      "sha256": "c6a6290a8895eb8a53fc68e214fa9c5435faef40c45757d738187845d25bca35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 35565,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:24+00:00",
+      "rows": 718,
+      "sha256": "dc5a520bbbe7d9b3a0dba43670d868f325a97f79c73fdf1c193b681ad905b625",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 35411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:24+00:00",
+      "rows": 744,
+      "sha256": "f62223ff25a886080bd859476731db84c3b2f379916597d2461733d4390f6b86",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 35525,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:25+00:00",
+      "rows": 720,
+      "sha256": "8c69465a8029b153339249a70ae3a44533d9b5b07f175af301247965321c7864",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 36308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:25+00:00",
+      "rows": 744,
+      "sha256": "49e8a313cd5181db4860eedca56995ab003499852c240017bede6df89d70b23d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 35427,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:25+00:00",
+      "rows": 744,
+      "sha256": "25f317cd6be7eae005db1bd163ae0d1edd48ad28bcb632127f960eca9d9b3490",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32320,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:25+00:00",
+      "rows": 672,
+      "sha256": "7df0bc26f2a2242969adf5a0f8cd8a8872ff621e3450555cd41082250f6069e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:24+00:00",
+      "rows": 744,
+      "sha256": "4723753c4f7e48916e36b9f66988e8738864208ee4688816677ae78a03836801",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 33857,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:25+00:00",
+      "rows": 720,
+      "sha256": "24d0fb51cbdb2a627f5af24755e1b5f2a88ff3702cedffde3d7da241e63de4dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 35398,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:26+00:00",
+      "rows": 744,
+      "sha256": "c9379d68e796700d9e6651ed58c033cde54df16b60acf63270aa55b1bc854d52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:26+00:00",
+      "rows": 720,
+      "sha256": "3a342cd4c542baffa66462b6fd89bbb4acf6d634eb1f51dba8739d2e16012c61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34243,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:26+00:00",
+      "rows": 744,
+      "sha256": "0c9a1b7990c0ed027a5e6335686037b0dae1b176a5c4529a99d29766ece6c5f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 34067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:26+00:00",
+      "rows": 744,
+      "sha256": "958a8af792a4296d72021bc0b508bca7e5a939d61100075acf3a0afc73c1eb43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 32190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:27+00:00",
+      "rows": 720,
+      "sha256": "6b74e06b7f53964943199cc078b364a96195851b00f9a0184d488be5613a8ede",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 32336,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:26+00:00",
+      "rows": 744,
+      "sha256": "ea2bd27ed8ec3fa436c9edb7bb4195a282dbdec83c2bd097689ab8ed8ee594ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:27+00:00",
+      "rows": 720,
+      "sha256": "3510837d34c43f4d349e38a5e480799ddde79e2e9303b8c1dd5bb5bf920e2385",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31436,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:27+00:00",
+      "rows": 744,
+      "sha256": "96631dad08759962cbb359aa4871222ce6d68e7974ae586262a580aeae4b021a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33321,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:28+00:00",
+      "rows": 744,
+      "sha256": "fbf418f8691d7755351f8ab7975eec14e5dd912f8771ed7556a3514167402aea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30328,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:28+00:00",
+      "rows": 672,
+      "sha256": "a232638bc6a5288f7dd4f32ac730366b33a292e537ed1d7aff4b975cbd7b81a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32927,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:28+00:00",
+      "rows": 743,
+      "sha256": "5d5a13ec85cfbd8c5636105bbb57027a6d9c7d3973d8a7c1d25dde95b64e1ad0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31680,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:27+00:00",
+      "rows": 720,
+      "sha256": "b9fbf8e824e7ad71462c5c21830d3094e69376c7c4926422ce975a0fcdda735d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31893,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:29+00:00",
+      "rows": 744,
+      "sha256": "1fa45a1af826b19047c6574261017a1d171b9ae2f10f3c8c6dc979c4a7bcb4f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31350,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:29+00:00",
+      "rows": 720,
+      "sha256": "fd487436121e3e2b60621fc8cc423288a32437747845093f773fbbe9dea3add2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 32385,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:29+00:00",
+      "rows": 744,
+      "sha256": "a1437ec03e2569e528e6b67c0ff1e8e15cbdcdac71f25775a7b0a7ce9f105ec7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31107,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:29+00:00",
+      "rows": 744,
+      "sha256": "e5e2c5c16f3b5774fcd78a41b742d4c3024df75793da23158a7452767090f76b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:30+00:00",
+      "rows": 720,
+      "sha256": "320645d21dee6ca9d1ed107373620d75dda6a1882638a120f95c3b6047d24679",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32389,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:30+00:00",
+      "rows": 744,
+      "sha256": "d30d5dca830097530de0d274a8a5c6e553e3ed88ab0b6ee5135d6f28a07cffe4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:30+00:00",
+      "rows": 720,
+      "sha256": "5edfabd104c86109208cc69993da27a4ae2e60154827523d917bd2fe9573d2d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35426,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:30+00:00",
+      "rows": 744,
+      "sha256": "8f163621f0e29d637d3057502c57fc10070eba257116d5ee261b37d56b72d850",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:31+00:00",
+      "rows": 744,
+      "sha256": "6ed35e2b38d39eb2290064d284c21f9cea0a153ef45c8846993ab77bdbfb6ff6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32176,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:31+00:00",
+      "rows": 696,
+      "sha256": "a37f404d063dbdb4b25d04e8debbce678230027d50b91c458a06e46eb80791d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35283,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:32+00:00",
+      "rows": 744,
+      "sha256": "d2123e08eaa40f0bce8e15904afc2d5ea953669c9a6cff8929bd4b2f4c1acade",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:32+00:00",
+      "rows": 720,
+      "sha256": "4d2397ea31aeb8e7d551da91cedad0a8ec9cbbec1b2a56f7bb8d3c505bf73f77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:32+00:00",
+      "rows": 744,
+      "sha256": "e8447946f0e305fd59c92e964152de82672337e06e01a18bc7f3af532901afe7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32450,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:32+00:00",
+      "rows": 720,
+      "sha256": "3dc2d94d4e71d4149a2892a6ed7a81bba977c29d4c2b702b2d24e5ba481df200",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:32+00:00",
+      "rows": 744,
+      "sha256": "f12adc0f202f89f374bde4c2e82f67d28141f3f775fc99a75d7662f6f95c8930",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:33+00:00",
+      "rows": 744,
+      "sha256": "9695cd082c0586d15cd2f189a1aef2f7c388ecf78ed483be14739fd5170409cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:33+00:00",
+      "rows": 720,
+      "sha256": "209f30c97fd18159e7a64b69dc6ced5ec6b0c3af5b9deb0f99d6792c76d1ab63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33445,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:34+00:00",
+      "rows": 744,
+      "sha256": "f3a4b69f1b2a1be98a4c11949efa1ab6e8b986227f33fe671d10054533203987",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:33+00:00",
+      "rows": 720,
+      "sha256": "e694d94c8747a08f3bb4cac2d74ea5f86484d20c56722995db9cc50ff38de4cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35177,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:34+00:00",
+      "rows": 744,
+      "sha256": "3e0943a0d7d049d2cd6a2ea3012d73888e95ac93ee87a03908fb8269e50a5832",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34682,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:34+00:00",
+      "rows": 744,
+      "sha256": "a12e4aca1acd2cbb93238c85054a39d6a96f3bced3da317a6011dd29a05b682c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31231,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:34+00:00",
+      "rows": 672,
+      "sha256": "055267d5154cae2c387f47f64f82135a51ae42bda0c4bb198a4446371d19c811",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34224,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:35+00:00",
+      "rows": 744,
+      "sha256": "541301af9dc0487779691ce7ae79be21fcf60aad793b32d0a1fd822b670152a4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32827,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:35+00:00",
+      "rows": 720,
+      "sha256": "9df45f1b5b42c53302b7eb3394bbe1a7f9a992d0e91e6c78870eb63c3a0e93db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 34281,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:35+00:00",
+      "rows": 744,
+      "sha256": "eda629638093ea6a6e5b719ff650624976773a72962309d903fa459db9695d84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32594,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:35+00:00",
+      "rows": 720,
+      "sha256": "8e40811059d938c5712025a8b4da934a547e30d2321ca7798741167c54f39505",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34053,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:36+00:00",
+      "rows": 744,
+      "sha256": "418fee86ca2982601ea984410ae704dae45be9996f1d62d2a08956c0f373cdbd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34305,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:36+00:00",
+      "rows": 744,
+      "sha256": "62ec1683dcf0547aec1c8783b8a487691b63514b60fc1ea6887cf80e12c59c4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33700,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:37+00:00",
+      "rows": 720,
+      "sha256": "6f9fa62b8c64dff5a53ca7dfd89279dab579d77628131584a408d361a4ccb507",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:37+00:00",
+      "rows": 744,
+      "sha256": "43157d188aa8b4e9256e57e726fa6392281d96e887d1953a2d4be3e6ba32cb31",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32661,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:37+00:00",
+      "rows": 720,
+      "sha256": "c7ae344aa41e5b34b56ea5fab523a5e6e7215c414fc5fa4a4e539f34ee8725cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:37+00:00",
+      "rows": 744,
+      "sha256": "ac6fe1099f55e662a3f397c5a648bd1d4bed64912b87d008f5298edfb938a8de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:38+00:00",
+      "rows": 744,
+      "sha256": "07cdad4f3bb353884e58cc11a25d71390b6e3f5ffad7369caf163fbe790e011a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29824,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:38+00:00",
+      "rows": 672,
+      "sha256": "2834e667ffe2fbeeadb084ecb9a017c3f13ebd7600db422f082e32426dfa73f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:38+00:00",
+      "rows": 744,
+      "sha256": "c8b548e7e2e82f748c5755241089a4ecb2bf622dccfde60faa929ca28ac2a285",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31076,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:39+00:00",
+      "rows": 720,
+      "sha256": "e60fdbc7d9adca7c9f7aadfeee2223fe405ba6789f38896f90bdfc8dd55a3793",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33276,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:39+00:00",
+      "rows": 744,
+      "sha256": "8193a3b0bf233fe579d0cdc28b29e94fba328d16b3272670e4760ac2d1aec6fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 34490,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:08:39+00:00",
+      "rows": 720,
+      "sha256": "cb246283db51b26687b5b87027f0a554b5f504b63524779f32a2a73937b26126",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AVAXUSDT",
+  "total_rows": 50567
+}

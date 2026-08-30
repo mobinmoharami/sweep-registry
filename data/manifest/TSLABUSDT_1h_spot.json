@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 20433,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:09+00:00",
+      "rows": 462,
+      "sha256": "a140d43b82d15995e033e5e8802a4ad01c0bccdf87c853b689fa0f3b5d56782f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TSLABUSDT/1h/TSLABUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:09+00:00",
+      "rows": 744,
+      "sha256": "6757ccd70a029b3c599fa747b19d35fa204dccc46ca9590d74637e1de2128aab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TSLABUSDT/1h/TSLABUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "TSLABUSDT",
+  "total_rows": 1206
+}

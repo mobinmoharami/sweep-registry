@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 22192,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:41:43+00:00",
+      "rows": 462,
+      "sha256": "801ea2d257a5c79f3adb9546f714bf73c0ae833bf6b0dbcdbfb9b5224c21de44",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SNDKBUSDT/1h/SNDKBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 38365,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:41:43+00:00",
+      "rows": 744,
+      "sha256": "88d48660808e1ac6ed8c95a1a952d6c27bb68f2611711499406239e34b3087e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SNDKBUSDT/1h/SNDKBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SNDKBUSDT",
+  "total_rows": 1206
+}

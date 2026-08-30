@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 16337,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:30:20+00:00",
+      "rows": 344,
+      "sha256": "b774b38ceac78c86dca3a3c265ba0794392a824ed75d632f6d040bf87080434c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AEROUSDT",
+  "total_rows": 344
+}

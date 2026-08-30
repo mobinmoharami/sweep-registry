@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}{{ meta.label }} on {{ market }}: {{ '{:,}'.format(summary.variants) }} versions tested{% endblock %}
+{% block desc %}{{ meta.label }} tested on {{ market }} across {{ '{:,}'.format(summary.variants) }} parameter combinations. Pre-registered and sealed before testing. Best score {{ '%.3f'|format(summary.best_dsr) }}.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_family', slug=slug) }}">&larr; {{ meta.label }}</a>
+  <h1 class="glow">{{ meta.label }}<br>on {{ market }}</h1>
+  <p class="lede">{{ context }}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  {{ m.numbers(summary) }}
+  <div class="block" style="margin-top:34px">
+    <p class="tag">The claim</p><p>{{ meta.claim }}</p>
+  </div>
+  <div class="block">
+    <p class="tag">What the numbers came back as</p>
+    <p>{{ m.verdict_line(summary) }} The best of
+    {{ '{:,}'.format(summary.variants) }} versions scored
+    {{ '%.3f'|format(summary.best_dsr) }} against the 0.95 it had to reach.
+    {{ meta.catch }}</p>
+  </div>
+  {{ m.rowtable(summary.rows) }}
+  {{ m.limit_note(summary) }}
+</section>
+</div>
+{% endblock %}

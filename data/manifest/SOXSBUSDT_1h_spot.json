@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:43:29+00:00",
+      "rows": 60,
+      "sha256": "e00bb396abc1408f886311bdb47bca20187d84f9be4f397ed988a3b0ace8cd8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SOXSBUSDT/1h/SOXSBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SOXSBUSDT",
+  "total_rows": 60
+}

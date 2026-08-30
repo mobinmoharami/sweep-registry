@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 16777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:50:22+00:00",
+      "rows": 395,
+      "sha256": "efc68175f4fef25e68876ba899d6b731fccebee6c53df12395e2d9d61b2983b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TSMBUSDT/1h/TSMBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "TSMBUSDT",
+  "total_rows": 395
+}

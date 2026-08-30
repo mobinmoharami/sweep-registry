@@ -1,0 +1,581 @@
+{
+  "files": [
+    {
+      "bytes": 29947,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 635,
+      "sha256": "1aac8c10fc4cdf63eab05fd3ccb9b79231f0c6bcdce63dfad67598a74ba53d09",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 34059,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 744,
+      "sha256": "7d273eda9aea7377eca518e13058061beb0d99e304100f68e25007ed8e019d77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 33571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 719,
+      "sha256": "1fcd4fff0e246f9fd5aa48a4b78d023c8a7692a88d52fb6574a6125c27651b9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 33918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 740,
+      "sha256": "adeaa088d234447f569e3be9df7b5acc319b53bb839479857a12aca00a982db6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 35148,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 744,
+      "sha256": "bae5c77b6376c02eb4bbe59276f758d6bac11898dadb9f571d451c86e6345033",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:56+00:00",
+      "rows": 671,
+      "sha256": "22332e018a85a10b7c41ab2841c80ba88c88a1c96f92f1ba78d0262a3df886f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 36101,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:57+00:00",
+      "rows": 743,
+      "sha256": "229cd4dd02e2d80fc45943565939a43b1cbb57f5c41f7d8d495590792f67b374",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 34966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:57+00:00",
+      "rows": 715,
+      "sha256": "e2b4b6b9d937573030bac6b853c9974101ae36bdda08ca81ace48e1b3acdc82c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 36308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:57+00:00",
+      "rows": 744,
+      "sha256": "bafe59e8f8ea3c36a948e9c998974bfc89c3ce6d2840501c3885dfa95cfae6d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 33562,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:57+00:00",
+      "rows": 720,
+      "sha256": "052bd9aa87527ffe0ab5f3ffe899600fc0b3fe12f048f5276c401a997d18341f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 34258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:58+00:00",
+      "rows": 744,
+      "sha256": "7c582cfe4fe6e6c5de99a1de415b51c284ad05b287468d1d287154e258a8657e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 34333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:58+00:00",
+      "rows": 740,
+      "sha256": "0fa09a95aff64e3b4da52bc1377faecb0d2b1d95457aae50de844b2598fe6767",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:58+00:00",
+      "rows": 718,
+      "sha256": "f74a1f9c43213283194c903c33a6920789cc7df0cdc32fdce455f8ee70c3e77c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:59+00:00",
+      "rows": 744,
+      "sha256": "28355a85a7e32787f413c17bcc634e43c8116afe78444e0de47222c93480190b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 30093,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:58+00:00",
+      "rows": 720,
+      "sha256": "0df903cd87f02e643b6b31fe3b87931bb8a83f2f6a9b193a053ae89bfcbced50",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:59+00:00",
+      "rows": 744,
+      "sha256": "bc8863212a5a2f6ac7207323170046ca439262069104d140f54c7ab49db5a952",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 30183,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:00+00:00",
+      "rows": 744,
+      "sha256": "10c23a67319c9658a5dd25d90caa2329de0f93a3caac2c82ab853ef9bc97681c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 27557,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:00+00:00",
+      "rows": 672,
+      "sha256": "d5e237a85fc2b86e60f9ade53db43aed6a0985ae206e8d4913ab3baff69cfc5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 29936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:59+00:00",
+      "rows": 744,
+      "sha256": "c7861d34bbfe1739dc342cd4fcec681a97e145263125941ec84c57b0f41f3648",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 28340,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:00+00:00",
+      "rows": 720,
+      "sha256": "0d74ea4b3cff3090fcfc6086b79ad54175249df0f1c78fb1aa7ab28521c2acb6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:00+00:00",
+      "rows": 744,
+      "sha256": "1462685667af77ebfe2941f96ceece2bea7a55c87bfea8a3d73c51e02c61bba7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28421,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:01+00:00",
+      "rows": 720,
+      "sha256": "0f7b9d8cb707d2f91a8c23c2b3fba0d636bb82290b7fd50e87fea19726199876",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 28678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:01+00:00",
+      "rows": 744,
+      "sha256": "f5467d866f3ca2435457ccef4faaeec429ee872d89e730059ca217c342280603",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 28215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:01+00:00",
+      "rows": 744,
+      "sha256": "b6f147bcde2199e27c60159e96ec898b92af4375e14a79822055761c0d8820ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 26389,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:01+00:00",
+      "rows": 720,
+      "sha256": "74381beb445c444f79c8ec22ae86ba23c1ebe8ff3bae8cdcba313d8fb07d6200",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 27509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:02+00:00",
+      "rows": 744,
+      "sha256": "1eb30388adc794a3b44c6a1b2134d4f0a72749dd05eb0c8637903b9b92b15ff9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 27783,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:01+00:00",
+      "rows": 720,
+      "sha256": "f778791efff353a5fb5b286ef7afe8b58cc206c90c7a17d0b7aa63b7bf7b6354",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 26477,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:02+00:00",
+      "rows": 744,
+      "sha256": "d8fd926dbba109f299588786c7e7df8dd51ad3db579cea3c37d475c106f1691d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27431,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:03+00:00",
+      "rows": 744,
+      "sha256": "a2c832f2d08a2740cfe30d35b068c373369df987d931b44d63c950e0d55a114e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 25909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:02+00:00",
+      "rows": 672,
+      "sha256": "bdca83d5c9d7afabbb90a6f8d0bceb9f3a659a26ced861b680ba01b3f1df3528",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 27502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:03+00:00",
+      "rows": 743,
+      "sha256": "57bfe798c226eb7a12a5cf60160401c2965e87eb7ca64bc2655daa0b829dd5b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 26610,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:03+00:00",
+      "rows": 720,
+      "sha256": "e2cd4fb2d9f671c6ad063d51dee81a6eb3a39f1b65a56b71a761fad6fb3ed152",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 28120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:03+00:00",
+      "rows": 744,
+      "sha256": "461eda89f12cd4fd1e30b535c59488b42dfde0923d79695c5fc853710a5eb901",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:04+00:00",
+      "rows": 720,
+      "sha256": "ce535596313a4223519690a929c85f77b29dce27d1361b9c487af4159fc94e71",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:04+00:00",
+      "rows": 744,
+      "sha256": "031701a99574a170822eb82d26a4222a028cbcfd13909c5982c8622254e22364",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29279,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:04+00:00",
+      "rows": 744,
+      "sha256": "c02729f36178db50f2c09057c5fa0cbed140d03efe57eacc1d15684f6d885984",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:05+00:00",
+      "rows": 720,
+      "sha256": "8bed3d401dc9913320444f959e16a6f7a8e98e50c5dbdf9d00515c231c84bb83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 30075,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:05+00:00",
+      "rows": 744,
+      "sha256": "ad1fa601f2f31b0ca230e4c71c323b531400340b83fea1b3cbe79896de1263ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30025,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:05+00:00",
+      "rows": 720,
+      "sha256": "e45b8526fdf96efde1175dac7052c4beb220d0d5b54b3311b0eb04c4067d20de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32231,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:05+00:00",
+      "rows": 744,
+      "sha256": "8670c28a4d6ee75945b17a434cca0ad67de6208b148e0407a2093aeebf10fe83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:05+00:00",
+      "rows": 744,
+      "sha256": "fadbac96e9f6b43ba6303a7048ef9e851c2a74a02038dea7183a4550754e6693",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:06+00:00",
+      "rows": 696,
+      "sha256": "4e0f9c7e96b5a5194767519ec6cf8ba8ebc8dd41b6f89c2cc90d641b1458b23c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33619,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:07+00:00",
+      "rows": 744,
+      "sha256": "eb537f4e1710b03e193c230e0051b7aec971cae463698a3595e22cf09db5d3fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32130,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:06+00:00",
+      "rows": 720,
+      "sha256": "200293e38e93d99f5aa92f4a02b72e2c2fa4e549d444097a3174afd96046f268",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32828,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:07+00:00",
+      "rows": 744,
+      "sha256": "f012b77b51cc7e0f435c0a5d79da400a5ee45fdfd482f666732c3f852c32e444",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:07+00:00",
+      "rows": 720,
+      "sha256": "7158409e45623bd9da8a3f6e9c4b851974bb917db1b7e3f4c8a902b6820e462e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:07+00:00",
+      "rows": 744,
+      "sha256": "20c32b6919c8a8940269d96daf8969a530527ea1b0234b1c687d39b2df16836f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31929,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:08+00:00",
+      "rows": 744,
+      "sha256": "c013640ac9c7d0f342fe41b8c4ed1a99ee003c9d7bae8c2359688f1583e83882",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:08+00:00",
+      "rows": 720,
+      "sha256": "ab7d0453b948e52f7588832e77411c8537910191d30f75be47cbeab844b6c132",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 35769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:08+00:00",
+      "rows": 744,
+      "sha256": "fbfaae5268bb6f115edd56800e157ceb6db4afe0035f010c941190fd953a77ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33096,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:09+00:00",
+      "rows": 720,
+      "sha256": "fcfef7c7e0f1ee53bd4197da476f2526a153b9cb1717ea52f75b922308c2cd6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34000,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:09+00:00",
+      "rows": 744,
+      "sha256": "133c91d00e060da1039d53785ea788ca17f95e4c8c8ef212997baac3e9755443",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32788,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:08+00:00",
+      "rows": 744,
+      "sha256": "0da958f477488bb236c418ee884bd54dfef1f4aa4322c208f8f37a213e4ec9ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29467,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 672,
+      "sha256": "d2a235d5d061eb5aa56e5b774a5f03954287b9e24901aa4858448ed9556fab4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32409,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:09+00:00",
+      "rows": 744,
+      "sha256": "59b216c98a12cefdc9fda77baa5bce2ea44b98028fb5d8a6ad11ef7406e3fa64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:09+00:00",
+      "rows": 720,
+      "sha256": "19c5a7f0f5db4e2ad6212c40efb35ed1449d9a87a5d3d29233390c397228e70c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31951,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 744,
+      "sha256": "122f8898d426f532cb746735728a0ea56e31beb6357b325ff6356424638afeae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 720,
+      "sha256": "225491e21e2615a5a1880304560ca3bbba9eb28d71be465a816843790a089f57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33138,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 744,
+      "sha256": "ceeebe7c1c047424b5ce08a92efd40f617c54f71dcde8971bb6eff964b2b493e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33582,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 744,
+      "sha256": "5ca4a933d1d3de687f512a254d241aa08bfd7344f210aeb8865bc7bcd6100162",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31062,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:11+00:00",
+      "rows": 720,
+      "sha256": "fb1ff8e0d6129184cfa6d193e2d2f2205a140a6e1dc9b516d127c7f20f9bf033",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:11+00:00",
+      "rows": 744,
+      "sha256": "cd8308c08f577539546e8e85df5db2b005cbff64f63d03be2ee12df15146e1fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:10+00:00",
+      "rows": 720,
+      "sha256": "a6b1082ca342f97b6bee5ac63f34483ef3ac870fe233a1049aad932e8c3d4d99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30749,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:12+00:00",
+      "rows": 744,
+      "sha256": "be99ce0f24803d02a99487083b9a5fe29f1f84e257981b4df5d6d032257f8df3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30778,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:12+00:00",
+      "rows": 744,
+      "sha256": "9fdfff8308316a34171fc7cdb78aaa63aab9f395936c61564723a7d2ec76d097",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27077,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:12+00:00",
+      "rows": 672,
+      "sha256": "ab3ba4d68f30d04ec6e1fd9458fa77736436b8e89180b9127f0d143fe418796a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:12+00:00",
+      "rows": 744,
+      "sha256": "5cd94210702bfc5037e95db2b4cb29819d70cf4469feec742a865fd09e5a13e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29133,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:12+00:00",
+      "rows": 720,
+      "sha256": "7e8b097dea994ef76389e0e28446487b38494369cc5bf3fdfcc9c537f0f7681c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30004,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:13+00:00",
+      "rows": 744,
+      "sha256": "cad8ca045c19b7b04e71e3547327f0c3f630987704c416add58eee2e9ebf5fe8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28475,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:13+00:00",
+      "rows": 720,
+      "sha256": "d37ab64a67f1323e2c6c621b4a7977c8a41e69532a3cb80ea7e3a7f266e12a6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29591,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:14+00:00",
+      "rows": 744,
+      "sha256": "560db0ffba911de0a196998270655fa76c8dc090c48f067e4e0ee4700dd21fef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DIAUSDT/1h/DIAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DIAUSDT",
+  "total_rows": 51736
+}

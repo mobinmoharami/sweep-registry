@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:14:22+00:00",
+      "rows": 11,
+      "sha256": "b85361997a7d64a4cb5edc16fe26cb1dffffbd3b04942486854c5747cfa2312a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LITEBUSDT/1h/LITEBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31367,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:14:22+00:00",
+      "rows": 744,
+      "sha256": "bfe2655d6230902b7ef4855cc49b217e24fffff46afc58cd0c3e43fd4978389b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LITEBUSDT/1h/LITEBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "LITEBUSDT",
+  "total_rows": 755
+}

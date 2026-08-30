@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 615,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:32:50+00:00",
+      "rows": 11,
+      "sha256": "0b2bdfe74c4a78627c6458f88e148b22ee15a8f096269a17c9ac549c6e6115cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QQQBUSDT/1h/QQQBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32094,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:32:50+00:00",
+      "rows": 744,
+      "sha256": "72fe8ec81f20f1d0d78a7205fa0e99e33c46e268bef41218c555bdcd1bb1389c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QQQBUSDT/1h/QQQBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "QQQBUSDT",
+  "total_rows": 755
+}

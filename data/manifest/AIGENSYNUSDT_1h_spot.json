@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 19439,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:31:10+00:00",
+      "rows": 415,
+      "sha256": "763e2160914d4a3b7318504b15b182d8f6fe07cf9f98997a933d3fb84fd3dc5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AIGENSYNUSDT/1h/AIGENSYNUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32248,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:31:10+00:00",
+      "rows": 720,
+      "sha256": "2033a1ec8683973d64a17b741145a292720a780a7c1d6a1f28d8b4f151715438",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AIGENSYNUSDT/1h/AIGENSYNUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33089,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:31:10+00:00",
+      "rows": 744,
+      "sha256": "61c5dd60d0377ba0b7ee8641e62b7e6581b22397ce7ca3487640867a1c4a06ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AIGENSYNUSDT/1h/AIGENSYNUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AIGENSYNUSDT",
+  "total_rows": 1879
+}

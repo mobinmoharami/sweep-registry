@@ -1,0 +1,717 @@
+{
+  "files": [
+    {
+      "bytes": 8369,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:03+00:00",
+      "rows": 164,
+      "sha256": "c5d5055102600996c1217745801fb8b30195c4c5ffd218d9920bd25265552a88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 33269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:03+00:00",
+      "rows": 720,
+      "sha256": "fc98bb3cfa4c28379894ef20ccb71b9cb320cbaf7bc4bd33319aa12f2b810b34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 34847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:03+00:00",
+      "rows": 734,
+      "sha256": "b69a8f0ef4a06523575295f8b6ef5dda085da0205e1646f71183673f425e0baa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 34257,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:04+00:00",
+      "rows": 720,
+      "sha256": "abcf4fed8a28915c9e1c7c65845085eb406e25b23ff2b1c3ed0dfa910758bc0a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 33837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:04+00:00",
+      "rows": 744,
+      "sha256": "4896151e2c435d2f96a65357ac127fbfc13866b89026e3f0b12589747aec7d3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 32782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:04+00:00",
+      "rows": 736,
+      "sha256": "2c019cc1c5d87259f6ae912ae3e68c8e254359b9ed81641d249b19e33fa0be28",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 30150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:04+00:00",
+      "rows": 720,
+      "sha256": "e169d3488d39974076007bcfc8eb952509cfa2ebd1516a296be214d2bac461ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 30869,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:05+00:00",
+      "rows": 744,
+      "sha256": "74a95ad874c61a920d0c6db0ee7159e73fae61948f5aa2a09bc109dc5e30f8fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 29713,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:05+00:00",
+      "rows": 716,
+      "sha256": "ac7e222912b5f86d38c0297d0a411f5a78f410e4b594b05f13065c66cb1d2ff5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 30849,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:06+00:00",
+      "rows": 744,
+      "sha256": "b320645274678e47f1c80490e9c3837a518befb379da95d59b551a44654b79e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 29781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:06+00:00",
+      "rows": 744,
+      "sha256": "dc87c83748628dfe5f5806953dea817865761123d6f261bbe415113cf453b93c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 29509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:05+00:00",
+      "rows": 690,
+      "sha256": "f3fa376d023d5fd5b02e5f4110d4c798746a0e92a6ee795dc86f33d0daaafb61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 30292,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:06+00:00",
+      "rows": 743,
+      "sha256": "6ffe3256b0ddacc99b97e00079c3204240e250e942904fb86beb74f8cb339c64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 28589,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:06+00:00",
+      "rows": 718,
+      "sha256": "d755a440854eead430bc273ade4e56fe0c0afd6c362c27ab3cd0daf3fd347bf5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 31369,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:06+00:00",
+      "rows": 744,
+      "sha256": "152a6d733c1fbf9970887185ffa438bfbf24c0e05348dda9a36006deb5b53929",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 30984,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:07+00:00",
+      "rows": 717,
+      "sha256": "8674847ca75989fdc0e91a76d3b0962aac23f966c49f8425efd1176229ce8ba6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 33317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:07+00:00",
+      "rows": 744,
+      "sha256": "aa6b2ff72472f009eb14f91004e15ed58d5d4974379f618597a30cb9f3f11658",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 34511,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:07+00:00",
+      "rows": 744,
+      "sha256": "c70b2cdc0d191bc6e7b145edd9f087f845a362b0edad126e1623eaecb45a6db1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 32114,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:08+00:00",
+      "rows": 720,
+      "sha256": "549c6bcb2cd412c5b332ec377ce5ef97d247295d02ed8ea6c647aa92939b5922",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 31285,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:08+00:00",
+      "rows": 744,
+      "sha256": "cd5764bc1889bc5760715b4850783f37bdc7e1bb7b30b6a9523130d0223c3762",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 31475,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:08+00:00",
+      "rows": 719,
+      "sha256": "281f68c1b7c025efa6bf327c69e2105f1ab2097b0e84d002104a38fafa6bf37f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 32049,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:08+00:00",
+      "rows": 740,
+      "sha256": "0244677575551be3e3324ae3f918a7884d1d99716bc75f6b49b03cbef56f56fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34272,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:09+00:00",
+      "rows": 744,
+      "sha256": "fe1832047b96422ca4690d0ba3467b62eb4b60c300f72e403eb94feca06e170a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:09+00:00",
+      "rows": 671,
+      "sha256": "2dd69a115362486ef753e151a778db36fccf7e098d0091d6888f04f5795543de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 37905,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:09+00:00",
+      "rows": 743,
+      "sha256": "cd8f427617525f191b2212d33ff66a4cfcf06b8165448ba1f410abab03077f52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36400,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:09+00:00",
+      "rows": 715,
+      "sha256": "904481133541079fc1df75a1d294f6031e4ad4b93e4575575d1ab7d5624fb3a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38036,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:09+00:00",
+      "rows": 744,
+      "sha256": "712c1b28d96a504757edf862f7535adfe56063880321be081c0ee392db1b46d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 35625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:10+00:00",
+      "rows": 720,
+      "sha256": "199059a63d0d79ed555ddd9c45ea43077359fc3135223b243ffb0df4e188d4eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:10+00:00",
+      "rows": 744,
+      "sha256": "12f99fed8657d6ccf4d62a02f2037770f82e35c053145c242a223c3b2af064d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 36471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:10+00:00",
+      "rows": 740,
+      "sha256": "e232f5adf30448d242fcf9ddf9ba4970d77948bb991ed8e9dd568b6fefdc5e80",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 37838,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:11+00:00",
+      "rows": 718,
+      "sha256": "9f9ef5d132be75bd33cab0cef4a9235908854cb6808a4d9fb5d30c96be8193bc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 38348,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:11+00:00",
+      "rows": 744,
+      "sha256": "941aa43cb4a9af19e32e09149c30ac30a1f5a6cbaa5f1a78d3205466d3cf4a91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 36926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:11+00:00",
+      "rows": 720,
+      "sha256": "9bb9f5ba1309e29ffa8304fb389a18ceccff4890592702e42bd9d672f7332945",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 37660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:12+00:00",
+      "rows": 744,
+      "sha256": "24f55f96742701aae55bf2442e1f60ae8597bb229b9c13b55b6f953880ef6612",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 37672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:12+00:00",
+      "rows": 744,
+      "sha256": "2bb692ab51f8e83427fc2b659b8f71c9d898877ff3a81c7bd1f5bf260f9a036c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 33280,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:12+00:00",
+      "rows": 672,
+      "sha256": "9289fab0897957c8f49f63b1005df229bc500f73f0079f43d53441f44c147b07",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 36444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:13+00:00",
+      "rows": 744,
+      "sha256": "000258d7a18edd3be858e375c12eb2c8b903eb8ad2319b4c91f9aaefc0f7b34d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 35728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:12+00:00",
+      "rows": 720,
+      "sha256": "e8cb334831e1706e3d008a66c15c71c0b30278b26c9d53d9d357ab9b4a6921a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 36429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:12+00:00",
+      "rows": 744,
+      "sha256": "02bed31493c8e714de14a4ffcb3a8adf07f0ffbcfbe280e848a85bb49f312d79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 34355,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:13+00:00",
+      "rows": 720,
+      "sha256": "e256aaabd87906b63edbb0a96497552f8655461c83fb7ecc8ee3768c309fedd3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 35237,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:13+00:00",
+      "rows": 744,
+      "sha256": "fae52e2528f87959ab5d7743313444dddf6121b37718f104d7097b95c9f239dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 35304,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:13+00:00",
+      "rows": 744,
+      "sha256": "0e472190a7a8b41dd323f41c85472b702e19e302d519bb96025f92aaaa535221",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 32972,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:13+00:00",
+      "rows": 720,
+      "sha256": "93090e20a57c55060c6b10a522a16ba3d290f01888b21f4d28e8915b2e9ad170",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 33023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:14+00:00",
+      "rows": 744,
+      "sha256": "64e7d176d2dc614bfe95b2fd4f2d53c59478147f0c66fd3ac2c6a5f27b743392",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 32775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:14+00:00",
+      "rows": 720,
+      "sha256": "02ec99c8df3747faea92327dd4a4c2fee8ff8e1374f8e4f6760b86318ed7da5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 32197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:15+00:00",
+      "rows": 744,
+      "sha256": "b251c09f64de75febb5128e94526824787cf005bf5e710caeea82f2ef6c895d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33869,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:15+00:00",
+      "rows": 744,
+      "sha256": "e1d622e4328062730bde9766958d29ae787c109072e5b6063debcfd15cc21782",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 32150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:15+00:00",
+      "rows": 672,
+      "sha256": "25c2e508eaaad6975a08998c2e895c7c55f74fd274a541b0b63980a5016be70e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 35297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:15+00:00",
+      "rows": 743,
+      "sha256": "21af3259115ab8ae72a816ec318478961e9dc36cd3065f39bc8a1322bb330228",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 34407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:16+00:00",
+      "rows": 720,
+      "sha256": "c10daf2499430ff5ceed9e7600412f1d22c62b88a6368d6167b764ec9321022d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 34691,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:16+00:00",
+      "rows": 744,
+      "sha256": "ee7fd3659c373da14f622c3a9ec7d7a92e10acc2dde388b6d0c6ce855c064e7d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 33229,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:16+00:00",
+      "rows": 720,
+      "sha256": "6a8031c597583e13aea7332cf7b6ea4aa33feb057add5ef37736361830d3a3d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 33126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:16+00:00",
+      "rows": 744,
+      "sha256": "fa5aa80a9ef1b4e7574a88b56e005f859cc61f0823b4decdd4952e6a5dce57ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 32459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:17+00:00",
+      "rows": 744,
+      "sha256": "55a0451d6db69178b7da4794c9072b9bb20b3d97f5801045b4d4cfe549f42f26",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 31446,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:17+00:00",
+      "rows": 720,
+      "sha256": "b8dffacc0c01189366ae52c9deb8a9e17e6a1a5e83f4eddc0bcb992ce3db52ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:17+00:00",
+      "rows": 744,
+      "sha256": "f8dcd708b3cac4d8f698658509ff0a22d1c845b1529892137dff58524dbec1b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33272,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:18+00:00",
+      "rows": 720,
+      "sha256": "611a102936fbe0c6b7b5b70dec8d4e26cb82c1209b0eb0c852e574256f788faa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35219,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:17+00:00",
+      "rows": 744,
+      "sha256": "9b8aeb676af286bd0aaac31e5564b965aee1c553159eeb85325e8a5d78acca6c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34628,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:18+00:00",
+      "rows": 744,
+      "sha256": "586009ca29e6d55d6cf90376e8d1a96d9ec3c93f45e44adce33fe842ee30853a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32414,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:18+00:00",
+      "rows": 696,
+      "sha256": "5e7935989df6d9da2423ec0d900d75b233cce3d5165f2b7295d1b8de27a91d8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 744,
+      "sha256": "3044edb38d6e83aa03d3b7b11cc03e97110b67ae83a867e4acdc924e3d693539",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34062,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 720,
+      "sha256": "a5469bb10b8424d9614c41efd60d92251d917277f14c664085c2100ac06a7882",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 744,
+      "sha256": "4a72dabff2344e5c54edef1ecc0d8f06eb4347fbb24cb0668c46bdba9a047a0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 720,
+      "sha256": "b856590b4c6d974fffc0a30393992751e11d9440c7869896299f26abbc8a2f6b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33494,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 744,
+      "sha256": "b4dfec3faebedad338f0d4011550adcdaf8e584d709659c35b527b70a07c0ad4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33454,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 744,
+      "sha256": "30aecd5d9b39d628249168c0d0c0b7a01b0578c935d74fd515ef41586457356e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 720,
+      "sha256": "1f7352bcf4214cf87e754ae4a8f79da32bec9128d94c23018b8ade3df145c2c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:19+00:00",
+      "rows": 744,
+      "sha256": "fa63c322067b1f86b7dd93028ad3f53579d3b490d0f3777ae454d42e50a6f3cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33801,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 720,
+      "sha256": "58b80c5d7a9d3f3bd90efe150f332af849be0d96d4e8ce5dc4e09238b6499467",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 744,
+      "sha256": "a5c16ad4057fb83ab20b8ac1a9b26e0f7ae4e06d56d400b8ce17f8f62bff852a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 744,
+      "sha256": "bf56962d74b695e4d6f65a9bf43fc0614dc025515bbbf5d0a03c28e989ff79c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30914,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 672,
+      "sha256": "96ad58edb995f2353d89c28c5a7c8f9d1e80f897f91578fe605b38e9fef1f9db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:21+00:00",
+      "rows": 744,
+      "sha256": "aa2d3b8ff30befd419e9e0a9fdced0b26132c4f5b6142d64ea93020b7a25fdc8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32174,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:22+00:00",
+      "rows": 720,
+      "sha256": "0817b609a157ff65cc18e5db1805a0c8dcfc7c637ebf22f9d06f05fad402876b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33549,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:22+00:00",
+      "rows": 744,
+      "sha256": "8d4fad4cb0d128f4b12b614bb89332b9c22d819c44f2253453005e49eca99852",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31543,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:22+00:00",
+      "rows": 720,
+      "sha256": "984fcfb55b87fe249ce938317399bf7f30182ef7fdaea65054b16e067aacc403",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33181,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:23+00:00",
+      "rows": 744,
+      "sha256": "430486c99b34f1d5fe5a47e94acd20328a80e094f9fe3f8878683b2d8495938f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33199,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:23+00:00",
+      "rows": 744,
+      "sha256": "6d489ca154e03ba871b5b3711a817004e3113913eb17667dd7ccfa9f3d93102b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31311,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:23+00:00",
+      "rows": 720,
+      "sha256": "9d03750cd5121c94e7852090aadaa3b92524becfe19d092b6ea561c7bd22d9e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:23+00:00",
+      "rows": 744,
+      "sha256": "080a06c76fd765dc2d41adbb7154b8bde8a47ef39c78bc1bf5ddb272cf712032",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33809,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:24+00:00",
+      "rows": 720,
+      "sha256": "bb8ae49507796cc0d85c2d072c9bf17f4a9ec2b11a9ab708a4555562f506a20d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 34515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:24+00:00",
+      "rows": 744,
+      "sha256": "ff627373e767209fb6e88e2f5f0f2c37fcf8b6c430e3f2898b637e924c2ec847",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35161,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:25+00:00",
+      "rows": 744,
+      "sha256": "a1b64f3b82b7840764219a2c96c2855057841af92bf8b35081974f01594762fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 31469,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:25+00:00",
+      "rows": 672,
+      "sha256": "2f060a9387cb254f1387453e02b8031e550e099f0e3f623422b8e143237f9b3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 34541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:25+00:00",
+      "rows": 744,
+      "sha256": "f56c7bdbace2304cee729ae2dcdc1ebb4a8d97a3cb5f515f63f232ba71dca678",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:24+00:00",
+      "rows": 720,
+      "sha256": "051607099411d7ef7b2b82c6ba603740d3c4be9669221415d3563380278133d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34752,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:25+00:00",
+      "rows": 744,
+      "sha256": "9cf23f012af3618389c51257d167b0f4d4e267befad883a9a44f111806f247a4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33160,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:15:26+00:00",
+      "rows": 720,
+      "sha256": "c05c41c4b82ced06a6d83b3972d6d31ebc1d3656328a0cfef87a6be18588ce51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CELRUSDT/1h/CELRUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CELRUSDT",
+  "total_rows": 63663
+}

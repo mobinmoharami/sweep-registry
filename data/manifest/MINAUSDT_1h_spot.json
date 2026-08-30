@@ -1,0 +1,493 @@
+{
+  "files": [
+    {
+      "bytes": 23156,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:36+00:00",
+      "rows": 518,
+      "sha256": "19cfe3e464ecdd272c6e83f7d452bbc07079052537291864bfb5a903d1cc3e49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 33178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:36+00:00",
+      "rows": 718,
+      "sha256": "58573d5d7c3194f18a74538d5217a72bfc043bd964f6b5ef3d04dbd41c4777bc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33058,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:35+00:00",
+      "rows": 744,
+      "sha256": "cdec6c89ebb5ba223da00649a4b1fb4f06de750e53ca02daf894142e4aa32405",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32607,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:35+00:00",
+      "rows": 720,
+      "sha256": "3644983ee08a6113ac088fec43c335310d31e8c553a792e387a9d5b593a88129",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 32715,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:36+00:00",
+      "rows": 744,
+      "sha256": "89c0a8fbf39c5a1bb4b2f718c31fc9f76aeecb986f13cb5246af9bfe45717ea2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32633,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:35+00:00",
+      "rows": 744,
+      "sha256": "884041ea7e809b17329f81aa23aa81231a97f3be960ab47a442b55df96068cbb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29587,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 672,
+      "sha256": "4f72a529a2f7d3bc5178e487b4eef4048b1bccab666e830938008ed9659e36d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32654,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 744,
+      "sha256": "5b7210420785d4bf3a00d256fca3c18c0a2b1e90bef569436453b2c95a46fdee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 720,
+      "sha256": "d2ddd29df4809b5cd6d416665af3db35cfc032155edb27a48b80db90fb596cf7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 744,
+      "sha256": "d8f180f34007b63c8ebe25491c77af0088568bc6942d60833a1efe3de6aa670e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30328,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 720,
+      "sha256": "0c5609ff412f018981a4b0a75a27505ff79837d12167259de19d479505674162",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30724,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:37+00:00",
+      "rows": 744,
+      "sha256": "ccd642dc77fa7b26cbc6cba48069e203cfb40441db46b9f7075d56592fbddb49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30789,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:38+00:00",
+      "rows": 744,
+      "sha256": "dbcfbc5664f7a2fbbebb1d634c50574d13c0debbdbcd8228fb01b854e610af48",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 28660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:39+00:00",
+      "rows": 720,
+      "sha256": "6b0a973285681e3722f33e45b7eb5919a3bed29492e84e20859cd8adf05d1181",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29015,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:39+00:00",
+      "rows": 744,
+      "sha256": "4c896a5e81b34e339a503ef314a73b45ee8a28d32eb71989cede4ede299c6feb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 29515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:39+00:00",
+      "rows": 720,
+      "sha256": "fa674219270322c0a6c6ee818065409f6280763e611c64de1e69ee239931cb97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 28610,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:39+00:00",
+      "rows": 744,
+      "sha256": "1b7c9e365ebd42907ed44aea97f0c0683e594f44e11819d829092100dbe1f40e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30698,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:39+00:00",
+      "rows": 744,
+      "sha256": "a44cc3ab656b6a2a5e530ebc0c5696a25f5561882381903ac97b8d05fbc54e08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 29971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:40+00:00",
+      "rows": 672,
+      "sha256": "33383f265af076c2fd33ef5d7ddeaa60bfdd3bbd437636df28985140cbcbd247",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:40+00:00",
+      "rows": 743,
+      "sha256": "f900066a3b4868c417f9d2159067769e9c1651691dbc11d637bd3435e18cfc05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29748,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:40+00:00",
+      "rows": 720,
+      "sha256": "e878996f74d6740246aec465354e6cafa660c8fc072dfb74491c00f990542db2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:40+00:00",
+      "rows": 744,
+      "sha256": "780ec2b3d7074dd9bd25e1fffe7997e834a7b27186617ef0e22666c2202bd459",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29086,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:40+00:00",
+      "rows": 720,
+      "sha256": "a96be1539e06a62ede05bf1a7e4a4ec3ce2ecb55c62601e9c9ee6e841f107f04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:41+00:00",
+      "rows": 744,
+      "sha256": "cbaa16d2f3a1261b40801efec8ca48d14864f5f4d00e83b4dd68ebe8e1255a40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:41+00:00",
+      "rows": 744,
+      "sha256": "94822f9c5341ca3082d31862607f60577a185fe70eebb553d536f9e88d25b440",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27496,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 720,
+      "sha256": "f98f0da0ff8ce574b964cbc9bdf7c5b97f34c59948ad1d3e1f9a5b4b673bbadd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32759,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:41+00:00",
+      "rows": 744,
+      "sha256": "82370e91471bcca3e40155a42a60674455fb5214b294d09ae8a6ba7608877a7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33957,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 720,
+      "sha256": "086bfdba51ffc8cc938efeece48c5ffce41fb21461b1d3664e55b911c31accfa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35632,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 744,
+      "sha256": "7d3708390bd48b89169114bf670c837aae4c8882f88c52e9153e2a303ec2ec1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 35683,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 744,
+      "sha256": "3df16ea54246b0519101a189ff8ced87d61baada0bf5776bb75b238f9242a8ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 33013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 696,
+      "sha256": "fd695143140c91401f728b78fade53d1be3c16c751fc4d6b743fe9e73658f0f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:42+00:00",
+      "rows": 744,
+      "sha256": "b0e9a492142fd8e9bad5dc65de892dc7f5740a1504f3b57fc5e9024f893fc45b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 720,
+      "sha256": "b89f1ce79a0492f08d9861ed4acbf47dcd5d3e2c941e9cb78dbc6b790c518a4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34082,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 744,
+      "sha256": "d3e7a3d3d0545639e7ed023a76edcaf0ad9cd88a08dcbda51838155438200d1e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32882,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 720,
+      "sha256": "4e7cd0dc5b1c848f6346eeee75469b1247294d30ca66aed61502e161fdfbc9ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 744,
+      "sha256": "8edfe64ab09411dea1340dc4f2ee52e31ae523cb4dbad0e277104fda1d3c4acb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33600,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 744,
+      "sha256": "4c74a92fa291bc3f6420849e51a9238e7cf8acb06138a4cac60343c11c737c6d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32225,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:44+00:00",
+      "rows": 720,
+      "sha256": "5c82e734f4d45e72a0846362fab9cb3c0d1a0d47e1517c8c09dd5d283a6ee9e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:45+00:00",
+      "rows": 744,
+      "sha256": "5a5bbcc28a34923e6d2c4e1d53384abea05ab43887b8bf00b727563f831d6555",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:46+00:00",
+      "rows": 720,
+      "sha256": "179f61491452e982398129a11dc27e09dbec8a501674dd7f9fd49304a50bd6e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35185,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:45+00:00",
+      "rows": 744,
+      "sha256": "3c765c0543ae82de971d6dcf5ff21d9559ab366ab0afac6a4e1172f55fcde925",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34170,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:46+00:00",
+      "rows": 744,
+      "sha256": "1d30c8e07fa6b2f35018e6549ed6084c399450caf82a1f74fce3227a1cfb5912",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30828,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:46+00:00",
+      "rows": 672,
+      "sha256": "dc35de09c19255548ad03d93ceacec7bc2748ed4c706323f9c31bb8d0832db5d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:46+00:00",
+      "rows": 744,
+      "sha256": "6a7a630658f5b43228ad71891190ecfec78d823a968f0af1655cc5e1369ce172",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:46+00:00",
+      "rows": 720,
+      "sha256": "cbb876053f0ff5e84d909b980d33cc148bc408a6cff17feb0ad25240f4023b14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33448,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:47+00:00",
+      "rows": 744,
+      "sha256": "30d1fd4657c95e646d4d13c2ff6cd304f5047d775f7f65c1995b670b7ea81d4a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:47+00:00",
+      "rows": 720,
+      "sha256": "532e100058bc81f3a8a627866259c631de4a302cfa13eb33e9ae0b5e4c695dd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33068,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:47+00:00",
+      "rows": 744,
+      "sha256": "ab8aae8813016be2e8af089536c9c71e14f0867515de65c57768734a67808e11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:47+00:00",
+      "rows": 744,
+      "sha256": "223f8c60884c581f2354d28af3d61742e4be6d8dd8d21d4decb62d8fcebc8bc9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31145,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:48+00:00",
+      "rows": 720,
+      "sha256": "755ae069e36e14976ed161c8418610d391ee6919a748fe9b3186b4030028eb3f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32689,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:48+00:00",
+      "rows": 744,
+      "sha256": "082f48330769c9bde195421082a9d0a7a32441fd94d6553096048dbd0d5a6342",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33140,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:49+00:00",
+      "rows": 720,
+      "sha256": "06e321f854bc6754630779741b0ed3629c8d9d1259bfdd60615a74703aa36174",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31474,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:48+00:00",
+      "rows": 744,
+      "sha256": "401882cb23c2964ed6db7e592fd1d49d7caa120517ab726c8157852b5868ecab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:49+00:00",
+      "rows": 744,
+      "sha256": "cfa22bcab391e13d5ecd4b16f0fb5b504b8694ebee1aa78ea3cf1004a92a4581",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28240,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:49+00:00",
+      "rows": 672,
+      "sha256": "e63be724d9b28320d4e101ab41c78d79a110e6b97af862c4251dbac02c495699",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30293,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:49+00:00",
+      "rows": 744,
+      "sha256": "8d3fe99ac9ffb754b314bee45d405d0a2948a3f2b61b4a3e0cb65e310a9806e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29771,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:50+00:00",
+      "rows": 720,
+      "sha256": "f71e857457c56d15ce29b6e6e91570c1a04e8a30447ae5067051fbf03ffb5725",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29898,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:49+00:00",
+      "rows": 744,
+      "sha256": "a6ffc8066787c51c9d4997a73fcbc344bedb799f6cd8606854664c5efb335aa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28845,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:50+00:00",
+      "rows": 720,
+      "sha256": "8c3f73f5260c5643bad787f9f65f24e322d65536fe8950a11373caabf1522040",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29693,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:51+00:00",
+      "rows": 744,
+      "sha256": "af875867723efce2d3bd742f5273628229b374a0fdd9a35618e792a1b0092fab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MINAUSDT/1h/MINAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MINAUSDT",
+  "total_rows": 43595
+}

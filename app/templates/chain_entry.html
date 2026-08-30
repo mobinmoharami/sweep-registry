@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}{{ e.sweep_id }} — chain entry #{{ e.index }}{% endblock %}
+{% block desc %}Verification detail for {{ e.sweep_id }}: hash, chain link, and Bitcoin anchor status.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('chain_page') }}">&larr; The chain</a>
+  <span class="id mono">Entry #{{ e.index }}</span>
+  <h1 class="glow">{{ e.sweep_id }}</h1>
+  {% if e.title %}<p class="lede">{{ e.title }}</p>{% endif %}
+  {% set st = 'broken' if e.intact is false else e.anchor.status %}
+  <span class="badge {{ 'void' if st in ('broken',) else ('pass' if st=='confirmed' else 'sealed') }}">
+    {%- if e.intact is false -%}Document altered
+    {%- elif st == 'confirmed' -%}Confirmed in block {{ '{:,}'.format(e.anchor.block_height) }}
+    {%- elif st == 'pending' -%}Awaiting Bitcoin confirmation
+    {%- elif st == 'none' -%}Not timestamped
+    {%- else -%}{{ st }}{%- endif -%}
+  </span>
+</div>
+
+<section style="border-top:0;padding-top:0">
+  <div class="hashline" style="margin:0">
+    <b>Pre-registration hash</b><br>{{ e.prereg_sha256 }}
+  </div>
+  {% if e.recomputed_sha256 %}
+  <div class="hashline">
+    <b>Recomputed now from the sealed document</b><br>{{ e.recomputed_sha256 }}<br>
+    <span style="color:{{ 'var(--live)' if e.intact else 'var(--fail)' }}">
+      {{ 'matches — the document is unchanged' if e.intact else 'DOES NOT MATCH — this record is void' }}</span>
+  </div>
+  {% endif %}
+  <div class="hashline">
+    <b>Previous link</b><br>{{ e.prev_link }}<br>
+    <b>This link</b><br>{{ e.chain_hash }}
+  </div>
+
+  {% if e.anchor.status == 'pending' and e.anchor.calendars %}
+  <div class="block" style="margin-top:34px">
+    <p class="tag">Pending on these calendars</p>
+    {% for c in e.anchor.calendars %}<p class="mono" style="font-size:12.5px">{{ c }}</p>{% endfor %}
+    <p>A stamp is submitted immediately but only lands in a Bitcoin block
+    after the calendar aggregates it, usually within a few hours. Run
+    <code>ots upgrade</code> on the proof to pull down the confirmation.</p>
+  </div>
+  {% endif %}
+
+  {% if e.anchor.status == 'confirmed' %}
+  <div class="block confirm" style="margin-top:34px">
+    <p class="tag">Anchored in Bitcoin</p>
+    <p>This document's hash is committed in block
+      <b>{{ '{:,}'.format(e.anchor.block_height) }}</b>. Forging the date would
+      mean rewriting Bitcoin's history from that block onward.</p>
+    <p><a href="https://mempool.space/block/{{ e.anchor.block_height }}"
+       target="_blank" rel="noopener" style="color:var(--seal)">
+       View block {{ '{:,}'.format(e.anchor.block_height) }} on mempool.space &rarr;</a></p>
+  </div>
+  {% endif %}
+
+  <div class="verifybox">
+    <h4>Verify independently</h4>
+    <pre>ots verify sweeps/{{ e.sweep_id }}/preregistration.sha256.ots
+sha256sum sweeps/{{ e.sweep_id }}/preregistration.frozen.json</pre>
+    <p>Neither command talks to this server.</p>
+  </div>
+
+  <p style="margin-top:28px">
+    <a href="{{ url_for('record', sweep_id=e.sweep_id) }}"
+       style="color:var(--seal);text-decoration:none">Read the full record &rarr;</a></p>
+</section>
+
+<section style="padding:30px 0">
+  {% if prev %}<a class="back" href="{{ url_for('chain_entry', sweep_id=prev.sweep_id) }}">&larr; #{{ prev.index }} {{ prev.sweep_id }}</a>{% endif %}
+  {% if next %}<a class="back" style="float:right" href="{{ url_for('chain_entry', sweep_id=next.sweep_id) }}">#{{ next.index }} {{ next.sweep_id }} &rarr;</a>{% endif %}
+</section>
+</div>
+{% endblock %}

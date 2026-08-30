@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Submit a strategy{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('index') }}">&larr; All records</a>
+  <h1 class="glow">Submit a strategy</h1>
+  <p class="lede">Describe the rule precisely enough that someone else would
+  implement it identically. Accepted submissions are registered, sealed on
+  Bitcoin, then run — and the result is published whatever it says.</p>
+</div>
+
+<section style="border-top:0;padding-top:0">
+  {% if error %}<div class="err">{{ error }}</div>{% endif %}
+  <form class="reg" method="post">
+    <label for="name">Strategy name</label>
+    <input id="name" name="name" type="text" required maxlength="120"
+           value="{{ form.name if form }}" placeholder="e.g. Opening range breakout">
+
+    <label for="definition">Mechanical definition</label>
+    <textarea id="definition" name="definition" required
+      placeholder="Enter long when the close exceeds the highest high of the previous N bars by at least K times ATR(14). Exit when the close falls below the N-bar moving average, or after M bars, whichever comes first.">{{ form.definition if form }}</textarea>
+    <p class="hint">This is the part that matters. If a human has to judge which
+    instances "count", the rule cannot be falsified and a null result would
+    prove nothing — so those submissions are declined rather than approximated.
+    Everything must be computable from open, high, low, close and volume.</p>
+
+    <label for="parameters">Parameters to sweep</label>
+    <textarea id="parameters" name="parameters" style="min-height:110px"
+      placeholder="lookback = 10, 20, 50, 100&#10;threshold = 0.5, 1.0, 1.5&#10;hold_bars = 4, 12, 48">{{ form.parameters if form }}</textarea>
+    <p class="hint">One per line, as <code>name = a, b, c</code>. Every
+    combination is tested and counted, and the more there are, the higher the
+    bar a result has to clear.</p>
+
+    <label for="market">Market</label>
+    <select id="market" name="market">
+      <option>Crypto</option><option>FX</option>
+    </select>
+
+    <label for="rationale">Why do you think it works? <span style="text-transform:none;letter-spacing:0;color:var(--dim)">(optional)</span></label>
+    <textarea id="rationale" name="rationale" style="min-height:90px">{{ form.rationale if form }}</textarea>
+
+    <label for="email">Email <span style="text-transform:none;letter-spacing:0;color:var(--dim)">(optional, only to tell you the result)</span></label>
+    <input id="email" name="email" type="email" value="{{ form.email if form }}">
+
+    <button class="primary" type="submit">Submit for review</button>
+  </form>
+</section>
+</div>
+{% endblock %}

@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 10958,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:24:54+00:00",
+      "rows": 228,
+      "sha256": "b240a83baded5cdd05f70d22194f962a5044dae6ea98d62b3eb68cb20a730864",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPGUSDT/1h/OPGUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33372,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:24:55+00:00",
+      "rows": 720,
+      "sha256": "e64c266afddbf1e42005d5ce001c52f8a8f49221680261193bc14bd35cd509a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPGUSDT/1h/OPGUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:24:56+00:00",
+      "rows": 744,
+      "sha256": "9626cbc1d5771265d8c8849c03fa345393ed4231c642d0e0c48896210b7ec7d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPGUSDT/1h/OPGUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "OPGUSDT",
+  "total_rows": 1692
+}

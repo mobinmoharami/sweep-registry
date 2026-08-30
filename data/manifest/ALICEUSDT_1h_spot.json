@@ -1,0 +1,525 @@
+{
+  "files": [
+    {
+      "bytes": 21502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:39+00:00",
+      "rows": 402,
+      "sha256": "85f8a43e700497e3ba64433f8cf1b36f45a6f279941843bdb8ad5b8cd6cc05fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:39+00:00",
+      "rows": 715,
+      "sha256": "63a8a5c4a31b96f1370b6e1a386bd515089c4d82748c39cc32b72f32fc53a259",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 39410,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:39+00:00",
+      "rows": 744,
+      "sha256": "1dd6552fca34f63b166be19d7651235eec528421dd61d927d65e69b2625973b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:40+00:00",
+      "rows": 720,
+      "sha256": "637b98a9d3f170d185636436edd896d10d4d297551f6b4d4790ba8fd3093e3de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 39841,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:40+00:00",
+      "rows": 744,
+      "sha256": "7f26f42dfceb3f9cdf2b305cdd896ebfb8da1e1e092cb0159794e6a093342cdd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38995,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:40+00:00",
+      "rows": 740,
+      "sha256": "4d2772dbbf8797520c078be281e066b27db62c554edd1ae500c07ee0a91a240d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32974,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:41+00:00",
+      "rows": 718,
+      "sha256": "c52eed55209e91c0f5ee22cff8e7ea7faf6c643fc9274503251da40a2ebf0e72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:41+00:00",
+      "rows": 744,
+      "sha256": "e149dddb48ce9fc49d23e2869db653d2a22d3c7be3761aeae48d04c41b91bfe0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 33966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:41+00:00",
+      "rows": 720,
+      "sha256": "e29d621f58d306536cc1dc6f72c8679e226a26cf98bc9cd2c5fb4889c7317e7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 34031,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:42+00:00",
+      "rows": 744,
+      "sha256": "13e8d785d74068f30e9f18e65fc11f0b781def9224dcf6ea3b08867b05a2fe01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33125,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:42+00:00",
+      "rows": 744,
+      "sha256": "e738f0118965402bd351c77566212df11d607c5e3c8bdc50aadc885e00609702",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 30279,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:42+00:00",
+      "rows": 672,
+      "sha256": "3b93c1d3788611aee5856a4e4aceeb290bc4bcaf37b12cd327a67f3a5c168308",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32684,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:42+00:00",
+      "rows": 744,
+      "sha256": "a4a8ec9f9e0d13584cadbdf277e93f09b7bbb7f5a06c52fe8822c339f6fdebc1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:43+00:00",
+      "rows": 720,
+      "sha256": "32285f1032d1cbdd26e3436395e09f589e4ec8836bfbac36b7312734f866306f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:43+00:00",
+      "rows": 744,
+      "sha256": "afed7e56255f48b2d17efdead3b3f17e53eb69b054fe72c5585cb89c5bc3372f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33754,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:44+00:00",
+      "rows": 720,
+      "sha256": "f6656345b78f8df2fb3b932e419fc96812dafb551247cf71f98e2703125f110d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:44+00:00",
+      "rows": 744,
+      "sha256": "7ecf7c8ef204c1ab0ebb5b50b3c33fab81f4a40b09fdc1a981b7016d82c688dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33570,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:44+00:00",
+      "rows": 744,
+      "sha256": "5cf185e71567b8b52859dc3b752204d007ec4e61f150ee0d417a3336d3485821",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:44+00:00",
+      "rows": 720,
+      "sha256": "80458c2a8e998e66b12c6061a86e772091af0015fec7290edddff69ef66ef5fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31969,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:45+00:00",
+      "rows": 744,
+      "sha256": "9baf6f21a7fb27373dcad5da57022e32b6ebf408776bd4cba0a28b7b12bde15d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31854,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:44+00:00",
+      "rows": 720,
+      "sha256": "3c4ea8dc536d894178349b55ed9018e06592d8ba9ddb56842f9730a6a0d28555",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31211,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:45+00:00",
+      "rows": 744,
+      "sha256": "540b6b94acdc254ebe3966940c45a632e196de2f99c94832d79223c07a073614",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:45+00:00",
+      "rows": 744,
+      "sha256": "179368fd9a2a23a54cf138ac84b70f0b7a28e1b5379594dd349ef76af0e919d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30351,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:45+00:00",
+      "rows": 672,
+      "sha256": "44d3714eeec0ef8bd71b54c5cd51982c1a6629b3e430c5848b6a4e8de4c7ccd8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32649,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:45+00:00",
+      "rows": 743,
+      "sha256": "4c384008713a6c0c8d8d48889a8f8c162f7febae154a3efb7bcb220c1087b336",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:46+00:00",
+      "rows": 720,
+      "sha256": "b8b1ceb98b69014ed739127068df365994aa2fec37b762a8c06685fd9e701c1c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31170,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:46+00:00",
+      "rows": 744,
+      "sha256": "444048046111dbf5624ed67a7361d95caa385b183302f77c0bab641e762cd469",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 720,
+      "sha256": "9bf3c90ffc6defe89146b6b44e75bc10f4b685bccca10cb1d48465bfd92fe5b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31053,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 744,
+      "sha256": "9a4c2049f312e0df6e70cee040060c8794c6b32d35c46fe9efb5091112ca549a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 31134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 744,
+      "sha256": "2ecc3742235311ef37806fdcb4c7b60cbac39eb50676d79e743cc7d2c475c343",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29665,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 720,
+      "sha256": "3d6079979fa4e31f3902c5bda7499448133cabfbc20b6ed0142d61be84223e9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31338,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 744,
+      "sha256": "7b48aced7dd55306c266dc77bc9ef1e4ce8fff824d95ad6b16bade8e12afefc2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 32058,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:47+00:00",
+      "rows": 720,
+      "sha256": "c15b9f245d45f109943cfb1fa3badf1c4ff66e2ee510f543bee11f82f4f4f85c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32916,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:48+00:00",
+      "rows": 744,
+      "sha256": "289578c9b2e4374485914e25314c829a4cdb50b74d35265c8cd6e6c36a32684a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32328,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:48+00:00",
+      "rows": 744,
+      "sha256": "d05de95e691bad61074434aa839b0c37a0ca2907b2298a6c570169363da780a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30412,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:48+00:00",
+      "rows": 696,
+      "sha256": "a5ad86027daa29b8ee67f8c25d59eecb2a59b4be90e0ce2ab162315dcdb68a2d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:48+00:00",
+      "rows": 744,
+      "sha256": "2aa69841b1fd62eeb54faf2667a9a2691a439e69ff54a8b66e5e44dd03bb7291",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31675,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:49+00:00",
+      "rows": 720,
+      "sha256": "99d47ea36071685e32f395a4104a66a4daeba0b1413239c35652846dfa65a213",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31920,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:48+00:00",
+      "rows": 744,
+      "sha256": "ce3ec4e7dedb0f9e04ee72fe792e5dd287b03fc73d9d3eb851bcc4199672c91d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32644,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:49+00:00",
+      "rows": 720,
+      "sha256": "5395c3288fc3cd70ac3916c6bf9aa88530b95739c455a7f559decf6e34ad0d42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 744,
+      "sha256": "2d30e2a5c98eadb833c02bb11f85226f9a7ceabcc6c5ed835c9da0ca168f8fb0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32460,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 744,
+      "sha256": "2633e668ee311201d7d11c8af14b104e7eb6442dce90b07bb8600f7d15488731",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 720,
+      "sha256": "16f0b86d9634e093ffb5376c3645c0efa71d36ba9a9c2ab4e3973654ccee3a5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31993,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 744,
+      "sha256": "20189b3f07bce5b0d1a13cf2271d720f44d3eb39d4c1072ef9b897e78bd1f6ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32357,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 720,
+      "sha256": "f04869191a980c8dbeb90f60639b1b0e81143614bf5509de14f7f4b03fbfe25d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33208,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:50+00:00",
+      "rows": 744,
+      "sha256": "0fdf28a1b13765ed31273fdcbb038519d7675a8fcfd4cd56e739985b741b2405",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32627,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:51+00:00",
+      "rows": 744,
+      "sha256": "260dad9dd34a5b91f0c8b489e482070e5cc56fbd3a08812686749b2cb85f350e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29454,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:52+00:00",
+      "rows": 672,
+      "sha256": "055d2120729a1382984e87f201a88bd14e5f1e9a90746b895c79505a970a9dd5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31399,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:52+00:00",
+      "rows": 744,
+      "sha256": "2c902bdb0b39b6261fd483e1da7d853ea971c5cd3d7d425b3f93e80f385ff20f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30959,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:52+00:00",
+      "rows": 720,
+      "sha256": "93cbc5d34bb3c28fb2f5fc99b6881ae99f2cc45007666d6d8ecdbbfe2c2668b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33633,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:52+00:00",
+      "rows": 744,
+      "sha256": "80507a3aa46ec8b41e7bfa2ea4658f09b771f82d8cc2d7a3e26a564046759616",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32990,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:52+00:00",
+      "rows": 720,
+      "sha256": "beecdd0fc1c01e37b3472107404d3a745416cbbbee59c8152ba28b3825c8dfa3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 35007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:53+00:00",
+      "rows": 744,
+      "sha256": "877d5b522baa17534ce628cf393492cf962f93d184c194eafb19d72686f1b3d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:53+00:00",
+      "rows": 744,
+      "sha256": "c124434f87936d81e1127e5b502e090feb2f0cfa8066526b09593c521a14c692",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:53+00:00",
+      "rows": 720,
+      "sha256": "2a9f2f721fbc68806f825e99b4e41d5ae0160a866fe6e1eef8320326b7f783ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 36621,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:54+00:00",
+      "rows": 744,
+      "sha256": "ee6dec4967b9e7b05d6ff3f49f3f3978f33a783e64c0a19a6417c1276a1a5112",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 34241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:54+00:00",
+      "rows": 720,
+      "sha256": "45cca205f3da76a4692e2df8a9fc3c73690a2d2bed85004b845b5612a776d0d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33879,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:54+00:00",
+      "rows": 744,
+      "sha256": "1338c5bffc5f39633d85dee7aa54b511f18268e28720fa7126ea16fa7366d02d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33864,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:54+00:00",
+      "rows": 744,
+      "sha256": "03a7eaed14b1d6f9f6870332564028c23f02bdc3f884dbbcdd587e9dcf9b569e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30329,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:55+00:00",
+      "rows": 672,
+      "sha256": "17b402dfa691cf6dde9fc2cdce1964b5685cfd33d9f2eb86e3a28ceb03e96e5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:55+00:00",
+      "rows": 744,
+      "sha256": "0cd93d50f6229317d02276326a3bd0ad06578035394e1cc748eaea3e113b32c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33077,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:55+00:00",
+      "rows": 720,
+      "sha256": "1630d8078db6b3377e8e4c25d6523dba79595d2a994c4fe27d633b1c95a59b68",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33070,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:56+00:00",
+      "rows": 744,
+      "sha256": "14e8b0c6178a8d3f31db847e753037c367d322fad903c76fc914433c2333614d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:05:56+00:00",
+      "rows": 720,
+      "sha256": "d0a8c6eac68a16f7acda3bcb60b1773ac54332efe5f9a2815a156e1ef38bef18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ALICEUSDT/1h/ALICEUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ALICEUSDT",
+  "total_rows": 46398
+}

@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block title %}The chain: every record, hashed and anchored to Bitcoin{% endblock %}
+{% block desc %}Every pre-registration in this registry, hash-linked to the one before it and timestamped onto the Bitcoin blockchain. {{ summary.confirmed }} of {{ summary.length }} confirmed on-chain.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">The chain.</h1>
+  <p class="lede">Every record, sealed before its test ran and linked to the
+  one before it. Remove or edit any entry and every link after it breaks.</p>
+  <p class="lede" style="font-size:15px">This is not a private blockchain — a
+  chain only I run would prove nothing, since I could rewrite it whenever it
+  suited me. The anchor is Bitcoin itself.</p>
+</div>
+
+<section style="border-top:0;padding-top:0">
+  <div class="chainhead">
+    <div><b>{{ summary.length }}</b><span>Records</span></div>
+    <div><b class="ok">{{ summary.confirmed }}</b><span>Confirmed on-chain</span></div>
+    <div><b class="warn">{{ summary.pending }}</b><span>Pending</span></div>
+    <div><b class="{{ 'bad' if summary.broken else 'ok' }}">{{ summary.broken }}</b><span>Broken</span></div>
+    {% if summary.first_block %}
+    <div><b style="font-size:19px">{{ '{:,}'.format(summary.first_block) }}</b><span>First block</span></div>
+    {% endif %}
+  </div>
+
+  <div class="hashline" style="margin:0 0 34px">
+    <b>Chain head</b><br>{{ summary.head }}<br>
+    <span style="color:var(--line)">genesis</span> {{ summary.genesis }}
+  </div>
+
+  <div class="blocks">
+  {% for e in entries %}
+    {% set st = 'broken' if e.intact is false else e.anchor.status %}
+    <div class="blk {{ st }}">
+      <div class="top">
+        <span class="ix">#{{ e.index }}</span>
+        <span class="sid"><a href="{{ url_for('chain_entry', sweep_id=e.sweep_id) }}">{{ e.sweep_id }}</a></span>
+        <span class="st {{ st }}">
+          {%- if e.intact is false -%}altered
+          {%- elif e.anchor.status == 'confirmed' -%}block {{ '{:,}'.format(e.anchor.block_height) }}
+          {%- elif e.anchor.status == 'pending' -%}awaiting confirmation
+          {%- elif e.anchor.status == 'none' -%}not stamped
+          {%- else -%}{{ e.anchor.status }}{%- endif -%}
+        </span>
+      </div>
+      {% if e.title %}<p class="ttl">{{ e.title }}</p>{% endif %}
+      <div class="hashes">
+        <i>doc</i><b>{{ e.prereg_sha256 }}</b><br>
+        <i>link</i>{{ e.chain_hash }}
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+
+<section>
+  <h2>Verify it yourself</h2>
+  <div class="verifybox">
+    <h4>Check any record without trusting this site</h4>
+    <pre>ots verify preregistration.sha256.ots
+sha256sum preregistration.frozen.json</pre>
+    <p>The first command asks Bitcoin when the file existed. The second
+    recomputes the hash from the sealed document. If the hash matches what is
+    published here and the timestamp predates the result, the claim was fixed
+    before the answer was known — and no part of that depends on believing
+    anything I say.</p>
+  </div>
+  <div class="verifybox">
+    <h4>How the links are computed</h4>
+    <pre>chain[0] = sha256("sweep-registry-genesis")
+chain[i] = sha256(chain[i-1] + sweep_id + preregistration_sha256)</pre>
+    <p>Each link folds in the one before it. Deleting an inconvenient record
+    is the obvious temptation for a registry of failures, and this is what
+    makes it visible: every later link would stop matching.</p>
+  </div>
+  <p style="margin-top:24px"><a href="/api/chain" style="color:var(--seal);text-decoration:none">
+    Full chain as JSON &rarr;</a></p>
+</section>
+</div>
+{% endblock %}

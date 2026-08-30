@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24404,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:01:22+00:00",
+      "rows": 587,
+      "sha256": "df5b466d87959b007714b3629b5a9d33ff21a754157d1ba1f0335663532049e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GLWBUSDT/1h/GLWBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GLWBUSDT",
+  "total_rows": 587
+}

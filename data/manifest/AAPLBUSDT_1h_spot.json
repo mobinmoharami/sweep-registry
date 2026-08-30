@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2845,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:28:47+00:00",
+      "rows": 60,
+      "sha256": "be52f94742f2227591193659bfb40e1dbbf7631b9978b246890d6e1dd4016cfe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AAPLBUSDT/1h/AAPLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AAPLBUSDT",
+  "total_rows": 60
+}

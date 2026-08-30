@@ -1,0 +1,597 @@
+{
+  "files": [
+    {
+      "bytes": 7059,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:39+00:00",
+      "rows": 135,
+      "sha256": "db3d7472103b288385953556be198980f160af4a530d9270c9575f9e4f3e10c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 37412,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:40+00:00",
+      "rows": 744,
+      "sha256": "c350ae74a7fcf1b1ff672eb12a4cde67a6dafcd645597abb52776532673bd1ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 38554,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:40+00:00",
+      "rows": 744,
+      "sha256": "0e72f8c84e5a399372bce87fb0afd4b947d7b3fec6c60a3b7cc37c9fa0c2c6fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 36687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:41+00:00",
+      "rows": 720,
+      "sha256": "4577e7e615a9ec5209e0438dc014aaaefa2e621bb90d04cc2ab60481a1af9d75",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 37178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:41+00:00",
+      "rows": 744,
+      "sha256": "8960897265fbdc14facde2cd4e1c80329f350c6841bf77152c63a6ee22b2121f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 36419,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:40+00:00",
+      "rows": 719,
+      "sha256": "5a4669e95e3b39100c745a3b4378db60fdac4f1ceedee45ac220daf5fedbb4ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 38073,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:40+00:00",
+      "rows": 740,
+      "sha256": "da0e12fe5fff83c3edf8edcc00d5eb38071dd459236719a84341f24cd6ef3e93",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 38818,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:40+00:00",
+      "rows": 744,
+      "sha256": "8db191cb84d8642ea2b52ba38c25d95894c15c846c244f12b7367479ca1b7a81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 36027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:41+00:00",
+      "rows": 671,
+      "sha256": "0efe19b4a2b58c7ceb0e44f09a92d14bedac94fd0e420debaefac0e7286248d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:41+00:00",
+      "rows": 743,
+      "sha256": "066fa7d8828162a48c36fb999cacc3e7846e08d2f5b6d3267a0e98ab6127c6b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38514,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:41+00:00",
+      "rows": 715,
+      "sha256": "405827531dc75b9d0e6653a8dffae75293a941354e688afeb09b0932da4fdfbe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 40483,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:42+00:00",
+      "rows": 744,
+      "sha256": "1e248c470a89eb998de0e331c5f52595a9d97446817de0d75282b9ef5bea23dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 38040,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:42+00:00",
+      "rows": 720,
+      "sha256": "e35c7d4497b82e28a9fc7f86301ed63dbb7cf421d6cbec2cf6d13a22e243cd72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 40030,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:43+00:00",
+      "rows": 744,
+      "sha256": "38bdd18a0315065f920e997c28492a8bc7051a755a52db853fcc65a459922463",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38714,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:42+00:00",
+      "rows": 740,
+      "sha256": "60b040b58985f765f41543f87806d2af17ca62ea98e5038361a7c33fc6224d77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:42+00:00",
+      "rows": 718,
+      "sha256": "972df11ca8ed11a7d254f9a7b2bbb88c9f69b054c893611d2db0b2a4e4962aec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33680,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:43+00:00",
+      "rows": 744,
+      "sha256": "55b4c08f6514eb5413cb2cc6a3667265bdc705d06c33edb76a58762097eec2c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:44+00:00",
+      "rows": 720,
+      "sha256": "df7f7a77284869deffe1102699708893efd15594dcb6b5223d5adbcd0a66ad52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33040,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:43+00:00",
+      "rows": 744,
+      "sha256": "bc32b4819fcf6fad4d877023c924a23cc4503ad8efa0804a551fd9c20eaaf417",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32622,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:44+00:00",
+      "rows": 744,
+      "sha256": "23a137fefb28d6e0c4c0cfb40b06574444359b0ecaca6fcd6b696f2fdcc320ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29152,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:44+00:00",
+      "rows": 672,
+      "sha256": "f3b0e061078326f60868715f73776fe08afd6ab298d6092acf630757656ff8b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32129,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:44+00:00",
+      "rows": 744,
+      "sha256": "a2cd2e3562a8f732a49a19f3c2ee73d298343c5820e19e53bcff1b158954d199",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31676,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:44+00:00",
+      "rows": 720,
+      "sha256": "9f59419750d8e6c2f4cc39ebbaede7c6e45fb889224d15c807ced8358824fe81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32210,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:45+00:00",
+      "rows": 744,
+      "sha256": "6ecdc20170b8b40dd443cb4d4c984bd6c9b122383b2868572fc6d002bcfa6755",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31280,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:46+00:00",
+      "rows": 720,
+      "sha256": "0fecd1b87bbb5ee578805fbd128fc68514fb9f88eeddf4adfcaa9cc18b926b77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34521,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:46+00:00",
+      "rows": 744,
+      "sha256": "8b6063ebe660d424b3f73e8b2b3eba483d02d598f543e8a9ffcaa6079dcd7eba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:45+00:00",
+      "rows": 744,
+      "sha256": "51cf6c2f33bbc555141c56827ff7e90ac1f4750c68cb0cd98f293904339519f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 33095,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:46+00:00",
+      "rows": 720,
+      "sha256": "577a942069ff81a65e3bd07139d7c2137fb2639d4487dc13273acfbc602e3150",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 33043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:46+00:00",
+      "rows": 744,
+      "sha256": "8efc99e32b760ae288bf34d694a505016a3e7f394c81d04d083eed0b4a23d146",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 32308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:46+00:00",
+      "rows": 720,
+      "sha256": "78698b23e4ff502c1fc3490d64181f9b525711196452adf3f9b78f06963f1801",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 32337,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:47+00:00",
+      "rows": 744,
+      "sha256": "ba15fb3af2255f2a2d5565187ea7e7eab044deb099f57cf6b861f9f3ab11f0ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:47+00:00",
+      "rows": 744,
+      "sha256": "226771a8a9355f2b734075947bfc6cc0c3698a90d05648990ac80e9953912cdb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:47+00:00",
+      "rows": 672,
+      "sha256": "5b00ef3982cf04052a82c7eaa3a5acf094d85318269eaac43e75fa319d1a69db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 33180,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:47+00:00",
+      "rows": 743,
+      "sha256": "51586356feeafd18de0766de1e0d37382bac95321d510ac51a83958b6a518819",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:48+00:00",
+      "rows": 720,
+      "sha256": "a56036cb6273ebb9aa69c563375c60420a9e525bb0205acaafc3536607916a32",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31824,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:48+00:00",
+      "rows": 744,
+      "sha256": "a8eac7b3f14308fbdbd9d2a0f1cbcb8ab467a7d7dcfed28e433bf299684f17cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:49+00:00",
+      "rows": 720,
+      "sha256": "db6c12642e26a50fa68cee98d9eb2bf6b4265b847268c13a6ef329fb30acb5d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 35655,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:48+00:00",
+      "rows": 744,
+      "sha256": "9da5a99ebd900bd04191f3f104fdeb3fafc7d7d149a2b1b6df0d4f9a59858478",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:48+00:00",
+      "rows": 744,
+      "sha256": "b1249023c96d57f842b9de7eac201a0b1a0eb9eaa50c16cceb99077dd1981819",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 32249,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:48+00:00",
+      "rows": 720,
+      "sha256": "37f894671ece5286dc32f8dde7650eb0183dce8a033de228d3ac461910ec824b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 33237,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:49+00:00",
+      "rows": 744,
+      "sha256": "5448c4def674e0ec3b99173f229908d64bd06a8040a37b57bac2373c4bfb3424",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33073,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:49+00:00",
+      "rows": 720,
+      "sha256": "da56b0b7756c33aac49ea550f5675d043b10502dc0f748371bf51488c4393368",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34341,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:50+00:00",
+      "rows": 744,
+      "sha256": "63060c45cc90823553149fc481e4ea6e03f996311abdcc88239b75807d258ff4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34185,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:50+00:00",
+      "rows": 744,
+      "sha256": "0e0416b16696b2183dedab8ba53f89ce781cb366fc46257def16952805c1d6d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32135,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:50+00:00",
+      "rows": 696,
+      "sha256": "28685f8e162d9ce310cadcd53e67feb00d17562aa17825e3d01fe383fdde6858",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35193,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:50+00:00",
+      "rows": 744,
+      "sha256": "c8e433bcd48621156cf12f5df44b5e512b9daa6dda7bca27a18b9722c9905ac8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32884,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:50+00:00",
+      "rows": 720,
+      "sha256": "c2dc433c587eb5a3a28aa3eb80eeeb034da9dbfb1e7973b87ad335e444f86e04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:51+00:00",
+      "rows": 744,
+      "sha256": "ade6fefd7384931c58eaea26c9807dfc3301eedfa3763d59523675eabfc47d7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:51+00:00",
+      "rows": 720,
+      "sha256": "3e15fe643e38271c8e8fc87fbad49afd286bb6a04c9eecb3726dcfaa2ad7bd8f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:51+00:00",
+      "rows": 744,
+      "sha256": "da58f1b1404fb26b57f63a86af254c125a1d9b007f8e0d445902df3497450a33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33779,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:52+00:00",
+      "rows": 744,
+      "sha256": "f2c7132392f8bc72b3c6256c9c9913bede7c8581c7bd4f82ee355ace086ac7f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32051,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:51+00:00",
+      "rows": 720,
+      "sha256": "6db8eb5f60c357de4ce023ed3f30a88301d5614d5c6df4fe691f5b02bd0b1bc4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32392,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:52+00:00",
+      "rows": 744,
+      "sha256": "4d09900a3b34fac055df0123b0410b37e250b70777ae3cbd3c6cd5ba06fa895c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:53+00:00",
+      "rows": 720,
+      "sha256": "9204b0f187adff083b4ae38b79701661a725b4fc109cf6b4543fa15b68b63961",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35185,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:53+00:00",
+      "rows": 744,
+      "sha256": "0eca548bde5fefed62983f95485abb3afe7c4746ca6040d407026632c5d0e3df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34063,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:53+00:00",
+      "rows": 744,
+      "sha256": "86e067ee7367dc581a9e9f481c0dbf3c75c66aed9df51c4622a50f784be709cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:53+00:00",
+      "rows": 672,
+      "sha256": "f7a8286bc6c7e0f6df9b8987399fc63584be834c3d4455df2f15eb652299a251",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 32980,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:54+00:00",
+      "rows": 744,
+      "sha256": "115a6abdb5f2739a7c6993e9a1bcdfa1352e8ef49d68117d4cdd57a8b57ed5f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32403,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:54+00:00",
+      "rows": 720,
+      "sha256": "a0e71ae40e4f85e45fc20addf1a922479a9c07e0398708e27d043e773654aa28",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:53+00:00",
+      "rows": 744,
+      "sha256": "7765d2bb215cb4e99001bf8ecf424a2d79d6feb8c3d4dcd599154e04a4c35165",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33572,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:54+00:00",
+      "rows": 720,
+      "sha256": "636b3f6688c341cf1d81673f258b0f97a1a7487f7c0b41b8d40c4218f400fc78",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34741,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:54+00:00",
+      "rows": 744,
+      "sha256": "73ceb9e740c99c3bbdc9d4a295344e6a0a931501d7e0a43426b4dee8874f11e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34063,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:54+00:00",
+      "rows": 744,
+      "sha256": "1774c7be62a1aaad7f2c7cf8f4360321365bfdb39354772936d06da1cff26a23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32057,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:55+00:00",
+      "rows": 720,
+      "sha256": "3d979df6424b350b5efed83a63ad6a5f0bac507d8c584be4892eb30ebd45aa68",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33278,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:55+00:00",
+      "rows": 744,
+      "sha256": "aa16ff9a7160450a852bd70930e14c8e4d8bd137260c414d06c612c45ad84a8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32148,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:55+00:00",
+      "rows": 720,
+      "sha256": "3603c04dea97dabd056d9b451269aedc1c166b6873e64a4757d13ce0eff1b032",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:55+00:00",
+      "rows": 744,
+      "sha256": "43538b7632b281af1b98d59e518309817e06bac430b7c50d5796822de8d5d131",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31910,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:55+00:00",
+      "rows": 744,
+      "sha256": "f7a5bfa0ad63fb502c94290ffd532e7753e273a24bcc0b1f8b295ea398fccd44",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:56+00:00",
+      "rows": 672,
+      "sha256": "b76910c4ed50390fe5cf6d5d9834ebfefec5060b4ce3849c3bb34a2da64b2b53",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31256,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:56+00:00",
+      "rows": 744,
+      "sha256": "d17532f794bb3fef843ee7ed237ba60f39001b83927040478f269d34c81406d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31792,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:57+00:00",
+      "rows": 720,
+      "sha256": "7847bf24d636305c9cf93e040381deaf74144244c7800328de2ea81a1e206faa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32129,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:56+00:00",
+      "rows": 744,
+      "sha256": "9f1af88462eead5e15191a48c95aa959cad11681f10d98a30eb3335c81f70dd9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30514,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:57+00:00",
+      "rows": 720,
+      "sha256": "bc634413065dec5fc5e09bfbdc9ac82608a2c00dcebb6f1b020bd334fa266a8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COMPUSDT/1h/COMPUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "COMPUSDT",
+  "total_rows": 52700
+}

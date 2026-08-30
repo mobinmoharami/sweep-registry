@@ -1,0 +1,101 @@
+{
+  "files": [
+    {
+      "bytes": 870,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:45+00:00",
+      "rows": 13,
+      "sha256": "e0c59045303c8a7e19c0dc82b552ec66e7b42e7774cecb43e6190ee52b269a7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 35910,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:45+00:00",
+      "rows": 744,
+      "sha256": "106d73038ebcdc73b3675eff19434e75707857eefc8ab550ede457fae24193f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32229,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:46+00:00",
+      "rows": 720,
+      "sha256": "a3226467c297cf42884dc624c95cdd5823b56d704e8b66bc02d781ed27c8a5c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31871,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:46+00:00",
+      "rows": 744,
+      "sha256": "b0c6a926d7d081bf32c872048ab62143253f6041cd844bab68b0caa105578554",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31289,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:46+00:00",
+      "rows": 744,
+      "sha256": "8b84c6df1b649a2ad2b692825dbee4af507ed5da85c111704329fe81ac3d9d2b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:46+00:00",
+      "rows": 672,
+      "sha256": "5cfd80f9c7ce3ee23baad97fb1cb803a895ff4be97861266407bd85c8c1d2ff1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30721,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:46+00:00",
+      "rows": 744,
+      "sha256": "f5da516b413f3cf4475b908bc7154d5b2f91d5b23189a708728561f25d2910f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29246,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:47+00:00",
+      "rows": 720,
+      "sha256": "c453a3f724cf3955cfd767b4cb782e96a152eb32b9d6529b7a7b3acbd96009ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:48+00:00",
+      "rows": 744,
+      "sha256": "34de0e5607b2e8859d05b702e36056dfcccce6b95dd2dfa40fbb2e72b9a9095e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32321,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:48+00:00",
+      "rows": 720,
+      "sha256": "386d2b2f0ba00cd401c2acc5dbfaa6cf91c4a68a140b9da3bb339ce34e69082f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33191,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:48+00:00",
+      "rows": 744,
+      "sha256": "5beec46aa0173bb4288a03328e74e011a249e7000a7e8de9509ea476562503a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDENUSDT/1h/EDENUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "EDENUSDT",
+  "total_rows": 7309
+}

@@ -1,0 +1,597 @@
+{
+  "files": [
+    {
+      "bytes": 26228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:57+00:00",
+      "rows": 619,
+      "sha256": "2aa78bcc8d8d854bc014def680e92ef039015ff551a9241f5b1c1c298c25d46b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 32162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:57+00:00",
+      "rows": 744,
+      "sha256": "948f3053315bef84cfc5a3374a7edf2215d8d448814244cf711ec9bdd8386ce5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 29843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:57+00:00",
+      "rows": 720,
+      "sha256": "86ba33ee49d8ae007b6c5123f6634594a08f334757461b58411adf1ade7ef26a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 30971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:56+00:00",
+      "rows": 744,
+      "sha256": "fbb10af622e0a46b384943f73b230ab223816ed4a1f045bef12f0db3e6fee2c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 31925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:57+00:00",
+      "rows": 719,
+      "sha256": "6b0cc9011de2c045722d86e132adb4d12d0e54edad11768c376a8caf9abb3594",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 35010,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:57+00:00",
+      "rows": 740,
+      "sha256": "26f96239d3162d0ba95192ff81b74cef4b1c610ffecfd81966a95a7c818e310a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 36745,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:58+00:00",
+      "rows": 744,
+      "sha256": "4f6cf3c29ed106795bbdd8f0ebaba0fc0df2e6afbdcf109361d2b35f7aba281d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 33703,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:58+00:00",
+      "rows": 671,
+      "sha256": "aa56be4cd9dd6b130ebdffa13750070597047aa64348924982aa94d32e7d224d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 36641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:59+00:00",
+      "rows": 743,
+      "sha256": "fd13dab41276bc2ad93c464d917e2e4ad232559e5ddfeb6475bc57a5d0b246e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36874,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:59+00:00",
+      "rows": 715,
+      "sha256": "2a187a4bf98d6ebe5aca48e95a16a1508e3abdd6afca9a5ff3271c01335bb4c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38439,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:59+00:00",
+      "rows": 744,
+      "sha256": "1da1e5c43e8823af1755bffd0d8e03f58c3fa97c49f0443516560dde2bb3f95d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36025,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:59:59+00:00",
+      "rows": 720,
+      "sha256": "53daad30022f9007868598695bf7297ac1dc0bc4aee0edc9efef1f33a3ffcdd5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36669,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:00+00:00",
+      "rows": 744,
+      "sha256": "ce57b094ae2a52902e56ea5b791ce3364ce6eb25dc3fc84775d3e44424190e42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:00+00:00",
+      "rows": 740,
+      "sha256": "1a919f94025d6e67a00220d84ed17654df474f67a1ecaaf8e8d5ce173365937c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32532,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:00+00:00",
+      "rows": 718,
+      "sha256": "fca99ccf4147b1b67aa6a2c54d3d72665465dacca4b53725fcb24d89cd9b7730",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 32990,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:01+00:00",
+      "rows": 744,
+      "sha256": "58b3b9d3160ebbf92489df7e450d72576ae024c4c02edffd7651c417cc67cc6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32851,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:00+00:00",
+      "rows": 720,
+      "sha256": "8eef4444e704c15fa1f59081e541f808bfdca63909f5d10bd7f67625cfdbc960",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 32922,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:00+00:00",
+      "rows": 744,
+      "sha256": "0059abf934217ead933b2da3ca33e889a2e13a67465bd82108a6d085e0934931",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32499,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:02+00:00",
+      "rows": 744,
+      "sha256": "512cb473aa0a062377abd4f38338a5084536d28432b615c2e4b5072b9a902812",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28993,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:01+00:00",
+      "rows": 672,
+      "sha256": "053c2d8a3bfd5d25e706f867b47b26a93ea77079f2db8b7d2fe30605a6699eb9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:02+00:00",
+      "rows": 744,
+      "sha256": "d85396bcf48b3211b3b4ee9d93e8efa50ab77096e7db9465b9e536299b72c512",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 30573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:02+00:00",
+      "rows": 720,
+      "sha256": "cf8748911b3f920feb1a35ffd8a041dc1f217a2398bdd72293dece22f3ef825a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 31961,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:01+00:00",
+      "rows": 744,
+      "sha256": "abffd322467be4f2e410938b91691f5324037e86a58c694129ac9f60f9d37f85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 29821,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:02+00:00",
+      "rows": 720,
+      "sha256": "d327fe24af2713a55fcbf0dc6f06d23e767779e2135012d13f074a1d5a213711",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30787,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:02+00:00",
+      "rows": 744,
+      "sha256": "193138718f62230ed076887b6e9309de40220a01eb6dc76c279f9cb190881e82",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30650,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:03+00:00",
+      "rows": 744,
+      "sha256": "5d19a0a494ce1d49b8ae2cd0f67342fc05575c448fd1b00df049734fb2b7c5c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29018,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:03+00:00",
+      "rows": 720,
+      "sha256": "6a43b135265ab6075e0941b5c34690bac6569ff91552dd9a939aea4609c32a10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 28885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:03+00:00",
+      "rows": 744,
+      "sha256": "ef83833d3455b95ba87fc4e70f92eb6da320a3766b61f4ba6f1e0ad894ff22ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 29106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:03+00:00",
+      "rows": 720,
+      "sha256": "50c1b2dcb809120663b10dfb4a4c86cdef9ba51c41c6c785ae4591344cb55b16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 28775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:04+00:00",
+      "rows": 744,
+      "sha256": "a25b2aa5a121656404791d5fa15df404b6d0400721984f683a8e628630ab6dbd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30522,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:04+00:00",
+      "rows": 744,
+      "sha256": "1d61583145c40265f53927d1bcd70957254f720124aa4c2d1d43455eee14b2e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 672,
+      "sha256": "5f741a47941dc06dace21b5408152934fb25741a883febf6d218181d9871ee18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 30799,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 743,
+      "sha256": "976e30f5771946a7f33a64cd6462a71428e4a3ca5df5084744a1d2ae0e216ef4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 28796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 720,
+      "sha256": "df721e2694e9f08f47979fee0310ef48013ca5c11058af88f43e0b87893e3b4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 28770,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 744,
+      "sha256": "b891fc5a69f6f958d61cadb0b376c356b4328e77fe949a819ccbde75350a08f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28125,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 720,
+      "sha256": "400efa4fd04291cef05a26bdb0fc9f1bec2c40b7c35e227833f1a1cb94a1ec60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30339,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:05+00:00",
+      "rows": 744,
+      "sha256": "ecd4645785652a5cc83776c545c44c9379e4aa8c3cbb0042cc00e5c0433ad3c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28812,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:06+00:00",
+      "rows": 744,
+      "sha256": "4feabb5cf2d824d35e5616db8cb538d36013ca91e2837cf32ca758f366567d35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27503,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:07+00:00",
+      "rows": 720,
+      "sha256": "3ac210b6f8ae14fc2e880447a184d74d47ad434fec5d731760271327724b745d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 28850,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:06+00:00",
+      "rows": 744,
+      "sha256": "31293fc58f14e0efc25aa2f2086d097aadcafae0c66d1a95548dc78ac8020670",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 29925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:07+00:00",
+      "rows": 720,
+      "sha256": "0eed80204b52dc060b479dd1409d69efd69f5290acf1732e8a2f77dff9ac521f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:07+00:00",
+      "rows": 744,
+      "sha256": "c3cc3281385b75577af639fe772abb5f730e69c0fb0644bfe8744d4ae1b56b5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 30885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:07+00:00",
+      "rows": 744,
+      "sha256": "e912c39b126813c82c1ec32a727c32725e77fed0fbb37596101169b9ceb46fb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29021,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:08+00:00",
+      "rows": 696,
+      "sha256": "8f3a98bb89ca88f96aa69ad81c9a48e9826c4844029bbafa98eec20da869931a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 31925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:08+00:00",
+      "rows": 744,
+      "sha256": "9e98c152b6c733afff12a439dd896c8cb49998314e9db5f1aa6d2171a33f29f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 29913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:09+00:00",
+      "rows": 720,
+      "sha256": "f22f81e40b2497888c4ce5fc3146259cc4e5afb2047177d3de18c9e64ebfa289",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 30098,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:09+00:00",
+      "rows": 744,
+      "sha256": "e781d096176196684b82ed3007efe99829669c725dcc314690017d6f2c52c5d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 28490,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:09+00:00",
+      "rows": 720,
+      "sha256": "73d10267c79d2ae23c51bd759c060e483ac6b02ff674dd2cc031064de62c16bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:09+00:00",
+      "rows": 744,
+      "sha256": "340d504a412643a5f40bd689bfc44a1a2c4b901735efcc8d723bb44b949f76fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30544,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:09+00:00",
+      "rows": 744,
+      "sha256": "62a9fc9a7b9f30dce533511e94798cbfcc4ecc34218a2be42bfd77e3e6ab3c89",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28542,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:10+00:00",
+      "rows": 720,
+      "sha256": "76386899c083af55cdb8d417ccefd601928cf306c6da7a6af7eb9afdf492b1b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 29339,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:10+00:00",
+      "rows": 744,
+      "sha256": "9b4d877825334ea6ac938b8dc16a358a94be7ec12d5f2216632d09992427686c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:10+00:00",
+      "rows": 720,
+      "sha256": "feee8fe373a61a8870904d0585d649f0f34b56a2946a0f8b44d15367a69f426d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:10+00:00",
+      "rows": 744,
+      "sha256": "781eed0d71785f697721c180c76c5a3d6379b67120dd90a25174e58be696184d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 744,
+      "sha256": "7f1a3ae19cf1df547ea1c870433d45b1408d177c86542c111c0f7dfa033898a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29874,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 672,
+      "sha256": "e4e0142d387817fdc0851ac156029eabaff42d1e3140bc3bda0737445009de2a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31844,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 744,
+      "sha256": "add6bd29a40377bc3f42259fcc1e99b668733bef66a979292f354e09589d6e24",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 720,
+      "sha256": "dd27ffe2784be094abf26f5aa6ae5af48beb3e4a91b4549ade74f142d818cb14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31360,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 744,
+      "sha256": "7254e1784608491b9d38e8f4d1ff7899d4bf08ad8ef4659cad5e85a985f4b13a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30449,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:11+00:00",
+      "rows": 720,
+      "sha256": "1c9b0960e666e8638f0093d505d0c428306f9bde18d15cb07fc8e856018b8306",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31271,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:12+00:00",
+      "rows": 744,
+      "sha256": "2788a77bc88435066e7fab569337e2b1882c218ae753952a15c0c3aabaf9eb4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:12+00:00",
+      "rows": 744,
+      "sha256": "29b743809ca28df96f0653d195f73c7a4c0478e836262f5849cd56d1a02e3531",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:12+00:00",
+      "rows": 720,
+      "sha256": "b8b6a9fec28b1d6772db55c6a3e2185462b1710894fcf1e2353e7a99df414813",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 36561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:12+00:00",
+      "rows": 744,
+      "sha256": "053843a6cb94848f1d471a4c3ed11ec039803af26ae2272531148bb46f8d3f19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 36197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:12+00:00",
+      "rows": 720,
+      "sha256": "dabf4cdfe846bb04780cc6114003a8eb41dd46cc167176d2a4fbe4b2494f7b05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 34914,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:13+00:00",
+      "rows": 744,
+      "sha256": "adf1152582de829a1d2002e79e03c7834bec82a3965340272ed5085d1105b710",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35682,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 744,
+      "sha256": "bb4130ebe7c4297304b2d70bdc6311c731f7378a6097d7e913923fd6effa5795",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 672,
+      "sha256": "853573edff8fbe3ae38912ddf184e0c9e87449386a9da56b327c7ecae61a3ad2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 744,
+      "sha256": "925e43f7c99f77eda990348a3993745ac84a5579ef185acc9a983beea047685e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 720,
+      "sha256": "138364e3f158867346d3dba2dc5097b10da63da4fdcfdb85b5bea72b3e2be3ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 744,
+      "sha256": "029fe883ad7646b42b8ad3309fb82746b70a8c9cf84e4d466358f1468508205b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:14+00:00",
+      "rows": 720,
+      "sha256": "f44ed9d0325573ea4874c03fa470d2ddf7c4c5f94b9ba6e2c4f9dea92339da6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32008,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:15+00:00",
+      "rows": 744,
+      "sha256": "c7375ae106801928f9c34f9bee26ceb8622fb76fce289b828f9ead668bc93b0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZENUSDT/1h/ZENUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ZENUSDT",
+  "total_rows": 53184
+}

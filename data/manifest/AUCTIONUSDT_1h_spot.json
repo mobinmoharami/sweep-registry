@@ -1,0 +1,477 @@
+{
+  "files": [
+    {
+      "bytes": 2855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:23+00:00",
+      "rows": 62,
+      "sha256": "d6e6923da2ce21f61d221f6259096962741a9a9482704c90e3757574cf92635d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 29950,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:23+00:00",
+      "rows": 720,
+      "sha256": "9b497014b25cc42216e1fddb14041da45acff9bdfa1e8c851381787c5852b9c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:23+00:00",
+      "rows": 744,
+      "sha256": "e855355a427b792bff411845c6690f2cc30b8957e23eeb716bf37563dce81d12",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 29152,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:23+00:00",
+      "rows": 744,
+      "sha256": "0b3bed9c7f237e2334387b200589399477ca3c373711357eeb33724cb7c88b9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 25658,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:23+00:00",
+      "rows": 672,
+      "sha256": "d3b1583018a14c134880d0aebe80a7f3a75553450076cf822e90d7a2675adc4b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 29709,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:24+00:00",
+      "rows": 744,
+      "sha256": "d27b44f143fd29ff54f54037d71546ac86d07ea919df9c3273d863425e7e5b33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29038,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:24+00:00",
+      "rows": 720,
+      "sha256": "0227a8623b4e36c83a7a25f2781b9e65d635fc656e8afbdf834d6232a9de110d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29129,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:24+00:00",
+      "rows": 744,
+      "sha256": "5cf344c92bcbe977039e7011a3238f27d049f2a99a976d7353c24d6d3f1b293c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 27984,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:24+00:00",
+      "rows": 720,
+      "sha256": "78a1243294ead845aeea0492b609df844a26b412844b89b1574bb97b3764facd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 29477,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:24+00:00",
+      "rows": 744,
+      "sha256": "e8448338e212681dd77f8e39a7b20c929e2ab0dc1e764176216e6268c75e65a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:25+00:00",
+      "rows": 744,
+      "sha256": "c4beb144d0c53e908c1ece1585a9e9d726d429cadcdefc55c75e695003aca223",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 28367,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:25+00:00",
+      "rows": 720,
+      "sha256": "c3579fceb78bcf9c8ad9e5f3a9c52114c97a03b4779fb376b41843553df2280e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 28527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:25+00:00",
+      "rows": 744,
+      "sha256": "50e9bf87484b80ddeb4b124ec51d6bb4e90a7407d87dc7f126cbed5914eeeb36",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 28422,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:25+00:00",
+      "rows": 720,
+      "sha256": "a7fb1e8626655486949185164179b76f35fbb32323b369cca3d5181e4e476faf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 27306,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:26+00:00",
+      "rows": 744,
+      "sha256": "4ef005c51f85ab361aa477bb0b800fbe6573b57212d0002b471dd97a0a7f2949",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:26+00:00",
+      "rows": 744,
+      "sha256": "6a49cdcae96cd73128faf28e761c30bf646268e05bdfcc7c0338e3db84ab2d5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 26515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:26+00:00",
+      "rows": 672,
+      "sha256": "18b4c79e9390c5a88bba959468842769222145f25ebfc12803fa9aadf04eb42c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 28241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 743,
+      "sha256": "9f3a12351ca067b39eb4cd8704ad7db7da8ca4fe674ee015e1cf0062ac23bb26",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 27634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 720,
+      "sha256": "8d4f3cf0f0c02d89699870005031e737cd69cf8caf2dc24fd3fcf3477d279c14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 27459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 744,
+      "sha256": "89090c3987dccb7347d6d46d1ac4854ec9495879031ed1eda80eac8eae7e05f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 26150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 720,
+      "sha256": "2cc2b4a7ed4c8910bab525fc1d60accf3232eeea4b101e1982e7d6846fa74da9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29365,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 744,
+      "sha256": "576246204edde59d653600fd79fc04456c1e38b259c5af8279bbb14d6d38f17e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29640,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 744,
+      "sha256": "e76204bb818ce08f98475816d1f02d6769e09b95ee579081100eb12e95100f1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 29894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:27+00:00",
+      "rows": 720,
+      "sha256": "e8678d6d666e6339773667e01d0191cbd8d9440d0b24d8b49c8c7eba130cc0bd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 30366,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:29+00:00",
+      "rows": 744,
+      "sha256": "30fea274641942d312127c5291cc205dd53fd69016964bb27f39106cc563564a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30340,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:29+00:00",
+      "rows": 720,
+      "sha256": "73058426dd2e67031baf28e081f9c7103357a6860907688887229edc1d08964c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 33934,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:28+00:00",
+      "rows": 744,
+      "sha256": "25e49ef955cf6cbeeebce3d17d91eb508d5084007378a7ae6ce698f3cbe5dbc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:28+00:00",
+      "rows": 744,
+      "sha256": "cb76d0dbf3c9a55d6bf113566d4d54e6b19d72e792dde18c7da9bb02e1b8295e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30669,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:28+00:00",
+      "rows": 696,
+      "sha256": "6476d3cd53395b65b6e138c563046ccd32251a694c7d9237d050953640c27b7c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:29+00:00",
+      "rows": 744,
+      "sha256": "dc2856e8f3414b09e7b15586f1715974e72ef26f1214b76a0876431017784e8b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 30755,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:29+00:00",
+      "rows": 720,
+      "sha256": "15f79c0984610c812acdfd910e8b1559da706936dab39c1301ca7856b1c44c98",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:29+00:00",
+      "rows": 744,
+      "sha256": "97f4f90ece3d14a6c5d349a13a797f08d1a913fad3c2e368452306b316e7b931",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30416,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 720,
+      "sha256": "a947f9da5d7ccd1017e42c788064f4a7053272efefdb4e5099288f2ccd44b1b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30826,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 744,
+      "sha256": "92af57d175400c6376f6b4d5b73fa9e846fe502c9620727fba9aa2d76f4de2f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 744,
+      "sha256": "fc58631b84747c6e59309c9ea46109b726742406fe0c7e72ddf35264a168ef47",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29858,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 720,
+      "sha256": "4f91943f02408ab4372e8f7f3771eb6447a01180fa5e6f15e205a38c94bd06a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30259,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 744,
+      "sha256": "6f1467826ca1a25214a709350f9420ddc05c6a1b281843adc2b7bc0eb3abcea1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30553,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 720,
+      "sha256": "cdc0a050095c790d36d2a3b20ae1ea82d9505ea5562c4d0f3a75c97c9ddb5578",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:31+00:00",
+      "rows": 744,
+      "sha256": "0a92a718a4bdb961cc50770e51e7ea43186454c633aefddf957c819ce08aa60d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:30+00:00",
+      "rows": 744,
+      "sha256": "23bf78c0b831d98b70aeaa1843ea146afedc29d6286d4160fe2aae58dcd51408",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29036,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:32+00:00",
+      "rows": 672,
+      "sha256": "1dc7c424ba333c58fa7d59773b1f01e5b731655f6889351fbcdb84ec86f5dbe8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34206,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:32+00:00",
+      "rows": 744,
+      "sha256": "5858e9f12ae48df0d42d2bdc367f5bf81534edc9a6cb0821526dbc6eb4a9436b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:32+00:00",
+      "rows": 720,
+      "sha256": "415161cac8d6488027771fc44ca2ef0a0536b776b040b4135ff025f33cb87d74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31114,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:32+00:00",
+      "rows": 744,
+      "sha256": "528acaf68883228968426850876e01f9c5c67539b07a18c6b9c156e04503c47a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 28907,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:31+00:00",
+      "rows": 720,
+      "sha256": "fe18bc433b17fcecf2d5dfa17ee3d7a4dff16c18fc8fd58e5e10c219579ee54e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 30998,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:32+00:00",
+      "rows": 744,
+      "sha256": "2c74f1665bdbbc53755e8e457f726e5f72f90ed717952c5aa0ed0f4cb06cb38b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 30298,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:33+00:00",
+      "rows": 744,
+      "sha256": "8184654781d350405c28d5bc409f3f64de46b4137cdb58a36b67662bd1d975c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 28653,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:33+00:00",
+      "rows": 720,
+      "sha256": "04e8b3117faec499b3aae22dff69921183670c6c47605903cf8cb3f7278c0554",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30810,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:33+00:00",
+      "rows": 744,
+      "sha256": "5fc3e6c23fcbbd5af2c955b4f8c2b01c5783e1603c792d2fc56f2ac38b91e5c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29366,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:34+00:00",
+      "rows": 720,
+      "sha256": "30119350cb0f3225238c9e576485900d19c15984005f6d4a0f4078aeca56ce8c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 28730,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:34+00:00",
+      "rows": 744,
+      "sha256": "3831f2ea180e1b41677c8e3887d1676b2b66deff109ded11f8ae5a4f4bc36bea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:34+00:00",
+      "rows": 744,
+      "sha256": "ceb24a80055ba3c898a732dda40a87dc44db34de80bba4473d3796ca9988d509",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27051,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:35+00:00",
+      "rows": 672,
+      "sha256": "5b1e701fa5ff8f8f5347a7b0c1b46d7d4cbc13c7cd4a34e68db09d4326b51173",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 28390,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:35+00:00",
+      "rows": 744,
+      "sha256": "af8f804fc705d08e5784793f6eee5f5a494195c3bfb0b6b3215472ffc1afd9cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 26346,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:35+00:00",
+      "rows": 720,
+      "sha256": "217196e26f51dd360b8acb08d66249b7878e0285ed9c26dae8d044a5265aefc9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 27428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:34+00:00",
+      "rows": 744,
+      "sha256": "c0395c8474d8daeffc0dc503d3bff1ec452fb0b8d3c9af004e99f1fd779df10a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 26531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:35+00:00",
+      "rows": 720,
+      "sha256": "4a168986296b7b57eba08a63e72ee569375cbd417002efdde95f6136db69cd8c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 27420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:37:36+00:00",
+      "rows": 744,
+      "sha256": "9368ea3dbd564ce0bc1b6d76b9824d6dd1d520050c6c57aece551dd5590c4010",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AUCTIONUSDT/1h/AUCTIONUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AUCTIONUSDT",
+  "total_rows": 41677
+}

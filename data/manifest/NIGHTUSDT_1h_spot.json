@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 24678,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:22:20+00:00",
+      "rows": 489,
+      "sha256": "54d11953de695efd09909171440f26948d5ab0929100316949334b621f7e7f7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NIGHTUSDT/1h/NIGHTUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32478,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:22:21+00:00",
+      "rows": 720,
+      "sha256": "c349c190b1c729f09154cda9b2cc79d3a3598d221e39550997c233065eb8efce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NIGHTUSDT/1h/NIGHTUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32427,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:22:22+00:00",
+      "rows": 744,
+      "sha256": "4b878f35c63bea126aa2f3e3de82bd9dae2efd288a6a90e6504b061f7a78b656",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NIGHTUSDT/1h/NIGHTUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:22:22+00:00",
+      "rows": 720,
+      "sha256": "b51510ab0b3fead11702a32bd388f0703a1325ec731e1fafcb6304fdddd8f74d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NIGHTUSDT/1h/NIGHTUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32500,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:22:21+00:00",
+      "rows": 744,
+      "sha256": "d6a6f20da7be6a18cbbb712799e59dcebf9de7f8df88aafe8a543fff165d90d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NIGHTUSDT/1h/NIGHTUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NIGHTUSDT",
+  "total_rows": 3417
+}

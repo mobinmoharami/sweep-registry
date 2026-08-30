@@ -1,0 +1,573 @@
+{
+  "files": [
+    {
+      "bytes": 18164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:23+00:00",
+      "rows": 333,
+      "sha256": "e5201f9583e5445531d75bb99e1c7b947953ef67cf9b57c539247d9f85906e5e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 37917,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:23+00:00",
+      "rows": 744,
+      "sha256": "bd8c35e387302338470aa384ad94b3e4d3ba38414d991318e4dd911dfe4b4f0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 37281,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:23+00:00",
+      "rows": 719,
+      "sha256": "fddd21cb76d5efc09b896ad19b30868859e8c7cbfebd25d1d9c46762ad5375ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 37670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:23+00:00",
+      "rows": 740,
+      "sha256": "622e90865f8b6f13e08bd781d0bd6ea959c4985b50d01a48b4b206046e43171c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 39656,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:23+00:00",
+      "rows": 744,
+      "sha256": "d950fa6e0dd71169d63ba92896d9c4280beb945a632d79647709a515f0b88b39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 36249,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:24+00:00",
+      "rows": 671,
+      "sha256": "30aee74b47a752d9f3f70e2608be474b3ca18dd1c0e060c7fd1e94f64d7d9d8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 743,
+      "sha256": "eba6f1ea58560c2545366b639b11ac9a26f623b25efd1f3ed3ac3cc0d9829283",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 715,
+      "sha256": "e5721fb6e76755c8753aa4147a9f42b23a31cc112ed912d9ffb81eb1c298a1db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 39276,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 744,
+      "sha256": "dea54a1adaba6ff104c2f0d42d902ff48762975088ab59f84283523b47f2f974",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36805,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 720,
+      "sha256": "9b8aec6028194b08dbedd1a7f29d6dc48d86881410c326413a7a9e6eebd5b20a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 37690,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 744,
+      "sha256": "aa59819380c4441218c04ed2e7546159d8c07b95e37be5c996384ee8d0a7ba27",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37410,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:25+00:00",
+      "rows": 740,
+      "sha256": "b6f2ad8b587e38d9f3e63d6f021695779ee4f22fe2a365b46e73c49f31414089",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 33259,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:26+00:00",
+      "rows": 718,
+      "sha256": "484c10518d4d2edee352bd5e973f44a55a01c967835b9bc5af47183d808868ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33792,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:26+00:00",
+      "rows": 744,
+      "sha256": "236d7117679511c223776c8bc61ddad96d03800a1df75b88fd870d850951ee0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:27+00:00",
+      "rows": 720,
+      "sha256": "5e82daf0d49ce292b6140cafaa7e9615e16f1ba6a5b3c110d58e6c1431d3ab95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33521,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:27+00:00",
+      "rows": 744,
+      "sha256": "03159353315c8ff1275514fdd17b5a6fa9464bd151fbf09ec2729b664fa33a33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33221,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:27+00:00",
+      "rows": 744,
+      "sha256": "4821e565cd041808ddd2856c658a1acaab75e545ec78c13cf8fda2d56f26b4f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29659,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:27+00:00",
+      "rows": 672,
+      "sha256": "fdfce51f45f20ebada350b1225efa7c4b4cc2b90cd8055cbbb9f40dbe7c8934a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32642,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:28+00:00",
+      "rows": 744,
+      "sha256": "4e9dc1af19cba63dc15a35f3c939a2d49bfd7b31181cd7753829fcda699fd7c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31025,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:28+00:00",
+      "rows": 720,
+      "sha256": "3acdc9f0af9a0c78fd7b5694de548afc02c09ca40b33127331a3262602f40680",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:29+00:00",
+      "rows": 744,
+      "sha256": "11a8aaa8212caff33da94331b10939b0a8861d23ec393cffded0c1bd5d95056b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:29+00:00",
+      "rows": 720,
+      "sha256": "38e2854f2149bd1cfb4a61df9edab9c16f811a1fd023bdaf5f70ff03fc72e6a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 32821,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:29+00:00",
+      "rows": 744,
+      "sha256": "79d1f94cd8f8c3391fb3394a5e3d0bc3b7bdd9906c676329c082c1ae870de099",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32271,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:29+00:00",
+      "rows": 744,
+      "sha256": "8aae7dd7eff378c6a0ecd39549b8677105ef7e8e18f9e93cf19ab5ad33bd7f52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:29+00:00",
+      "rows": 720,
+      "sha256": "72b064078ac57b3778b596dbd581f3e6cc41bc6166a85f996c9634578288a8f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31842,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:30+00:00",
+      "rows": 744,
+      "sha256": "37cd518b91737baa7103e00940b1b399e5153b8beec379f86d2cfbfb885e2fb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:30+00:00",
+      "rows": 720,
+      "sha256": "f426dc754d777f3f4ff6373b1a3e625e87cf43663bd2edbdf41ab689ce997357",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 32268,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:31+00:00",
+      "rows": 744,
+      "sha256": "315f19532a33b4e2f98412f505dd81a78bccd87157666fc368cc32f1031cb7a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 34055,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:30+00:00",
+      "rows": 744,
+      "sha256": "554291d34a86ecb342543fc4eb77b1fad1eccd6ba60c2692d01b5f2b3dcb5016",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31343,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:31+00:00",
+      "rows": 672,
+      "sha256": "ec4e168822abf6808395b19c1601cc34018ebbb49c4aa92ee0a82f765321c0c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 34182,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:31+00:00",
+      "rows": 743,
+      "sha256": "4eb80dd300dc60cbb3b6603980acdf00f69e2e84453668555e9883e496b227ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 32561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:31+00:00",
+      "rows": 720,
+      "sha256": "5999e7f1657ee1f2db2e590dbd483b9a2ac7d46fe30d1e77b374f4db876307ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 33026,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:32+00:00",
+      "rows": 744,
+      "sha256": "6fc74d0639ba14db3ee4ccdb3ed5e047264bf6cabe65603b2b4e228726c673ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 32526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:32+00:00",
+      "rows": 720,
+      "sha256": "3e0dca8d6b22e4d4eaa3e19cc4b6eb1d2b5ebc83ab7a1cc0cdefaee994d94658",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 34078,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:32+00:00",
+      "rows": 744,
+      "sha256": "9b4662d9669b390f8b1283489ddad31c89cf42cd90c53dabfc8668c43b60d1d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 33652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:33+00:00",
+      "rows": 744,
+      "sha256": "c69052ff44787cf8fab51568ee1e48acdccbd2a03db745facdd949697ecedd33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 31634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:33+00:00",
+      "rows": 720,
+      "sha256": "8aade1c74f8d40bcd7e6fd9e5d7d65c67517afee75e0937cba309984320b46ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 33232,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:32+00:00",
+      "rows": 744,
+      "sha256": "5ab801ccba23dbda7fae42d14af85861f85c917f26388f01b6b03b1b7893e307",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 34058,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:33+00:00",
+      "rows": 720,
+      "sha256": "b55c968422a705d5088514b843dc17e69063b7ab5f9160e3d25bc85cbed576f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35139,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:33+00:00",
+      "rows": 744,
+      "sha256": "1a6d102992628e79007446ccd0cabab3e85110b8955d60ded6503ffac3970c13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34453,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:33+00:00",
+      "rows": 744,
+      "sha256": "7badcd9b07ccc5fc0e979b15705839fef71cfff2261d3a68546e3b2e73905027",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32740,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:34+00:00",
+      "rows": 696,
+      "sha256": "14c4afb37a7688e3cf9c1a2deda5e92bbd7211975dfa85910c0d5c75b7e82939",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 36137,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:34+00:00",
+      "rows": 744,
+      "sha256": "60fa958ff0a8924335c6f309f167cbd11655bf9ee4a5d3d586e1a76501bc1c5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34380,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:35+00:00",
+      "rows": 720,
+      "sha256": "4d6b4971a4151b734cbb5a21a47fbb82390107a084e62f01d8711ed5d87ce673",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34903,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:35+00:00",
+      "rows": 744,
+      "sha256": "45fb31b278b8b793ad2ae5db95898a6b581f0d98780b35c72789a804472e8d09",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 34268,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:35+00:00",
+      "rows": 720,
+      "sha256": "8d791bca1742ecb3dae11be69c297f2f0e5a1fd53000484bd8df16f0a602b126",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 34590,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:35+00:00",
+      "rows": 744,
+      "sha256": "27b52ac8b26c7f224fb071ec8c8cfcafda0b595927aaab390134952d07247cfa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34415,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:36+00:00",
+      "rows": 744,
+      "sha256": "dbae87c77d2560fe311ccd22e62dd324af35b164283242762c845adde0ef4a34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:36+00:00",
+      "rows": 720,
+      "sha256": "a2cbb351fbf67c023cf3cfcead3d09b4abb4a70f17d090dba910933e936c5f63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 35187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:36+00:00",
+      "rows": 744,
+      "sha256": "ad9eecf26d14ba2abcb94c0c84985f9b05e46a41dbc764cb800391a481ec3e45",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 35362,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:37+00:00",
+      "rows": 720,
+      "sha256": "667b774d1ca5f6e0b8bde4e4dcc6d56dab44736be12094eb873223bdad38dc09",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 37101,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:37+00:00",
+      "rows": 744,
+      "sha256": "4c206b172e9cf5a27f3db4198958a6139b5616c47815ad63210d9f9cc0a34373",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 36534,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:37+00:00",
+      "rows": 744,
+      "sha256": "5876e7600d92167b7a09e74f53105536d61d4c2f38c86aaaf5c0a21baa0e1f7c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 32863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:36+00:00",
+      "rows": 672,
+      "sha256": "60c9dd5bb7296917c120e1e477fb5ccc58dc8d1bee2ef49d64f7fd263c7454fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 35602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:37+00:00",
+      "rows": 744,
+      "sha256": "59496fa7351ce1659478ee599b0f88ca428b64e2849a2ac29a55d0adaab8a747",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 34091,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:38+00:00",
+      "rows": 720,
+      "sha256": "e5ee434f5b3e136cc29bba0c14bab395d01d951c42a0f2bc9f65ffbbaee30ab4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 36234,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:38+00:00",
+      "rows": 744,
+      "sha256": "97ecfe245f102dfc757ed9b24fc2e2dd1c61ac94e0183ceaea055d3f65aa43e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 35634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:38+00:00",
+      "rows": 720,
+      "sha256": "482b016ab23d8105f58059f11b68a2b96eae98a35233a2bdee3a4f6fbcd54725",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 37056,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:39+00:00",
+      "rows": 744,
+      "sha256": "deed468c68f886e0b1c8d87b7b3fe27d3661fd18c9c54ed7d9e867ca82ef996d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 36807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:38+00:00",
+      "rows": 744,
+      "sha256": "2e708572ec444d2661a3e9a1b9e0bee79981c9cfdbe4e8dd426a1af901e82218",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 34585,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:39+00:00",
+      "rows": 720,
+      "sha256": "5a7e8e41ec322acd10bb458d0da1ec5336af6260fd92da867f64eea14a5ba03a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 36017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:40+00:00",
+      "rows": 744,
+      "sha256": "1be71d6d2000c39ca6ea614fc4f0f45755f9ea49ea034397aeb8f2b521a3e328",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 35355,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:40+00:00",
+      "rows": 720,
+      "sha256": "9344153914f47b4ea196c29240bb985f19f2c0dead1bf9f799f0131c66b18968",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 35647,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:40+00:00",
+      "rows": 744,
+      "sha256": "805af9f8cfd7acb66da6a20d0ef1b8ac289aad619dcf124ae2e01a0f74e76d54",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:40+00:00",
+      "rows": 744,
+      "sha256": "d64b6126f823b065a83facce649303a83015c4bcc91f0984159ee953ce0d5c46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 31991,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:41+00:00",
+      "rows": 672,
+      "sha256": "81f939fe69835a2bf4aafb54dd32a163844f87478a76a0584b4219bd16d4eadf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 34510,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:41+00:00",
+      "rows": 744,
+      "sha256": "cbf369a4e332beeba36d117094c17257edfa64da18dde3e55698b03279d69980",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:41+00:00",
+      "rows": 720,
+      "sha256": "1f33389bb2b1b336db148cc68bff98d9bc4fa66a5ead3af79a142a640a794427",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34693,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:41+00:00",
+      "rows": 744,
+      "sha256": "987e5115f827f4394b6563f4dd8e96963527e6222a038040089e62c2efbf62be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:57:42+00:00",
+      "rows": 720,
+      "sha256": "419592ed8030986622af37c99a86228d8e08d2b8dff5c6e605a2ae5d07c3b4b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UNIUSDT/1h/UNIUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "UNIUSDT",
+  "total_rows": 50690
+}

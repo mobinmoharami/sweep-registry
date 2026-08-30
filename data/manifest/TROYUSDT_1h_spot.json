@@ -1,0 +1,533 @@
+{
+  "files": [
+    {
+      "bytes": 31500,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 646,
+      "sha256": "431612e89a3d815a8d39ca0d1a7763110b65ebade47459d417f083d014112607",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 33114,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 744,
+      "sha256": "4d89f2b77d3accc0d1c085ed639b0fafb7fbb97fec93fd0eef3b508cacdb944c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 31774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 690,
+      "sha256": "374ca010109a2fcfb420458321504ed6d1af7ee400d3be4e800792a10a1edc99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 33733,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 743,
+      "sha256": "bf34427d6a5eeaff74bd8ef1e6d95d47dce1578dad5ddf7113f2d1c434e59868",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 31657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 718,
+      "sha256": "07b740347304e2dfdfca3915cae1242515bc1518db00aa51ecd8debde4a67cfc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 33609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:21+00:00",
+      "rows": 744,
+      "sha256": "f52836a576b18bc63a1561b52f74866f98b28ab09078e2ee5874ad91a87fd568",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 33460,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 717,
+      "sha256": "fbacf737c03d922017475edcd0a722f04ab58956f18e0cd1285c5bf39f2b8b61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 35493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 744,
+      "sha256": "6e3449e26f038e93427cdfa88b2c5063413043095605c8755dc7d923097e47a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 35966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 744,
+      "sha256": "be336112133635f6a2e4b980ba754e49b02216b4c6bcb4b71adbb84e8199a362",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 33638,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:22+00:00",
+      "rows": 720,
+      "sha256": "75f4ac9d352626ef87027e797926526a6ffef27bd5b2a9060123aaaae8fdfc02",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 32423,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 744,
+      "sha256": "3d549c03a3c6e997fb2b4976d4243d206f7bb10cb1aba9ebfb881f55f002f04f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 32154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 719,
+      "sha256": "def80db238e52c38c0b571e097d7c3603cc182438d8cb60c0cdc13578d19a63b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 33793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:23+00:00",
+      "rows": 740,
+      "sha256": "6c85c4a3d729c03e22762935359b61b5088a53f9bef1022b6951937299af36d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 35259,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:24+00:00",
+      "rows": 744,
+      "sha256": "888d48462ec0397fc39a07c9ae703b34309e1c08545a41852ab94995116a7081",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 33803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:24+00:00",
+      "rows": 671,
+      "sha256": "a1347e8619d9eb0172313489ac32985bf0ba0c0ba96b3298649789b4f644b71b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:24+00:00",
+      "rows": 743,
+      "sha256": "a1345e9d6e9e4e0201c84876da268091411ce758eefcdbd9ca5a472653a779ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:24+00:00",
+      "rows": 715,
+      "sha256": "e5c54c1088b2be610e0dac881bfcc382414f587a45e1548788c950e2ade02b61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 36203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:25+00:00",
+      "rows": 744,
+      "sha256": "af3682e1f30ac0df7021271c734d1df9cc59619fdc678b3baf1c3c484668a853",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 34182,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:25+00:00",
+      "rows": 720,
+      "sha256": "4e5feeb5466fb5eea5a7fffe23ba165e077ffa55f7d6ce53c031c816ce81a7fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 33838,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:25+00:00",
+      "rows": 744,
+      "sha256": "72e87a9b30775328fae0ab2175c236f5b7946b00331924bef6d36210322f72ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 35681,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:25+00:00",
+      "rows": 740,
+      "sha256": "3f729b9e5f44cf8e1b28f251ab62516bd9fa1b02035734db80f7e8fb7066572c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 34961,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:26+00:00",
+      "rows": 718,
+      "sha256": "5e7dba408dde92d4027efb7d18f76b334be51aa52a47dcff469914a58ae6f1c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 37395,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:26+00:00",
+      "rows": 744,
+      "sha256": "caf9ee3b06db621172e6ca4e1e87bc986698e6fe14629c936496e87ec3fbe42e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 34699,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:26+00:00",
+      "rows": 720,
+      "sha256": "f7a6d82ce068c36654252ab30c51e2f822ef6437f8b092af949a00ca294f17e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 35584,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:27+00:00",
+      "rows": 744,
+      "sha256": "2a6699a39aad170dd0f6135fd0e3e2b0b84f518eff961a56cbdf98f723d75096",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 34687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:27+00:00",
+      "rows": 744,
+      "sha256": "79970584c7a1ad7be7d415f57a9c564a80016837a279006a1253ba4d159958df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 31082,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:27+00:00",
+      "rows": 672,
+      "sha256": "73c4fa029dcb50d5ca38fff3185e90469aa2827bfc8b275e2b117181461f58f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:27+00:00",
+      "rows": 744,
+      "sha256": "c318d825ea49655695642e1d6e7720d712901ed573b3ee8dfb19cce48ee84de8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34802,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 720,
+      "sha256": "e83097156ad38ef6bc32a3021dc7caa341a3cb2c4aff3f2bb7bfdb9a1d5d0966",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 35447,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 744,
+      "sha256": "6f64def97c8818f0a8c16ba779aada832c8e858e7e9521eb3f33a6677658dd84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 33396,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 720,
+      "sha256": "9ea82cec809d6a6661d2fbdde16231f612b6bc9b2046f7067da10b266405ff8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 34262,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 744,
+      "sha256": "1b6facd07383ac51af8aed5d95a9fc17f3d7899d2e757f8ef47ae563229986d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 33543,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 744,
+      "sha256": "6e4ad220c7bb7ee650b09390ed77cf308d7ee4ed6e3bde94a74fd2511f33aca0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31713,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:28+00:00",
+      "rows": 720,
+      "sha256": "0299c104a2a04f9d003503dc3f2e8ae1ed6d29ec28b0690d622c3b7f053a81c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31963,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:29+00:00",
+      "rows": 744,
+      "sha256": "aa9d92727fe5ebb2728b97e8ce1a353141bbfdeec9dc570251978970ad58d511",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:30+00:00",
+      "rows": 720,
+      "sha256": "317ae931eb8a7c603bd9cfe4a7d2b9e25768937da1a97264b22b7b43bad54af3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31291,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:29+00:00",
+      "rows": 744,
+      "sha256": "9c1c9029457b4af9f38e1db52c9d9d3be573b9c8d5c5ec5e785b5622a69572d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32475,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:30+00:00",
+      "rows": 744,
+      "sha256": "7a3f4b6ddbf2dc32e0461420ca8d1aad487c6bcc5dbad7888d500f0a12c31718",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:30+00:00",
+      "rows": 672,
+      "sha256": "e7b4c1954d6c526228999d0ad017aca021ab766501a0db20789422eb6b15d023",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 34606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:30+00:00",
+      "rows": 743,
+      "sha256": "9dd6b1b457d215b021270944ab729785372f158f825c572451e1b30e3b26cbfe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31814,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:31+00:00",
+      "rows": 720,
+      "sha256": "9814fc316e821eb3d85253c55905bdf1095c743e8d3fb297765a998bacda67c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:31+00:00",
+      "rows": 744,
+      "sha256": "4e8367aef5c4fc3be8b1f664a106990cd85cdc72532fcccff8e3e1c78d5bcb6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30332,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:31+00:00",
+      "rows": 720,
+      "sha256": "160b400d966635a5a0140a90351757e22b2eb80f1c572700d18f1b3ece6279d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 34350,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:32+00:00",
+      "rows": 744,
+      "sha256": "a84ae284bd1f4ccf463228f8f41f7856c6143083521ecab17d639d438f7b1562",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 32098,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:32+00:00",
+      "rows": 744,
+      "sha256": "d2985b3f6c5321d6484c3a5f58f471bf5fb4f7b17408fd968a98e757a266eb64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 30374,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:32+00:00",
+      "rows": 720,
+      "sha256": "d5090d2bfc556d4a7439b41c968c75071db610a5dfb9c55637b918bdff85c0fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:32+00:00",
+      "rows": 744,
+      "sha256": "df6cd608baff272ffc6d46225bb16b2f55fa49cc2ea9c6fe0cc851736e31611a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 32013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:32+00:00",
+      "rows": 720,
+      "sha256": "670d5ab7da8039fe2e0d951668a84f1c1f8f6d49412427ddc78a85307d8b9038",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34124,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:33+00:00",
+      "rows": 744,
+      "sha256": "1ddb2df7e6927bc0a66e5074104f12624ed37d169ae3dcee4879bde3f9b3e75b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33262,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:33+00:00",
+      "rows": 744,
+      "sha256": "2abce7355ab45d2dc51ba0546408abc8257db30f8db9f6257c542bb8828be07a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 31413,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:33+00:00",
+      "rows": 696,
+      "sha256": "1d0397a3300410a374d974d062cdd13f613c70c832afa33ce361d8b1e8e325ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35301,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:34+00:00",
+      "rows": 744,
+      "sha256": "8ac21068347a849fe553fbe7e92274490302001d9ac545eef685494e8f8247f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:34+00:00",
+      "rows": 720,
+      "sha256": "8c4d6fe7b59d5762dbdb5e20606cf062131a1ecda233aa736d81aad2f00fb4e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33953,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:34+00:00",
+      "rows": 744,
+      "sha256": "df885462837e90e5e1f2a6a9b9779a603164dc3f37ec36ae2556bcbea76f5ff9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32700,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:34+00:00",
+      "rows": 720,
+      "sha256": "24a5e0a00a27b2014459dec312d6edad843c40a47eedc4e81b845007260f13f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33086,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:34+00:00",
+      "rows": 744,
+      "sha256": "a4adf7cd946c8ccd7400866c30bd2be7aed50150a9b76d604326023328422bc8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33344,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:35+00:00",
+      "rows": 744,
+      "sha256": "e704f568829aa6b55254b05cba3c5e5e6cf1fb04ee727cd915347a9ad39159c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32114,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:35+00:00",
+      "rows": 720,
+      "sha256": "4c870a94cb831033d855a8c2ef07c82d48b6f2c647da32cbca10a01153e964cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34658,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:35+00:00",
+      "rows": 744,
+      "sha256": "89ff3b6473b127dcc42c8d6d48c69e4d639a7b6dc4cf6e365a6f2e384a23c1e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 36820,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:36+00:00",
+      "rows": 720,
+      "sha256": "da6f4894ab8fe505ad4cb0aac45b5e50057c46cc34088d12d521134525c6eabc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 37216,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:36+00:00",
+      "rows": 744,
+      "sha256": "3a5a777a20e114390784e56c20361a3c181a24bb63ee1b638a484a3ab81dd65d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 36502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:36+00:00",
+      "rows": 744,
+      "sha256": "c830a645c631fc4a4ca052d7b8f9b702331af5ca36b6329253561e058f41e491",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31987,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:37+00:00",
+      "rows": 672,
+      "sha256": "395fc7486779a202080f8b9da43b47a42b18c82a95cf0cca935adf5f3743df74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34136,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:37+00:00",
+      "rows": 744,
+      "sha256": "8da0074deaa2edb25fa9e62c3ef13311f046f47862ed4bce2bc77dda39d64e85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 17274,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:55:36+00:00",
+      "rows": 363,
+      "sha256": "0ed3bee0a0e30489f1593512f60d730a85664c577247bb0f3d8006e078bcdacc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TROYUSDT/1h/TROYUSDT-1h-2025-04.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "TROYUSDT",
+  "total_rows": 46986
+}

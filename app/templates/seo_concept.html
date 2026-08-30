@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}{{ c.title }}{% endblock %}
+{% block desc %}{{ c.question }}{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{
+ "@type":"Question","name":"{{ c.question }}",
+ "acceptedAnswer":{"@type":"Answer","text":"{{ c.body[0]|replace('"','') }}"}}]}
+</script>
+{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_learn_index') }}">&larr; Method notes</a>
+  <h1 class="glow">{{ c.title }}</h1>
+  <p class="lede">{{ c.question }}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  {% for para in c.body %}
+  <p style="font-size:17px;line-height:1.7;margin:0 0 20px;max-width:66ch">{{ para }}</p>
+  {% endfor %}
+  {% if related %}
+  <div class="block" style="margin-top:40px">
+    <p class="tag">Related</p>
+    {% for r in related %}<p><a href="{{ url_for('seo_concept', cslug=r.slug) }}"
+       style="color:var(--seal);text-decoration:none">{{ r.title }} &rarr;</a></p>{% endfor %}
+  </div>
+  {% endif %}
+</section>
+</div>
+{% endblock %}

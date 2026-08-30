@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24016,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:48:16+00:00",
+      "rows": 587,
+      "sha256": "532ae10e4c3581b0fe4e980556231ae2fe6b759832bc8ed42743949594d37626",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/COINBUSDT/1h/COINBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "COINBUSDT",
+  "total_rows": 587
+}

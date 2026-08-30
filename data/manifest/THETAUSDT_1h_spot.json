@@ -1,0 +1,709 @@
+{
+  "files": [
+    {
+      "bytes": 22087,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 500,
+      "sha256": "08039bd0c6f02a640887a37fc4155f99710e27feb40a78bc275a81693a520c05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 33467,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 734,
+      "sha256": "c55cd9c9e43342e70590a86a36fe702836ecb9fe7dce22df7220cf51577083ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 32532,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 720,
+      "sha256": "d9987a58e4d011f1e2c8a79cbd3ed7e2a32db519df1e0e4f83b73c5f4e7b3da5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 32574,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 744,
+      "sha256": "7f10af6f95b7039a29a2ddcdb20a4d1b2c41f8811c3511e7911fcd7d43ed2500",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 31157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 736,
+      "sha256": "504273e5b0d445a07c16c8416b2518e77d8a813637f396f533cbe766f545aa3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 28889,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:13+00:00",
+      "rows": 720,
+      "sha256": "5c29c732ee62f36ce6ad6c99e9fcf522b940ac45a8bddfc0cf7e2cce208ea89e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 31254,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:14+00:00",
+      "rows": 744,
+      "sha256": "a8af0137b539db4c45550fbe0f23ffcb1113ea2c027b136044efd10be47fe1dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 29197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:14+00:00",
+      "rows": 716,
+      "sha256": "e407bc4967af4cab223d935a67e692cc7e14c567d7093a5c03e60bef854c6a30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 32156,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:14+00:00",
+      "rows": 744,
+      "sha256": "3116a664f48ded525828f8c89a13d8a66a878c2736699c46688a4deee611a7de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 31903,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:15+00:00",
+      "rows": 744,
+      "sha256": "05d159ff928465dfe81bfe9aac0b22267d2751316217f21db3ea096de5c514ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 31358,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:15+00:00",
+      "rows": 690,
+      "sha256": "360ce7cb3f54ce83674d22c514d823530265fe64bb524a9c0ff0f9298c52ab34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 33383,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:15+00:00",
+      "rows": 743,
+      "sha256": "7295f34365e984c646ea005727a1a738f77982f5eed2592ec75ad7f637db36b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 31118,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:16+00:00",
+      "rows": 718,
+      "sha256": "00e8978910486dc455bc59e36c14af1970bbeebd0cf1865e603b56a08a6b0919",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 35820,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:16+00:00",
+      "rows": 744,
+      "sha256": "0981376edb35c033ad285c921b809e2747a597e506b9d822090f7df5dcaba6ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 34520,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:16+00:00",
+      "rows": 717,
+      "sha256": "1914e5d89d5565c21fe0e404c74d15b5beb671482f9b278922cf7aef10d2d10d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 35159,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:16+00:00",
+      "rows": 744,
+      "sha256": "4b0b4436fc06a9f10ff5f44ad5f9c872d3da248cee461ea3402bcdf1a6ec3c1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 37045,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:16+00:00",
+      "rows": 744,
+      "sha256": "0d2eddd69acc7889698e351e905cca67e9d613f0766d8b68d2f668f1f12db7b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 35776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:17+00:00",
+      "rows": 720,
+      "sha256": "b5c0e7738bcfa10bac85543eca99f4d804140e68afbe5b85090657f6b2619d33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 36555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:18+00:00",
+      "rows": 744,
+      "sha256": "7cb44d994baf3b7e721107eb918bfcac1d25583617410ce0446bf5e287051e01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 35460,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:18+00:00",
+      "rows": 719,
+      "sha256": "3665768daf03a8451cf51c56c292f11b8792a00175749373a50b66c6afe5e5bd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 37780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:18+00:00",
+      "rows": 740,
+      "sha256": "1336ff0dfccf481fc1eeb9f90f2734c28b8351133074ac7b6fc74cba01c9e525",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 38688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:18+00:00",
+      "rows": 744,
+      "sha256": "a2115ed9f4f568ac4289fe116c5b18678044577d75c063b271918768a2faaf6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 35212,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:18+00:00",
+      "rows": 671,
+      "sha256": "a64706880ac6b96b62c8223644d7e435ae489aef09a60e184d599907213981fa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 40470,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:19+00:00",
+      "rows": 743,
+      "sha256": "dd1e0ed6dd2ee1fb0729b7fc4686d8e7cc437686d7041e3d6069388578a37587",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:19+00:00",
+      "rows": 715,
+      "sha256": "829454ff24581eab66834944001277f42219d58b6175b0527c088aa957c144f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:19+00:00",
+      "rows": 744,
+      "sha256": "43d0da5fd341f5764a1c9ecc3d8a6ff30ca7ec2c38252189999e7548a2bfe841",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 37388,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:19+00:00",
+      "rows": 720,
+      "sha256": "0e9297f1af7bd694a307d448bfe9b88a24eaf44633218e2aa90fec32a46b3e77",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 38015,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:20+00:00",
+      "rows": 744,
+      "sha256": "841e0c309a15fd59f462cee336186e4ea747a8c43324134327346ba42e34a302",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 37444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:20+00:00",
+      "rows": 740,
+      "sha256": "f34c74e45e65ccefcdf2d9a71ed0421335a396688aa710692e08834ee99d8305",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 33924,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:20+00:00",
+      "rows": 718,
+      "sha256": "e7606420b842d7083da8fbbe38025f497e2651b1717c8c0db5555278016684c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 34820,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:21+00:00",
+      "rows": 744,
+      "sha256": "78c412d517746f847dec16f4d2b9a7d3a87a419f09af818b07c2ba91c6b71027",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 33568,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:21+00:00",
+      "rows": 720,
+      "sha256": "9162a3e3a1b33fdb9731e90ef9538e0f5a441c9ac3d7e55b4d14cfbbab09bf49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 34371,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:21+00:00",
+      "rows": 744,
+      "sha256": "f62cc5ad04495ff5d1cde5d3e8bb719500a84b427d196a9855e45663b8859775",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 34146,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:21+00:00",
+      "rows": 744,
+      "sha256": "2be3979318ab1a60c5d50b199288296524ca1eedd543840f82d9762c6b47bbd7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 30892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:21+00:00",
+      "rows": 672,
+      "sha256": "6e1a8f55bbf0f9e2bbf29206b2e72d565da91fc345f920fdea0bca6259e94070",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 33420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:22+00:00",
+      "rows": 744,
+      "sha256": "cbc682af09222c6ac75c6d7e64beada596c33640de6de8f76b4888dab93e4a15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32268,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:22+00:00",
+      "rows": 720,
+      "sha256": "695a42adba88eb70520ab0297ad6e55b94ed78197a7f912a1246502a3ce4d9c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 33151,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:23+00:00",
+      "rows": 744,
+      "sha256": "27173fe28cc32c1da6a56e334f390535c8f045afb903c75495528312add6cd65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31640,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:23+00:00",
+      "rows": 720,
+      "sha256": "51717503fa09d46a47c341f80453ff115cdd54857eeb88b4f2dc1fcd33f7e208",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31771,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:23+00:00",
+      "rows": 744,
+      "sha256": "816a12008629a87ded0673d95a818e082bf876c654e28bec695c3634ba1ee984",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31966,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:23+00:00",
+      "rows": 744,
+      "sha256": "242880733ff986219e19a6143a8edc2afd8f94c90e378d0fac7d2482d210462c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29950,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:23+00:00",
+      "rows": 720,
+      "sha256": "1e7c8b52a9d294c6773de98fbf0d9c3efd5b2ad23bb86ccf3790c66ee60eb394",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 30220,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:24+00:00",
+      "rows": 744,
+      "sha256": "b4f0b2c9f8a4f2f6f56a69ba9cdd9c83cee2536d8e9281a8cf62762df3d89bbf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30307,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:24+00:00",
+      "rows": 720,
+      "sha256": "2f3d1214cfa86d1d0068bb35cf85660e7d6652fb32178f9f453b7a15fe4cdf2b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 29518,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:25+00:00",
+      "rows": 744,
+      "sha256": "15f28a3229ac59f3c234f73a96db4d22cd35f1f563b936c8487f0a960325b782",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:25+00:00",
+      "rows": 744,
+      "sha256": "34b80e0bf42035e7d6669d62c870e72db13b8a1b8f0b5d5f912c9fcce3513482",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:24+00:00",
+      "rows": 672,
+      "sha256": "489e0a15fa6f2c902b79b83b70faa8c77af2f015de12d6396efa2443c1671041",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 30767,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:25+00:00",
+      "rows": 743,
+      "sha256": "8da70e38ae40b82f734807557161abe5e09286c56d1f8f7ef49d15f08e218a11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:26+00:00",
+      "rows": 720,
+      "sha256": "3ce9cb854c5692d267ef34374c57a7868a4b8c14acac3974794f25441dda40ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29326,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:26+00:00",
+      "rows": 744,
+      "sha256": "c806b81bc53f99600b5eb16b3490984b99804fdff8cf2e0adaee45fc6af87ecb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28819,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:26+00:00",
+      "rows": 720,
+      "sha256": "9934a96fc08cf74a2b08cbb7039ba7a65b6846cfb63d3b4727d76cfca17ac4fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30055,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:26+00:00",
+      "rows": 744,
+      "sha256": "458328848b6c6afd38c9241a43ee3adff0b44e1ff374e2b1502fa26f559005b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29149,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:27+00:00",
+      "rows": 744,
+      "sha256": "cdc5be75f10eff726a90beffac5938801276d8f5b7ecba79997f44eb9b73105d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28111,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:27+00:00",
+      "rows": 720,
+      "sha256": "1387565f59543b3b76edb15ef070bf611e2579e66d2532dc2d7a8c0363f53a46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:27+00:00",
+      "rows": 744,
+      "sha256": "f7ed4025e137e07d1aebf61e9b21c8bf071911244d0a691d2c7c72a129a4f4e3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:28+00:00",
+      "rows": 720,
+      "sha256": "9ce3a484861de87585190b0e5e0fb5b64596f7fe5d5fa619b733e8f317ab980d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:28+00:00",
+      "rows": 744,
+      "sha256": "f197e6f20d53e6378c4e7a4c6a25523ad0ab88e65c6152f0f2e2a9d7e828ad08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:28+00:00",
+      "rows": 744,
+      "sha256": "1eb94cb40c95ff4173d53195cc495c1a62a104a018e7b9662dc9c94a38990980",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29528,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:28+00:00",
+      "rows": 696,
+      "sha256": "67e50d9c278089de26a498e8da9f23d05e78626dfa939ff4d20d97aed0e929a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 34020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:29+00:00",
+      "rows": 744,
+      "sha256": "02ca91b52bf6176760a6f4d958ed556b5900196111862ef3e32d0990e614f981",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:29+00:00",
+      "rows": 720,
+      "sha256": "8f3bab22f0635bb404dc68a6d1684b01095a1aafcdf28a38f0df5e32c0c055bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32013,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:29+00:00",
+      "rows": 744,
+      "sha256": "497a25f3f7fee9fb86d8e18eaa0c6dd9bf635530754a8f2fc5e779f5d8f60f3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:29+00:00",
+      "rows": 720,
+      "sha256": "e61990d8a21e1dbb8cb2916f1fe6df7a2d00bf652dd0f8e62788260cc6a1baa7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:29+00:00",
+      "rows": 744,
+      "sha256": "5b96027d64dc196dd5b3c1042facc68d424b2604929d39002fa4fb94d46fcced",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:30+00:00",
+      "rows": 744,
+      "sha256": "ebd74daa089659665e54eb50ab8738de3ab6c0208254ca261c4b0f04b64ea4f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:30+00:00",
+      "rows": 720,
+      "sha256": "758e6756639e979df07d1622958ea6b2da6c2f7764172602032236473950f4db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:30+00:00",
+      "rows": 744,
+      "sha256": "858262aabbe6747daaf3c6fe01f198a8567ad7d5b72acf54cb4c44f804082139",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:31+00:00",
+      "rows": 720,
+      "sha256": "df449e4ae28d0e8db51e0ffc68e6bef7230035b34c7ddabc6cba1d7112e1fd4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33427,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:31+00:00",
+      "rows": 744,
+      "sha256": "941f9816324d3a790890b058e12f598c75fcc71339d40c9689e7014c7d979054",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:31+00:00",
+      "rows": 744,
+      "sha256": "4e7f4679941f84533e71b3cae3f803c826e46c798d02bcf655de348096537b2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29082,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:31+00:00",
+      "rows": 672,
+      "sha256": "0a4605f62e6a02c18992800631aa1cbc7377d685d06c24f3c7e3b60864382d87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31534,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:32+00:00",
+      "rows": 744,
+      "sha256": "9d04661fce6c43f86e07fa5b5805708244c6267809af85e87dfca38e69c888ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30504,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:32+00:00",
+      "rows": 720,
+      "sha256": "a65921e1bcdc81899e837c4b71b089b0212322beb174803e2b5c79326e0d851e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32032,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:33+00:00",
+      "rows": 744,
+      "sha256": "78572529820ae050bada9d1cb2596b0a945d151d4870b5a07c87241e1ba1f227",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:32+00:00",
+      "rows": 720,
+      "sha256": "dc0c06ad2ae84e608372410ec5aaa17bedf6070bfba6b5cbc3e5f7a83b298eca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31359,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:33+00:00",
+      "rows": 744,
+      "sha256": "7ed8807b2177593d2dac01c51b55c61e026e8954c5b0e4a2bb9eae8687091e1b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:33+00:00",
+      "rows": 744,
+      "sha256": "3671f4b1649c28e5559abfbfe4417d439bdc43e108fa35c586e9bd9c54b03919",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:33+00:00",
+      "rows": 720,
+      "sha256": "85ad97a6ba3c31bfb960b530e5aa6091081a6f188a06add58acd200316fc1e40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30789,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:33+00:00",
+      "rows": 744,
+      "sha256": "c9a9e8bad0d60ccdb52d318b053334545f532c6f99e58735e01b43a62b063c97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29423,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:34+00:00",
+      "rows": 720,
+      "sha256": "d1e61b97d6bbdc2373068ef1bf2a05df364472605425104d8660d12cb328dbbc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29442,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:34+00:00",
+      "rows": 744,
+      "sha256": "02e7c9888feb0272bf6dd42fd4796e80b2f3d7afedaff9c5bc5e3b812663c549",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29649,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:35+00:00",
+      "rows": 744,
+      "sha256": "3e78a12ce48a51ab889b2c2f84bedbc4909d6fea23df49b6e5fce463111dc315",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 26054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:34+00:00",
+      "rows": 672,
+      "sha256": "608dd152562fb3c8cf71aed5e016d74d402ed19ea5a4946d3206b35bf5229445",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 27994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:35+00:00",
+      "rows": 744,
+      "sha256": "bf311ede344bbb1592d09e6166b8c96b009e41620f4b793605b5f805a3169d8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 28240,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:35+00:00",
+      "rows": 720,
+      "sha256": "f25d63bbad2043370647e28d5484da030164775ac7443d882ade844992c76410",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 28468,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:35+00:00",
+      "rows": 744,
+      "sha256": "07732742afb1d60d3852ff9914b17af81df78d67593497cee8e012d69fcd3e19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:53:36+00:00",
+      "rows": 720,
+      "sha256": "a29c90526521f7c6cae169e5c67d83e5f534fb8fd0500210d4cd545ab672bebc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/THETAUSDT/1h/THETAUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "THETAUSDT",
+  "total_rows": 63279
+}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Submitted{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">In the queue.</h1>
+  <p class="lede">{{ s.name }} is submitted for review. Keep this link — it is
+  the only way back to your submission.</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  <div class="token">{{ url_for('submitted', token=s.token, _external=True) }}</div>
+  <div class="block" style="margin-top:34px">
+    <p class="tag">What happens next</p>
+    <p>The definition is checked for one thing only: whether it can be
+    implemented without human judgement. If it can, it is turned into a
+    pre-registration, hashed, timestamped onto Bitcoin, and run.</p>
+    <p>The result is published either way. A strategy that fails is exactly as
+    useful to this registry as one that passes — that is the whole point of it.</p>
+  </div>
+  <div class="block">
+    <p class="tag">Your submission</p>
+    <p><b>{{ s.family }}</b> &middot; {{ s.market }} &middot;
+       <span class="pill {{ s.status }}">{{ s.status }}</span></p>
+    <p style="white-space:pre-wrap">{{ s.definition }}</p>
+    {% if params %}<p class="mono" style="font-size:13px">
+      {% for k, v in params.items() %}{{ k }} = {{ v|join(', ') }}<br>{% endfor %}</p>{% endif %}
+    {% if s.reviewer_note %}<p style="color:var(--gold)">Reviewer: {{ s.reviewer_note }}</p>{% endif %}
+    {% if s.sweep_id %}<p><a href="{{ url_for('record', sweep_id=s.sweep_id) }}"
+       style="color:var(--seal)">View the published record &rarr;</a></p>{% endif %}
+  </div>
+</section>
+</div>
+{% endblock %}

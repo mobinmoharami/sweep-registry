@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 14789,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:12+00:00",
+      "rows": 395,
+      "sha256": "f96caf357e3162fd75b76cc9ca42a52a3afb41e17a969f5d761d11a70a2408fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOKBUSDT/1h/NOKBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NOKBUSDT",
+  "total_rows": 395
+}

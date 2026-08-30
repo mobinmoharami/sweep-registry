@@ -1,0 +1,653 @@
+{
+  "files": [
+    {
+      "bytes": 26321,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:29+00:00",
+      "rows": 582,
+      "sha256": "471ceedbc9dbe0d6968f3f3ea8a28d967a5062b787b4d4a851a0c8f1a6085d82",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 32242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:29+00:00",
+      "rows": 744,
+      "sha256": "25b72de29d2040cc9f8045e915955d07b45b55fd0f862c7466d51d1b809887da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 32108,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:29+00:00",
+      "rows": 744,
+      "sha256": "99803cbbd59f9fbab35390c2cb966f1a050bdddd425acdf398b0b591e7f8bf49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 31126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:30+00:00",
+      "rows": 690,
+      "sha256": "8b09a4d55567a3c97126af704aa609bc3703f1dbc48ecf4f78097fb2be4a4a5e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 32261,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:30+00:00",
+      "rows": 743,
+      "sha256": "cf25ecf552b18aa25f07bb1fc91ae3b497a59c4fc79731e0dfbb3870769ce502",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 30595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:30+00:00",
+      "rows": 718,
+      "sha256": "f3fdd9a5b68401425b90045924eddc9c7b9dc43110cd3227a13b9aceba657e3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 32576,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:30+00:00",
+      "rows": 744,
+      "sha256": "2d3b6a29db0028ceaf314066ad7a2ccd03fe9b4bdc7cd43133fa57b3c75c591a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 31341,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:30+00:00",
+      "rows": 717,
+      "sha256": "3b89092f8be23f659a5471ff26d0f3c357edef18e97879d246085d47e672939b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 34376,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:31+00:00",
+      "rows": 744,
+      "sha256": "4a15da8b3502d6779038239603406116ecbed179f874747f2d4b6023138c012a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 35387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:31+00:00",
+      "rows": 744,
+      "sha256": "2dfdcd4df61bedb9e2421826bb3049150c432c5bfec1afe9ef80b073ceec3d99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 33876,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:31+00:00",
+      "rows": 720,
+      "sha256": "9a92a4d4ed6ceaf3b31235de89c9ab1f6efc6251a2d66222cf5aa9f44524c77b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 32735,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:31+00:00",
+      "rows": 744,
+      "sha256": "a7de35aff3660993890e4ffc632d54b2e8b33969fe0454be157014460d35920e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 33341,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:31+00:00",
+      "rows": 719,
+      "sha256": "8f69f818c4c2a623fcad19b85e932a0b7ede1d57546680e64e912b88c0e14395",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 34565,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:32+00:00",
+      "rows": 740,
+      "sha256": "cf275e8a62d9ce24abeacb92383da9ce3d183bfc1a8bfe4795038752dc3d5a87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34904,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:32+00:00",
+      "rows": 744,
+      "sha256": "03c559016064f1170bce854c1036ed8795fd45d24b20536390c81bc97d0597f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32294,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:32+00:00",
+      "rows": 671,
+      "sha256": "6ebcb9dd7422ddf66a2ab1409b2f33576c90524397e118b664dd3572e6f1f130",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 37163,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:33+00:00",
+      "rows": 743,
+      "sha256": "01f10e55faf118cf7d8ad3ee665472c46dadd55533ca90b8a710c83299f828ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 35899,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:33+00:00",
+      "rows": 715,
+      "sha256": "4374c1ced26d2c9a3e486269d267f39b8186fbc0fc289b49a8c20ae86ef22d39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 36590,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:33+00:00",
+      "rows": 744,
+      "sha256": "d9b19831a242dfe36db1f862d4a9fee6249396f4dde3ec9306c8e182622a2a61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 34221,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:33+00:00",
+      "rows": 720,
+      "sha256": "9021e3eabcb88f8f9535f5e60d592d14aaf28a2e204fa2bddc1b3a5c04cb1e29",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 34630,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:33+00:00",
+      "rows": 744,
+      "sha256": "a15ee47cab37691cb5de85c62b9fe85d8b4113e5f6daf61451fe1cc8b9939830",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 36340,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:34+00:00",
+      "rows": 740,
+      "sha256": "7c0d44331b7ca30fc7d50c6ddacf8ae6b1211b76812ad2c55728e0b0f1c371e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 35869,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:34+00:00",
+      "rows": 718,
+      "sha256": "544dbabce0b4a56b5ff103f0d3985e47d86c4fb1b6554dd7577dcdc9e850614e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 37763,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:34+00:00",
+      "rows": 744,
+      "sha256": "9d6f087aa601ca631acb4b0821900193de9195858a12a9cd6cdce95c483efca4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 37004,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:35+00:00",
+      "rows": 720,
+      "sha256": "b708d0f94aa575073294ed056d5bfa0d7f57bdbe8130f48d6f65ed982887ce6c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 36553,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:35+00:00",
+      "rows": 744,
+      "sha256": "890c7fca3e159b6052ca9f9a17a74b2c347ee1652038f4de8e1f12a1d287a600",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 35446,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:34+00:00",
+      "rows": 744,
+      "sha256": "c89fe9482103d51f05eb1664e82f4bcd586908d220e3efdd07e98c9d33f00e3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32916,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:35+00:00",
+      "rows": 672,
+      "sha256": "81e45d49714760b4d998e86f366eb23a2dae3164823376b967be3df7afd52eca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 35812,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 744,
+      "sha256": "e24647f5b37cb9b3442d3707543811cbeb85f25a93fb1ff7fd4d0a0fb9f3bc37",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34616,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 720,
+      "sha256": "64a23e1322026cc8489209370bd1b0d667236398ab45fcd695376e96376becee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 35824,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 744,
+      "sha256": "6267a354a555ad5ded81d67ac6f49886a81cc969aff698c3fabdd191c915deaa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 34428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 720,
+      "sha256": "e43cd7d0caa057ac2c8ac3d34fb1b4c0b01242e5ccde6a1cd92d67a259fa16c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 35024,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 744,
+      "sha256": "393a18fb99c664fa8305398b6a7010639f615f43a709b13715cb7ffa9454f3eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 34819,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:36+00:00",
+      "rows": 744,
+      "sha256": "f42515ba762332c2895c85c53a8eec5290f1452d439518ffa844e5b2f389de96",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 33115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:37+00:00",
+      "rows": 720,
+      "sha256": "7536c420ae334614e965449bae642fc8b24eaff5d0a399ff1752faa9341326fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 33918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:38+00:00",
+      "rows": 744,
+      "sha256": "fcc9bbb0dae3a58806a931b5df3e7f4e47fb8719cead62adafc6f2a85a1bf464",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 33075,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:37+00:00",
+      "rows": 720,
+      "sha256": "c13ff1aad220192571ae48106693e083cdc04cb37431fd60bdc00e877bc6c277",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 32173,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:38+00:00",
+      "rows": 744,
+      "sha256": "6e09e367e3f1b64530a96e205389f2ced06fcbe175b57e04cc3f6f9953827cef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 33530,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:37+00:00",
+      "rows": 744,
+      "sha256": "24dba8336c62b430c26d138cbdd9b7f11985b79a67bbffeb3532720d714a5976",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 31782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:38+00:00",
+      "rows": 672,
+      "sha256": "db942efc0186babc2ed36bb9a8e931613ffffeffd16fe93981b3a1bebcdd43a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 35197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:38+00:00",
+      "rows": 743,
+      "sha256": "2e4b346cf72fd4c0060e0700987864fc4f03fbfcdd597709af4e5bd4a7661f80",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 33781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:38+00:00",
+      "rows": 720,
+      "sha256": "f66875a42e371e3482892546bcc322dff966a333e01dd4ec0450c933c2f34144",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 36932,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:39+00:00",
+      "rows": 744,
+      "sha256": "1d862a9b863884232961d605de6176b3f8c6b39e365d554bd3133454cbe3f9ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 35364,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:39+00:00",
+      "rows": 720,
+      "sha256": "294990042a7a322d983d92d02fabaeafacd0864ef0b572abd11d2338719165cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 35160,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:40+00:00",
+      "rows": 744,
+      "sha256": "e241927aa779efe75d46df64be3b88274169e2dc31824ed895b41c3182c35662",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34674,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:39+00:00",
+      "rows": 744,
+      "sha256": "25d25cd3821060bd581e976061a54ddd00b33049ee3a1c4102bddd71af7cb6ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 33335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:40+00:00",
+      "rows": 720,
+      "sha256": "2dadc3bacbd5672b331efea437af21d25764fd87ea17d4741cb7cd2118909238",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 33742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:40+00:00",
+      "rows": 744,
+      "sha256": "ddf183fb2af814076d2a4a895ea0341c048151e89b661113aeccafa44c6269c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 34122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:40+00:00",
+      "rows": 720,
+      "sha256": "442eafaf32f70f3ca2d6480ffe0340263f27678d74dd0126442d1a2344ed1956",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 35365,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:40+00:00",
+      "rows": 744,
+      "sha256": "b21e4cd0608547e9cb74b0e99260a6ccfbe5f98a8bde0956c8d6347ec236f7ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 35870,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:41+00:00",
+      "rows": 744,
+      "sha256": "fcb3fdcd04c02f0948d91f2b9951736679d4d785b70b4dc650cadae13f2bc946",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 33057,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:41+00:00",
+      "rows": 696,
+      "sha256": "e3ca494daf3f974cb3c6a8411160c37641a3ee1d75d331d72b999d18b2bfd799",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 37000,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:42+00:00",
+      "rows": 744,
+      "sha256": "796f5e34da2497ef726963358dcad3fde990703fdd28cb14676f1fb2b23c7262",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35010,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:42+00:00",
+      "rows": 720,
+      "sha256": "b616dfca32b88d7e477518f3a8e76df215c90d0af4ded115bae7f03a4994661e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 35064,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:42+00:00",
+      "rows": 744,
+      "sha256": "9f23b0445e95cb324be2094590d87d38d9b8022451462319ec0837305b3271a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 33599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:42+00:00",
+      "rows": 720,
+      "sha256": "be115688fdcf33527004251cd31b98c28091c14bfb31613e43da26a09aa08644",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 34191,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:43+00:00",
+      "rows": 744,
+      "sha256": "b33a9abf5ca06a67ff3f22a7a357d8f34f366c68d9fc9d9b402f66a10d3b473b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34725,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:42+00:00",
+      "rows": 744,
+      "sha256": "b348085ae13e2f54bb8cc9a6dbe3bd3963e1dce28c93b11c1b181468ebfe8d7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:43+00:00",
+      "rows": 720,
+      "sha256": "2d466d8081e36d6d3038a15123f121c2afcfbe034aaf0b1e2deb3e3b3147c890",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34990,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:43+00:00",
+      "rows": 744,
+      "sha256": "b358bbecf8b4b96ca2120902783029479e0081755e0e467cfc2dff4eef9e14af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 34881,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:44+00:00",
+      "rows": 720,
+      "sha256": "7913502e06355cb888ae037bc61b5b692ec746d66a238ff1ba0751c20449bd23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35756,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:44+00:00",
+      "rows": 744,
+      "sha256": "b298c279284ad076581b64527a34333c5df47e61a56d69537c81847032c7ac4a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34654,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:44+00:00",
+      "rows": 744,
+      "sha256": "1bdfbedbd4dd01a7ab3c410fd905af698e563cf5ebdae05462be29c5440dcc23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 32399,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:45+00:00",
+      "rows": 672,
+      "sha256": "e78705fe0e52773a11c5924e46f685f2ce7fee160a6f93d6630c491fb6110307",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:45+00:00",
+      "rows": 744,
+      "sha256": "9b3d80a9343192d75a0079a2586fe43e4c71291888aba3a704d2c48e732b2102",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 33205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:44+00:00",
+      "rows": 720,
+      "sha256": "e7b86907ab57377e1a99407bffead364493aa88a94f8d6431c1ab061e196e2df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 34270,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:45+00:00",
+      "rows": 744,
+      "sha256": "5e58bfca437454149c5628c99ac13630dbb380ec587bea205aece49724ca8b14",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32277,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:45+00:00",
+      "rows": 720,
+      "sha256": "e248e95bda7703d321705f22e39834e0967fb0212024d7621006f1ad7be82e00",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34457,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:45+00:00",
+      "rows": 744,
+      "sha256": "d8b5024efc60c731fc93397542dcc920425c5a079cf8c2cf577ba5cba2080e99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33607,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:46+00:00",
+      "rows": 744,
+      "sha256": "d24215c874cef1cfd45d3f68610e09fd4b341d29f9e4f4a00bd34939e308c168",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32169,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:46+00:00",
+      "rows": 720,
+      "sha256": "71a2cfac460563bd20486ad77406a48c2979ab368671e7b2409c1cadf6da6612",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33977,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:46+00:00",
+      "rows": 744,
+      "sha256": "e5c32216f18de3abd04a97161ea90c555fe372e4af9978a92ea43670a3ae0490",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31760,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:47+00:00",
+      "rows": 720,
+      "sha256": "4ac265d6faeef14a030f51c72b0a83b3f62987539c57be6778bd307e65bd06a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31492,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:46+00:00",
+      "rows": 744,
+      "sha256": "c28961a237efa21ab22303024265db3e302ecbfb8b1dbf249101c2dea563da97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:46+00:00",
+      "rows": 744,
+      "sha256": "1b109bce94c99f93d3f6c2ed16fe9bef7a8eb17370b90983e3316c5e8ac2ef0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:48+00:00",
+      "rows": 672,
+      "sha256": "7c83eb408d98eb9acd3d6248619536808d2a88e17e6dda9cd6f8908bd862b210",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:47+00:00",
+      "rows": 744,
+      "sha256": "15c2e8a21177f053cde2e078634a29c0703a048d9c47d2899e8549b7ee645e8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:48+00:00",
+      "rows": 720,
+      "sha256": "cd30fbca19066758de7d8c77c8f3a125546fc13816ca85f35b2c298b202aee88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31922,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:48+00:00",
+      "rows": 744,
+      "sha256": "6cd5cd64520a818e3deaf13fcb45dc9bf5ac2262318613cdd46894a353a8320a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29897,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:07:48+00:00",
+      "rows": 720,
+      "sha256": "0af7e0959672f136ad66e37f2b409c8c8384e467d94077b1532fcbf95092f206",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ARPAUSDT/1h/ARPAUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ARPAUSDT",
+  "total_rows": 58247
+}

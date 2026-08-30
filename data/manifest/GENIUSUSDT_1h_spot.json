@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 11496,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:14+00:00",
+      "rows": 228,
+      "sha256": "5c54900f2baa7ef4ac3368195c13ea3ccb5f10f86d73d102d137b6f6d5805df0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GENIUSUSDT/1h/GENIUSUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33091,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:14+00:00",
+      "rows": 720,
+      "sha256": "03062039179ce4b9dd91478d86b38b25c84b4bfb1de1e14b5eb2dcbfacf18be3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GENIUSUSDT/1h/GENIUSUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31792,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:00:14+00:00",
+      "rows": 744,
+      "sha256": "2ce18c3cbb2c91ef5bb848d787797d6653ef6b79db8e432a947423ce9393a5ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GENIUSUSDT/1h/GENIUSUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GENIUSUSDT",
+  "total_rows": 1692
+}

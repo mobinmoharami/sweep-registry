@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 21532,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:20:46+00:00",
+      "rows": 463,
+      "sha256": "cba6baffe78ce7d44cf9c2bf1691dd44467c97a8e13f16691defde26169c755f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MUBUSDT/1h/MUBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 35889,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:20:46+00:00",
+      "rows": 744,
+      "sha256": "767a0d362c101b1544584118e7e04d40b731b250a06d7213458bcc60d4be8d18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MUBUSDT/1h/MUBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MUBUSDT",
+  "total_rows": 1207
+}

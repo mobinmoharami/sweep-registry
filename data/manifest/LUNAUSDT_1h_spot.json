@@ -1,0 +1,581 @@
+{
+  "files": [
+    {
+      "bytes": 11993,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:20+00:00",
+      "rows": 254,
+      "sha256": "b65e456ce6d29d8d9c0b01adeff6f3e9c004fda7b52bec8918a64b2b321e00cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 32654,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:21+00:00",
+      "rows": 720,
+      "sha256": "34cf13a84039706e189b4a8aee660d3751a5aa3f0457018674190bf2dfbd408d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 31865,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:21+00:00",
+      "rows": 744,
+      "sha256": "69ec59e2557bdf901fba4641ec890f818d8dbd48d84b9e6ded557da0e7a45621",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 32463,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:21+00:00",
+      "rows": 719,
+      "sha256": "9f7b731b61049d58a4eb09f7212d88a464955ac45c6270e85e1fb88f7f2e0804",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 34870,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:21+00:00",
+      "rows": 740,
+      "sha256": "8d528503279219a667c78a73f5a93dbf82047df3e528028abb60d2da3e99c6d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 36546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:22+00:00",
+      "rows": 744,
+      "sha256": "d37bf81fb060c05bcc22b174e1b70387dfd6df3ba1cb3025e05783c6222eb510",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 35605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:22+00:00",
+      "rows": 671,
+      "sha256": "0be5d7b280b6ac045782402712504bc06cdbd862d469ca339be84ade55b55a73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:22+00:00",
+      "rows": 743,
+      "sha256": "ed5cceb8c60ff5db431479ff40b1eeb0b2f71c7ce19301a1281ff93ebb14df26",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:22+00:00",
+      "rows": 715,
+      "sha256": "b11081d127579b23faabc5e070dec726120a22828cec03da89133267779c6bcb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:22+00:00",
+      "rows": 744,
+      "sha256": "2efbdf89eea59cf4defc5bdc4b1700df66afaa33d49cba41365927dca013bc7c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36384,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:23+00:00",
+      "rows": 720,
+      "sha256": "263ad2593149cc5d6a25cf5414e0ef814286f3c340cf21743cb8f7285c6a7253",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 37834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:23+00:00",
+      "rows": 744,
+      "sha256": "e283fa53f9ded35ccd7e0f855b41c7b89cae9dcd1d840ad23c76c25d0809162a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:23+00:00",
+      "rows": 740,
+      "sha256": "b5e6660e0bc3fa79787fa25fad69fb18f616d85f69eb5b979a0d191daa41d8a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 34612,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:24+00:00",
+      "rows": 718,
+      "sha256": "776f05930138c647ca108cac5a602cab4447e08501c610b489a4740e45377eb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 35503,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:24+00:00",
+      "rows": 744,
+      "sha256": "343989ec042983fa3431f6cb7eb4b13fbc1ab0d1ac3bcdaaab373a4382b80d00",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 34213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:24+00:00",
+      "rows": 720,
+      "sha256": "5ef54c0b41a49c1e7a7997a5f49d8e01007d84589efad4994823a4050732223e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 36686,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:24+00:00",
+      "rows": 744,
+      "sha256": "88db431852fd6f5bcf31795c081529045abc146b48652b2bdf05fb4eaad7d769",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 36234,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:25+00:00",
+      "rows": 744,
+      "sha256": "d6e988941c74325e9d7eb90ea5d50e367156db3c498a4b47bfb16b0add3fd492",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 32381,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:25+00:00",
+      "rows": 672,
+      "sha256": "7b3e8921352b3260f9e2f8efdf04d4656e3f7262cb31814044f88198a3e2a98c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 36130,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:25+00:00",
+      "rows": 744,
+      "sha256": "bd883989586f52ebf4d4ce1b15422e75efa979d9e6b3b7fbd3968e048739bf35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 34703,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:25+00:00",
+      "rows": 720,
+      "sha256": "26917a751ff3f8331d213c685d6886b9f154a8f8c91b4dbe420ee790351c9939",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 15960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:25+00:00",
+      "rows": 307,
+      "sha256": "70769aa8d188cade0d4cafdb28b3592688a974280a31de2d62a0b7fdbd45e4ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 37511,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:26+00:00",
+      "rows": 720,
+      "sha256": "ef260b5e33f771b6a48c45fff1ad585fda766f70e50035173866d055a7df46b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 36820,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:27+00:00",
+      "rows": 744,
+      "sha256": "2c43bae97c749b377815bf447c8f69972291ccbcf35f8aaa674b7cc47c23dbb1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 36440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:27+00:00",
+      "rows": 744,
+      "sha256": "ffa4f25413a0142bc51b607aa8c9cf5ed544e10faae3bc64dec2cd7f7adb0cdd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 37609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:27+00:00",
+      "rows": 720,
+      "sha256": "d9be51e84fa143887ac000772bc4cd7b4f4e807dc40cbc35ed480dbe1c205519",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 37138,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:27+00:00",
+      "rows": 744,
+      "sha256": "2e6b10b8df3d2d7287780ae90d72b89c03cae92c2d64b6744d08194b5a11baf8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 35562,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:26+00:00",
+      "rows": 720,
+      "sha256": "95c7c8e2162082e1e7673d5d6d5b74ce505fcb42d0ab5efe3981be97e887d90f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 35653,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 744,
+      "sha256": "e78c5feefec3ec60e8bdf94eb1bbce1f7b259d64b6134224833cce7437606bb0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 36877,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 744,
+      "sha256": "37209687463ee230225bc1ef95ee775646fe498e9b267c694d698452b94149e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 33005,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 672,
+      "sha256": "66f4236a4d01d7d43980aeb8b5f02d31e88a7350dd806da8649c5c14ba0b8f3a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 35783,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 743,
+      "sha256": "64aae3fcc75f549f758d38e72b409dfa55590c74399acd8221003c6c1ff273ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 34693,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 720,
+      "sha256": "c8903ad386cf413f8f14dfe6967b55800ef86ff72b99c657f8266ec58753c3a2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 35163,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:28+00:00",
+      "rows": 744,
+      "sha256": "0906f4fa19b2d6912c124ed3790f6d0e027dc4898e17c7c88dd064bfe377f8ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 34600,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:29+00:00",
+      "rows": 720,
+      "sha256": "fd5749088c74f9cf99bb8ec22d65b0206f999e84fa3d676bd2155228cb167100",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 35691,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:29+00:00",
+      "rows": 744,
+      "sha256": "314ed7492b76be4a924e06c0c5b479f6672672d8a2ae8f92921c4a6952d901ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 34393,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:30+00:00",
+      "rows": 744,
+      "sha256": "a5fd469158c88820bfab6a0fc35a67f52853cf13e7021e60d97b5e68bf17204c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 34197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:30+00:00",
+      "rows": 720,
+      "sha256": "725061c95d612b4d02e823e00678640c2489b6106b506aad0764ee3dcb08ee50",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 35345,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:30+00:00",
+      "rows": 744,
+      "sha256": "ab66b37e1fd30975249cb082cb1243b8d5fd661df86460e207328f2b88ad82c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 36246,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:29+00:00",
+      "rows": 720,
+      "sha256": "40c2af75921c29d66834ebc0db68b6e2b5dd5b280b6acc13abcf76934965f2b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 37728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:31+00:00",
+      "rows": 744,
+      "sha256": "a4a73b71b09142b1ad301fbf31242b42a2a6cbf618c7948aa9dc8f6d0c6b942e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 36587,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:30+00:00",
+      "rows": 744,
+      "sha256": "7dfcc30313c9c6a9b5792b612fe7de25d491f9ef0a63c63660aae131f408424b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 33961,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:31+00:00",
+      "rows": 696,
+      "sha256": "f2f144065920219433015a5646353b55636b42d993cbd59b7fe576060a63448b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 38314,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:31+00:00",
+      "rows": 744,
+      "sha256": "724154f1e51e397441bdbaac03df71870e5de597ad3a9601e77995fc8dacf596",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35725,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:31+00:00",
+      "rows": 720,
+      "sha256": "4e8a790aaf7ab137aaf07d9c65a5582e625b7e72d8607f22d9ce4947fbde0892",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 36102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:30+00:00",
+      "rows": 744,
+      "sha256": "ac79a953c6384a5455d7610321cc5926dc400b99f9e5892649c111ed2eeba470",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 34793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:32+00:00",
+      "rows": 720,
+      "sha256": "c3bfa92f21feba32759131aff3f9039a652dca9dfe4a7e856b8db9dfb0cff550",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 35633,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:32+00:00",
+      "rows": 744,
+      "sha256": "5a6a58d285b0a4819926646ad88d53c15133528c95afd4a77f18170aed1cf3f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 35660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:32+00:00",
+      "rows": 744,
+      "sha256": "f7b51853dc79eb494f26b3cc39c1ee819e7ea118f39dc54e617b0743ef82b62b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 34953,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:32+00:00",
+      "rows": 720,
+      "sha256": "de08d68d0cfa7d16a723806562823f341290a9890048da1a711908ba34ace4c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 35500,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:33+00:00",
+      "rows": 744,
+      "sha256": "0e9581bb0e9f1e8226fdcbaf0c098641828c1c3322d45b706d0ce41e915ae59c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 35727,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:33+00:00",
+      "rows": 720,
+      "sha256": "546f6ccc0cf508c3424ad8b4dccf63c1eedeb95eafcd8fa68f5ef910aea2fed9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 37048,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:33+00:00",
+      "rows": 744,
+      "sha256": "9b1b64f0b3146f431c82e9a4717e5f5641493a177513bf863940d4dd73d8d50e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 36408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:34+00:00",
+      "rows": 744,
+      "sha256": "49542eb01cbddba47d87f0688446c6bb54378e8e870e6acd38e7065ec9e98613",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 32657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:34+00:00",
+      "rows": 672,
+      "sha256": "ca8a6a106f1b8590a46030eb1fe7d2b81f764a5c27fe11ff7497b81c9401ae1d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 35311,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:34+00:00",
+      "rows": 744,
+      "sha256": "3c8039a5586b4f3c30e04d3590973e861b9476b3d428d93b515622517d6ed20f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 33519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:35+00:00",
+      "rows": 720,
+      "sha256": "13ca34f96a81326ab9214c1e5bd4e7ffcebb9461c518c0d0ec0cf9259fdcb030",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 35122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:35+00:00",
+      "rows": 744,
+      "sha256": "e346a6e7963fead855b743041f431f09fc92e50f09a0c88c3d410e6b6fe75af1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33006,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:34+00:00",
+      "rows": 720,
+      "sha256": "f7e7cc6de83ce2fa8eda594bd01f26de6fb6f0443af69b83b6cac6cf9814f6c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34753,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:36+00:00",
+      "rows": 744,
+      "sha256": "a4531a50aab1d9beaafaee97d58148c2f4eaa409bece9e0d90e6b22d251b90a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 34147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:35+00:00",
+      "rows": 744,
+      "sha256": "08cc4c6a350240901f240da3e1975ceacda48ed9654ac11c5f783f4c2cdf72b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32649,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:35+00:00",
+      "rows": 720,
+      "sha256": "7368e9a99380bf4e930c4e84be82bd2dd27f2ea47ae8f3e6293d79015fcf2654",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33956,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:36+00:00",
+      "rows": 744,
+      "sha256": "af326eaffa90ea9fa5c0c97373d937af0eccbccdaf8cbb4eb67e9f4d6f016ff1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:36+00:00",
+      "rows": 720,
+      "sha256": "f495e6d7b078fd5929c23b6e6d7b021af6b4673fbca0b3e8e37bf7d30a83918c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 36704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:37+00:00",
+      "rows": 744,
+      "sha256": "f0bfba4b8be2ed94215f538e6ee5cd2a47687e5e7f1d03947a92bcb2551b073f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:37+00:00",
+      "rows": 744,
+      "sha256": "491addd7637f16456884ab4a8968f12d0ebce3e7f3c64e41e8c0f2bad4e8294d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30663,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:37+00:00",
+      "rows": 672,
+      "sha256": "ca367ac48f42cc77c5cd636fc11025d57e20a3b78ae100b215941f946e37e3e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32284,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:37+00:00",
+      "rows": 744,
+      "sha256": "54f09f47d8816c94b6b0b9b5101955846b2e528184b05c5d718d0f728d247ad9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:37+00:00",
+      "rows": 720,
+      "sha256": "c761eaf23df44dde0c3f35087bce2298e73302a41cd31ce489fd0baaadcd2e10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33236,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:38+00:00",
+      "rows": 744,
+      "sha256": "d2d5ebc41196608e4d3b20ae67f6d5ab2a40bce9dc7747ab387dc16e565da8cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:37:38+00:00",
+      "rows": 720,
+      "sha256": "5a83a577d901fb991d59b3807ac1133ade26c182e4eb262e340969ed6b7f54dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LUNAUSDT/1h/LUNAUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "LUNAUSDT",
+  "total_rows": 50894
+}

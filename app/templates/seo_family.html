@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}Does {{ meta.label }} work? {{ '{:,}'.format(summary.variants) }} versions tested{% endblock %}
+{% block desc %}{{ meta.label }} tested across {{ '{:,}'.format(summary.variants) }} parameter combinations, pre-registered and sealed on Bitcoin before testing. Best score {{ '%.3f'|format(summary.best_dsr) }} against the 0.95 required.{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{
+  "@type":"Question","name":"Does {{ meta.label|lower }} work?",
+  "acceptedAnswer":{"@type":"Answer","text":"Tested across {{ '{:,}'.format(summary.variants) }} parameter combinations with a pre-registered threshold. Best score {{ '%.3f'|format(summary.best_dsr) }} against the 0.95 required. {{ 'One version passed.' if summary.any_passed else 'None passed.' }}"}}]}
+</script>
+{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_directory') }}">&larr; All strategies</a>
+  <h1 class="glow">{{ meta.label }}</h1>
+  <p class="lede">{{ meta.claim }}</p>
+  <p class="lede" style="font-size:15px">Sold as {{ meta.sold_as }}. Also known as
+  {{ meta.aka|join(', ') }}.</p>
+</div>
+
+<section style="border-top:0;padding-top:0">
+  <div class="verdict-hero" style="margin-top:0">
+    <div class="big">{{ '%.2f'|format(summary.best_dsr) }}</div>
+    <div class="said"><b>out of the 0.95 needed.</b>
+      <span>{{ m.verdict_line(summary) }} Across
+      {{ '{:,}'.format(summary.variants) }} versions in {{ summary.n }} sealed
+      tests, the best score reached {{ '%.3f'|format(summary.best_dsr) }}.</span></div>
+  </div>
+  {{ m.numbers(summary) }}
+</section>
+
+<section>
+  <h2>The case for it</h2>
+  <p>{{ meta.why_plausible }}</p>
+  <h2 style="margin-top:40px">Why it does not survive testing</h2>
+  <p>{{ meta.catch }}</p>
+</section>
+
+{% if by_market|length > 1 %}
+<section>
+  <h2>By market</h2>
+  <div class="pillars">
+    {% for mk, s in by_market.items() %}
+    <div>
+      <h3><a href="{{ url_for('seo_family_market', slug=slug, market=mk|lower) }}"
+             style="color:inherit;text-decoration:none">{{ meta.label }} on {{ mk }} &rarr;</a></h3>
+      <p>{{ market_context.get(mk, '') }}</p>
+      <p style="margin-top:10px;color:var(--text)"><b>Best score
+      {{ '%.3f'|format(s.best_dsr) }}</b> across {{ '{:,}'.format(s.variants) }} versions.</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2>Every test</h2>
+  {{ m.rowtable(summary.rows) }}
+  {{ m.limit_note(summary) }}
+</section>
+
+{% if params %}
+<section>
+  <h2>Common settings</h2>
+  <div class="pillars">
+    {% for pslug, plabel, pval, pnote in params %}
+    <div><h3><a href="{{ url_for('seo_parameter', pslug=pslug) }}"
+       style="color:inherit;text-decoration:none">{{ plabel }} &rarr;</a></h3>
+    <p>{{ pnote }}</p></div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2>Related questions</h2>
+  <p>{% for qs, qt in questions %}<a href="/q/{{ qs }}"
+     style="color:var(--seal);text-decoration:none;margin-right:22px">{{ qt }}</a>{% endfor %}</p>
+</section>
+</div>
+{% endblock %}

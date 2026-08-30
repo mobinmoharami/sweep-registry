@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 29144,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:52+00:00",
+      "rows": 610,
+      "sha256": "a4d98814599ef65c267bbe6c4b3f0037879ed683ebcfad1d3fdc0d0a11cd5c56",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:53+00:00",
+      "rows": 672,
+      "sha256": "1a1ab397ebfcd61261812b8ebfe508fb0742d3a13a326d24f051017affe0cff3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:53+00:00",
+      "rows": 744,
+      "sha256": "62ca9a04531fda1ab65d25d7440cfde444220535e002f3021723e20da019a214",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30342,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:53+00:00",
+      "rows": 720,
+      "sha256": "b488dd0ecd02f8dfe15debba7040463aced950034c8a102e23403a553dcd78af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30710,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:53+00:00",
+      "rows": 744,
+      "sha256": "3a9f70132784bb20a140f971296586c54c6db6faa310ff3ca6b94bc2c71ce913",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:53+00:00",
+      "rows": 720,
+      "sha256": "6f6e903f037df2734aeaa5a71cd62e52ff206425c87e789f34a62920f7fab439",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:44:54+00:00",
+      "rows": 744,
+      "sha256": "f419e04da8ade41c4de3386ea50b5dfc977ffb6494fee98a1ab903ff0c674c13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BREVUSDT/1h/BREVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BREVUSDT",
+  "total_rows": 4954
+}

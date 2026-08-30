@@ -1,0 +1,17 @@
+{
+  "notes": [
+    "21 of 1,620 enumerated variants never opened a position and were excluded from scoring. Counting variants that never traded would inflate the multiple-testing penalty without adding information.",
+    "SW-0004, frozen and Bitcoin-timestamped on 2026-07-31 and embargoed until 2027-09-30, is the independent test of this finding."
+  ],
+  "confirmatory": [
+    "Pre-registered test: does the best of 1,599 variants clear a Deflated Sharpe Ratio of 0.95? Verdict: NO. DSR 0.0, best annualised Sharpe 0.64 against an expected-under-null of 2.53 — the best variant did not even reach what pure selection produces.",
+    "The planning assumption was wrong in a direction that made the test harder, not easier: E[max|null] was projected at 1.35 and realised at 2.53, so the variance of trial Sharpes was about 3.5x the assumption and the detection limit rose from 2.24 to 4.01. Later sweeps use the realised figure."
+  ],
+  "exploratory": [
+    "Mean market-neutral gross Sharpe across the family was -0.336 against a shuffled null of +0.008 +/- 0.062 (z = -5.5). This is a population statistic, not the pre-registered maximum, and pooling across variants detects far smaller effects than a maximum can.",
+    "REPLICATION FAILED. The same six families applied to EURUSD, GBPUSD and USDJPY (SW-0011 to SW-0016) produced z values between -1.47 and +1.24 — indistinguishable from zero, despite costs a quarter as large and 48,772 bars. The crypto effect did not generalise.",
+    "Most likely explanation: Bitcoin rose from about 4,000 to over 100,000 across the sample. Linear beta removal does not fully neutralise a multi-year non-linear trend. FX had no comparable trend and showed no effect."
+  ],
+  "supersedes": [],
+  "updated_utc": "2026-08-01T22:45:25+00:00"
+}

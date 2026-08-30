@@ -1,0 +1,869 @@
+{
+  "files": [
+    {
+      "bytes": 21363,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 356,
+      "sha256": "5bb9ba06a86363aef0c7481148ecf00d96383b1bc794f28454c1177ee500a61b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2017-08.zip"
+    },
+    {
+      "bytes": 42670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 713,
+      "sha256": "d1e21aef67c8cd565e57fd422c7faab3fe709d0d5f04e85fbce8aafe0b1c6cdd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2017-09.zip"
+    },
+    {
+      "bytes": 44624,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 744,
+      "sha256": "8b3de5650f1aebe4c923eda13aca8a25b5b73b95fa4e0b6cf47fd5abfac00eca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2017-10.zip"
+    },
+    {
+      "bytes": 44942,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 720,
+      "sha256": "3df1d2c3378f0aab1b7bb64901e87f2f4cf71fccecbb12a48cd917770a7ba77c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2017-11.zip"
+    },
+    {
+      "bytes": 46065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 744,
+      "sha256": "9b86b43c9a649065cc1e7f3b8fe4825e614d9e8ca43808b74a0efe96465bd90c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2017-12.zip"
+    },
+    {
+      "bytes": 43217,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:57+00:00",
+      "rows": 743,
+      "sha256": "b649198039645124717f334443ae550d1060661ee03c5fb605cf067fab26dc85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-01.zip"
+    },
+    {
+      "bytes": 37572,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 640,
+      "sha256": "4e040b57a38af99b1f86efb12d95aed406b575af67b8038831523ff6362225d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-02.zip"
+    },
+    {
+      "bytes": 42999,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 744,
+      "sha256": "a3f45f20d28eab88292d1baac72402ebf59f4462d0bb834288f69b59a65cbf5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-03.zip"
+    },
+    {
+      "bytes": 41169,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 720,
+      "sha256": "d0fe439f2afab8677e423c9748bc96ef9694b8d60bf8a59790fd776d8ed18d87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-04.zip"
+    },
+    {
+      "bytes": 42573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 744,
+      "sha256": "a365154fb49c29060df5f5b6a79181e4e667ca1bac049df26a067faa634ffa62",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 40629,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 709,
+      "sha256": "20894cb34d1049cbdd93df83be5f218c6ae1b5ca27b689b1b076ac5bc809fb81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 42249,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:58+00:00",
+      "rows": 737,
+      "sha256": "29610f0bb84011e494b83881584d1eb2d3a61c5801ee51ebea7c1c4e6a9b4210",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 42956,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:17:59+00:00",
+      "rows": 744,
+      "sha256": "cad3b2b11aefa082a07ae3d8f11dfd6ee5018702dfd3986277151b66ae002991",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 41166,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:00+00:00",
+      "rows": 720,
+      "sha256": "d8109c9f64af195fb9babf498f84ece9e7ac471618977202dcf710461e124d00",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 41446,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:00+00:00",
+      "rows": 741,
+      "sha256": "959094f6d37e7cae75951cea30fdc3d5b1eb9de58a6cf1ce40f0e49d0adfb79b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 40709,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:00+00:00",
+      "rows": 713,
+      "sha256": "a75aba58d80b798809e47819990fad71418c0982be1c4643b5a0490e0f86bd91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 42802,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:00+00:00",
+      "rows": 744,
+      "sha256": "c5f05f2966529220add51dc1ee66ab7408ae787179f96c288e4f6ff021f51edd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 41901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:00+00:00",
+      "rows": 744,
+      "sha256": "41cb84ccff03d5372f22e7502a1c563dd7b3b15347fe086b16daa98aced7a179",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 37982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:01+00:00",
+      "rows": 672,
+      "sha256": "fc054507a0f33b54bcc2f292243b8caa765927572e92731283f42498c64dc4e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 41360,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:01+00:00",
+      "rows": 738,
+      "sha256": "2c4a969908c2570299052b4faf27b4a39561b1043babc7a65a846a6a65abaa2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 41191,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:01+00:00",
+      "rows": 720,
+      "sha256": "d37e1150e8f4556a22cb2ed98d9b6eefe7b5df3be9f06587e273baea2bbf960e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 43004,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:01+00:00",
+      "rows": 734,
+      "sha256": "ddffd71adc100760d31ab5ea0fb8d8ccf5f3c80a06a31808a024324b4a693799",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 42603,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:02+00:00",
+      "rows": 720,
+      "sha256": "079b0071aaf0642d3608bca3ee14e50e394550176da3e4029d22761e288466e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 44318,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:02+00:00",
+      "rows": 744,
+      "sha256": "f45beec30a4812d42b8eb3a34da3f75e5dee0433032a06ba57ff48644ee7c2f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 43243,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 736,
+      "sha256": "50b058b5774190b577f1bc45767aeb33f4e947dc00e8d143f6c4afa0f5a3cd34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 42109,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 720,
+      "sha256": "2aaaf6e4d0455b889225ca1cfde23a15e2359850f803bc9998df30ac1bbef63f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 43434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 744,
+      "sha256": "d44a2b3e463683c8bfc61c2f15f156665dc3dd3835e69c2ea3b49a518ca14b43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 41930,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 716,
+      "sha256": "63572600e87350f1d5679049a44e8338cf7b692d0c67220dc316267a91af108b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 43061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 744,
+      "sha256": "87267b84d9f0e64ec94799d62de6730825c6a44f154ada5ed8c2dd267df78481",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 43583,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:03+00:00",
+      "rows": 744,
+      "sha256": "4ef7fa698b6821493f4c8317bc616d48bcdf5951d32fe6e40aaa7608886e51ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 40628,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:04+00:00",
+      "rows": 690,
+      "sha256": "0189065a1b789825448530cb3fdddcefa45ca13b0a6bca181f358c72d3a6d5e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 44270,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:04+00:00",
+      "rows": 743,
+      "sha256": "cc36c481c31ef93115d96b5a7045ec2ef737e5339546d6688cb1f677526c6787",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 42275,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:04+00:00",
+      "rows": 718,
+      "sha256": "4f08d13c81cadf8d5fc7afcd0924d084d2f81c7d004323812e7508ad135f89e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 44022,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:04+00:00",
+      "rows": 744,
+      "sha256": "1559b30329851938a54e6782cd28dcbf34ec27a6cc82132250db9a357f4eaf5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 41724,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:04+00:00",
+      "rows": 717,
+      "sha256": "2ccf45a7307e09dec1fd3622d54057e7e44371bf70a8be1030687f654341799e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 43137,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:05+00:00",
+      "rows": 744,
+      "sha256": "378b83c163c8d315075189b039b027d705c3ae225461f04c1226569a4edfcb99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 43923,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:05+00:00",
+      "rows": 744,
+      "sha256": "3b4fbdfe798389a1317e333772f176bce711856d87e68c1b77f09631b0cf4b84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 42467,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:06+00:00",
+      "rows": 720,
+      "sha256": "46f236c7cd38d72d4a37e80a45e357e7bec48bc89cc6a36c0c17ceb92ce8d101",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 43559,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:06+00:00",
+      "rows": 744,
+      "sha256": "72fe011922ace0851a44ffa51327d75545212a7e8179867d514a5934ce93a6e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 43234,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:06+00:00",
+      "rows": 719,
+      "sha256": "c3f3548fd082f0fa63d2138a5aca3b572729f6351de8a20c895a80acd3ae395b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 44596,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:06+00:00",
+      "rows": 740,
+      "sha256": "c880c8e76e2dbcbed04bc1ddd549949a94a4314520dc1f1becbd881453aa5ede",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 45988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:07+00:00",
+      "rows": 744,
+      "sha256": "a2fa12bec12d942e58dbc7fb223973bd2173dfccf8e09edc501bda40b3c3638e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 41575,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:07+00:00",
+      "rows": 671,
+      "sha256": "8cd20f5058dc7585cfa874a3ab0e5fd0096f369c182d8fda80dc16495050e018",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 45712,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:07+00:00",
+      "rows": 743,
+      "sha256": "748783e9715835dd334fbc0cbbff0518962ebbcbe0430acb65f2f506193bad2d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 43918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:08+00:00",
+      "rows": 715,
+      "sha256": "e5a33803814e6771c4c85e8f2e28e90e46d40f14ca3180a8c10c305cf07fab74",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 46221,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:08+00:00",
+      "rows": 744,
+      "sha256": "728503d417904afff17b403e66f74c18ed0067d3f8e4215130c8a97180c9fccc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 44232,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:08+00:00",
+      "rows": 720,
+      "sha256": "9ea9585cf2c938044d2d1b613f451ff9482bd7d2a38da2c9d22cf0c9f00f65ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 45217,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:08+00:00",
+      "rows": 744,
+      "sha256": "993a88728e31b4c4e6f3b28442ab251de5ee434fe06865e1b57063a4f91fc8d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 44883,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:09+00:00",
+      "rows": 740,
+      "sha256": "5cadb462255761842326a2c4b5fe2a91c8a2135c3ba6dd5f0969877f0722f4be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 42473,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:09+00:00",
+      "rows": 718,
+      "sha256": "0d344f8ab39d910c148b89fada91256afcb3e8b20eb812ebc158ac8ac527ea07",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 44164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:10+00:00",
+      "rows": 744,
+      "sha256": "8065fe2ddd9992398b49fb76e83a60e51392e1ecd4b46c438c075d3e5f6e2291",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 42690,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:09+00:00",
+      "rows": 720,
+      "sha256": "64d376e949c3518c3b526cac41322114a2e7287395e9089f0da34e25079c2940",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 43757,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:09+00:00",
+      "rows": 744,
+      "sha256": "b01133a69b22aa7904742a06a892ff3811152377f61e23977051a937afe2fbaa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 43687,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:10+00:00",
+      "rows": 744,
+      "sha256": "e04068d0aee5e3571dc7e9a1d220475047f544e1cf1bad800b7cbbf190281c40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 39642,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:10+00:00",
+      "rows": 672,
+      "sha256": "4e479b38278726cccb9257f5564c5c78477144d3ffe69df6afaf3b55ace617be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 43784,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:11+00:00",
+      "rows": 744,
+      "sha256": "1cfb082f6bc9a2937b5b846073ddf65f71b18f2502778ac667aab3421ef80085",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 42204,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:11+00:00",
+      "rows": 720,
+      "sha256": "7157a267e70bcd9ae04a8898527fad00d7733e941df9b95a1d5e0ae6dcd61c3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 43955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:11+00:00",
+      "rows": 744,
+      "sha256": "ff0744eceba5e6d2f7145ecfdc9d3fac84f4576c15221dbeb71c6d6e59484300",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 42662,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:12+00:00",
+      "rows": 720,
+      "sha256": "b18f6f8edbb41960f81aec100c7836fdc0de6d640ee4309a3d0fad999ae0a2c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 44740,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:11+00:00",
+      "rows": 744,
+      "sha256": "9f0ba9663f9fada7692b3cfe645df3832599f9e785056ddd77bd464475553e9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 44748,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:12+00:00",
+      "rows": 744,
+      "sha256": "3cc22044f94cb303d12013293ba6db6d44abdf1490d38d00f1389e98717a3891",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 43701,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:12+00:00",
+      "rows": 720,
+      "sha256": "a65dcd73017d92ea8d86e82ea1aee3dac55881f8672594d2e85d1cf392e1e78a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 44566,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:13+00:00",
+      "rows": 744,
+      "sha256": "2591cbbe022ce9d4559aee1fa41ea0033324c2c4debc776cfedc9588167d413b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 43509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:13+00:00",
+      "rows": 720,
+      "sha256": "5608adf8602a8ac616ee03c2c4461a37f4646631d67edf3d2f1a94e82e5c5065",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 44019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:13+00:00",
+      "rows": 744,
+      "sha256": "69c5e5f01df947bfea48ab3c8e2f462b7358effa9e2700489a4ad0dbd29b24aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 44765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:13+00:00",
+      "rows": 744,
+      "sha256": "ea8caf7fd56c7f7143723f56f8d12a2fc0b643badbcdae5c660db2d11454a11d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 40955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:14+00:00",
+      "rows": 672,
+      "sha256": "53525b700548a19488fcb8754778acdf7941c9ba0b6e7eb548a51a376ef8d86b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 44928,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:14+00:00",
+      "rows": 743,
+      "sha256": "7f2afb8e0179a57ac31eab5205660298ba5eb77039ac2e21aef9b715ff3d06ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 41904,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:14+00:00",
+      "rows": 720,
+      "sha256": "1787dc83836deafaa77d4276cbe3b3ca1fe0083b3017079e3560605ff4f7a4ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 43095,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:14+00:00",
+      "rows": 744,
+      "sha256": "16b33557a4a4040fc56c711f4b1a750ebafb5a7f8dd46c060d9fc8c66cdc1982",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 41669,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:15+00:00",
+      "rows": 720,
+      "sha256": "05f87fb5f004ee0aff019adb7015afab8df0baaaf2b77154d75ae53e18d59b11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 42245,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:15+00:00",
+      "rows": 744,
+      "sha256": "f49a738a793055a583784e78a54840a43861fd110118cbe1add14ef1afb63032",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 42213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:15+00:00",
+      "rows": 744,
+      "sha256": "e983243d44536a06ff4707cf35df29f636fe788e6fb69c3b3feed2ef43d343d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 40962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:15+00:00",
+      "rows": 720,
+      "sha256": "28e12ccaf15745bfe11f570b9079793750047fde3d340fe0231858b26bc0f9d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 42928,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:16+00:00",
+      "rows": 744,
+      "sha256": "165ec50601f914d6c41b776414096bc73974bf45fcd41aaddfedd1cf66cb6c6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 41648,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:16+00:00",
+      "rows": 720,
+      "sha256": "4f550d182d529839dd9cfc28ef0ecca8cd8003e991067e92a2af5b9e92762f49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 43309,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:16+00:00",
+      "rows": 744,
+      "sha256": "6117d93e3eb6574df6b0087a45cf12e171afe91789b523b0bfcce00d8f1b6e37",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 43482,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:17+00:00",
+      "rows": 744,
+      "sha256": "cf873a185bd5b24b8e00034e49583fcb49928e0c3a45c6fc27a632a683655417",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 40711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:16+00:00",
+      "rows": 696,
+      "sha256": "b83aa7319ef1d4baa7b923c0fe802b88dfaf241c7456af295f1f656a24379b33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 44044,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:17+00:00",
+      "rows": 744,
+      "sha256": "b0851daf609d6ab82fdf8f1d1c4fbd974bc1b4e6530a832067516ac1c2be63a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 42474,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:18+00:00",
+      "rows": 720,
+      "sha256": "e266707ad2ea3cd4680bf1ac5025f0c1bfeb38e703374a91f8dc193d1ec8d48f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 43425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:18+00:00",
+      "rows": 744,
+      "sha256": "077c71eec71a8ecf2edb6e3a3927b600b8f358fd37066ce120c19fb5302a9ab8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 41535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:18+00:00",
+      "rows": 720,
+      "sha256": "2e1f968fa34b9feabfb19cc6eec47a146e20d64a706f4b17d0babf4d2f475c39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 43162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:18+00:00",
+      "rows": 744,
+      "sha256": "41fd58a70ae40bebb74682555cc5054709f8dde0f5c8193ae2103dac95274e5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 43406,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:18+00:00",
+      "rows": 744,
+      "sha256": "88521a975ee7bfdd21f891d81f4243a01b90b977cf525d11747e27c66e3bad60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 41468,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:19+00:00",
+      "rows": 720,
+      "sha256": "123f402c6dbf19b9b72b4af7ad4d5325c73ba4833148cc398b803d7a34ac5c5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 42989,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:20+00:00",
+      "rows": 744,
+      "sha256": "393b18ad2634f0cd3b2fd54321c8286ea143419cf3129b4cc44e089681912b03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 42752,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:20+00:00",
+      "rows": 720,
+      "sha256": "7a51fe8811c754ff43a2be0ba10e53a6d4218521e27ac765fbc9a1ca0fc15bac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 44271,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:20+00:00",
+      "rows": 744,
+      "sha256": "dfec812f73a84257b195cbdaed34d020fa77e845625c061c13bd6a60e7ef9372",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 44655,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:20+00:00",
+      "rows": 744,
+      "sha256": "e7f2aaa5396a8062a57ab29ce9fab2d76b2c84ec58815d4ab7b3fe16f78c7118",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 40203,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:20+00:00",
+      "rows": 672,
+      "sha256": "7420f55c93f61d7e734fc9d2507c7f2fcb5eaf48112277cecd241d4e1dbf3bd5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 44468,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:21+00:00",
+      "rows": 744,
+      "sha256": "b5ae8bb57e5e526c2050c9f8229b723871a5af47d80c53453abf61847a5f3aa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 42741,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:21+00:00",
+      "rows": 720,
+      "sha256": "bbec48ed5f7b603bbceff943ad0dccd3c29cae6d14161bcd2eabc9f762ff0a35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 44381,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:21+00:00",
+      "rows": 744,
+      "sha256": "da6213bf4c57ea60faed3ef1f6a0ecb87f22ca7a3a67614604cf44d2d6b265fe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 42662,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:22+00:00",
+      "rows": 720,
+      "sha256": "d0760943538f48032dd066401e53f46bbf4868e6545929678e23bcdee032a5e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 43886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:22+00:00",
+      "rows": 744,
+      "sha256": "487738ee596380eaad32a2a93c75d17e1ebdd165a9b544c0e44be36079f5c02e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 44104,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:22+00:00",
+      "rows": 744,
+      "sha256": "a99ec5bac64333fb521b2ab1bac5e8387eede6413cc7841656a02be95613c64f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 42491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:22+00:00",
+      "rows": 720,
+      "sha256": "b0ad5b54097f6adb440d07204fd215dae9b224fb73569fd4309a55c9234d46b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 44751,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:23+00:00",
+      "rows": 744,
+      "sha256": "5426b1b48905963d50e11d1243910b5fa05a89c9a2003bcd5082561d352a2123",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 43273,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:23+00:00",
+      "rows": 720,
+      "sha256": "1f28f02e33e1f19e5163cd45b67c07b3b75870e78dbbf9f861d1348ca372d942",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 43894,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:23+00:00",
+      "rows": 744,
+      "sha256": "d546c6e44b443e34cef5122043c5cdd3b9c76980e23cc408dafd9f6f76d65c05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 43807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:24+00:00",
+      "rows": 744,
+      "sha256": "a40e86beb4f1e6d4b19ca022c87b8b2f0e4e40874d349a5a75b27baa9634c858",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 40150,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:23+00:00",
+      "rows": 672,
+      "sha256": "0be4e5c92892495c5da5b371fe8755f2d508b28a58414b4171284480806ed6c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 44392,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:24+00:00",
+      "rows": 744,
+      "sha256": "44f383f9423f96cdc29e03b4ba8062296763dd740ab1d93f04b62c88bac30aa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 42394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:24+00:00",
+      "rows": 720,
+      "sha256": "9f8e49b70978177414a005a6e84b1cf891f97b0196526cbd579535449c14b6f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 43547,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:25+00:00",
+      "rows": 744,
+      "sha256": "11b8537dc1769a7de9d6cb2e0354dd4a376018986a826c67d1078e25fbf8fb80",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 42265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-07-31T01:18:25+00:00",
+      "rows": 720,
+      "sha256": "7c446aee297f382ee92b8d9b3300a1d7c21bed8166118f3bb261275bed5e308e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BTCUSDT",
+  "total_rows": 77629
+}

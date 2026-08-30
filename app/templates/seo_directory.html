@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Every strategy tested: full index{% endblock %}
+{% block desc %}Index of {{ total }} pages covering every strategy family, market, symbol and setting tested in this registry.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">Every strategy<br>we tested.</h1>
+  <p class="lede">{{ total }} pages. Each one covers a rule, a market, a
+  setting, or a question, and every number on them comes from a sealed test.</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  {% set titles = {'family':'Strategies','family-market':'By market',
+                   'family-symbol':'By symbol','question':'Questions',
+                   'parameter':'Popular settings','concept':'Method notes',
+                   'comparison':'Head to head'} %}
+  {% for kind in ['family','question','comparison','family-market','family-symbol','parameter','concept'] %}
+    {% if groups.get(kind) %}
+    <h2 style="margin-top:44px">{{ titles.get(kind, kind) }}
+      <span style="color:var(--line)">{{ groups[kind]|length }}</span></h2>
+    <div style="columns:280px 3;column-gap:34px">
+      {% for url, title in groups[kind]|sort(attribute='1') %}
+      <p style="margin:0 0 9px;break-inside:avoid"><a href="{{ url }}"
+         style="color:var(--mute);text-decoration:none;font-size:14.5px">{{ title }}</a></p>
+      {% endfor %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>
+</div>
+{% endblock %}

@@ -1,0 +1,485 @@
+{
+  "files": [
+    {
+      "bytes": 28685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:40+00:00",
+      "rows": 592,
+      "sha256": "af4aa243fe8bae19096d163fdbb13d47152d21025fdad798e550f2e7d54ff419",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 36528,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:40+00:00",
+      "rows": 743,
+      "sha256": "e7c3237235e632322136e686328dbe2687c77d01ca9a650f7524286934c9a6f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 34558,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:40+00:00",
+      "rows": 718,
+      "sha256": "ebcd4a8e4bdf16eb46c0a7535f8614785e9507f02e3de3dd3e5b48858ef530e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 34254,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:40+00:00",
+      "rows": 744,
+      "sha256": "b916085775a92fd7b747488e9afe38870acdb2a76ec204064e457751bf92b1df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 32014,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:40+00:00",
+      "rows": 717,
+      "sha256": "4cf09b8953fd4087c67482fbc935626f151470fb11a8e1da4324f00c453d3cca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 34115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:41+00:00",
+      "rows": 744,
+      "sha256": "dd08f9f6157a1a555c0ffb584faa4ab38fc254aaa862cae05874d98eec78be8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 34606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 744,
+      "sha256": "d367d31f7a6e4ede80a55f639f52dae0efa15becc10b58de012db4f053074404",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 32513,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 720,
+      "sha256": "dc973897bb308c7a43a878be95c0b9ac5b0d493770992666fbbd31e88b7b2f7d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 32922,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 744,
+      "sha256": "0003c22195cb56f3d0c6b8cfd8b7242f7726c875cfdee3ad3645e73f2e50d7d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 32196,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 719,
+      "sha256": "aa1206c929502704a8349990c921709ef924ffabaa1f2eb82e8c7ad419f9359d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 32586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 740,
+      "sha256": "296a79bc9aa756b271831abe59998c665173f8c6474054dacb39ef1f73c278f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 34405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:42+00:00",
+      "rows": 744,
+      "sha256": "6130d1cf0629528e30cc0373de0f3b4b584e94a6cd0f51ed63c50995a99723d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 33048,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:43+00:00",
+      "rows": 671,
+      "sha256": "6fd773c659e7e3fc74d34c2977786860f45bc900174c7c611172a05d6d2d554f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 37126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:43+00:00",
+      "rows": 743,
+      "sha256": "e2bcbe30b47a4a69ea9d50ff4d4ad95f32a39cd79d8f02f4c7f1d57ba5c08f1e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38052,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:44+00:00",
+      "rows": 715,
+      "sha256": "7b7b4dc620c42caea59ec337395c3303ae1f6cd889d461bdb7ac5f60ddd8df7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38267,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:43+00:00",
+      "rows": 744,
+      "sha256": "2ccc600e40095cb2734051260078614938a7e936274c12f457e1641dff4652ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:44+00:00",
+      "rows": 720,
+      "sha256": "221742a0007d715b3ea04c18448f2adebd16709592d1f227f455d4f9df553a38",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36172,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:44+00:00",
+      "rows": 744,
+      "sha256": "6e1efd8a23635a69557106c8eadeb072c9161c53e5da7c2310c331c29c51f05a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 35911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:44+00:00",
+      "rows": 740,
+      "sha256": "f83b29d1abdd2b5057afc4cf2ee59f027ca8f000a6f0ab3108b8868a12ab9209",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30997,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:45+00:00",
+      "rows": 718,
+      "sha256": "37653ebf56a9b75487922304e43f02926f81832e45eecff7e4f79912ee2b596b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 31797,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:45+00:00",
+      "rows": 744,
+      "sha256": "31f03812e0308a9c9bc0d290a7f23d0eb7da2af2ddabe78be5251ba5836e2978",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 31298,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:46+00:00",
+      "rows": 720,
+      "sha256": "4d1da84f21dc8e0db1fc7912a7fe61293996a65f54d6f585cef551750bf0438a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 31246,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:46+00:00",
+      "rows": 744,
+      "sha256": "84e1c641c2936a408232a70d1ed1c45f9f143c009c6d65c4ddcdb54b234013b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 30520,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:46+00:00",
+      "rows": 744,
+      "sha256": "36be527eacd759b84a65f159e86803c60354667554b1bd02eccc3a4e08e01163",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28278,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:46+00:00",
+      "rows": 672,
+      "sha256": "98f07396beb671eff1a12d572460e160db270d4c4cac97f8e6a489575e46cb03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 30560,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:47+00:00",
+      "rows": 744,
+      "sha256": "f7042cde2338732623c933539220bb8f7b5e211fb3aad3290b137a64cfc77f12",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:46+00:00",
+      "rows": 720,
+      "sha256": "dc2b89e3869ccc8cdb703a1cf6243a67f9ad0b94e3215b7a02bb2a938c723d9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29453,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:47+00:00",
+      "rows": 744,
+      "sha256": "50df1cebff897fecdd7d5be4628746a69f56c2972d467bd256dbb279dca0d99f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 27843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:47+00:00",
+      "rows": 720,
+      "sha256": "33de6415e0aaa8e3fca8f6dee891472cf71e8649d77e1bd3e6393781c9a83995",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 28706,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:48+00:00",
+      "rows": 744,
+      "sha256": "a2e98a1922001a5a650495d8b93708ff52e96ac1aa6747c4db69ae3ed9834aaf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 29959,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:48+00:00",
+      "rows": 744,
+      "sha256": "b38ea4b78eae261ddf8376386ab953eaf70f32d089f51b24e108d66eaec96927",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30691,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:48+00:00",
+      "rows": 720,
+      "sha256": "46ff143d7df6e6abcfd5a6350179207a38165b2ca065233890745e1da4c78607",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 30671,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:48+00:00",
+      "rows": 744,
+      "sha256": "54fb48881006de37d8ac6bad01bca257f0b94333e469aff8f4d63bdb7e50ea38",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30653,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:49+00:00",
+      "rows": 720,
+      "sha256": "f559cfd83ffa3a1d3de452368e1532f4a85da74493e4b454ed274870c77d1abb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30274,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:49+00:00",
+      "rows": 744,
+      "sha256": "efc379c2349ab6a2187b5aa4dc1786d2605e5c144bd5f075326ea7b6ee2ccb85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:50+00:00",
+      "rows": 744,
+      "sha256": "e9197218efb080c99d2358335de405dc224ab287f84648839bc64ed37a46060f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:50+00:00",
+      "rows": 672,
+      "sha256": "a882a5ee705b454e0886a7ef2c524692a5620447a0bddc45ad86fe543ce32d02",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31225,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:50+00:00",
+      "rows": 743,
+      "sha256": "5bd5cec7d8b1822d322b9cce87a8473a120fcd26fde8547d89235aa4f4f9edfd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29714,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:50+00:00",
+      "rows": 720,
+      "sha256": "9482295cf817e912deb6defc931020e49df6134d74fc1810651a8a0b49d4d2df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:51+00:00",
+      "rows": 744,
+      "sha256": "832f5bb7144a486a98038f288d48aaae6de24f349672f2f8781676d7943271dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29480,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:51+00:00",
+      "rows": 720,
+      "sha256": "df83aa2889bee10fa410258a6006ff8258f90f8ea59972cb0825da4e4e14e571",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 31774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:51+00:00",
+      "rows": 744,
+      "sha256": "689e69e993a80999e1c9d513ea318033ebd70fff28f9de4d88bc271bca540a94",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 30356,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:52+00:00",
+      "rows": 744,
+      "sha256": "cf37cce228793668b19b386cd8420c3732d61946fac7e0c71feb0000dfb7bad2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:52+00:00",
+      "rows": 720,
+      "sha256": "b1cb1fb2fe67de951361d54726f80b425bbc44ccbd657fbcb6bc1855bffd7710",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 30571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:51+00:00",
+      "rows": 744,
+      "sha256": "1794b12d60e31303d9e9d79908f1c9772338cb25405d5bae497fef64f37e7691",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 29645,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:52+00:00",
+      "rows": 720,
+      "sha256": "2eaaff694d475f7b54493b7d1e2f1c9408716ea80825c65a56c72b60675cc384",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32581,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:52+00:00",
+      "rows": 744,
+      "sha256": "7c53535578e0c8ff63380f7edf6d7eb800706c6c661a874d64d38ec84d9d9def",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32415,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:53+00:00",
+      "rows": 744,
+      "sha256": "670408277332499b687a61d2fda913289d557551ae1b434c0159ecf636c602d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29921,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:52+00:00",
+      "rows": 696,
+      "sha256": "d8bb652996b9e88ca7936c37eea8becb29927065e5deec2bdd66197894915f1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:54+00:00",
+      "rows": 744,
+      "sha256": "b245f3e94c22899a968fd5ce9da908900d1d11c7f19fd7e88782b887dca55463",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31992,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:53+00:00",
+      "rows": 720,
+      "sha256": "057170d47da385ad93f3fea36bf4aaedaa21efe5d0b0418d8eff67b24e067d1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32364,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:54+00:00",
+      "rows": 744,
+      "sha256": "0656aa1874efcd30e0f23c95098617b8c4e32a8cc065505f4a744a7f8dd9d1a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31088,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:54+00:00",
+      "rows": 720,
+      "sha256": "eea561b05a42c65ee14efb0cb16f4c1615ec63b66846db7a0fc2f7ab7715cb90",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:54+00:00",
+      "rows": 744,
+      "sha256": "549688e7e3ffbd3ab42b8193f700d7d6933c477300e1956668298aae2b4ea355",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31563,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:54+00:00",
+      "rows": 744,
+      "sha256": "f9d125fc7c342631b4f2c47e4d67b4a42f2443bcb530e04ad830542fdeaf636c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29656,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:55+00:00",
+      "rows": 720,
+      "sha256": "45c51ed96b268fe74d2fe159556dd3449ed401de960dac5f70fce69c596c6a06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30659,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:55+00:00",
+      "rows": 744,
+      "sha256": "1d1bfaf31fa4256b4b334500e4de2964df36733b9ff09fa49ade611545a86ea3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30959,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:56+00:00",
+      "rows": 720,
+      "sha256": "1c045cc5021318ff3caa7509667a64e84266ab164a4e2e78bdf81e3dfdc70492",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 26823,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T20:00:56+00:00",
+      "rows": 579,
+      "sha256": "59fee9af6b39e3b40177a616f9a2b209da3bbf4d53a34aedcd7f6e9ea6d7e1b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WRXUSDT/1h/WRXUSDT-1h-2024-12.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "WRXUSDT",
+  "total_rows": 42810
+}

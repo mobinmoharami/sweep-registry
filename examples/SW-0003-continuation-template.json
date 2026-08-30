@@ -1,0 +1,58 @@
+{
+  "sweep_id": "SW-0003",
+  "title": "Short-horizon continuation on BTC and ETH spot, hourly",
+  "hypothesis": "Following on from the exploratory finding in SW-0002, that short-horizon mean reversion carries systematically negative market-neutral gross Sharpe: the mirrored continuation rules, using identical indicators, lookbacks, thresholds and exit rules, will show a POSITIVE mean market-neutral gross Sharpe across the search space, distinguishable from shuffled data. This is a confirmatory test of a direction discovered post hoc in SW-0002 and registered before being run.",
+  "search_space": {
+    "families": [
+      "zscore_continuation",
+      "rsi_continuation",
+      "bollinger_breakout"
+    ],
+    "parameters": {
+      "lookback": [10, 20, 30, 50, 80, 120],
+      "entry_threshold": [1.0, 1.5, 2.0, 2.5, 3.0],
+      "exit_rule": ["mean_touch", "opposite_band", "fixed_n_bars"],
+      "holding_cap_bars": [4, 12, 48]
+    },
+    "n_trials": 1620,
+    "enumeration_note": "3 families x 6 lookbacks x 5 thresholds x 3 exits x 3 caps x 2 symbols = 1620 fully enumerated variants. Deliberately the exact mirror of SW-0002 so that direction is the only thing that differs.",
+    "family_descriptions": {
+      "zscore_continuation": "z-score of close vs rolling mean, follow extremes",
+      "rsi_continuation": "Wilder RSI threshold, follow extremes",
+      "bollinger_breakout": "intrabar break of Bollinger band, follow"
+    }
+  },
+  "data": {
+    "symbols": ["BTCUSDT", "ETHUSDT"],
+    "start": "2017-09-01",
+    "end": "2025-06-30",
+    "timeframe": "1h",
+    "source": "binance public klines via data.binance.vision, see data/manifest/",
+    "holdout": "2025-07-01 onward — not loaded or inspected until the verdict is written"
+  },
+  "protocol": {
+    "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period. Market exposure removed per variant by regressing gross returns on the underlying bar returns; the residual Sharpe is the quantity of interest.",
+    "costs_bps": 4.0,
+    "slippage_bps": 2.0,
+    "execution_model": "signal from bar t close, held over bar t+1, no partial fills, position capped at 1x notional per side",
+    "survivorship_note": "symbols fixed at the start of the period, no delisting selection"
+  },
+  "decision_rule": {
+    "metric": "cross_sectional_residual_sharpe_z",
+    "alpha": 0.05,
+    "threshold": 2.0,
+    "note": "Reject the null when |z| >= 2 against shuffled data. Fixed before any result was computed. Not adjustable. A positive z confirms the SW-0002 direction; a negative z would mean continuation ALSO loses, which would point at a measurement artefact rather than a market property."
+  },
+  "planning": {
+    "periods_per_year": 8760,
+    "n_observations": 68490,
+    "assumed_var_trial_sharpes": 1.8e-05,
+    "assumed_skewness": -0.2,
+    "assumed_kurtosis": 8.0,
+    "assumed_null_residual_sharpe_sd": 0.062,
+    "null_runs": 10,
+    "power": 0.8,
+    "cscv_splits": 16,
+    "sd_source": "measured null calibration from SW-0002 (10 shuffled runs, sd 0.0620)"
+  }
+}

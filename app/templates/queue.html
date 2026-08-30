@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Review queue{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <h1 class="glow">The queue.</h1>
+  <p class="lede">Strategies submitted and waiting to be registered. Voting
+  moves one up the order; it does not decide the outcome, because a popular
+  rule and a testable one are not the same thing.</p>
+  <p class="mono" style="color:var(--dim);font-size:13px">
+    {% for k, v in counts.items() %}{{ k }} {{ v }}&nbsp;&nbsp;{% endfor %}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  {% if not rows %}
+    <div class="block"><p class="tag">Empty</p>
+    <p>Nothing in the queue. <a href="{{ url_for('submit_form') }}"
+       style="color:var(--seal)">Submit the first one.</a></p></div>
+  {% endif %}
+  {% for s in rows %}
+  <div class="qrow">
+    <h3>{{ s.name }}</h3>
+    <p class="qmeta">{{ s.market }} &middot; {{ s.created_utc[:10] }} &middot;
+      <span class="pill {{ s.status }}">{{ s.status }}</span>
+      <button class="votebtn" data-id="{{ s.id }}">&uarr; <span>{{ s.votes }}</span></button>
+      {% if s.sweep_id %}&middot; <a href="{{ url_for('record', sweep_id=s.sweep_id) }}"
+        style="color:var(--seal)">{{ s.sweep_id }}</a>{% endif %}</p>
+    <p class="qdef">{{ s.definition }}</p>
+    {% if s.reviewer_note %}<p class="qdef" style="color:var(--gold)">Reviewer: {{ s.reviewer_note }}</p>{% endif %}
+    {% if admin %}
+    <form method="post" action="{{ url_for('review', sub_id=s.id, admin=request.args.get('admin','')) }}"
+          style="margin-top:16px;display:flex;gap:8px;flex-wrap:wrap">
+      <select name="status" style="width:auto">
+        <option>queued</option><option>accepted</option><option>rejected</option>
+        <option>running</option><option>published</option>
+      </select>
+      <input name="sweep_id" type="text" placeholder="SW-00xx" style="width:130px">
+      <input name="note" type="text" placeholder="Note to submitter" style="flex:1;min-width:200px">
+      <button class="primary" style="margin:0;padding:11px 20px">Save</button>
+    </form>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+</div>
+{% endblock %}
+{% block script %}<script>
+document.querySelectorAll('.votebtn').forEach(function(b){
+  b.addEventListener('click',function(){
+    fetch('/queue/'+b.dataset.id+'/vote',{method:'POST'})
+      .then(function(r){return r.json();})
+      .then(function(j){var s=b.querySelector('span');
+        if(j.ok){s.textContent=parseInt(s.textContent,10)+1;
+          b.style.borderColor='var(--seal)';b.style.color='var(--seal)';}
+        else{b.textContent='voted';b.disabled=true;}});});});
+</script>{% endblock %}

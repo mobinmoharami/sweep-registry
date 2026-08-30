@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 31605,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:32+00:00",
+      "rows": 659,
+      "sha256": "e76b5962ff1934febee913bd4b75cab50025f6f073c0ae50f2d2ac62fc8c6bac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33046,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:33+00:00",
+      "rows": 744,
+      "sha256": "aadff31ed600d074aa405c705d7025de4fa645a1db131aa302ee297e6d62d6f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32833,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:33+00:00",
+      "rows": 744,
+      "sha256": "9f42a9a1b38bcaac7ede973e4c693986b15cbddfc4520a2e31df84c06c976003",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 32127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:33+00:00",
+      "rows": 672,
+      "sha256": "64b58b63dd4d4dde2c4240b47726da1193d1863c78716e4a47cc7458d7787ebe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 35721,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:33+00:00",
+      "rows": 744,
+      "sha256": "803f8cda02ebcfce83d2ba7042d1b60056153ed219ef14e90fe519dd9e64d092",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33035,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:33+00:00",
+      "rows": 720,
+      "sha256": "8161d861049a5f10929d256fad5f2ed5443474cc351c863ea15df71cf8cd4f76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33839,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:34+00:00",
+      "rows": 744,
+      "sha256": "6bab1408c11dd860f60b1266188612e6286a7a17daf2dff85e7ec5c9c210a104",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31899,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:35+00:00",
+      "rows": 720,
+      "sha256": "f86de963f92201f608d670ed00ab91a181f5f96cfde6d2f36d2c10d893dd5d04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:11:35+00:00",
+      "rows": 744,
+      "sha256": "9c0d32d4b4473af726985b2482d15faf3e2c03a1b242fc7b6bd4bc07343e80f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KITEUSDT/1h/KITEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "KITEUSDT",
+  "total_rows": 6491
+}

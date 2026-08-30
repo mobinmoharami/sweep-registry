@@ -1,0 +1,781 @@
+{
+  "files": [
+    {
+      "bytes": 8207,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:33+00:00",
+      "rows": 164,
+      "sha256": "6ea287b7f0d2005fe044ea40a93773f55b5fc63ba8489a909326c3abbc76008d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 36464,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:33+00:00",
+      "rows": 744,
+      "sha256": "11f32952d4054b396c1201e1d0dac33d841f9d29924557a5cb38180607d8dd41",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 34595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:33+00:00",
+      "rows": 720,
+      "sha256": "1ed9d972297e94501a35f544059f1ffc7f5dcf05cf869770e1a873ea5d186573",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 33428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:33+00:00",
+      "rows": 741,
+      "sha256": "5a98d678557546c0629377581e62b4517fc62033af19bac622b4e426d12d6862",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 32567,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:32+00:00",
+      "rows": 713,
+      "sha256": "6d9ab8625ae55a8a8655372d4a42a1a109c8520f3da8799f2baec25100f1d2e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 33906,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:32+00:00",
+      "rows": 744,
+      "sha256": "d3c45fc062e421e31326034248dfe4c8f9a407042cace736e2ed907fd01e989e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 34004,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:34+00:00",
+      "rows": 744,
+      "sha256": "0858fc1879a8ad7adafe5aa26713af38dc13f72dd0fb015ab75494e807a9561b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 30611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:34+00:00",
+      "rows": 672,
+      "sha256": "ca6da5febfc26dd1b66bd9026625cbc1d5509f8150ca35cb5e0d34b15e1014e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 34180,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:34+00:00",
+      "rows": 738,
+      "sha256": "12a1bfcbfff91fa2eaceb0b998707a53532e4817fd98f959142d4299dc45d962",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 33524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:34+00:00",
+      "rows": 720,
+      "sha256": "9be68d7edb06cb8d646ab2ab350525a7ab87fb7bab360de0c9b105cb941a8e5d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 34502,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:35+00:00",
+      "rows": 734,
+      "sha256": "710df1f37888c3af6d5efe1b7ea58feb292e9dd5fcc9f2940496e4f6cd44bcc4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 34029,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:35+00:00",
+      "rows": 720,
+      "sha256": "5c9f026f0defa5a1bec17023fe07fd9afbdbea9a40968a2827c1f0c01afb502c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 34523,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:35+00:00",
+      "rows": 744,
+      "sha256": "73de15abeac8972beb73b0b4568aa857b14dac59719386a65bf759d636491de8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 33115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:35+00:00",
+      "rows": 736,
+      "sha256": "3337ebaf7dcf0c26b6e8f7f91cd77c7a2258c609c66a014fbb59d57729f9e730",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 31584,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:35+00:00",
+      "rows": 720,
+      "sha256": "cccfedbfaffd6fdd50b99f2739a76d1281ff669681cec49da1a73e2acd40a228",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 32782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:36+00:00",
+      "rows": 744,
+      "sha256": "d89078529469cc18335ccfefe23ec8c4ca8fb5b2e37d2b6b6308376b59a55063",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 35089,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:36+00:00",
+      "rows": 716,
+      "sha256": "4ab38259321f93a1e2c89bb2189fc77454422c2d399836eae19f1f3c2c4b2a7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 36113,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:36+00:00",
+      "rows": 744,
+      "sha256": "f16cb8cde9970c4c2248dce546d681a671332ab9512fdf76032ecd60f5e52548",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 34831,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:37+00:00",
+      "rows": 744,
+      "sha256": "352ece6aa30b0c423556801a14e950faa775ed914e73804d8c6837838cd714cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 33651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:37+00:00",
+      "rows": 690,
+      "sha256": "b3975ef59e365aa218cd7d5ae94f9072e54a957762485b6362bd5ec275e879ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 35913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:36+00:00",
+      "rows": 743,
+      "sha256": "df278f87b417b8f45d433a79e2d24caed5aa9aacd54d46aa7c254e70aeb55462",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 34143,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:37+00:00",
+      "rows": 718,
+      "sha256": "9ee18089f865cbbc710c30d60c7c08fbded9e58cd9046d528a8535abe701c9a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 35805,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 744,
+      "sha256": "c7ffd5199623108a02603377854e9e5f7d31dd10cf7eb1cad5ff399be66306a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 35610,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 717,
+      "sha256": "981b997ecde497f97c53c0270b404a85091775a6da89f9032133e3ea931c3507",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 38046,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 744,
+      "sha256": "fbb277fbc00455bfa0c045a51770910f7105d45020535a17677e21ca7ab727f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 37586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 744,
+      "sha256": "485d96b0a8bc02ad9f986539fa79d434d099c89cfc45182c4adb5b192d74b993",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 36327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 720,
+      "sha256": "b0d0a2108262802fae6a4c3d544c1a22cd5afa9166a8ded3486434690f3fa551",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 36638,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:38+00:00",
+      "rows": 744,
+      "sha256": "b9ada5ece1cced91275a256ef67bcd6639886cbf0984a4bcdf5f3668fdd9d146",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 35969,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:39+00:00",
+      "rows": 719,
+      "sha256": "a4fc64e013d3abc6491f36472e436673c6be8bad8233c57d99497aedcb9f8697",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 37311,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:39+00:00",
+      "rows": 740,
+      "sha256": "52d068d7109df3e387487f226d05555c4ed40c87c87d1b8745caa23ebef7b8f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 38776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:40+00:00",
+      "rows": 744,
+      "sha256": "8a86af9651e887fe1bb601815e40e73856250fbebb8feb6877372f2fba3f3040",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 35522,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:40+00:00",
+      "rows": 671,
+      "sha256": "b830eec01eb475155eca99786d02415bb20c03dc375622621253d79686bf546e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 39508,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:40+00:00",
+      "rows": 743,
+      "sha256": "47933727933600c8d1074c4e4a25b6cdc11b6564aff5ba6094fd609e4f95977e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 39225,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:40+00:00",
+      "rows": 715,
+      "sha256": "ad8e0f57da4da5ba3d900a2c43ee90caf657d95d38624c58dfcdcb3ca8bc91ee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 40446,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:41+00:00",
+      "rows": 744,
+      "sha256": "a5d730c8884e270994dc43c7d2e5e4987dcf2ba32f2c81b15a6ee872345995f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 38172,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:41+00:00",
+      "rows": 720,
+      "sha256": "8e49b126daedb0ffb7bd14edf4a320eddee9167029c86a5bc37e1e0ac31242c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 38104,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:41+00:00",
+      "rows": 744,
+      "sha256": "f9caef86eac05175056afe3f033d893dd3f70c4b431654487d003425db46d301",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:42+00:00",
+      "rows": 740,
+      "sha256": "bedb672291f986254a379863aeace1bfe4823cae40538d3d38c1a683239b3663",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 37546,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:41+00:00",
+      "rows": 718,
+      "sha256": "a8581de2ff831a858f7d5198401de325f261b596e5f762a8a6ce3b6233b617a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 38639,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:42+00:00",
+      "rows": 744,
+      "sha256": "4c12f385ccbc9a6516593ed8d207ac911152a321b96298f30f6ae7277d32bede",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 38041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:42+00:00",
+      "rows": 720,
+      "sha256": "f1436efcc6210db380163ff5d744352b53a9c78ec43ddb9b7dffffe827a53294",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 38376,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:42+00:00",
+      "rows": 744,
+      "sha256": "cc4100e5fea7e663f4b3ff88cd25b2e11c0cd050339786d0d182a9d4d7ff2839",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 37728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:42+00:00",
+      "rows": 744,
+      "sha256": "1f5f0a4c5eded335a582dc71a3bd5af7223685d70c8c967eaa280b7996c674ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 34200,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:43+00:00",
+      "rows": 672,
+      "sha256": "8edb50385eeeaaf90f657699c439c51e41bd983b13bda71448fdec313678931f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 37902,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:43+00:00",
+      "rows": 744,
+      "sha256": "15edb59a256d8147fd0330b93d97aee2935c48a9417fa4d181f4e93808011a7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 36541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:44+00:00",
+      "rows": 720,
+      "sha256": "90551e5c17f03ec186f8b551823f835d69bf090f3873356024445aeb327cb438",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 37626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:44+00:00",
+      "rows": 744,
+      "sha256": "9dc0eae244811ebb3a75f932d81586517e3fcc51df60bf1628db0136af2686bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 35781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:44+00:00",
+      "rows": 720,
+      "sha256": "ecc958ce793efcadb1610ebb76a6dd2e577b2947f5343b997cd1e2d8a8a3e6ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 36266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:44+00:00",
+      "rows": 744,
+      "sha256": "4a3d5ba169ecbbc99e2af4a23d0ca6518291e52cf2c2eddd30c7f0638010a844",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 36115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:45+00:00",
+      "rows": 744,
+      "sha256": "8aa9b0fba585f84ded12441f2ec1ecddd0b6d1ad152ecf86da824f770e8c7e2b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 34347,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:45+00:00",
+      "rows": 720,
+      "sha256": "46af968e72bcd41dbe6736d782d1b9ec140879793211c8234c6b856fa06358e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 34514,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:45+00:00",
+      "rows": 744,
+      "sha256": "efca4f71f71c6b61e78d4bb1a8b8507485590e88543da522019883b489443406",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 34368,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:45+00:00",
+      "rows": 720,
+      "sha256": "48685444ad88985c5703e5a065e559d44682a351af82b665db487d171396a540",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 33609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:46+00:00",
+      "rows": 744,
+      "sha256": "81dfb94704dc74199ed05439bccbe4cd319f6fc71abb64a1feac05f7587c1b99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 35038,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:46+00:00",
+      "rows": 744,
+      "sha256": "51618f2ab580cd418149ffb54e0d0a3f15eb85f4704d03317ddefea457907efc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 32708,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:46+00:00",
+      "rows": 672,
+      "sha256": "5647d2e62d4db97ed7afd81a4e976e7bff7e70f0e1f29c42da47952b9c5ef561",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 35840,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:47+00:00",
+      "rows": 743,
+      "sha256": "e0679bd8f7ea0284a9beb0c89479914a7d0234233b6e23fdf4b823271055aefe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 33981,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:47+00:00",
+      "rows": 720,
+      "sha256": "f1d8b3794060d362dbe3bed5319b4c63ef80ed98374bcbe35562e7fcfd096c43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 34260,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:47+00:00",
+      "rows": 744,
+      "sha256": "618bb2b4453a0c2c74b07193d3eb7cb088b5769aa2e9dbfd0cf6fe695018f913",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 34079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:47+00:00",
+      "rows": 720,
+      "sha256": "e890f5d7a218bd6e2e2f87ec837b0e92bc84bf9fe93dc2acd2e411a563517a1b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 34508,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:48+00:00",
+      "rows": 744,
+      "sha256": "4f5350a407f90375b5472428f55730ef95236ac5374fd4f8d689403bf4606108",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 33806,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:48+00:00",
+      "rows": 744,
+      "sha256": "b4a5832dfad6b6fe03cef938baaee62d26d283a705540b602aec27ad4b36fb61",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 32992,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:48+00:00",
+      "rows": 720,
+      "sha256": "3f4ae09117976faff7418afb22c05df75211809139b4b944d3fbccef2464868f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 34429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:49+00:00",
+      "rows": 744,
+      "sha256": "2782a930794cda84314c1ea09d594ba91f8060964bff58814116e694c9ef6ca4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 34433,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:49+00:00",
+      "rows": 720,
+      "sha256": "68d8faec2210d437aedccf17e17b88631f3ee0c0deed035553b5fc982a96dbfb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 36659,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:49+00:00",
+      "rows": 744,
+      "sha256": "e7c588ca1a87c158909f91255f142cb671eae000db7bf8ddf4e11b8df8f024b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 35764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:49+00:00",
+      "rows": 744,
+      "sha256": "1b19bed57a737a390caab7eb11c6fa36621e1371d4eab956f7412b5cd8ae2fb3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 34241,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:50+00:00",
+      "rows": 696,
+      "sha256": "30a4fa6398584365bf6dcfc50a1eb28bbee86451a799ad5d331aba7546a2d6e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 37097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:50+00:00",
+      "rows": 744,
+      "sha256": "a70a3b1a7e644815b4a93004c3be05f2d82f43939449be434fb7fe132fc9b0ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:50+00:00",
+      "rows": 720,
+      "sha256": "7e202671390e27ba93b8f37216f9ad4976c5edf87980463b4cd7d8c76155634a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 35599,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:50+00:00",
+      "rows": 744,
+      "sha256": "21d7746375ccc9a6d21a752a19a61d70690b0eaa60f96f4daa61fc56a59ad9a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 34111,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:51+00:00",
+      "rows": 720,
+      "sha256": "3172bf8c4a1a03a56aee66725527dec571d964cc869eb49ceba507999e99be40",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 35520,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:51+00:00",
+      "rows": 744,
+      "sha256": "920161d0390061b9f459daa4c958e92ff6ecb370a76ad6d130cd40cf2dc7adf0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34948,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:52+00:00",
+      "rows": 744,
+      "sha256": "841caee9502119e18e25947e01a423c1e8990aa10014acdcdf2302f7e1a4ee64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33773,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:52+00:00",
+      "rows": 720,
+      "sha256": "b94d8128221ece6a7153ba7d968974fbc92693b27e6157295d2673e293303273",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34710,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:52+00:00",
+      "rows": 744,
+      "sha256": "595b89fa8c63f01f1b89e10c9f3684c610f61974a75ff720f1b194dbe484e692",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 35608,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:52+00:00",
+      "rows": 720,
+      "sha256": "ccf110150dbf5356aaffda6ae4aebac7182159d1f74dfd7d5f3b1b69b2d864af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 38120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:53+00:00",
+      "rows": 744,
+      "sha256": "f7ea5da22ce3a8b517da5522a5633331e0addc5a9afe52a53318deda15d0c9b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 37416,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:52+00:00",
+      "rows": 744,
+      "sha256": "f3ab64e92a7bf64516f6bc186439600019bfb3ec2dc62187124a2c73edd421b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 33373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:53+00:00",
+      "rows": 672,
+      "sha256": "049d04dad6f358488f2052f1071176f4537e41ca36cb756cd5e28c3fb9d0ccf0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 36281,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:53+00:00",
+      "rows": 744,
+      "sha256": "6ea7b9f63050164d603f7890c2e91a53a550bf23c10e6e0d19d259ea9297619e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 34845,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:53+00:00",
+      "rows": 720,
+      "sha256": "6d86bfe5cb25e12e2defadfa69542c57736a21ba7214e13e93398efe44384c1c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 36097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:54+00:00",
+      "rows": 744,
+      "sha256": "99c051ff59dead6f25cb340f2e31d154520f20987b088072758001fffb71dc72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 33923,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:53+00:00",
+      "rows": 720,
+      "sha256": "dca9ac384c7a4bb51726d999b5513e9cae30d4586e1f03b466681a7fef6dabf7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 35809,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:54+00:00",
+      "rows": 744,
+      "sha256": "2d88134c521988db710fd442a4bbc3b059efb1ec2eec6e83dc561ee05388126c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 35739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:55+00:00",
+      "rows": 744,
+      "sha256": "68f67d1906659176aef5c781215db9ea2a3836943cc46b14f2564fecdf6d34d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33938,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:55+00:00",
+      "rows": 720,
+      "sha256": "0a44cfc6c3d3ffd3ed3087d32cd664e808ff9b2a896c6359e5636a4bd530c035",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 35122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:55+00:00",
+      "rows": 744,
+      "sha256": "c0cc831571f702f278a8814f3e2f89c61bb7ac6e49f0f77bd94fafc4b12f34a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 33816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:55+00:00",
+      "rows": 720,
+      "sha256": "44c9b4cf64e76030096117bcb2a27aa7e1a2fdd0866903462cb19d96fe6ab4b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 34157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:56+00:00",
+      "rows": 744,
+      "sha256": "273a6b2c31582da6d450eebca02bc887b8c51dfe4b88e155a251f4d46ab6e24b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 34147,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:56+00:00",
+      "rows": 744,
+      "sha256": "15b0b8c705f52a6d6cd2ba43214d787cfc24ef2cfc7e9060a2befc08dfe8aec9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30645,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:56+00:00",
+      "rows": 672,
+      "sha256": "b3f76f4a84e6a839a663b4b9a4c6f87b44d79f47889e0c7a0479bb175fab72a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 35620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:56+00:00",
+      "rows": 744,
+      "sha256": "bec6bab83e4c942e3ee0d02c00fe8d02905655bc47abe580f0a8f0a0834f20c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 34761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:57+00:00",
+      "rows": 720,
+      "sha256": "89a3a29aa6b657548e24c3f24af47bd6c40897800feb5723b1bed034e3eff8f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 36120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:57+00:00",
+      "rows": 744,
+      "sha256": "40ede2b21a3d0620ca65488a2f728c65868943a18dd14d128db45ec9115a6046",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 34397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:57+00:00",
+      "rows": 720,
+      "sha256": "3c52fa579c613922f645f01950d83399d0c873d2cc35d513ad83a8537a1ebe2b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/VETUSDT/1h/VETUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "VETUSDT",
+  "total_rows": 69479
+}

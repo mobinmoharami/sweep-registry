@@ -1,0 +1,93 @@
+{
+  "files": [
+    {
+      "bytes": 33484,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:22+00:00",
+      "rows": 736,
+      "sha256": "31f0da3d2f4de1899ea6dacbc1b8defc3a306ce0df31e5c3b804c0e69c16f7bd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:22+00:00",
+      "rows": 720,
+      "sha256": "f20958ba779a6dcc6b8d198c0a376e1bd2cbf449ec979fa43607ec8ab666921a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31311,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:23+00:00",
+      "rows": 744,
+      "sha256": "230fe0b624b8d262427521094b88eb88c3e8fd112f55beae73e1916cba4c0398",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32001,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:22+00:00",
+      "rows": 744,
+      "sha256": "34258b663f62797f7343d70df7616c421755cf7a494b441aadde1fb95cd805b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28541,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:23+00:00",
+      "rows": 672,
+      "sha256": "e69120996131b6a2f2df881dd98b898875223e81221484556c3d1df80de78dd1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30767,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:23+00:00",
+      "rows": 744,
+      "sha256": "67775d33a512a7a2c6413c3c13569ff959b3ca07bfa831bbae7ef2b8330e63db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32388,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:23+00:00",
+      "rows": 720,
+      "sha256": "ce3b973793d1c76c8c5e20ba855590c838c7c71f2819ddbcb8dc0488811a8783",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:24+00:00",
+      "rows": 744,
+      "sha256": "b0d5bd418c3fece0bf1c19569fe3fc449be66499c7455676c3fa965f52404902",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29418,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:24+00:00",
+      "rows": 720,
+      "sha256": "67da05df386e81c0471e06263ad3d05a9d97c5562056240be895982449b97eed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29656,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:24+00:00",
+      "rows": 744,
+      "sha256": "d23f68e426d7716d04d6a22914dc2fb59582e2d8499903b0986f91d85c6d3449",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NOMUSDT/1h/NOMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NOMUSDT",
+  "total_rows": 7288
+}

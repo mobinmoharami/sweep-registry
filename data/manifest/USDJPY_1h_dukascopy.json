@@ -1,0 +1,23 @@
+{
+  "bars": 48775,
+  "downloaded_utc": "2026-08-01T15:58:09+00:00",
+  "errors": [],
+  "first_bar_ms": 1504224000000,
+  "hours_absent": 0,
+  "hours_requested": 68640,
+  "interval": "1h",
+  "last_bar_ms": 1751324400000,
+  "non_weekend_gaps": 10,
+  "non_weekend_missing_bars": 215,
+  "note": "Weekend hours are absent, never filled. Filling them would create zero-return zero-range bars that mean reversion rules read as signal and volatility rules read as calm.",
+  "point_scale": 1000.0,
+  "price": "mid of bid and ask",
+  "requested_range": [
+    "2017-09",
+    "2025-06"
+  ],
+  "source": "dukascopy",
+  "symbol": "USDJPY",
+  "ticks": 231587620,
+  "weekend_gaps": 408
+}

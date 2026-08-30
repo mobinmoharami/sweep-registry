@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24494,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:54:17+00:00",
+      "rows": 587,
+      "sha256": "4e94e2e373aa15fa97d86c7ca16e0a7baf5d4bb21ff5038a2f633d70e7aafa36",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DRAMBUSDT/1h/DRAMBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DRAMBUSDT",
+  "total_rows": 587
+}

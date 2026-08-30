@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 23761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:31:30+00:00",
+      "rows": 587,
+      "sha256": "01d57f92106c47c3ec7dd09c9f7d4f1325e09630f7c0fd2c3dc45598ec5b938b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QCOMBUSDT/1h/QCOMBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "QCOMBUSDT",
+  "total_rows": 587
+}

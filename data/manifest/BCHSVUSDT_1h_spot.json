@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "bytes": 19154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:26+00:00",
+      "rows": 352,
+      "sha256": "4846abd8a39142187974ce84af73d68b2ac43028fb3d6ad85068c7217a9b47ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 38810,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:25+00:00",
+      "rows": 744,
+      "sha256": "0f2e8bb19ee7116c40484ed17541cd8340154be69cbbd01c113992879b4fddf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 37043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:26+00:00",
+      "rows": 744,
+      "sha256": "cf94fb96be530849902e0eec5f068a0373a730b03ac0dd5e8ad9c1e64f2eb74d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 33034,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:26+00:00",
+      "rows": 672,
+      "sha256": "d0e00a50c9a9d774b4a027ab701218c51066c7cb57e321ffa204e300b5a12cdc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 35643,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:26+00:00",
+      "rows": 738,
+      "sha256": "5315dde654ab5652db422b9738b6a3b3d6f4724499cc0a5d8d76a318d72ff280",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 26029,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:10:27+00:00",
+      "rows": 514,
+      "sha256": "1124a2bd911f9aebeb291f5f3d4d8d2caea74e018ef4d381ee6f9c165dc50150",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BCHSVUSDT/1h/BCHSVUSDT-1h-2019-04.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BCHSVUSDT",
+  "total_rows": 3764
+}

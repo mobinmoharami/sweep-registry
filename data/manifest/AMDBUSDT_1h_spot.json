@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 7705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:51+00:00",
+      "rows": 179,
+      "sha256": "debf0ce3d503adc58ee130cb0fa4fcb22c7428989102182abf23fcb605411791",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMDBUSDT/1h/AMDBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31676,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:51+00:00",
+      "rows": 744,
+      "sha256": "a2ea25a7a7dbb73db80aecbb6b4f2f31a65e897e9cbb0fa6a05801fc94bfece1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMDBUSDT/1h/AMDBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AMDBUSDT",
+  "total_rows": 923
+}

@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 30011,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:30+00:00",
+      "rows": 634,
+      "sha256": "56cd1d99c7b9fb3d34eb268df24c4a33d7d328ac6399055a60756ec22150caf6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 32670,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:30+00:00",
+      "rows": 720,
+      "sha256": "76d8baedb6db221794420fe5bc6b0e9d4b62a420b2184706270e3a01f0e188b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32569,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:29+00:00",
+      "rows": 744,
+      "sha256": "cdd29fc98fb2a3b5bcc04158bc66c0a14e49be69fc63f5ce043d134ff584eda1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30295,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:30+00:00",
+      "rows": 720,
+      "sha256": "163b03d255e0ea662a15690504693e446308f0eac38314eb62d8ac812b6f49d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 30486,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:30+00:00",
+      "rows": 744,
+      "sha256": "104d3b5229d34436e324ad6244c61b7779a7570eef2adafa814202f529b443be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:30+00:00",
+      "rows": 744,
+      "sha256": "9f0033cef4015ed2e41ded57e7ca50637bf905e0e26c91fd3dcbd911c8859f10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27391,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:31+00:00",
+      "rows": 672,
+      "sha256": "e8af1657579ba2d82f6ea5cc5c37f656faba0c2a0b381179b383c45e2cbe69d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30473,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:31+00:00",
+      "rows": 744,
+      "sha256": "6ed1acbe56aa658115fc3ab75555a19ece283dea5e5c133676d218a227a35d5f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:32+00:00",
+      "rows": 720,
+      "sha256": "92c7548373e2a3c838f18c69a3dd1fd81a025c4e9ab61d5207451e3ea9e87e38",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:32+00:00",
+      "rows": 744,
+      "sha256": "85ea67315902c80a7148a9d6af5b1173a079e3eb528c4a0ddcc54994b0d0f9f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29105,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:32+00:00",
+      "rows": 720,
+      "sha256": "d7995d8da44c29069fb5c63f85542301fc19fea8fff5910e91ae8b61ada53f7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30503,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:49:32+00:00",
+      "rows": 744,
+      "sha256": "8f20d2e8ccf799ddb05ee88b6aa45ba50172b2aee47dbe9055f895695797257e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/TOWNSUSDT/1h/TOWNSUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "TOWNSUSDT",
+  "total_rows": 8650
+}

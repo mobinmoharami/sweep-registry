@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block title %}Does {{ r.label|lower }} work? {{ '{:,}'.format(r.trials) }} versions tested{% endblock %}
+{% block desc %}{{ r.label }} tested across {{ '{:,}'.format(r.trials) }} parameter combinations on {{ r.market }}, {{ r.period }}. Pre-registered and sealed before testing. Result: {{ r.verdict_text }}.{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"ScholarlyArticle",
+  "headline":"{{ r.label }} tested across {{ '{:,}'.format(r.trials) }} versions",
+  "about":"{{ r.label }}",
+  "abstract":"{{ r.title }}. {{ r.verdict_text }}.",
+  "isAccessibleForFree":true
+}
+</script>
+{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('index') }}">&larr; All records</a>
+  <span class="id mono">{{ r.id }} &middot; {{ r.market }} &middot; {{ r.period }}</span>
+  <h1 class="glow">{{ r.label }}</h1>
+  <span class="badge {{ r.verdict_class }}">{{ r.verdict_text }}</span>
+</div>
+
+<section style="border-top:0;padding-top:20px">
+  <div class="grid2">
+    <div class="cell"><b>{{ '{:,}'.format(r.trials) }}</b>
+      <span>Versions tested</span><em>every combination, fixed in advance</em></div>
+    <div class="cell"><b>{{ '%+.2f'|format(r.best) if r.best is not none else '—' }}</b>
+      <span>Best version</span><em>return adjusted for risk, per year</em></div>
+    <div class="cell"><b>{{ '%+.2f'|format(r.null) if r.null is not none else '—' }}</b>
+      <span>Luck alone</span><em>what the best scores if nothing works</em></div>
+    <div class="cell"><b>{{ '%.3f'|format(r.dsr) if r.dsr is not none else '—' }}</b>
+      <span>Score</span><em>has to reach 0.950</em></div>
+  </div>
+
+  {% if r.best is not none and r.null is not none %}
+  <figure class="chart">
+    <h4>Result against chance</h4>
+    <div class="plot">
+    <svg viewBox="0 0 760 {{ 46 * (3 if r.limit is not none else 2) }}" width="100%"
+         height="{{ 46 * (3 if r.limit is not none else 2) }}" role="img"
+         aria-label="Best result compared with luck">
+      {% set top = [r.best|abs, r.null|abs, (r.limit|abs if r.limit is not none else 0)]|max or 1 %}
+      {% set bars = [('Best version found', r.best, '#e6ecf5', 0.9),
+                     ('What luck alone gives', r.null, '#4d5a70', 0.55)]
+                    + ([('Smallest edge visible', r.limit, '#fbbf24', 0.55)] if r.limit is not none else []) %}
+      {% for lab, v, col, op in bars %}
+        {% set y = loop.index0 * 46 %}
+        {% set w = (v|abs) / top * 520 %}
+        <text x="0" y="{{ y + 17 }}" fill="#7d8ba3" font-size="11.5" font-family="Inter,sans-serif">{{ lab }}</text>
+        <rect x="170" y="{{ y }}" width="{{ '%.1f'|format(w) }}" height="26" fill="{{ col }}" opacity="{{ op }}"/>
+        <text x="{{ '%.1f'|format(180 + w) }}" y="{{ y + 17 }}" fill="{{ col }}" font-size="12"
+              font-family="JetBrains Mono,monospace">{{ '%+.2f'|format(v) }}</text>
+      {% endfor %}
+    </svg>
+    </div>
+    <figcaption>If the best version cannot beat what luck alone produces from
+    the same number of tries, there is nothing there. The third bar is the
+    smallest real edge this test could have detected: anything below it is
+    invisible to the test, and that limit is stated rather than hidden.</figcaption>
+  </figure>
+  {% endif %}
+
+  {% if r.dist %}
+  {% set d = r.dist %}
+  {% set lo = [d.min, 0]|min %}{% set hi = [d.max, 0]|max %}
+  {% set span = (hi - lo) or 1 %}
+  {% macro X(v) %}{{ '%.1f'|format(34 + (v - lo) / span * 692) }}{% endmacro %}
+  <figure class="chart">
+    <h4>Spread across every version</h4>
+    <div class="plot">
+    <svg viewBox="0 0 760 116" width="100%" height="116" role="img"
+         aria-label="Distribution across all variants">
+      <line x1="{{ X(d.p05) }}" y1="49" x2="{{ X(d.p95) }}" y2="49" stroke="#2b3648" stroke-width="1"/>
+      <rect x="{{ X(d.p25) }}" y="34" width="{{ '%.1f'|format((d.p75-d.p25)/span*692) }}" height="30" fill="#1c2534"/>
+      <line x1="{{ X(d.median) }}" y1="30" x2="{{ X(d.median) }}" y2="68" stroke="#e6ecf5" stroke-width="2"/>
+      <line x1="{{ X(0) }}" y1="18" x2="{{ X(0) }}" y2="80" stroke="#f97066" stroke-width="1" stroke-dasharray="3 3"/>
+      <text x="{{ X(d.min) }}" y="90" fill="#4d5a70" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">{{ '%+.2f'|format(d.min) }}</text>
+      <text x="{{ X(d.median) }}" y="24" fill="#e6ecf5" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">median {{ '%+.2f'|format(d.median) }}</text>
+      <text x="{{ X(d.max) }}" y="90" fill="#4d5a70" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">{{ '%+.2f'|format(d.max) }}</text>
+      <text x="{{ X(0) }}" y="108" fill="#f97066" font-size="10" font-family="JetBrains Mono,monospace" text-anchor="middle">zero</text>
+    </svg>
+    </div>
+    <figcaption>Every version tested, worst to best. The box holds the middle
+    half. Showing only the best bar is how noise gets sold as skill.
+    {% if d.share_positive is not none %}
+    {{ (d.share_positive * 100)|round|int }}% of versions finished above zero.{% endif %}</figcaption>
+  </figure>
+  {% endif %}
+
+  {% if r.reason %}<div class="block void">
+    <p class="tag">Why this record is void</p><p>{{ r.reason }}</p></div>{% endif %}
+  {% if r.confirmatory %}<div class="block confirm">
+    <p class="tag">What was sealed, and the verdict</p>
+    {% for c in r.confirmatory %}<p>{{ c }}</p>{% endfor %}</div>{% endif %}
+  {% if r.exploratory %}<div class="block explore">
+    <p class="tag">Noticed afterwards: a hypothesis, not a finding</p>
+    {% for e in r.exploratory %}<p>{{ e }}</p>{% endfor %}</div>{% endif %}
+  {% if r.notes %}<div class="block">
+    <p class="tag">Notes</p>{% for n in r.notes %}<p>{{ n }}</p>{% endfor %}</div>{% endif %}
+
+  {% if r.sha %}<div class="hashline">
+    <b>{{ 'Sealed on the Bitcoin blockchain' if r.stamped else 'Hashed' }}</b>
+    before the test ran.<br>sha256 {{ r.sha }}</div>{% endif %}
+</section>
+
+<section style="padding:30px 0">
+  {% if prev %}<a class="back" href="{{ url_for('record', sweep_id=prev.id) }}">&larr; {{ prev.id }}</a>{% endif %}
+  {% if next %}<a class="back" style="float:right" href="{{ url_for('record', sweep_id=next.id) }}">{{ next.id }} &rarr;</a>{% endif %}
+</section>
+</div>
+{% endblock %}

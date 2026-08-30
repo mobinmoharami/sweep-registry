@@ -1,0 +1,541 @@
+{
+  "files": [
+    {
+      "bytes": 12108,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:32+00:00",
+      "rows": 230,
+      "sha256": "67f1b4f343d971fdbaa792b9d290a8dc53cfc6ce48cba39ff312d0474d9edfd5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 36631,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:31+00:00",
+      "rows": 743,
+      "sha256": "e0aaad4042ae68bad661eb0e1f90f203262b59d100d4d54bf2bf5bc5162cdffc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 35722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:32+00:00",
+      "rows": 715,
+      "sha256": "25b815e25b5375ea5d9f3dc8ef05bf3d19f313b987f94d1e1d64df9e6d07565c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 36726,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:32+00:00",
+      "rows": 744,
+      "sha256": "b6eaead20f90071448b9e091f8ca2920803ddbbea0a4f22c5a96e0ee4c828d87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 34461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:32+00:00",
+      "rows": 720,
+      "sha256": "8096b87901b7d0e793bb87a096b967682560fbba555c8a6d76769c92eb5fa149",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36059,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:32+00:00",
+      "rows": 744,
+      "sha256": "61f23af5f9173e1bc4eb0503b92cd2803e99763d679296ce5bd512174e5319d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 35945,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:33+00:00",
+      "rows": 740,
+      "sha256": "cad26c8193583ac28d5c41963fa1a9ab69c1f1c7bf1e493b71c6085b4abb1c04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 31700,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:33+00:00",
+      "rows": 718,
+      "sha256": "638240f90be9aad96f7e533a631a05bd5aa416b1d42b4e5c807e172d61b47d66",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 32630,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:33+00:00",
+      "rows": 744,
+      "sha256": "d30231815b54d3186cb38f25f6d29783f197096059a83c8af0d8a3ee6a2c0af1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 31481,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:33+00:00",
+      "rows": 720,
+      "sha256": "4ba0afb4b4c48dcf7cdeb9cb0a79aa15226426d0055671cca098e59e531cde8c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 31791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:34+00:00",
+      "rows": 744,
+      "sha256": "0d5ed8bae60dfc37492b72d620094bb333fcc3062dab405717c36944215496e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 31265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:34+00:00",
+      "rows": 744,
+      "sha256": "e749b9fbde5976fad579057d0dc306e21000e3f41b225127521fd534dcd31cf2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 28126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:34+00:00",
+      "rows": 672,
+      "sha256": "7f40126ab95694cd60bb666007a0a534948134dd70aee9eb9abc1c1446359f35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 30331,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 744,
+      "sha256": "9c76b794c68e860030cfd4e7c87c261cc151827a76b98f266e6177480248b36c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 30247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 720,
+      "sha256": "6c931fbea2d9c7aa1ce31e842c70202df2e325c24e002d7ac48941f343308ea6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 30519,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 744,
+      "sha256": "e5446dd69931d3b4792062b45cc3194d40fdd4fe407b9733a3a489da9da105e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 32353,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 720,
+      "sha256": "d5bbe9fc8a685005e565f5f98b01bca48d63ca6b02c69aaec6a33d1e7240097f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 33069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 744,
+      "sha256": "5fb19133079ae3ba859f252946548b56ed08d4df1ff48ee42e5cafaac5561edb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32140,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:35+00:00",
+      "rows": 744,
+      "sha256": "6bb291a326d40a32d59c95b306b1c156b2dce240449c4237a5e91c469f8c4350",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:37+00:00",
+      "rows": 720,
+      "sha256": "c4b43491333788f3b1af6af29921c79cc692ba0b6f1ad0ca1792788ebeeb55e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31867,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:36+00:00",
+      "rows": 744,
+      "sha256": "32a307d89f1cdffbb86fa616e7ef6431535322a92705625915fbaaa3b056e0b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31577,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:37+00:00",
+      "rows": 720,
+      "sha256": "bde24a94f28373451a8d5673910a598ced4b255a0bbe1c1cce2c12dd33255291",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30449,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:37+00:00",
+      "rows": 744,
+      "sha256": "0aae5be7779781a36a62d6505fa99d0fe1e7411c2e1b3c74261e9da6067cc6fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 31288,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:37+00:00",
+      "rows": 744,
+      "sha256": "d67b29bab346167f203468512e28f437acbf7a102449439602e0bb67f27a65e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 30429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:37+00:00",
+      "rows": 672,
+      "sha256": "db531e707ae27aed85e6291aae8780cb8eff91c204f1dbc1d3f0911ea4dd19ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 33677,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:38+00:00",
+      "rows": 743,
+      "sha256": "79e444ca31af3abbb79cb83d83718606490525c036c0b91188afecc609030dd2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 31598,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:38+00:00",
+      "rows": 720,
+      "sha256": "cab838ce90470c419dbdf3d588231f47eec1df5846d726e08c7660fd22924aba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31389,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 744,
+      "sha256": "2357324f6d91569a38fddf7d420320e74366fcd6b54b68b56cbb5f93f507745b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30023,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 720,
+      "sha256": "7803618d099998c4993c408b71fceb635c1b81f84c174ad141cbef23813ad7e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30462,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 744,
+      "sha256": "f03852ca75697c3794b71516f247fc292268fefb637c6b2490b58a8699d64ee9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 32728,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 744,
+      "sha256": "cad7ace5618ff725ec37841885889cd893561cb787d352eb85acafe313ba9211",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 30428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 720,
+      "sha256": "a0931766b6979fba304fa301370636c03650b3d2d901f88ef833bc7121601c39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31833,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:39+00:00",
+      "rows": 744,
+      "sha256": "dc9fbee94638a978dcfc4a71c0995484c6ebd2d62d1ee1e5f261e905928b76e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 31737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:40+00:00",
+      "rows": 720,
+      "sha256": "896144953d034a6df4e1ff35c1d74b6151976b8b210946753c0369a7526f2678",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 33644,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:41+00:00",
+      "rows": 744,
+      "sha256": "cdd5cf7be6097909aad44bf594e693933106f307ae6259594c4b1b73f97907e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32828,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:41+00:00",
+      "rows": 744,
+      "sha256": "c1baa26ca734bb304445bd47222ed3c258362e40b2a52cc36eae76a5c7d964bf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 30770,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:41+00:00",
+      "rows": 696,
+      "sha256": "d4cf94658c028f656aefb85911499aeaa7c87a35eca1d91fa1170c471645be08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 34535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:41+00:00",
+      "rows": 744,
+      "sha256": "a9daa029a738d671fe61548c1048ae672dd6f25229cead4c2c929e6481fb6737",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32661,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:41+00:00",
+      "rows": 720,
+      "sha256": "8a5ca31dad8a1c3fc33e9316cf2885d38d7599ad6ba9c33ffebb08d28a4357b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:42+00:00",
+      "rows": 744,
+      "sha256": "f47fd187787452a1114f6b64b7b5b8c6e1958639d340622314ee0980a675c986",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31658,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:42+00:00",
+      "rows": 720,
+      "sha256": "35cb47d225f8e6e55cd5c73f8464626b6440690b2fb6a70bd29ed3d1306d2afb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32470,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:42+00:00",
+      "rows": 744,
+      "sha256": "bbbae6332f24ff22191737b01f915c3e5cb291af02211d64330817f71178b848",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:42+00:00",
+      "rows": 744,
+      "sha256": "bded2efe3c3c27bc35794458661db7c61d841e5c7ce643d367e44f310c71055d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 31491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:42+00:00",
+      "rows": 720,
+      "sha256": "152d5f50a66d1248429eb0bb0fe6eb7790fdb7204e6fd40db66956b1b4c019ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 32289,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:43+00:00",
+      "rows": 744,
+      "sha256": "28805c3535bf224a9f50f57b0afdfe352045ebfd0ceee3d28a61cad8cbc807b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32194,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 720,
+      "sha256": "a78cbe8b482a4472a27eb1e122db8eb54be28394e44c9122a97f6db54dd9ecd5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 744,
+      "sha256": "db0d30d039787bc3d33fc2a9c9f34e607ba0f64bfbe6c8ffeb50abf9221a17e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 32491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 744,
+      "sha256": "55fb5cd2dffc8be503e9b7791b90fa8d484b604b751891012e673689a024724d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29661,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 672,
+      "sha256": "9c9df270ec62afeb50d8f97689e2946286441d7cf9548a3df860d43909e4e078",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 744,
+      "sha256": "fa75833bbdc2663c6ad6631a10bf6d25e7351060fe9fd49df930d31227a2d333",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30457,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:44+00:00",
+      "rows": 720,
+      "sha256": "206c7f63767223b000eec11135101bc1d71e2d281d10da34d1d514a00283dd52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:45+00:00",
+      "rows": 744,
+      "sha256": "b8749d2ae365852662025171a168018cc9ad45ff193f5cf9619b2a944a1599ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29468,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 720,
+      "sha256": "91e8a38e8de284559fb9edfb88adf7cf87c722fe5df74c5b3acde9a82652442a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 744,
+      "sha256": "1856cb324015be5115f3cbbf7e60944b33d8ea003302b8a155ff1ba4abda15e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 30452,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 744,
+      "sha256": "e33d2e16e248ffb0edf8e9c3c2076d3d61cda57caaf83eaf8f0e82b0a37d9940",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29467,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:45+00:00",
+      "rows": 720,
+      "sha256": "72868ead23719ede050dc448adc1073bfce9136aaf1c63ec3e59d53069668d04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30482,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 744,
+      "sha256": "1c888ae141e8a8b26c2ba717326ad69cb6275240dfb356d6897be0cbc474912c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:45+00:00",
+      "rows": 720,
+      "sha256": "03dd54b75689b7252ae3938d5590272b2a157442f176d6fe891b95f4395681b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 28425,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 744,
+      "sha256": "d4a268aa590d9b5d78b3cfc82ca6a4cda85f3c55cd6f4f9b75ea66f27bce7409",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29501,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:46+00:00",
+      "rows": 744,
+      "sha256": "eada1a7f9067866758b33c62f5d3d09510c6834b6c712c6780dcf918360867b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 25450,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:47+00:00",
+      "rows": 672,
+      "sha256": "3f7e7d4d14526a00beb815f9faeaf9bfa850abaf7ef186becdf943bd64d5a753",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31631,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:47+00:00",
+      "rows": 744,
+      "sha256": "5ff6d7ef022e083fa228c5d052fc571cac6ead3526a0c77917e8933a9fff85c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31431,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:48+00:00",
+      "rows": 720,
+      "sha256": "1502699e74949d4b76ed3d38dd3b9596d8e44e10a7562f2073f8884de7fd30a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33037,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:47+00:00",
+      "rows": 744,
+      "sha256": "9e6b6ffc83f82b8ad621bf3a552fbefa5ba485acfb70ed8c9a83a6cdc638e332",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31840,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:48+00:00",
+      "rows": 720,
+      "sha256": "7b3628a26cd52ef56ae9b4ab1f7c47181a733e1a0a043cccbfaa8aab0f2490b9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 34483,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:53:48+00:00",
+      "rows": 744,
+      "sha256": "929da69e96620885830c18714d09ad5e251559322f76e1233164e2c704b755a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DODOUSDT/1h/DODOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DODOUSDT",
+  "total_rows": 47713
+}

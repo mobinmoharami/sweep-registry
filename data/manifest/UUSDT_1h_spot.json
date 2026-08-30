@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 13984,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:05+00:00",
+      "rows": 448,
+      "sha256": "48ac75c7da504d0919a77899b989a14006c370ac73b56a4dab9ec386df34f60b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 24092,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:06+00:00",
+      "rows": 672,
+      "sha256": "d4e094b89e99bccea5f45a4e5789f081481ced91d35b81e220e15f93aa97b6f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 27097,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:06+00:00",
+      "rows": 744,
+      "sha256": "7c98c7144f4222c47622567d273858375d99bad90f9f782fbcd31a39adfba89a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 26159,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:05+00:00",
+      "rows": 720,
+      "sha256": "ec2c6912169382a692e57fd548a97fc7d45681df4cd1bad4f0462f968968a49e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 26860,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:06+00:00",
+      "rows": 744,
+      "sha256": "08f15617b4197268a5eef19e284c9ae2a5bac56a816477b45ab17ea55c4e8d39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 27048,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:06+00:00",
+      "rows": 720,
+      "sha256": "94b4704a5cba3e8f858932444595a8fec5e5c225b89c64612ef31e07430894c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 27301,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:54:06+00:00",
+      "rows": 744,
+      "sha256": "293507f34be50560a3a5453b8262648f6c8f13f3eda8b0acaf2e32080de9f61c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/UUSDT/1h/UUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "UUSDT",
+  "total_rows": 4792
+}

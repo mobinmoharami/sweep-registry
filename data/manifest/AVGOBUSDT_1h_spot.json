@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 15484,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:38:46+00:00",
+      "rows": 395,
+      "sha256": "c41ebb38dfd7c0c22992a077ea0e90aa6cbf59cf8e448036989ec2d2ebce6f4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AVGOBUSDT/1h/AVGOBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AVGOBUSDT",
+  "total_rows": 395
+}

@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 20650,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:12+00:00",
+      "rows": 418,
+      "sha256": "6eea37b481a93049da81fb3942a633fa1dd82da1028bc4a89d0c87cbdec15062",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33465,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:12+00:00",
+      "rows": 744,
+      "sha256": "3577639735555096c4cf7b3ec8364a0137d0860aa028dd4b13d0f9ce8005f763",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:12+00:00",
+      "rows": 744,
+      "sha256": "ca281d8db0517d11adb9864672ba650f4ed2c5afcb85eade3523618b30139c79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29433,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:13+00:00",
+      "rows": 672,
+      "sha256": "d82abc9d3390accd233cca2b3ea7b4e7c9a0c10309635b946d0d042be4081a3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:12+00:00",
+      "rows": 744,
+      "sha256": "0c31c80577a1cce8d76a3a4b7f017d74ab2b9f4f59719961272d0c976d2cbe43",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30488,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:12+00:00",
+      "rows": 720,
+      "sha256": "b6e70a56b80717eda94cf59a1558bba8c23c6a50bfb3dfda1cb3efef5965d2d0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30549,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:14+00:00",
+      "rows": 744,
+      "sha256": "510cc681a4f9ae24066027d4b5df2b30ea72bc0b6f6303a93a20a4e90d288bc6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:14+00:00",
+      "rows": 720,
+      "sha256": "ba43e135afc0a5b61827bcfca05c73adba6f0960ac1388483dc9069ae173b477",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:17:14+00:00",
+      "rows": 744,
+      "sha256": "b162a13e26d6cf0fb56eeaca07061e8fc92c281163857b27499e848e49bfdbe5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METUSDT/1h/METUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "METUSDT",
+  "total_rows": 6250
+}

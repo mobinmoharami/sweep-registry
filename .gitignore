@@ -1,0 +1,8 @@
+sweeps/*/returns.npy
+data/*.csv
+data/*.zip
+.venv/
+__pycache__/
+*.pyc
+registry.db-shm
+registry.db-wal

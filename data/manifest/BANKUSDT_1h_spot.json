@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 18713,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:47+00:00",
+      "rows": 418,
+      "sha256": "39447c931543b66fcbe17729f415c56cafac22bbce16883a5c7f9fb75700c1a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31718,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:47+00:00",
+      "rows": 744,
+      "sha256": "6eded4d2aa3821013dcbba78598a8c1742830c86457870a50d7a6fc9992c4301",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:47+00:00",
+      "rows": 744,
+      "sha256": "5c672864e2f912de49b3cc4bf5ee6f4a43a02a687f84e341d7feb4ea935d1332",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27727,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:47+00:00",
+      "rows": 672,
+      "sha256": "097c6675f8896ec6d192a5c600b4826fcb53562ad6da82aee70c6ee749fa551e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29704,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:48+00:00",
+      "rows": 744,
+      "sha256": "6bf982314c92a58aca92e688a6d026072d71e3579fc50603dd76bee8748a5ebb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30086,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:48+00:00",
+      "rows": 720,
+      "sha256": "f3450deab405e56f8e6177ac06587f458704aced49f721b0c3bf9a5d3ec53fec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:49+00:00",
+      "rows": 744,
+      "sha256": "e42cda7c9c4723ae827336ae16a3ddfd417c082eff281fadd7100e72604ac506",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29785,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:49+00:00",
+      "rows": 720,
+      "sha256": "8c3b9da40e3e61667ebd70e4487a7be5129e18ac26e09e3a23b686bf4ba42887",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 34247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:40:49+00:00",
+      "rows": 744,
+      "sha256": "8d6e35fa2b204afee750699171b504d1cd8118877290bbb8a2f631a7819fed10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BANKUSDT/1h/BANKUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BANKUSDT",
+  "total_rows": 6250
+}

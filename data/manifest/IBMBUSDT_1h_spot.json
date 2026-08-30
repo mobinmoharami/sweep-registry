@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 16412,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:07:00+00:00",
+      "rows": 395,
+      "sha256": "41e4ee7461492eeb6d5ba29b2c29c619cb476e93203f9d159d5ad6b7fc09a779",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IBMBUSDT/1h/IBMBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "IBMBUSDT",
+  "total_rows": 395
+}

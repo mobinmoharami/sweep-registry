@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "bytes": 7321,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:08+00:00",
+      "rows": 184,
+      "sha256": "1cb446d36e5da0ac42d43bb80c690bedda7d3be41c2cfed8550f2e28f7664764",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 30162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:08+00:00",
+      "rows": 744,
+      "sha256": "f4f63f4007ee8383d5fb6ef21f2dbd4cc1164d37870927525bb618874b6f0553",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 26926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:08+00:00",
+      "rows": 672,
+      "sha256": "fb7ce68727b6e4222fe372d8aad620ca0a9a9a7b9c3922101ed00bc3f5154cc7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 30525,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:09+00:00",
+      "rows": 744,
+      "sha256": "d4e7f3448ba8f5c6bade1ee27ccf2f242aa2dc945b2eaff92a5d2259798ed119",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 29022,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:09+00:00",
+      "rows": 720,
+      "sha256": "772fc6345172612869a2cadc1c8ce3f9f658d96c22ab58727e11e10a17143858",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 13012,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:58:08+00:00",
+      "rows": 289,
+      "sha256": "ad851d96b598b671d4400e57d5db3948f8d2ac350711be6108f979506effc4e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/USTUSDT/1h/USTUSDT-1h-2022-05.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "USTUSDT",
+  "total_rows": 3353
+}

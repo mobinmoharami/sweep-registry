@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 15905,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:39:53+00:00",
+      "rows": 395,
+      "sha256": "424293cf633da3611cf256fa0afbc19260b81f51f36dec5b2165af8fc3b50d46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BABABUSDT/1h/BABABUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BABABUSDT",
+  "total_rows": 395
+}

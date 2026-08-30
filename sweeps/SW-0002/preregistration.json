@@ -1,0 +1,79 @@
+{
+  "sweep_id": "SW-0002",
+  "title": "Short-horizon mean reversion on BTC and ETH spot, hourly",
+  "hypothesis": "Price-based short-horizon mean reversion produces no risk-adjusted edge after realistic costs, once selection across the full parameter space is accounted for.",
+  "search_space": {
+    "families": [
+      "zscore_reversion",
+      "rsi_reversion",
+      "bollinger_touch"
+    ],
+    "parameters": {
+      "lookback": [
+        10,
+        20,
+        30,
+        50,
+        80,
+        120
+      ],
+      "entry_threshold": [
+        1.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0
+      ],
+      "exit_rule": [
+        "mean_touch",
+        "opposite_band",
+        "fixed_n_bars"
+      ],
+      "holding_cap_bars": [
+        4,
+        12,
+        48
+      ]
+    },
+    "n_trials": 1620,
+    "enumeration_note": "3 families x 6 lookbacks x 5 thresholds x 3 exits x 3 caps x 2 symbols = 1620 fully enumerated variants. No variant excluded after the fact.",
+    "family_descriptions": {
+      "zscore_reversion": "z-score of close vs rolling mean, fade extremes",
+      "rsi_reversion": "Wilder RSI threshold, fade extremes",
+      "bollinger_touch": "intrabar high/low touch of Bollinger band, fade"
+    }
+  },
+  "data": {
+    "symbols": [
+      "BTCUSDT",
+      "ETHUSDT"
+    ],
+    "start": "2017-09-01",
+    "end": "2025-06-30",
+    "timeframe": "1h",
+    "source": "binance public klines via data.binance.vision, see data/manifest/",
+    "holdout": "2025-07-01 onward — not loaded or inspected until the verdict is written"
+  },
+  "protocol": {
+    "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period; in-sample/out-of-sample splitting is done by CSCV at scoring time.",
+    "costs_bps": 4.0,
+    "slippage_bps": 2.0,
+    "execution_model": "next-bar open, no partial fills, position capped at 1x notional",
+    "survivorship_note": "symbols fixed at the start of the period, no delisting selection"
+  },
+  "decision_rule": {
+    "metric": "Deflated Sharpe Ratio",
+    "alpha": 0.05,
+    "threshold": 0.95,
+    "note": "Fixed before any result was computed. Not adjustable."
+  },
+  "planning": {
+    "periods_per_year": 8760,
+    "n_observations": 68490,
+    "assumed_var_trial_sharpes": 1.8e-05,
+    "assumed_skewness": -0.2,
+    "assumed_kurtosis": 8.0,
+    "power": 0.8,
+    "cscv_splits": 16
+  }
+}

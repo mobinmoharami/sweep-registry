@@ -1,0 +1,429 @@
+{
+  "files": [
+    {
+      "bytes": 9880,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:56+00:00",
+      "rows": 206,
+      "sha256": "5953a29649af9b858673bdf7b13b73cfada6c4d43f55d1a5a1873ad60b13af9e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 31994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:57+00:00",
+      "rows": 744,
+      "sha256": "62e8b61625b5fbfce3917747ad101ed2459bb249665d37756bcf880419d949c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30682,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:58+00:00",
+      "rows": 720,
+      "sha256": "f9853d5bc3528e269f884a58aeb2e54b708ce48c52bb4cd18fe56b4665eaa550",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31455,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:58+00:00",
+      "rows": 744,
+      "sha256": "fd354ba98c07df504772a60a8154b6932ad2ddf2620a9f9cc71121677873020c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30860,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:58+00:00",
+      "rows": 744,
+      "sha256": "8479e58ad925538c91327758a9a916969045cad54776f80ec3dcf00f93e91ca7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:58+00:00",
+      "rows": 720,
+      "sha256": "3e8698156be66460fd660caa1a8a9906035e1b3e189fc22b79f736aff28f6c83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29956,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:58+00:00",
+      "rows": 744,
+      "sha256": "a3976e11056c87a7b0e8e6708687397f84a68e7b768f87e29dca62e3f7b5d305",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 29361,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:59+00:00",
+      "rows": 720,
+      "sha256": "66656fde6f98f1ea4c9039428c03307b197b156611bb59ba6f7c0173155f5d2c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 29281,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:59+00:00",
+      "rows": 744,
+      "sha256": "263d7ac25a7a61254add41a6d5f3158318408b56c2bce7a2f9e2ef160117128a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 29900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:00+00:00",
+      "rows": 744,
+      "sha256": "43fc6a848616b7a4146318d4f09bd2fec6fed0623185663ede57f1e6c7681e25",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:00+00:00",
+      "rows": 672,
+      "sha256": "443e33e0b5ec2a0a318e61a7344ffc86ca1ad2682bc0ba2c803857b11e9a6306",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 30112,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:00+00:00",
+      "rows": 743,
+      "sha256": "bcbec14c689aab9e180c117fe6fbe3860ddb16f0bec65c0192a8e911ab3224cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30548,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:00+00:00",
+      "rows": 720,
+      "sha256": "f5e024e394d73f6c4c967653cd440bf33cca7b9d88e6c375227a73601060376d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:01+00:00",
+      "rows": 744,
+      "sha256": "34ce9f60b04e4845a390f207245c685ae991d2fad47e18474f44d1766f682e88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:00+00:00",
+      "rows": 720,
+      "sha256": "90ca9453621135a9356594f3fe5514d663334cd3054b2397a12b308af6b4ebf6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 744,
+      "sha256": "5e9a59e07f35c46f0fa2f63db59e8e0ccdc484a5aab16ae783acf6af9c04aeb5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28930,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 744,
+      "sha256": "b2ceb175342bc43b5d7877613be36081837ec044a8a37622437855f7e371b642",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 720,
+      "sha256": "2e407f91f5a48df2245c7f5a3846d06bdd0f4cf7173718e6f5789cc829926116",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 744,
+      "sha256": "9af0f5be04bf3b90dccbfc967ea27f6f55e9a4d06e53d6c644afc621820b3a29",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 32387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 720,
+      "sha256": "52be29cfcd89fa8a33ffacffa444c2cbb0834562f5ad56019d2ebad93b70a0dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:02+00:00",
+      "rows": 744,
+      "sha256": "60b6edd074d062c474fabe2b1886b9d1d838a1db01e760693cefa2cdf14ffbb6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 32084,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 744,
+      "sha256": "223636b01ceb517703d58ad659a817ca4d820b3be9ba487aa2ad2fb6a2cda334",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29424,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 696,
+      "sha256": "68cd78b5f84178821b8ca48c9a9473f522862baaf787b65093e1490afeaf30ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33867,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 744,
+      "sha256": "f88356c4a1b178ff393e33cbf450414e6d73d8885acbb77b66e4b3cde09822cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32441,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 720,
+      "sha256": "648ca2ba6fb7a4041c95558f0724e5a93bbc726656b000c3fd865cfda921b268",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32469,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 744,
+      "sha256": "095fbd47f2c5da55d7ca25c8df36f1c9174d834fedaa3c88d33fb0a4e2a5aeeb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30636,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:03+00:00",
+      "rows": 720,
+      "sha256": "094baa186a52805504c33058fb3aea58f89c47f4ecfddeece08cb53c1fe52d30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32000,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 744,
+      "sha256": "2b4e36ac91d01ff3b0d5ae506deba693569208b5566dcaaab2cdc542816bd26f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31587,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 744,
+      "sha256": "7abc94f5e8e96a2188dea15e3b5e6d3d55197bf2409b11e33d6650f689286a33",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29961,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 720,
+      "sha256": "46fa8f2899d54957b0665f623d3e692eb221d740023cf05ac62112cfc72a74d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 744,
+      "sha256": "8cefed1e200b01dbf4e4185f3ef752a4f9884b363239c538bfe059278fda49cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 720,
+      "sha256": "dfb9584a76e5e9c7b15abae1f8ef43f8a4ddfd4a6825237a6a23ed70736c9c46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:05+00:00",
+      "rows": 744,
+      "sha256": "933a106ba8523cf0feed4cc891cecbb249c8fdcfdee85ff96f7e608c24d21a49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34447,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:06+00:00",
+      "rows": 744,
+      "sha256": "14877c09fea3409086910b3f3c158d80c98a841915545022c02070f23c5dce64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:07+00:00",
+      "rows": 672,
+      "sha256": "5cb260f28c3b36bba5991629a7d941d9699215ba4c809f925bf145fd5e5b86ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31371,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:06+00:00",
+      "rows": 744,
+      "sha256": "e4cfc0ae4284323d55d8a3c5ae0e010fc52f73e85e8a1b671b344b8b9ff3354f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 31362,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:06+00:00",
+      "rows": 720,
+      "sha256": "3e48cc15dd6398099a7af99b764f42bf7f2f7ee33c0c56c9452bfe8590d2f868",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:07+00:00",
+      "rows": 744,
+      "sha256": "166c7467018ac856e08d39b92f3632fae05b5ab470bdf00f104857d59c9871b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29303,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:07+00:00",
+      "rows": 720,
+      "sha256": "3c83a5d72a85e0cec8c223c594f187defd8931ec391417278e982feb3dab6ba0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:07+00:00",
+      "rows": 744,
+      "sha256": "269837259fd37bf2e62c409ebd5275b6b5c7ca9d2353d4815428e6ff56667242",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 30808,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:08+00:00",
+      "rows": 744,
+      "sha256": "1d04ba105dffd198032a268e6a7ad26ebae17c4dac492800049e646810f63e4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 28863,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:08+00:00",
+      "rows": 720,
+      "sha256": "b6a2f25a1efada2e539ffc7287346bea7f11dad206cc6d7fcea3a6c198ed9090",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:08+00:00",
+      "rows": 744,
+      "sha256": "092566e9f904aef04035131b0b1b8c6da78a13425c7b8eeede5dda91fca65abf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29634,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:08+00:00",
+      "rows": 720,
+      "sha256": "913eae2b7cfc41c87d4a178738f8193a6f9793a127669af1f660e81e04c4b16b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:08+00:00",
+      "rows": 744,
+      "sha256": "eecc9e2d596d8a141b38a622abbc9da09773e2f69e9da6a11f67e788ee72bfee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:09+00:00",
+      "rows": 744,
+      "sha256": "4a68d8fe21dc94c90d51d125a36ab6c1977075c7c28f06e471f2674be84c04ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:10+00:00",
+      "rows": 672,
+      "sha256": "27e8f1392231a789ec6e2c9185837b29918e2dac221612f00d80557513e4024f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33498,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:10+00:00",
+      "rows": 744,
+      "sha256": "988b067b91e027520ce6912e631e8386e7b580c74656042f97abf60530065c04",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30543,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:09+00:00",
+      "rows": 720,
+      "sha256": "9c4ce8a93d7a7668380bf5f8958db428ab0725d4b7b419139ee9d5562f84b0a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32451,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:10+00:00",
+      "rows": 744,
+      "sha256": "f65495cd37dce45904dff01c2af036e0c857a5633b128cb3901940de974f061a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30747,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:10+00:00",
+      "rows": 720,
+      "sha256": "c1b1083f11e4ad811501e440b19d144255e64993281961d37324604d0f51d402",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:45:11+00:00",
+      "rows": 744,
+      "sha256": "363c80ff5f1c32aa2c582a9f0486156e11d3fc733c22268b89777fa6b0718689",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STEEMUSDT/1h/STEEMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "STEEMUSDT",
+  "total_rows": 37477
+}

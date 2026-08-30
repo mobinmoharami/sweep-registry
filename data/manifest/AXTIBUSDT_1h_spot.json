@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9056,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:39:41+00:00",
+      "rows": 227,
+      "sha256": "3a8da8b9885e693612e362d5be261efb09f6b8dbfbcbe1b2559d59c92fd0515c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AXTIBUSDT/1h/AXTIBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AXTIBUSDT",
+  "total_rows": 227
+}

@@ -1,0 +1,565 @@
+{
+  "files": [
+    {
+      "bytes": 14474,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:17+00:00",
+      "rows": 308,
+      "sha256": "98bcff0bfd70670376c9cbed64e0897775b928e2a62971e60e969e30945109ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 32653,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:18+00:00",
+      "rows": 740,
+      "sha256": "494e9d0dbce1bed33d5aa0efe6fd86954a7dede13be3cfd1b92a5d7150da5b3b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 33981,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:18+00:00",
+      "rows": 744,
+      "sha256": "d45c57a5fb3b5b7248b5e941608fc901b72bc5690c0dbe34661f93795d159769",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 32473,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:18+00:00",
+      "rows": 671,
+      "sha256": "0be1315a733143331cd72da9fed7b10cec558fb841923e80381c0a1211b980d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 35377,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:18+00:00",
+      "rows": 743,
+      "sha256": "be2c9efa32164762120983a13b96da2d76e5d402c780ae34e019a771184a1532",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 35175,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:18+00:00",
+      "rows": 715,
+      "sha256": "78030b7c468d5eccdaa90138b5bc709ede9f1b37cc797a5fffeee3ffdc46b45f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 37570,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:19+00:00",
+      "rows": 744,
+      "sha256": "7c1f7d4dfab9442a46ce3a3908e2249dfa1a246e194654286eeb32cd35ee07e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 34514,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:19+00:00",
+      "rows": 720,
+      "sha256": "e60eaff55b7dc219cfce33fb506264d5886cd9a3651997fed734cb589eacd5e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 35799,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:19+00:00",
+      "rows": 744,
+      "sha256": "7759870f95c3ee1b2bbcea1233cc725ce450d8557ef365d73e8532d79d20515f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 34864,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:20+00:00",
+      "rows": 740,
+      "sha256": "4fed7a168958dfb681308e9f337970f19adb0ffe571f82ed1f3154b630442f5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30336,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:20+00:00",
+      "rows": 718,
+      "sha256": "cd40b54861a8308db0209dbdfbaea86e7726ae4981130018e4bfb1b01b3af5a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:19+00:00",
+      "rows": 744,
+      "sha256": "658a74b435bd229ededab561da8e850de0840e735eb3523c6ab6d1260ff5befa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 29471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:20+00:00",
+      "rows": 720,
+      "sha256": "037ae2ca1949f03d2169cbef3425424709bab6e5628051edf5487ba75b5a90c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 30151,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:20+00:00",
+      "rows": 744,
+      "sha256": "557b6cfc6ef6a88fa777ff6a656cff1c73a458194f81404f685f16a1de908f5a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 29836,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:21+00:00",
+      "rows": 744,
+      "sha256": "553e9854368f1eafdb804672403d99e6891c43c057cbae9739adc21937330e52",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 27257,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:21+00:00",
+      "rows": 672,
+      "sha256": "61884423f4d69a0f8c282b23eece8749f5967f1c479d23f5d7c170cd651d0b8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 29548,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:21+00:00",
+      "rows": 744,
+      "sha256": "059c22352d965b989e4edee9232f486362d1ce05c10eee2b80fb763d3b85ff39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 28953,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:22+00:00",
+      "rows": 720,
+      "sha256": "25b3873ade8e14092b1bb8825a4b52d97c6694b608c1b6c1ea05df221d410cd9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 29327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:21+00:00",
+      "rows": 744,
+      "sha256": "d21b32bd3201c5dfa5cc96eb7072575aada5794537816ccab1ac95d3d1b29bf5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 28807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:22+00:00",
+      "rows": 720,
+      "sha256": "d0bb89492739ff777e00ea7a5fb5595c9575c61a6a7ec132ff139a7834c1c891",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 29685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:21+00:00",
+      "rows": 744,
+      "sha256": "8d97ca74763ad0e655ed788905cad96bec259cd9cf829aa764c840a41340f126",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 28853,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:23+00:00",
+      "rows": 744,
+      "sha256": "4283c1cc43eb9a06c3cb0740f95ad913b9184cf3bdda356d9453d09feb7112d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 26937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:22+00:00",
+      "rows": 720,
+      "sha256": "9ec8f1adba5d3b7e9a0061e13d37d4ab9016a998bececc76c95cadd52eb3a927",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 27796,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:23+00:00",
+      "rows": 744,
+      "sha256": "ee7c0748acb18cef885847cf9ba3f7b04bcdb6a58161b489c6fecf8784a780f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 27482,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:23+00:00",
+      "rows": 720,
+      "sha256": "d110493a335f51ee4ad21c94f643884132461853be4030312ff1e4ea3300ec8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 26515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:23+00:00",
+      "rows": 744,
+      "sha256": "6a665188572739fc2dfe232aeb9f4b4847c6dcc189b49a810e4c048f2d4d49af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 27887,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:24+00:00",
+      "rows": 744,
+      "sha256": "9b11e17f7c43b618cbd96d4fbfeb84b385bc40afa101ade59c12749672281ea3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 25688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:24+00:00",
+      "rows": 672,
+      "sha256": "d9590dcccc900e9fc643afcc4b463955494d6d4ebdfb45d42ca68a7e8956b162",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 28260,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:24+00:00",
+      "rows": 743,
+      "sha256": "991c21de5359ac8c857ffa9745a4aa057482b91aafa5a386ccb288263d04cf3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 27020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:25+00:00",
+      "rows": 720,
+      "sha256": "c15936c51ff6efea4a2cf2a7da4a978e007e06491ddabc9c14cdf34bbd710b11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 26558,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:24+00:00",
+      "rows": 744,
+      "sha256": "0e0dd4777ecfbe86412a4202fedc5d53f0b7b69e2e44c68434590f37f12de804",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 25771,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:25+00:00",
+      "rows": 720,
+      "sha256": "88b5c48aa44b6dfabf4bfc7e7495d9e57df8a3b15bcadce96dd26b2ae1507128",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 27112,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 744,
+      "sha256": "8e8a4d5c25906458829bc60449a698428c9f75a0f7d6c260a5b1e3f63580aa06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 25151,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 744,
+      "sha256": "f9df83b3b560e3c9cc8c2906f9548b2f69a0d780d2382f80494cf821db10e8e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 26947,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 720,
+      "sha256": "2669a8bfea077feed9460eb50cde1b5ecee7d9ff9e92925c2ad3c0d702dc1fb9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 31975,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 744,
+      "sha256": "d9fdce639892d0469e4b84b2bcf79894b64ba958d18fd76e8ea4bd7241228e0e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 720,
+      "sha256": "277d00881f283190c896812df2c03f591bd43cb9e301e18b00015e9a546449ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31505,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:26+00:00",
+      "rows": 744,
+      "sha256": "24abf38a32411893376c92ae851ba0fe1b74681a1ff7fae118f43be7b7fc53bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31387,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:27+00:00",
+      "rows": 744,
+      "sha256": "bd2001d1c1d739223daebb650072b9ec732146aa201c40599827dc2486de72aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 28325,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:27+00:00",
+      "rows": 696,
+      "sha256": "6f19be3fd044d1b459bba72fe3aa762d441f31871f4803bb372a1868c921caf2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 23977,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:28+00:00",
+      "rows": 547,
+      "sha256": "e145033fa1042a0ce99c1a4b6dbec240855675d90f587611071370487bef3392",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 29537,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:28+00:00",
+      "rows": 720,
+      "sha256": "4d37033bcd75ea85230aec77118ac7b788985a70b5b94bb091658e4a6065d692",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 29525,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:28+00:00",
+      "rows": 744,
+      "sha256": "67b91fc2005ad6bc2ea1f68b149079427fb025101446ec87112d8599fa983373",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 28454,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:28+00:00",
+      "rows": 720,
+      "sha256": "a76a6fc816584d76c0e31ffd48c42c65b206717ea3417ac92a01821909d6f4a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 29146,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:29+00:00",
+      "rows": 744,
+      "sha256": "7b58e95a27ed1f98ea0584bf4731f395dd07b479ae059fca1de9288745438185",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 29067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:29+00:00",
+      "rows": 744,
+      "sha256": "2c8eef51af91bb106934f88be640846274fcc4647977be8807eb8c441acaa994",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:29+00:00",
+      "rows": 720,
+      "sha256": "c095c236791b5e861f0b8076bef5f29a7a9151074d6f689e61c47bab5dfd42e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31765,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:29+00:00",
+      "rows": 744,
+      "sha256": "775f8ef9141b0419d8d942c7a49a8bd61a0a6c3eb106b13080f2f2d9aa547c05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31856,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:29+00:00",
+      "rows": 720,
+      "sha256": "472fdaa7f7e31c2718ba943e4fc5948292a999a8f06c9a0ff255a0b76cb05756",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:30+00:00",
+      "rows": 744,
+      "sha256": "454902b75e3858742924d7f596087d397e1b87bab40a51143708c412d77223f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33795,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:31+00:00",
+      "rows": 744,
+      "sha256": "4f085861e1af4c5f521e323ea12755e44bcc2aede5cc3e86b6602ff57754b59e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29238,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:31+00:00",
+      "rows": 672,
+      "sha256": "834a8c682a9e00c979e79ecbf8bb2231bccc79b1566681049b01945021b6d750",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31849,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:31+00:00",
+      "rows": 744,
+      "sha256": "1e41965dfb89956a1327c652e5ba4a65f1f0bf34ecec11971ef96108a5212cdf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32443,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:31+00:00",
+      "rows": 720,
+      "sha256": "84d75df4f50efc3bfe59be9f76ff9574ae6f343359031cf9c55ed808d6800f8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32559,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:31+00:00",
+      "rows": 744,
+      "sha256": "d198b6256d5a9ddecd67938d123fed8262c018e92271a6c031c24716eba4c33c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30976,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:32+00:00",
+      "rows": 720,
+      "sha256": "9eeb18f6466fb103a9c302e8cbd8cc6c2e893b04ec7951de00172bb5b4f5b020",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32603,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:32+00:00",
+      "rows": 744,
+      "sha256": "0a6b3ab95e0740a6299d2c17648eacad23a7ac0ae626c9a8d049dedbb2f8c5ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:33+00:00",
+      "rows": 744,
+      "sha256": "9e93960e6da9757d25e11ca03da00a03c8c2bf94308328cf7b43fdd579271b95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29640,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:33+00:00",
+      "rows": 720,
+      "sha256": "849c668b8b995e5e73ecc23435f6205cca51dbcb2a16837f8e1412d55ad6e0db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:33+00:00",
+      "rows": 744,
+      "sha256": "8727fe4cee09ce756cd0adf795f69b9e6a41e3d3fdc27bb2cbdfec32aa457109",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31158,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:33+00:00",
+      "rows": 720,
+      "sha256": "acd152601fd722fa52fb4d667fdd5ee01bb6c0b25e9179bf3187eb5da38d5e13",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31083,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:34+00:00",
+      "rows": 744,
+      "sha256": "42516aff15431158f96bca22bb4a20c503a986f769b7e2658b5190fcb65eb5d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31260,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:34+00:00",
+      "rows": 744,
+      "sha256": "21c74ffe63e4fbef6b8746a358b0bc15498469a80e738649485c118852fda1df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27991,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:34+00:00",
+      "rows": 672,
+      "sha256": "f0926a270f4a972f1550cf3e1771e50833d3bba14e0e25170a3d39f682eb102a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29495,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:34+00:00",
+      "rows": 744,
+      "sha256": "56462dffc52ae480da6b324dc274bc80db0406eb1242a807429a6f98cedba7d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 28557,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:33+00:00",
+      "rows": 720,
+      "sha256": "a4299015b289c661442618b7a39b075bb20a5a0451e4c5d5d5891d127c77d8de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29394,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:35+00:00",
+      "rows": 744,
+      "sha256": "9bc901fd0fe7511d0221fc6e806ffbcb48f0ee8fb978ae9088a14f0e98e99aa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 31996,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:35+00:00",
+      "rows": 720,
+      "sha256": "02aa013c482653ab3185c564d31832d89d56954ac74172a9bacd5f6cdbab0b27",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:46:35+00:00",
+      "rows": 744,
+      "sha256": "0e0dd47d3e616e13e69d63bce33baac96e7399ac341aaa84776bd08925f366ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "STRAXUSDT",
+  "total_rows": 49749
+}

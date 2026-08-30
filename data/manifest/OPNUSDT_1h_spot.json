@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 30509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:08+00:00",
+      "rows": 635,
+      "sha256": "8a9b8c0163881b29f79098ceed6a1cb0683e5672b54b3ac9e427eb556e623ecc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPNUSDT/1h/OPNUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32160,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:08+00:00",
+      "rows": 720,
+      "sha256": "b5d4932141d7e326f97b2200fcbd3c42813c4724d4a91f1dfa64fc0288a0a3fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPNUSDT/1h/OPNUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32313,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:08+00:00",
+      "rows": 744,
+      "sha256": "9d16ff097b0d6ee943a65e5c1c9fd0b0d601ea02492cd7af510460b374a19d66",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPNUSDT/1h/OPNUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 33019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:08+00:00",
+      "rows": 720,
+      "sha256": "88ec0bdd77026f5ed2188c97b6429ccea1a3e28ad54e78148fb06c4630e17532",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPNUSDT/1h/OPNUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33156,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:25:08+00:00",
+      "rows": 744,
+      "sha256": "3a5407662518f5654472b424a3a42a8b7f6b48f95fa432065f453e7bedcd5840",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/OPNUSDT/1h/OPNUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "OPNUSDT",
+  "total_rows": 3563
+}

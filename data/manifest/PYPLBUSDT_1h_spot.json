@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:31:01+00:00",
+      "rows": 60,
+      "sha256": "e589806e14d9805a1eb18e42d0a85f0fc75b0d45822da6def50b695a6e26c090",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PYPLBUSDT/1h/PYPLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PYPLBUSDT",
+  "total_rows": 60
+}

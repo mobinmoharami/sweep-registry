@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 7886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:19:54+00:00",
+      "rows": 179,
+      "sha256": "e3ef12fa935bd37a4f7231e4baf39c8410f40b7c25d8bad88c0c1709b33f0ee1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MSTRBUSDT/1h/MSTRBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32114,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:19:55+00:00",
+      "rows": 744,
+      "sha256": "4f5a96da02351b966445c03640addcd635dea68141ce09b89ea47468d6af89ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MSTRBUSDT/1h/MSTRBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MSTRBUSDT",
+  "total_rows": 923
+}

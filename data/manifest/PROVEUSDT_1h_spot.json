@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "bytes": 31230,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:51+00:00",
+      "rows": 631,
+      "sha256": "3c4df9c2575f6893a7d1706631fe02bc708563cd4929db3ea3ca44897dbac28f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 33657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:51+00:00",
+      "rows": 720,
+      "sha256": "35d0449cafe1f4692e1e84f14848540e5a64d738db17673408134b3c0a488318",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 35024,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:50+00:00",
+      "rows": 744,
+      "sha256": "f136ac799c3414b4cf7f92c0b909abb935ed41918e697b70fe0af00a5245f471",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 32892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:50+00:00",
+      "rows": 720,
+      "sha256": "99a36c532d01e1c6f5e8cca16b1c82cdb021839e3c75a6780c380e6f061ef86a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 32534,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:51+00:00",
+      "rows": 744,
+      "sha256": "4424be7c11dad7a8451a0a6f8fa4a2c9e26814fac3f176cdf52fc403f5f5f0bf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32726,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:51+00:00",
+      "rows": 744,
+      "sha256": "feff9c597f5de9fbd7bcb3fb4dd021ebcca3bed379086e96bd9e5041ea9d4fac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29900,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:52+00:00",
+      "rows": 672,
+      "sha256": "81896b82975499ab5a74e78e3f0f2dfb097314735bd2cda4b9609e61468e1f88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31986,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:52+00:00",
+      "rows": 744,
+      "sha256": "9f453be3fda5f5ee8500d32e0d6449e40c8df3145f3860c732c52c863815df64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30049,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:51+00:00",
+      "rows": 720,
+      "sha256": "14ddb0779608e1100bac369aa601ebf4ccc194930aca336e6351e579605931fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31931,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:52+00:00",
+      "rows": 744,
+      "sha256": "8eedf3151c56af50c0804eedbf6f1b3dbea66742fd4084e6538fd1d9d7364ce3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30839,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:52+00:00",
+      "rows": 720,
+      "sha256": "862c84b6befb819f3d21715242e544bde6923cea6128d0eebcb9b2ea9126361a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29960,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:29:52+00:00",
+      "rows": 744,
+      "sha256": "d74effd9cd6c4e769b666fd2397f3dbfbcd308137b63ab88509677f5520ad0a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PROVEUSDT",
+  "total_rows": 8647
+}

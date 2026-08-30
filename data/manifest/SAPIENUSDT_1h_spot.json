@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "bytes": 27717,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:10+00:00",
+      "rows": 590,
+      "sha256": "c833a3c02be87843461f43431ee82b391ae42ba6df27606161150b094568c8dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33332,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:11+00:00",
+      "rows": 744,
+      "sha256": "a54457d97dc23ad289e5079a8d229aa750a214b6309c82f088cc2116e23546a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32194,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:11+00:00",
+      "rows": 744,
+      "sha256": "b0f4a2cfa9eb26a7707d083b9e6e9291cf4d7d695186e7d0a71eb8270af365d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:11+00:00",
+      "rows": 672,
+      "sha256": "fa557a5a8c72737aafc3e99b9bf72e9dceee81e8c989d41e4299376ac898b655",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30636,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:11+00:00",
+      "rows": 744,
+      "sha256": "119b63bcc05c334de42958bcb4de6a21d1832277ab0c04733c489c178f22d752",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30613,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:12+00:00",
+      "rows": 720,
+      "sha256": "97f472ed3523f06c65178ba81f60f78d3efb07cc638e881cc654d340825bd517",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32149,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:12+00:00",
+      "rows": 744,
+      "sha256": "06776159de97112548f407e4920dd8b053e46a56808300517b98fe603a4339dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29861,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:12+00:00",
+      "rows": 720,
+      "sha256": "7cc9e263ce1c964bbc5106fc220739de23d82733f6cc80352ee02f28c6aa0c97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29965,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:38:13+00:00",
+      "rows": 744,
+      "sha256": "928db978fb6e7e6b5db1266324d4b5ecce7e199e9d12376a965cb567ec82e1e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SAPIENUSDT/1h/SAPIENUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SAPIENUSDT",
+  "total_rows": 6422
+}

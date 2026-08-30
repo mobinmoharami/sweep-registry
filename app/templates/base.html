@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}The strategies that didn't work{% endblock %}</title>
+<meta name="description" content="{% block desc %}Trading strategies tested properly. Every claim sealed on Bitcoin before the test runs, every result published.{% endblock %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;450;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+<link rel="canonical" href="{{ request.url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.desc() }}">
+<meta property="og:url" content="{{ request.url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ self.title() }}">
+<meta name="twitter:description" content="{{ self.desc() }}">
+{% block head %}{% endblock %}
+</head>
+<body>
+<canvas id="sky"></canvas>
+<div class="above">
+  <nav class="top"><div class="inner">
+    <a class="brand" href="{{ url_for('index') }}">Strategy Registry</a>
+    <a href="{{ url_for('index') }}"{% if page=='index' %} class="on"{% endif %}>Records</a>
+    <a href="{{ url_for('seo_directory') }}">Strategies</a>
+    <a href="{{ url_for('seo_learn_index') }}">Learn</a>
+    <a href="{{ url_for('chain_page') }}">Chain</a>
+    <a href="{{ url_for('method') }}"{% if page=='method' %} class="on"{% endif %}>Method</a>
+    <a href="{{ url_for('queue_page') }}"{% if page=='queue' %} class="on"{% endif %}>Queue</a>
+    <a class="cta" href="{{ url_for('submit_form') }}">Submit a strategy</a>
+  </div></nav>
+  {% block body %}{% endblock %}
+  <footer><div class="wrap">
+    <p>Every strategy is registered before it is tested, run on public exchange
+    data, and published whatever the outcome. Nothing here is advice.</p>
+    <p>A strategy failing this test does not mean no version of it can work,
+    only that this version, tested this way, did not beat chance by enough to
+    say so. Each record states the smallest edge it could have detected at all.</p>
+    <p class="mono" style="margin-top:20px">
+      <a href="/api/records" style="color:var(--dim)">API</a>
+    </p>
+  </div></footer>
+</div>
+<script src="{{ url_for('static', filename='sky.js') }}"></script>
+{% block script %}{% endblock %}
+</body>
+</html>

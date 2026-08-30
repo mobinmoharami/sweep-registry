@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 15769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:06:19+00:00",
+      "rows": 395,
+      "sha256": "caaa141bb6a9b67bd7769b471a66a81ba451a91c2fde9bb18521d42565cffdfe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HOODBUSDT/1h/HOODBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "HOODBUSDT",
+  "total_rows": 395
+}

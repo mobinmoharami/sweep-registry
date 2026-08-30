@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 15293,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:34:42+00:00",
+      "rows": 298,
+      "sha256": "59dbe39ad178ac2be5ba14c55122b96f51fb86144b80877ecc764aee72568ab8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/REUSDT/1h/REUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 35656,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:34:43+00:00",
+      "rows": 744,
+      "sha256": "4002c624453118c993a1ab7dd894bb6463dc83f2e4521636f87a22d1104127f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/REUSDT/1h/REUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "REUSDT",
+  "total_rows": 1042
+}

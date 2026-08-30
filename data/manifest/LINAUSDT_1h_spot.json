@@ -1,0 +1,405 @@
+{
+  "files": [
+    {
+      "bytes": 16668,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:17+00:00",
+      "rows": 324,
+      "sha256": "453330dbb45d932803870a6b5fd4efeccbb64e65e3bc476e2b6e64708f2440f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 35878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:18+00:00",
+      "rows": 715,
+      "sha256": "046c00edf5e83c6936a22f401f424a4085483d33a3f0faacf24542d20fcd45cd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 37145,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:18+00:00",
+      "rows": 744,
+      "sha256": "8b74db750b135e4d2899bdeac1855ab52fd156ea3f587c36cc07f665ef037b02",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 33968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:18+00:00",
+      "rows": 720,
+      "sha256": "ac1a5ef51c313c24fd928d55fe0bfd583a301b5fd4059dc907a7cddfee0eb5aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36089,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:19+00:00",
+      "rows": 744,
+      "sha256": "b57a7e0f7f53dffa3ae050c5bf6479fef967e477fd6df45b162f533d90430847",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 36906,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:18+00:00",
+      "rows": 740,
+      "sha256": "3b6bfb5ff7838c9e1115cdd00a0bbb2446dc7d43227df7e83be8c8264e9bce79",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 36986,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:18+00:00",
+      "rows": 718,
+      "sha256": "da0ea196c994d7db3ffce7a8bb69437a547e4d7b0724ee6a4b9afa6094ec829c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 38657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:19+00:00",
+      "rows": 744,
+      "sha256": "7a2bd05717c3159b3c8afbb1cfc2603ea10243306e81a8ba52eb691ed12ee987",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 37968,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:19+00:00",
+      "rows": 720,
+      "sha256": "3ce0e972b55106630641855a3a569968c8d365d5376687dfa18f6d16a2c038b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 38200,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:19+00:00",
+      "rows": 744,
+      "sha256": "d630d46f13f7d2d6b483d46de8193724e3dad283485a1d44ce65dbf26124e029",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 37943,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:20+00:00",
+      "rows": 744,
+      "sha256": "f8d17c734a3e93b9b417d87995aee3ad44870f541536dc3c25ac066776be4756",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 34017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:20+00:00",
+      "rows": 672,
+      "sha256": "e505903b72f92645783d1c8a79891850af3ae626d209efe4b36566530a93a044",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 37159,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:20+00:00",
+      "rows": 744,
+      "sha256": "9275f4cb4e16ce1e82cd46b825482ded28adbd932536a5129a2e61eb64e8cb1b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 36896,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:21+00:00",
+      "rows": 720,
+      "sha256": "d4f32e4cbf1fbc7a616792d76e0fa768497f23b5124bb5bb91850a4e5a7731c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 37895,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:21+00:00",
+      "rows": 744,
+      "sha256": "7de6d124779e2f88c6c93b2236a90458b1cdc97f7db6dea2fdfb04ce416e769e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 35774,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:21+00:00",
+      "rows": 720,
+      "sha256": "e3b2d19c56ea655079df19da386fcb12b3ac202b175311d6003925be186fbf3d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 35844,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:22+00:00",
+      "rows": 744,
+      "sha256": "6ac3e365438f6c7f2e62c4b314d4185d5cfb68a4cd7e5145be0fe053f5444bca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 35793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:21+00:00",
+      "rows": 744,
+      "sha256": "17e52c238e1f7b05232847ee3f88e148b06ffa22977c7ae1d181693432b664b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 33989,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:22+00:00",
+      "rows": 720,
+      "sha256": "8a0be134c7b612312bff1279a297aa72aaf2c59afd8478f70965def6d80f21f8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 35574,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:22+00:00",
+      "rows": 744,
+      "sha256": "96de5ebcafb49c11723eaced05089491b1464f68c3be6e48c42f9138f06b7443",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 34400,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:22+00:00",
+      "rows": 720,
+      "sha256": "b5df4ddcc38836cd15440cc57b2995da81bceacffbf45559e94aaabf743ba106",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 35405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:23+00:00",
+      "rows": 744,
+      "sha256": "b9e606b439b6f49ab8c961baf88a786b59ad5f631fb01f8145a469822cb4a76e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 37586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:23+00:00",
+      "rows": 744,
+      "sha256": "15ac70a71930abb8fc235d2502f2420caf69beefbd44a8d29a4fc1e4cae44c1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 35131,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:23+00:00",
+      "rows": 672,
+      "sha256": "7e75c1f885c710ad48ce40e1ee1bbd053c6d73851d4aa4d2e4cc35faddd31b46",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 39755,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:24+00:00",
+      "rows": 743,
+      "sha256": "6aec6c32ff1f70a4477085e1d3fb3dba0e0f3d46c661194cbddedc2dd8d08b5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 38919,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:23+00:00",
+      "rows": 720,
+      "sha256": "bf466e0077ed39c211d7c5bc5dacceca550d4d770d0d814805d0be795e551030",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 39915,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:24+00:00",
+      "rows": 744,
+      "sha256": "041552eddfa0acdccd9c7fbd6a4ea6456ef21444d8254e24bcd57201e51aac09",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 39814,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 720,
+      "sha256": "d65cd3fd3451f3a03adfe2b2aea4302fad991c9e9b1f9fbb4e57ef4bff4db5ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 38953,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 744,
+      "sha256": "b6ced8895ad303e4d17a7d9b6873510e9fd784f757864812d3e9a4ca44fcd43a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 38886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:24+00:00",
+      "rows": 744,
+      "sha256": "df54ce6123e984433f8598885baf4a77fa7eecf310fb9fecec2e8788f21bb9d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 37105,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 720,
+      "sha256": "86ad65b0632579ac6926d3c01fd499f269c9830b22a6f2effd7925f6cb309ab2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 38477,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 744,
+      "sha256": "21e11d628433c1ff988ec3a00364ebce4183687e1f9807d6242cb3d1795b23d8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 37743,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:26+00:00",
+      "rows": 720,
+      "sha256": "8a6b649ec46e1f035f0f485b9641032c1cd91c103068bde5f24948595421f970",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 38771,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 744,
+      "sha256": "ebe78e5c6a6613ff9cd154650a2bd22a93467684aa179d583a66ee8f862a4567",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 38722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:25+00:00",
+      "rows": 744,
+      "sha256": "efc3b1bfd0b4c85c41af5043653fc6b19066cca6be6f51493f05cf82868bc54f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 36246,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:26+00:00",
+      "rows": 696,
+      "sha256": "2cc94c6ada2b7977222110001c8b62996114f4640eb4f57e10691e10579e720f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 39813,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 744,
+      "sha256": "4b087d5d2812e03e9900798dae6d4c473ef94864187f4601d5fdb9f443d14e18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 37872,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 720,
+      "sha256": "267c6d3cfa73c6767d768069cb68bfafa1b571b1a5f9be99ae6d7d40e950c6d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 38183,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 744,
+      "sha256": "993fa03d94faa50f9a53bd1fcacd54268b4d7d6891d2223f7ceea8b74dd087eb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 37029,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 720,
+      "sha256": "553b6feb9e7580397a85dcd5aea6c7610246484b17fe3375f12c6bd7ddb2e54f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 34791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 744,
+      "sha256": "bbf7c2f1c7dafdd851e5f68168aaa208a3f47dd8beba319e0a80fc592468b48f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 35007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:27+00:00",
+      "rows": 744,
+      "sha256": "f0ead86d4b04ead2381eb89807236aba0672cb5a4f9dcdb660baa0cdb6cca441",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33186,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:28+00:00",
+      "rows": 720,
+      "sha256": "7eaa7c02da1a54da6fbd44e91d491827972484153508216e312c4cb3442c7ea3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34319,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:28+00:00",
+      "rows": 744,
+      "sha256": "cf8c385151693b58d2e69e725b4a0cb96906d4a0c551d192458363e5fc870b2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 34533,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:28+00:00",
+      "rows": 720,
+      "sha256": "f03482424e40b2535d0aca4dd824834eae7bdff5b02358969820041980a82892",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35858,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:28+00:00",
+      "rows": 744,
+      "sha256": "71bb0c61e5f344da1276be19d871486bc4e70c8cbef5d7b3271a18140402b75a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:29+00:00",
+      "rows": 744,
+      "sha256": "078808d179956ea8d384e54ebc68ad9494524b133f56ae491869060a8cc437c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31231,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:29+00:00",
+      "rows": 672,
+      "sha256": "0f95c2eb040399cb64446bd27f3c4b54e2657eec6bacde0b569f0846768e4502",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 30714,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:35:29+00:00",
+      "rows": 651,
+      "sha256": "6d9c6595e27f04756f651bc7cb9f4622cb4999f4fef84fbeb4de900bab16b143",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/LINAUSDT/1h/LINAUSDT-1h-2025-03.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "LINAUSDT",
+  "total_rows": 35283
+}

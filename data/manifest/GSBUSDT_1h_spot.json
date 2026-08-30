@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:03:27+00:00",
+      "rows": 60,
+      "sha256": "fc3076d7ebef09588d1f2a506bf4e0e5b5ba13d606bc4c5b46d7d53a34f8885d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/GSBUSDT/1h/GSBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "GSBUSDT",
+  "total_rows": 60
+}

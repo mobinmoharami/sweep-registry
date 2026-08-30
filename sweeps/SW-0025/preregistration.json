@@ -1,0 +1,78 @@
+{
+  "sweep_id": "SW-0025",
+  "title": "Liquidity sweep on major FX pairs, hourly",
+  "hypothesis": "The most falsifiable smart-money claim: that stop hunts beyond prior extremes reverse. Stated mechanically: Price exceeds the prior lookback-bar extreme by at least entry_threshold ATR(14) intrabar, then closes back inside it. Sweeping highs traps longs, so the trade is short, and vice versa. This sweep tests whether that produces a risk-adjusted edge after realistic costs, once selection across the full parameter space is accounted for. The definition is fixed and hashed before the test runs, so an objection that it was implemented wrong must be raised against this text in advance.",
+  "search_space": {
+    "families": [
+      "liquidity_sweep"
+    ],
+    "parameters": {
+      "lookback": [
+        10,
+        20,
+        30,
+        50,
+        80,
+        120
+      ],
+      "entry_threshold": [
+        0.0,
+        0.25,
+        0.5,
+        1.0,
+        1.5
+      ],
+      "exit_rule": [
+        "mean_touch",
+        "opposite_band",
+        "fixed_n_bars"
+      ],
+      "holding_cap_bars": [
+        4,
+        12,
+        48
+      ]
+    },
+    "n_trials": 810,
+    "family_descriptions": {
+      "liquidity_sweep": "Price exceeds the prior lookback-bar extreme by at least entry_threshold ATR(14) intrabar, then closes back inside it. Sweeping highs traps longs, so the trade is short, and vice versa."
+    },
+    "enumeration_note": "6 lookback x 5 entry_threshold x 3 exit_rule x 3 holding_cap_bars x 3 symbols = 810 fully enumerated variants. No variant is excluded after the fact."
+  },
+  "data": {
+    "symbols": [
+      "EURUSD",
+      "GBPUSD",
+      "USDJPY"
+    ],
+    "start": "2017-09-01",
+    "end": "2025-06-30",
+    "timeframe": "1h",
+    "source": "dukascopy tick data aggregated to bars, see data/manifest/",
+    "holdout": "2025-07-01 onward — not loaded or inspected until the verdict is written",
+    "market_hours_note": "FX is closed Friday ~22:00 UTC to Sunday ~22:00 UTC. Those bars are absent, never filled; the engine also zeroes the return across every closure and holds no position through one."
+  },
+  "protocol": {
+    "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period; in-sample/out-of-sample splitting is done by CSCV at scoring time.",
+    "costs_bps": 1.0,
+    "slippage_bps": 0.5,
+    "execution_model": "signal from bar t close, held over bar t+1, no partial fills, position capped at 1x notional per side",
+    "survivorship_note": "symbols fixed at the start of the period, no delisting selection",
+    "definition_note": "These concepts are usually traded discretionarily. Only the mechanical core is tested here. A null result therefore falsifies the mechanical rule, not every possible discretionary application of the idea — and that limit is stated up front rather than conceded afterwards."
+  },
+  "decision_rule": {
+    "metric": "deflated_sharpe_ratio",
+    "alpha": 0.05,
+    "threshold": 0.95,
+    "note": "Fixed before any result was computed. Not adjustable. Run diagnose.py --null afterwards for the cross-sectional picture; that is exploratory and must be labelled as such."
+  },
+  "planning": {
+    "periods_per_year": 8760,
+    "n_observations": 48772,
+    "assumed_var_trial_sharpes": 1.8e-05,
+    "assumed_skewness": -0.2,
+    "assumed_kurtosis": 8.0,
+    "power": 0.8,
+    "cscv_splits": 16
+  }
+}

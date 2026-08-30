@@ -1,0 +1,693 @@
+{
+  "files": [
+    {
+      "bytes": 4913,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:49+00:00",
+      "rows": 91,
+      "sha256": "8973e15ab145d56d18a2b77aec3bd4cfa6d62f97b7c35e71db3752203c458c9a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 36889,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:50+00:00",
+      "rows": 709,
+      "sha256": "5fd61468fc4548a01d04ebaeb17f06958131e928161b926d66ff28c87582739c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 38251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:49+00:00",
+      "rows": 737,
+      "sha256": "146c0acb8eba0696a23ed476fd20229482e61105e10b56480b2de4471362645f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 38354,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:49+00:00",
+      "rows": 744,
+      "sha256": "f66a1b0a109e8ec172732d8ef57e56d1a0fba12eda9873988b68ae4443f9fd6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 37020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:49+00:00",
+      "rows": 720,
+      "sha256": "4be4e79be2f97d84060b8be2eac28af3a750ae1e2bdde8484de2efbf55125c2f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 36831,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:50+00:00",
+      "rows": 741,
+      "sha256": "3a0dc8e3119fabcf4d988b1c7c3d0aa95c312d41501231ccfbe6e7ac00cc3793",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 35526,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:51+00:00",
+      "rows": 713,
+      "sha256": "a0f0cfca3902ef1761b8314804617fe8fb937cde38db6cf126f28841905be72b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 37865,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:50+00:00",
+      "rows": 744,
+      "sha256": "8c18be72877f2459f1c419437d66009310231126e28835e2469a3cf1d3af7680",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 36772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:51+00:00",
+      "rows": 744,
+      "sha256": "a8cee42de2b1e2339a2a8b54bb43457e96847f42d204fec2db620203393814be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 33552,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:51+00:00",
+      "rows": 672,
+      "sha256": "12afd627c8b1ca5535f422301317eb97087ca706277b695b1352dc9aec708570",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 37007,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:51+00:00",
+      "rows": 738,
+      "sha256": "913b0eb51a782848223270dbbb2ff100cf3bc94008d2ad7964b70519a8cbb066",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 36482,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 720,
+      "sha256": "7d6c26ebaffe1c63f5d97120ba6327cb5c043a3bbf555fe643af8318691431c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 37695,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 734,
+      "sha256": "83ffd32ab5018d679b3801cf877bd9bd992468d888627e2f1598ecfbf1fa51c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 37335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 720,
+      "sha256": "cd45e098d486bb8dd1cdf18378fbdf5b3c293218c65a6c2a0ad2e85d6b75bee1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 37855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 744,
+      "sha256": "97fd5a62eb482b3af8dd6854d7b5fd931b918178146f3d1582f5ef9b7938e8ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 36204,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 736,
+      "sha256": "1fc6eac27d9ea45ed92657dbe88757ae58789b730f53d813ad4e8f1cb5d67a19",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 36197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:52+00:00",
+      "rows": 720,
+      "sha256": "297cfd7330158c69680bc4ed8f88ddf0e98e5e92e7bbc75258e53462dbef0823",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 37190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:53+00:00",
+      "rows": 744,
+      "sha256": "9f0d490ee526932536d29b72c3c64a2f636b4bdecbf8d45289c9ee17f5a69a9f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 35970,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:53+00:00",
+      "rows": 716,
+      "sha256": "167f1b99af4f3085d777740040747c65b2d9031a41c59e73dfdb8861e7855b56",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 36287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:54+00:00",
+      "rows": 744,
+      "sha256": "704f1d16495524ea178fba9d6beefeb6f712314c01b02d373084ed2d0a3c7f60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 37749,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:53+00:00",
+      "rows": 744,
+      "sha256": "0222eb208d83b4f22459e92e9d037cf75f80a052d6fe5983f9bb98b87d012af5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 35648,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:53+00:00",
+      "rows": 690,
+      "sha256": "8cb90af58dd55525211a0fe0d8bb8544ef40e4611af8e907cea4ba5fe346c8db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 38006,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:53+00:00",
+      "rows": 743,
+      "sha256": "013af3a1b189cba91b8c9d62b4c17a752a27a14af3ad02362c093978ac44b599",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 36144,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:54+00:00",
+      "rows": 718,
+      "sha256": "bd81ed4d803e9df6315a1ddf07900ab027de0f6f6383c5ba9bc432f1b9386be8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 37286,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:55+00:00",
+      "rows": 744,
+      "sha256": "9aa52de58c0d986a220f130b343917b9dab8f62e4febe27b218215a9102ff3e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 35234,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:54+00:00",
+      "rows": 717,
+      "sha256": "c2b77b57d074fc1893fe09e3e12bbcfa0d5d33ee7a82ae6ff89e49ea5e23133a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 37083,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:55+00:00",
+      "rows": 744,
+      "sha256": "4d96830b7f34ee435bb8cc2253fe72fec4289f8e6952d1c1ab5f84ef28286042",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 38217,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:55+00:00",
+      "rows": 744,
+      "sha256": "80e9de9265c6bb9923e97750ae616db5f321a3dee5bb8ccb63ab659f8cc849d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 36338,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:55+00:00",
+      "rows": 720,
+      "sha256": "930538f2c1f24871de9f69799b61fb6777dba7b9d8f635609b0e1ba76eb037f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 36738,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:55+00:00",
+      "rows": 744,
+      "sha256": "1fe4c067f7fe18d5c9c32009a04c9ceed0a5513c932258197cea2db611b68d45",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 36655,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:56+00:00",
+      "rows": 719,
+      "sha256": "eca13c1407434010a317be2438acbaa9ab81e2a334bf743e2c23481f61f29398",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 37855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:56+00:00",
+      "rows": 740,
+      "sha256": "9892d6184468118201ebb491a66529ba7ff5db35b3e1d7f4875e29a3c84f377a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 38800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:56+00:00",
+      "rows": 744,
+      "sha256": "c84c047645ae52879a2fdc44acdf6036747ca66ba4dd8ea3dce0e57f96e83430",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 36089,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:56+00:00",
+      "rows": 671,
+      "sha256": "edaddf1ca394a3496c223c52cce4201def030d3f3fa18e0ade39d4df42db5046",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 38842,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:56+00:00",
+      "rows": 743,
+      "sha256": "8b7fe8b1284f251cee57b80192223cd70d14e65f1167f75eb0f9ee6675b2f644",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 39022,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:57+00:00",
+      "rows": 715,
+      "sha256": "abfd641b24da7c8132294f104a736941202dd940a1fe8dffac608f5961bbd4ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 41401,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:57+00:00",
+      "rows": 744,
+      "sha256": "e7b04fb1031d25576aeb2ea9ac33752876d465865f37d9f066cd3ae848a590cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 38064,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:58+00:00",
+      "rows": 720,
+      "sha256": "fd119a0946fc32bb70df100d6aa0f8ec1a57d895ba4c2a5e6d2380ff4cf4c06b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 38583,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:58+00:00",
+      "rows": 744,
+      "sha256": "992dd14e2e6d944b80e3bc589058d22d12cd568b3dbe1b8c747e5c32120cfb29",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38296,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:58+00:00",
+      "rows": 740,
+      "sha256": "ce14d6202dcafa8926e6a0c2a45f277259d4465058b1a5d89f34fcd8fe8b1fd0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 33882,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:58+00:00",
+      "rows": 718,
+      "sha256": "8e6158432ea90cb5ddb8fb60d915218fbc984f92c9acb0539198da7faedf72aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 34290,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:59+00:00",
+      "rows": 744,
+      "sha256": "961397f362eb4d857ba7339c64ee9266729218a46468d0aedc351f47dd0d8038",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 33197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:59+00:00",
+      "rows": 720,
+      "sha256": "baa60b906a15d90eac033be9f451519081048746d6f2739daa5ec864fdd0e38e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 34031,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:22:59+00:00",
+      "rows": 744,
+      "sha256": "2f461938c1baacb9eee49cf2775cd0820f8c7ed1eb98c31d5934f9fdce3974e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33224,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:00+00:00",
+      "rows": 744,
+      "sha256": "a70116f957dc1c38ed7b8f7d3555211348e57e578283e62a6be49d84f3be503f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:00+00:00",
+      "rows": 672,
+      "sha256": "11a1aebdf55631d8fe4dc577cd5748b6dd5697b4d594f714a96b128196bc6356",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:00+00:00",
+      "rows": 744,
+      "sha256": "86ddb9a1a952d56a9e02ee94c4b2e4c4a35f64a625524cbbd17b92be8ff02f54",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32440,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:00+00:00",
+      "rows": 720,
+      "sha256": "9bb75b9e937d88c7f0d8376ad1366c52bbe9b522753dfca3072a3c4939fef553",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32918,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:00+00:00",
+      "rows": 744,
+      "sha256": "e74ce103cef4f7238112891ffb33bc6c7b9bc73014d3cdcaf77579407498e50d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31062,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:01+00:00",
+      "rows": 720,
+      "sha256": "3fe14ac2d096642230a34bd7f25557734d1327ea7fa955407cd9a3b39afb14b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:01+00:00",
+      "rows": 744,
+      "sha256": "dd369252dd6fdd90324b5b035001b46adad3edcdc4c57e922d106f4ce84c31cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32861,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:01+00:00",
+      "rows": 744,
+      "sha256": "3842ea3374d44965697cf6f9ff9ca841e66b88bcb05db7936b52e814e75f3892",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:02+00:00",
+      "rows": 720,
+      "sha256": "2ed69594b97f9235b4fc147cbcbd962c1144e00acde0bc657e236c267835f878",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 31037,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:01+00:00",
+      "rows": 744,
+      "sha256": "2f149f659c7c89d727b83ff2b76c61b42a17502aab51d6f51a2a1603f92d6688",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30283,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:01+00:00",
+      "rows": 720,
+      "sha256": "c814f8e6695884fd342b55426decc2ceb50092443562be8561aea814b34c404b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30457,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:03+00:00",
+      "rows": 744,
+      "sha256": "d6f8ce8dc743fb8bbb4384600adfca6005e1b4d961a016cfe48abe7d3236dbb4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30836,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:03+00:00",
+      "rows": 744,
+      "sha256": "2581aefeb7419b76e70807b524c1d4e4277d1e3df7ae1199fd0e0087b96b5a75",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28643,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:02+00:00",
+      "rows": 672,
+      "sha256": "9b6c24e5458d72d55a4aa2b5d844fa98c5d1e7d13937af1ab0e4230d71e845b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32275,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:03+00:00",
+      "rows": 743,
+      "sha256": "644c43c18030e3373bc6b3b86c923af60b27f709710796092eb5d1c49865a15f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30236,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:03+00:00",
+      "rows": 720,
+      "sha256": "2734af5b850adaec54cf4887974115973e4d1d0ef5859f0ef8353e7c26d3d090",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:03+00:00",
+      "rows": 744,
+      "sha256": "f5e4ca0b8f79c8607a85b40377e960bcf9e41efb0ca2914ba3978607382fa462",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 30250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 720,
+      "sha256": "c3c69545f4380d656f8d437d91b2011bce9fc062c0cb714fcf629116079fab8f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30801,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 744,
+      "sha256": "d8aad7de683c6196002766c1c39ba68dec6212c762e610fb33f0ec40468fc6c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29729,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 744,
+      "sha256": "4771d708ecb47bcb97365e6209128b3eba761fdd7147e9eb6031c462825247b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28505,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 720,
+      "sha256": "8f505f2ce3110f52761a9a31f264447998301286761ae2446d8bbd8c164f1eca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 744,
+      "sha256": "12941e68cfe7a4068297e3f59b1e95d1480b5d95326e13611747d0cd7da5a7ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30047,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:04+00:00",
+      "rows": 720,
+      "sha256": "4ac3150e7be58c086996ce13195d15db820cbbff241deca35623514181ca8741",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31579,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:05+00:00",
+      "rows": 744,
+      "sha256": "73630f868495da481fa5146d585761b18dbeac59da148e25424e50fb83fba25f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 30864,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:05+00:00",
+      "rows": 744,
+      "sha256": "6cbf2d1fa09c76d619679173de5157c16ee8ff025f3b4e43f40c7f62034acb01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29139,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:05+00:00",
+      "rows": 696,
+      "sha256": "7d2d31279ec47d13104599d7bbcd9500ea19267f62545e31bdc21d0e06b51b0b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35590,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:05+00:00",
+      "rows": 744,
+      "sha256": "aeac6b4db5929548c97c5a46321a694fb7c60b2a4a4ff5f263db9470285c5298",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:05+00:00",
+      "rows": 720,
+      "sha256": "b6d969360e06e24ef4c33625f77f73c199b5ca16e713076f23f0694d10fbd62b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34308,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:06+00:00",
+      "rows": 744,
+      "sha256": "c0700fd58fb814f365e5778a6ec0a882300f40da8f6db28b58a501211646eb8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 33111,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:06+00:00",
+      "rows": 720,
+      "sha256": "bb409d7ca074063b8464b421b7c8eee11dd40d5ba70c4dcee1d7b59b87b6110a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 34218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:07+00:00",
+      "rows": 744,
+      "sha256": "f971472d71bc40878f1006caffe05f10409b0adc45cba902793c7869902af106",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34222,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:07+00:00",
+      "rows": 744,
+      "sha256": "02e2a02a4233bd5dad38ed283a7fb2fb113668c52d29fbac532b88db38da4e57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32323,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:07+00:00",
+      "rows": 720,
+      "sha256": "d990212fe63d1059b82e5fa03628374dc17d95b95e3309358ba9991c82f65279",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33120,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:07+00:00",
+      "rows": 744,
+      "sha256": "9375002b6ab8dc784e21ff51557355dcb3fcf0b009b3091a6f38b6a532c1f657",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 34217,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:08+00:00",
+      "rows": 720,
+      "sha256": "07165e88aac7e120b9e5efaff704db93b9de9a8ab91af9afceb6939d12707212",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 36179,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:08+00:00",
+      "rows": 744,
+      "sha256": "9b482e948b973a804aa2f4e7214bfc3878800c8e42cdf18ca0406d052dcb395a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 35405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:08+00:00",
+      "rows": 744,
+      "sha256": "108ee1a0bb9819ac2af8f416bdf1e84e238e91dcab30bc7c318521e84900091a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31667,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:09+00:00",
+      "rows": 672,
+      "sha256": "9ef347e488fe9ac3e8ac2f2871d2d32178cd14c82b0d1381851683001aac6cd1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34941,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:09+00:00",
+      "rows": 744,
+      "sha256": "17c3d6e4eee84fcd11473d7f5fbf3aafdfa1bec2a10a79ed2a22ed90d5871957",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 35094,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:09+00:00",
+      "rows": 720,
+      "sha256": "c30315dde7e2d8af01e8c24e975e3894a0057d7ef5c43cf27eae2c3209ef0def",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 29126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:23:09+00:00",
+      "rows": 603,
+      "sha256": "672d4d1b2234a5c14f80cac86eb4fe75ac46b91de3e2182b9d52acdb82905649",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EOSUSDT/1h/EOSUSDT-1h-2025-05.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "EOSUSDT",
+  "total_rows": 61231
+}

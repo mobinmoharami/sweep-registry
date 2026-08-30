@@ -1,0 +1,71 @@
+{
+  "sweep_id": "SW-0009",
+  "title": "Volatility-filtered momentum on BTC and ETH spot, hourly",
+  "hypothesis": "Restricting momentum to low-volatility regimes — the standard 'it works if you filter for the right regime' claim — produces no risk-adjusted edge after realistic costs.",
+  "search_space": {
+    "families": [
+      "vol_regime_momentum"
+    ],
+    "parameters": {
+      "lookback": [
+        12,
+        24,
+        48,
+        72,
+        120
+      ],
+      "entry_threshold": [
+        1.0,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "exit_rule": [
+        "mean_touch",
+        "opposite_band",
+        "fixed_n_bars"
+      ],
+      "holding_cap_bars": [
+        12,
+        48,
+        168
+      ]
+    },
+    "n_trials": 360,
+    "enumeration_note": "4 entry_threshold x 3 exit_rule x 3 holding_cap_bars x 5 lookback x 2 symbols = 360 fully enumerated variants. No variant is excluded after the fact. entry_threshold/10 is the trailing volatility percentile cutoff, ranked over the previous 500 bars only. 2.0 means the quietest 20% of bars."
+  },
+  "data": {
+    "symbols": [
+      "BTCUSDT",
+      "ETHUSDT"
+    ],
+    "start": "2017-09-01",
+    "end": "2025-06-30",
+    "timeframe": "1h",
+    "source": "binance public klines via data.binance.vision, see data/manifest/",
+    "holdout": "2025-07-01 onward — not loaded or inspected until the verdict is written"
+  },
+  "protocol": {
+    "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period; in-sample/out-of-sample splitting is done by CSCV at scoring time.",
+    "costs_bps": 4.0,
+    "slippage_bps": 2.0,
+    "execution_model": "signal from bar t close, held over bar t+1, no partial fills, position capped at 1x notional per side",
+    "survivorship_note": "symbols fixed at the start of the period, no delisting selection"
+  },
+  "decision_rule": {
+    "metric": "deflated_sharpe_ratio",
+    "alpha": 0.05,
+    "threshold": 0.95,
+    "note": "Fixed before any result was computed. Not adjustable. Run diagnose.py --null afterwards for the cross-sectional picture; that is exploratory here and must be labelled as such."
+  },
+  "planning": {
+    "periods_per_year": 8760,
+    "n_observations": 68490,
+    "assumed_var_trial_sharpes": 1.8e-05,
+    "assumed_skewness": -0.2,
+    "assumed_kurtosis": 8.0,
+    "power": 0.8,
+    "cscv_splits": 16,
+    "sd_source": "variance of trial Sharpes assumed from SW-0002; the realised value was ~3.5x larger, which raises the bar rather than lowering it"
+  }
+}

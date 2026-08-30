@@ -1,0 +1,101 @@
+{
+  "files": [
+    {
+      "bytes": 9175,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:56+00:00",
+      "rows": 180,
+      "sha256": "574f375b6f1fba01896203db3dff0aaf8be5858ffd97951d59fc13a616ed2477",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 34145,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:57+00:00",
+      "rows": 744,
+      "sha256": "89939194702169a8480ca17e61e15fa6ddaf7aba846cc6e2481376ad0a339657",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31644,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:57+00:00",
+      "rows": 720,
+      "sha256": "034962d121b0b6d75a912b556f9e5a08558eefc66634dd32640fe4f3db28ecfd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31529,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:57+00:00",
+      "rows": 744,
+      "sha256": "5563d4518b1da241dd7b84baae5a1ce12777558847fb15b714d91be6e754c736",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31401,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:57+00:00",
+      "rows": 744,
+      "sha256": "b91c9bef3d8615ad6e42f1ae36336ba367ec183835228b65970afa6d97f73d5c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30573,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:57+00:00",
+      "rows": 672,
+      "sha256": "a0b6c15eb6c54fa8d6db2192ac48c76c5a48238df5308f7b03544d367e11de76",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33182,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:58+00:00",
+      "rows": 744,
+      "sha256": "8ae14fa585918294e6cc25bc43f7f333736de92866cb312238db94e635d23b6b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33631,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:58+00:00",
+      "rows": 720,
+      "sha256": "80fb6c5f6bc4c23a5bf714a4c6f5e63a8c3f42a3885e6d0739a3234a9d6843ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33470,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:59+00:00",
+      "rows": 744,
+      "sha256": "e1cc4a45a91bb3f9ea15e91a33844cf7c9a49e0ff99d089eaae46094960ffdb6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32017,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:59+00:00",
+      "rows": 720,
+      "sha256": "05b9bea9ddc5af3371cfbe8f6a652afc74b3c39f095021c1d9f58d64329cdc21",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 33042,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:04:59+00:00",
+      "rows": 744,
+      "sha256": "898a777b5558424ec2f19009f99144d8bce5169782397abe77a75b58e619e132",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/HEMIUSDT/1h/HEMIUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "HEMIUSDT",
+  "total_rows": 7476
+}

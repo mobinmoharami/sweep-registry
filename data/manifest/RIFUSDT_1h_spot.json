@@ -1,0 +1,549 @@
+{
+  "files": [
+    {
+      "bytes": 26972,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:03+00:00",
+      "rows": 587,
+      "sha256": "51a4f6f9af874f71983c3f27ef8f216cc8aa9af62d0fdbe51f4ef07bfeb53289",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 31716,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 671,
+      "sha256": "58d31a88ea89b80dc2bd8da6c2224b5a20dc3f302f01378a865561cad7cd4762",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 34163,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 743,
+      "sha256": "f551a0250961ebb0145430020bdd1a23386a1cc65045cd35b747ec1e12b670a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 33814,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 715,
+      "sha256": "d33794003c4deeb39ac77b8282f69911967c9ae38f633247f3be44a129cb7546",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 35178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 744,
+      "sha256": "513f41b7e52f367b3d151b002cd2532e965e71ac71d743a11300c76686621eef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 32736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 720,
+      "sha256": "a64389d0650f99be14e1549925acb1877a90a07f02f2564d3e63ff1315b4daae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 32761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:04+00:00",
+      "rows": 744,
+      "sha256": "796690a88135f79b5db3c7d45fd3279ac9bb4d538206c869b64d39125af5587a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 32611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:05+00:00",
+      "rows": 740,
+      "sha256": "663bc7af5dd7d2c99a8dde7485ff7b4eed91492e9000a17dd5b56bf63d4927a7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 28542,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:05+00:00",
+      "rows": 718,
+      "sha256": "b6515b70d4f3aaee738182b76343cebe1fcbfb9696ae18a4129760cb3324a76c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 29435,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:06+00:00",
+      "rows": 744,
+      "sha256": "058a08595066d1f0e846717ed408df2c5f4962459a260871aa066d34d4f5fee3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 28292,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:06+00:00",
+      "rows": 720,
+      "sha256": "98c220f22facfa8afdbf047d8bbf65d54ddd6ce03d24088a3e73f7f820c8db16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 28962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:06+00:00",
+      "rows": 744,
+      "sha256": "3b7e08927bfd8bc84dddf27e4b4d7d7fb9f9c4a3d155e478ae3fb0f580f468fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 28068,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:06+00:00",
+      "rows": 744,
+      "sha256": "23083db9c6e33e4131658e614d36d820534296bffa476f4ba0432038321393b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 25606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:06+00:00",
+      "rows": 672,
+      "sha256": "1bcb5a6ecda07276507d268e14bfbcad592a6523f44fff74be4dffc4e21db181",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 27195,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:07+00:00",
+      "rows": 744,
+      "sha256": "ea47ac60f10e1b1042268bcf4c94a0335d7dd68de518a6483e6149398bfb6b47",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 25408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:07+00:00",
+      "rows": 720,
+      "sha256": "724b4cc8c4f79e1db57a1ea16851647be8c8046e74c905f31a0a35add8c32133",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 26157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:07+00:00",
+      "rows": 744,
+      "sha256": "c9930eb2e19d33fbe78ac3448e89caa1dee080b92b65debbf175a6ba4220cd39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 25636,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:07+00:00",
+      "rows": 720,
+      "sha256": "b38d67874714b179b99ee3f2b2b2df2be5a992621418471effaec6e8d247784a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 27941,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:08+00:00",
+      "rows": 744,
+      "sha256": "c26da7d4314a726f7b6b633a79f152304057de67392601e4be7d11801eadafab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 28489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:07+00:00",
+      "rows": 744,
+      "sha256": "6e61ca756e15afbde43b188b56a1184f52d55e5863499123a34f520389f92131",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 26126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:08+00:00",
+      "rows": 720,
+      "sha256": "5b80b7e16e5fbd266862c35c5fb72303fd4be6df289aaff0a26736a8709357ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 26157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:08+00:00",
+      "rows": 744,
+      "sha256": "a2c1570a2fa8f5dd7de385ed2f5cdd5a5d74fd8fd773fa7e113c67273f33ff69",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 26625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:09+00:00",
+      "rows": 720,
+      "sha256": "9c84e335869659c6a82eee2daf049ecaa718360a3dd78a602bf000530e6446b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 28036,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:08+00:00",
+      "rows": 744,
+      "sha256": "73ebe29714b87fe867bfcbd0432f0fbdbab0018d4640d8e697880f9130186119",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 28190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:09+00:00",
+      "rows": 744,
+      "sha256": "ecef3ace3f1bbbceae974211abb85078575f848fcd47c4289a194ae2ed3c28e2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 27355,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:10+00:00",
+      "rows": 672,
+      "sha256": "2babbd30a0f76c4a352f431285c5c7071967bbe08cb5e9bc49c46105e7b47b0e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 32753,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:10+00:00",
+      "rows": 743,
+      "sha256": "8d7e6d2c7ee14d45b3311934f79ec6de51e1639789366269dff32b83adcd174d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:10+00:00",
+      "rows": 720,
+      "sha256": "d9b98f2207adc54cc9b2612a8a4cccfbc9257dc193ed6e5fb5eacbb13d05130a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31229,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:10+00:00",
+      "rows": 744,
+      "sha256": "53fbb022b401cc745b86ce2d5fe1527cbfadd2ad820be8fa070c06da735eb94a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28993,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:10+00:00",
+      "rows": 720,
+      "sha256": "bbae40fb95798fd07cf2f5dd77d11f6ac987b577fb8213ab98e4af89869be817",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 28745,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:11+00:00",
+      "rows": 744,
+      "sha256": "c7e48510e729fffb13b5fb238f638dffa1e4211decfa07a2109bcaf2ffca0709",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:11+00:00",
+      "rows": 744,
+      "sha256": "4090ba50b21cf66f0b2319f0ae4fdeb069fdc4d08d5bb37cf171afc16c5e6608",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 26325,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:11+00:00",
+      "rows": 720,
+      "sha256": "d3e11ba7cfba58434b8a84fe05181bb357be9c9360f6f0cbd7693cfa56936df2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29961,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:11+00:00",
+      "rows": 744,
+      "sha256": "dfbe276ff44a45b590889e66d8fb53fd80755933853f48c8b5276815c15489f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30138,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:11+00:00",
+      "rows": 720,
+      "sha256": "291926e86f8b4d192ead1c8cd7da72c96390a65e46b3686b2dbfed538d6edf1e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31343,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:12+00:00",
+      "rows": 744,
+      "sha256": "ac4072e1b200815f5faebdd69b3a09052c95210c00346e8de32a0f89e998f01f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 30943,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:13+00:00",
+      "rows": 744,
+      "sha256": "b60486dd33d1c2884dd351a6626eec98ee0050a2fb624e4766a37b795a40150f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29110,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:13+00:00",
+      "rows": 696,
+      "sha256": "3331c132deeb9d241daa3ca1240a2d0009b34e6115fa6626744aafa7c9f8d485",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:13+00:00",
+      "rows": 744,
+      "sha256": "27fc202b68e2e771c2b4e8820214991b99b46ee66a28b10ad462b7a91f7a47f1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 30197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:12+00:00",
+      "rows": 720,
+      "sha256": "1f3e109c365e3d0b2c68e9d9648b5886146d279f140ce32035b569489de2dc58",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 30269,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:13+00:00",
+      "rows": 744,
+      "sha256": "52e4af9bf6c0a43810ff8809736a4f105e21bbb3c1ba7b8f1d64be3495f021fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 29459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:14+00:00",
+      "rows": 720,
+      "sha256": "07e8c6e52439b067f47118104911ee959385735c220a30cb7fff902b258b024b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30213,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:14+00:00",
+      "rows": 744,
+      "sha256": "a96b02ce980b0d982ee39cd028ce267bcde455f7d78d5263ca6028cf2ce82fb7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30434,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:14+00:00",
+      "rows": 744,
+      "sha256": "ecab0bca8adc76062db5fd7c441aca0b73f797e01205c52e8eb7b1314dcb2f4d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:14+00:00",
+      "rows": 720,
+      "sha256": "42e93f7ed04afcb258966850b6b4fe571d376e3b64bab9cd60eac859703b4732",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 29317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:15+00:00",
+      "rows": 744,
+      "sha256": "3debf2b2d415fde907c83c1819c1ca31c9d0bf39d36b6e1b84c0050d99e6ecef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 29816,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:15+00:00",
+      "rows": 720,
+      "sha256": "b0de2fdd4140b28b8aee697f753fdf54354b47148b9ab7b428f1038a89f10b8b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 31001,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:15+00:00",
+      "rows": 744,
+      "sha256": "b938a00f968eaad0a0b4bb1c89a792e5e9f0ae14692df02a95ab595088b3fc08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 29868,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:15+00:00",
+      "rows": 744,
+      "sha256": "ffe6b410b4d9dfce07b9245c951ff531437c235c0143e57781f1c31e54210767",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 26892,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:16+00:00",
+      "rows": 672,
+      "sha256": "55a993ce4e3bc8a7c73ce1c9b3d50015307c3e118f462b3aefbe67d0b43f87f7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 28911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:16+00:00",
+      "rows": 744,
+      "sha256": "d38d23bf001bfc8df1bb98152017df4af081e2393b1f3b1614bc85c37bd9df16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 28113,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:16+00:00",
+      "rows": 720,
+      "sha256": "500b59cfc901da7ee2883f43960c8956c1d609701d15fb19fe7cc31ebfbf90df",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 29224,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:16+00:00",
+      "rows": 744,
+      "sha256": "d842b9a832fc7930a3ef7122dfe7b7a5cacaf599d321b59fb144be334e63c4be",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 26895,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:17+00:00",
+      "rows": 720,
+      "sha256": "dbac18c5afa289052ee2ea35242810e188f4b8a5609f300f21dfff4d56c6d395",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 28132,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:17+00:00",
+      "rows": 744,
+      "sha256": "06d5e2cc02509af8fa5352d689fbaf1492c84557cc940b549e98f466568f1c58",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 28046,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:18+00:00",
+      "rows": 744,
+      "sha256": "eae482c66fe5a5e71a178b6ee28b0b4427f27f4cd562ad608af9a3f0cd441b8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 26808,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:18+00:00",
+      "rows": 720,
+      "sha256": "5b5e5d6ff95f02c08d70d40a744a3e80183c5d97c548b9a5c99b7375c387e405",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 27578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:18+00:00",
+      "rows": 744,
+      "sha256": "0049dd7f976718079142b13b0f6a3dd4ee3f7822547d9896de8c43a04eaf1202",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 26760,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:18+00:00",
+      "rows": 720,
+      "sha256": "2b107eebd61575504baf168efd94bf5f9f6f38d3245c811d1b8758a30a5bdfd9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 27020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:18+00:00",
+      "rows": 744,
+      "sha256": "ece688e74120f9e7998702681b56559b37b474ff5cd99cd37a2766f5ddfc877c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 27650,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:19+00:00",
+      "rows": 744,
+      "sha256": "265cb702df3271066b03a3e27bc5f222e7da31c301d1953546c3537ca2883736",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 26339,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:20+00:00",
+      "rows": 672,
+      "sha256": "259c83f6aa8b986d1cbefd1c61225a71541d565c39310f595bb788a32627b8c7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 28278,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:19+00:00",
+      "rows": 744,
+      "sha256": "b18ef6f825d6d0bdd669c9013cce6abb744a70df33f29291f75eb8347b3ed5e5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 26988,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:20+00:00",
+      "rows": 720,
+      "sha256": "10307ee24e18d752bf4c4918fbb24b6b826e9e3c6ff1c2877926298c5ec5e12e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30003,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:20+00:00",
+      "rows": 744,
+      "sha256": "09f77af1c32ed789c658cd4306f00679ebf877c6d1d6d49045d02edd98d06bcc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30288,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:20+00:00",
+      "rows": 720,
+      "sha256": "caa12ff82842440b1ebca3ce34a3c4a1c84aa2c92aca23f06d4a0c2fd85f090d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32090,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:35:20+00:00",
+      "rows": 744,
+      "sha256": "7c1987d3ba8e0de820d4fede8d511481f1edd0f7e541c0b00c4b98639e23763b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/RIFUSDT/1h/RIFUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "RIFUSDT",
+  "total_rows": 48741
+}

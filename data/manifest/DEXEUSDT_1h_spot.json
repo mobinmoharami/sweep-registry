@@ -1,0 +1,501 @@
+{
+  "files": [
+    {
+      "bytes": 9780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:12+00:00",
+      "rows": 206,
+      "sha256": "9def0d94fa9f6d10d813f4d731eada7f124d0159d50e056c1d3a0053add06695",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 32500,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:13+00:00",
+      "rows": 740,
+      "sha256": "6d0ba9e0e874d7bb22e2467f47e77552bb249b8c39a2d78be2a3becb21878451",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 30720,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:12+00:00",
+      "rows": 718,
+      "sha256": "ee10eb81818d88dfd8823a585c375cf7bf7daa231313f74e4423bf45530f210c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 30799,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:13+00:00",
+      "rows": 744,
+      "sha256": "76ccaec62b44399d7ed4706115cc1716eb78f0107f5b34e8107889faed64a537",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 29824,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:13+00:00",
+      "rows": 720,
+      "sha256": "087954ea80b9179ad568378cc91cbd59eefc573b2c9f57f2762803897def9b73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 31164,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:13+00:00",
+      "rows": 744,
+      "sha256": "c6cb4c2e6263f6a67ea2f208fb2732a214008f8563178f971761fe33ef49f629",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 29550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:14+00:00",
+      "rows": 744,
+      "sha256": "859ebfc00d9c78281783ea3a48206e067d88d7e35cabbbd1388a3dd3050443c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 26846,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:14+00:00",
+      "rows": 672,
+      "sha256": "697dff400a3288001a4b0ba18637d6dab3ccc7471a2ffc6e2c88e5467fad36d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 29154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:14+00:00",
+      "rows": 744,
+      "sha256": "46588e2bb090d73548056386a1ddd27c1cd1d496bff88f48ca71fef2ff5c4eee",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 28009,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:14+00:00",
+      "rows": 720,
+      "sha256": "f912659a170a75d0194687db760d788277300dd1b0100369a8b866d570e3f99f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 28571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:14+00:00",
+      "rows": 744,
+      "sha256": "92e44d4174e2a386984809f2dede90020915d4da86651fa9a201ab8c687cad1d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 27601,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:15+00:00",
+      "rows": 720,
+      "sha256": "0c0cda388d72cdc74231fdb36f94375630cd88022721bfb707617b748a7c36b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30757,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:15+00:00",
+      "rows": 744,
+      "sha256": "da3edc14a8408b06cb655acbf0c003392fbb603354bd521e97b78dac7e7f011e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:16+00:00",
+      "rows": 744,
+      "sha256": "3cf5232c594b7649fad48e2fd08657982bb3e1dacafe02249b2f85dd2204a76e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:16+00:00",
+      "rows": 720,
+      "sha256": "50db8041e1c423a555452c1f7c5479414292e774d70dc614a60f8da691d82f63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 30072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:16+00:00",
+      "rows": 744,
+      "sha256": "99d4c5090c023a937c37bc5275a2351e79cf3e4570b78ae58832f1dd4e8ffa01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 30134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:16+00:00",
+      "rows": 720,
+      "sha256": "fa681ab31bfec99e2b8a22a93a5ca9a8b3881fe1920aa058be0237a8dc879c75",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:16+00:00",
+      "rows": 744,
+      "sha256": "d80e531a13da616892102e3e39c0e74fc0d31c1b8213058fcef202452be80066",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30577,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:17+00:00",
+      "rows": 744,
+      "sha256": "8da371a6c4843db7cfa9bdd18f35ddee0ffc5c17929d9e941af05b746dafeba7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 27845,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:17+00:00",
+      "rows": 672,
+      "sha256": "32b98da0855004c817c927adc06710dd5e39729a0727ede9edba79d5ee5776d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 29971,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:18+00:00",
+      "rows": 743,
+      "sha256": "34c6cec066505a2a80d86fade7e4376ddb86cce00160fff0414c546bbf0a37d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30105,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:18+00:00",
+      "rows": 720,
+      "sha256": "caf1fbb0e713f09e6b2376c538f9505d119e137489d9657e63fd590f03afcdb0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29505,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:18+00:00",
+      "rows": 744,
+      "sha256": "f556891e3cc5fb3df104a337e0763c131104cb110573473ce686367f0c822f17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28790,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:18+00:00",
+      "rows": 720,
+      "sha256": "a9fa5e1f15210e4448d59faa4086a11a5eeecffbc15f6684db9d073b1f1fea4b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29927,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:19+00:00",
+      "rows": 744,
+      "sha256": "e69c942aef19d788423d36181cbf00d7f858dc4a3e0d59ebe439af4f4cf60190",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28784,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:19+00:00",
+      "rows": 744,
+      "sha256": "d7f2494358ca4120e2b6c68edf5d05d206476d90e6325c1cc98e922bd1c14276",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27786,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:18+00:00",
+      "rows": 720,
+      "sha256": "59f2dc0377cc59b2b1b01be4351eb0781176f63a74b8d0bd21023b37b408187b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29209,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:19+00:00",
+      "rows": 744,
+      "sha256": "9b3567f9fc7f8c30624c1411ea0d9db1e329cdd83a9457b21de3847ff8c2a5a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30792,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:19+00:00",
+      "rows": 720,
+      "sha256": "11a10750fed02d5fe2dc97ad4d28aab12181ab864dff2b51c4889e91a9f8339d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32847,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:20+00:00",
+      "rows": 744,
+      "sha256": "f63393670e1a0f901153e06e4631709e6cfc02ba934a86b80163e0bba8801ecc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:20+00:00",
+      "rows": 744,
+      "sha256": "951f8a22aff2378063384d3c52fc2f442be85b72f7f6749e9b43bd623d194efc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:20+00:00",
+      "rows": 696,
+      "sha256": "92a5df991d1aa8428f1f60aef9fe1f532aeddf2d282140729f1ec65dbcec43b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 34224,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:20+00:00",
+      "rows": 744,
+      "sha256": "a7c7f74a888803a0d5a77d839b9e671ac1c49fcf54f7d93457723f7b5f1b8809",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 32409,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:21+00:00",
+      "rows": 720,
+      "sha256": "5be833bbe3f7c6d11bbc3aa5884e38a6636f5d26c2b4b7168768c27598c62b92",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32813,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:21+00:00",
+      "rows": 744,
+      "sha256": "ac48cfcf7c3ef17325babd20323df347f98c5a2246111533969edb5cad2f5401",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 31533,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:22+00:00",
+      "rows": 720,
+      "sha256": "6909636d5823fe93942faf04e2b32943e3dd15f4ee4eeb4f15f39e7b483252c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 32215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:21+00:00",
+      "rows": 744,
+      "sha256": "104b8e2ff2f3647e4f22851e2e9390af5d4a19d0b3f187f622ed129069305ee7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32000,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:22+00:00",
+      "rows": 744,
+      "sha256": "2acdf5bd1091f284ba023e90d837b7ff43648a8c8f7c6e9c52fb75aa5664aaf6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30305,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:21+00:00",
+      "rows": 720,
+      "sha256": "edee57ac8623f046918d41e005d1bba4326cc77d4fdd5c7c3e7006c82ffcf322",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31188,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:22+00:00",
+      "rows": 744,
+      "sha256": "33426e165d659afee10de5f3b4f832b3bcf1a76af5575d514bdad61f2c20370b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30672,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 720,
+      "sha256": "668b414e2507ab7d9bc8446118820d44bb4798a9a47c2975067ae781dc3d59f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 744,
+      "sha256": "5bab18468a68a86736a2c036dc5077c9a64c66cd5ccc18dc93678d3ebd778a50",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 35397,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 744,
+      "sha256": "03dd9385ae0a31e2f3e00ce2921703f2a2383e3050f922d5406bf435a7fecd06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 672,
+      "sha256": "28952cc7b24e10896917daf898aa3c050f382b1a418f2b07956632d63c7d8bb5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33219,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 744,
+      "sha256": "fd06296dd40725ded3b4f950bdfcd72a49702ab5dc83ef1fc4b00fa27b69664a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32721,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:23+00:00",
+      "rows": 720,
+      "sha256": "2791cadb7c65171ab1876e1710272070e13b4ba1966b31fa4e43fd19bff70c7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33172,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:24+00:00",
+      "rows": 744,
+      "sha256": "1d611ea5672b5f207d765c7de522a5ba9c8bb5ce846ad5cf3054ca6ad9ef92db",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:25+00:00",
+      "rows": 720,
+      "sha256": "bbe4a0e19a4a6e5d0a57344f4704e3e89a2163edcb83e766cf71c5f5a671ddd7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32257,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:25+00:00",
+      "rows": 744,
+      "sha256": "ae46dce2d4987dad3fdd739ad25b47d8a5c0ae1c88c7f58857aedb097e3a2750",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32363,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:25+00:00",
+      "rows": 744,
+      "sha256": "52a13a324cb84aa755fc96d2a75349365ae929a22c6ce510e52ce6a887598dc1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31795,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:25+00:00",
+      "rows": 720,
+      "sha256": "8322aa1c9783d8ca07c2df4cbd2afca6c9fea1e32a49b99c8f41eb339ec161ed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:25+00:00",
+      "rows": 744,
+      "sha256": "323149b957b9a68c7154687879e2220fbda07f4f7f77ee01a3f5154fea61421f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31399,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:26+00:00",
+      "rows": 720,
+      "sha256": "9813b99f71432c8238b33f828e44e788a41cb0fde2e24f03a3d491bc562e2a3e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31550,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:26+00:00",
+      "rows": 744,
+      "sha256": "44362185c5db2b99c2266b57f5a74dd48140585475ba34fb01dde55ed1af56ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 31377,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:26+00:00",
+      "rows": 744,
+      "sha256": "162ab65b76cec1442f2e100cb0becf882cf9e52566f46e92922c11e752d50998",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28939,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:27+00:00",
+      "rows": 672,
+      "sha256": "b6494469bcc281aeb5f47de90d4bdcab08ccb580cd0e147fa21fb361fbed13ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33601,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:26+00:00",
+      "rows": 744,
+      "sha256": "06c785be4208efbfdc3fe4cbe37ce7a60114cd53c46a6aa735546c340729d32c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 33480,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:27+00:00",
+      "rows": 720,
+      "sha256": "1dfd99b7ce6859d9f606ac5d26048cb64e051335a5206230f1e53de6a38aa258",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 33561,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:27+00:00",
+      "rows": 744,
+      "sha256": "24cc01a0599ab49b286e7224c781c8cb6692de5bf55cffddbe12534dbd0ddeec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 34102,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:28+00:00",
+      "rows": 720,
+      "sha256": "868a36f9bc4dc26c85c48156df372e4c2290a99ca12bc9fd9664d51c5430bf9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 36637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:52:28+00:00",
+      "rows": 744,
+      "sha256": "45ced4f6aa337c08191324635c7d9b29d31fda568b728e3e6b5029f3260ae2ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/DEXEUSDT/1h/DEXEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "DEXEUSDT",
+  "total_rows": 44023
+}

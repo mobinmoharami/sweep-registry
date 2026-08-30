@@ -1,0 +1,813 @@
+{
+  "files": [
+    {
+      "bytes": 15145,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:18+00:00",
+      "rows": 304,
+      "sha256": "53805b57048256dcdeef5b8f6d510504d2a823f3851476944377365265998589",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-03.zip"
+    },
+    {
+      "bytes": 33791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:18+00:00",
+      "rows": 720,
+      "sha256": "529518bda5caa240bf6ef63ec21947be3558aecde3e8b60890f313989220b520",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-04.zip"
+    },
+    {
+      "bytes": 34925,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:18+00:00",
+      "rows": 744,
+      "sha256": "8ffe8853f29b3b533146170477ec6557c419d70ad012adf627fc72c08ab94358",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 32198,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:18+00:00",
+      "rows": 709,
+      "sha256": "b6c9e34a1fc664fb8c29cbfbc8c9a8eb5fb3c10368435dae942bc75e6531170e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 33247,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:19+00:00",
+      "rows": 737,
+      "sha256": "d7191e27bd2e1722f07e500971ee0e377871919b473dfaa4e0c29e3aed7687ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 34126,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:18+00:00",
+      "rows": 744,
+      "sha256": "161cbab8f2c4a3d557db10b3f795a4c85c1c1dc5ddc9665680bf09fb76c5222d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 33028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:19+00:00",
+      "rows": 720,
+      "sha256": "0b14b01aed3ab28513b0a5af8b1728c399791e79e83e6c3ac629018da14868f4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 32730,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:20+00:00",
+      "rows": 741,
+      "sha256": "95406bcb11ae7ca38db0dcb6f609b4bd12ced79ff97f6d535cee0d4aca42e7ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 31603,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:20+00:00",
+      "rows": 713,
+      "sha256": "64fcdbe9f5af7d7898beaf47d5f16efc45cf29acdd7df223ef7faf651a829d2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 33142,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:20+00:00",
+      "rows": 744,
+      "sha256": "7ed09751aae79b5bc672d22491198bc41376a7a6cc310f5158383eddf7394bfe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 32166,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:19+00:00",
+      "rows": 744,
+      "sha256": "b7bee6a43fd96bd5a0a27f2213fdaa62c71198a8de4863ea9582d9cb4cf5ad01",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 28734,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 672,
+      "sha256": "c804f83dad4875abde48fb17002000a183e606c42ee2e686cf3100f96c494274",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 32592,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 738,
+      "sha256": "5a02229d7eb31d814b2ddba0860cfd3bdc74490a17fa14519164a4b929d3c2e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 32386,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 720,
+      "sha256": "03105e77c3e710f3f2d481939d288a84a24c35fb39213847f78586922dee3c2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 33122,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 734,
+      "sha256": "90244e0149ea628e81cffa800bc83cb489e8db1e1a4543709066c158f6165592",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 33276,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 720,
+      "sha256": "1604f12cc7e5ff81c1c97ddd053438c3929a98c9263700972802b311c25fe7b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 34197,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:21+00:00",
+      "rows": 744,
+      "sha256": "9092a1d7ba9fe00af03f3334cf0ad500a8dd14a879321f25ac2aef05760823b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 32585,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:22+00:00",
+      "rows": 736,
+      "sha256": "89cac80cc98c5cc0be0997988037926aa480fd84e5aa223297a482a199a75de8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 31483,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 720,
+      "sha256": "382e8d03ea346d79e1a8707f9a1dbaf0471ed9736e9a3a16d2086931736c7069",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 32654,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 744,
+      "sha256": "f90e662fb615c779afc293a695ce54b1396fb754aec1e3409ea1392bbcc26068",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 33033,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 716,
+      "sha256": "1b468bd8f23b6f5f957162356f16f25e15ee0a13f450b0b9c8a48c009c93b45d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 32843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 744,
+      "sha256": "62d3fba0aea53a263b73388d0fc48d13ea527cdb13602672df3810ac37174b72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 33769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 744,
+      "sha256": "b951e4362cd34de5ee0223c5bd7077b268104b15fa0e054ee835c5e6a28d1abe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 32651,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:23+00:00",
+      "rows": 690,
+      "sha256": "0742a21a10f24b56097198290dee058c6e0cda2b2d2dfa10c97f4ae5dab1d84a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 34529,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:24+00:00",
+      "rows": 743,
+      "sha256": "2d2ad911e3c5275338ea95ad5c858ac15a9926aebadfebce1beb270eaeecc3b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 32607,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:25+00:00",
+      "rows": 718,
+      "sha256": "f72737c2e33a2b9bcaa4e80f2e3f814296d784b060edb0c5840578aa9407091c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 33975,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:25+00:00",
+      "rows": 744,
+      "sha256": "264773c5977e1334ff812cbedd45078773b6ac52d47b5aa7c1a13def383a66f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 32551,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:25+00:00",
+      "rows": 717,
+      "sha256": "e5c583d20b70b436992683254b561f66f1b5f049e63194f4b6289070ff47e58d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 34778,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:25+00:00",
+      "rows": 744,
+      "sha256": "e44099f598488b00c0c9844adc312b84d53a21e7d1e35913757bbca2d0aa1aab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 36251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:25+00:00",
+      "rows": 744,
+      "sha256": "058069e80070c5ef80533a32b33640d907b814f68c2a319533577743af06ceca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 34652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 720,
+      "sha256": "40213e028f9b813b01c0e7212760a15c9c42fc764dc6d3d16b4141560cf88e45",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 34484,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 744,
+      "sha256": "f899fb1bd37eaf1cbdd199118b39b1888c565364091d5e69871c1183ba3f97a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 34020,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 719,
+      "sha256": "e8fe45782dce816652bf792147656b1d970f44660252990e330356d4758508ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 34517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 740,
+      "sha256": "a55afc07f2d700cf5e4f4561cac9eab246f68632c1c19072849b193dbdafa512",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 36242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 744,
+      "sha256": "413427e5a100a386f108803bb290b25f1d27664b9a4317663c36c88a4cff7911",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 33732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:26+00:00",
+      "rows": 671,
+      "sha256": "6fb5a5f89e1220028b931fccb167563a57be0c05a57a66dfdaa581057ad2c42c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 36998,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:27+00:00",
+      "rows": 743,
+      "sha256": "5118c8569f29f5877ba3e1aea95dd2be2bbf687019b94716ffc4ed8454be8557",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 36825,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:28+00:00",
+      "rows": 715,
+      "sha256": "2dbb590c2915ba193eba910837d5e2711dbfc57d88c6c84895fc11d67f365af4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:28+00:00",
+      "rows": 744,
+      "sha256": "151f43cabe41ddb2aea01c1703f5c18e83582e13abb3f738de095d4683339264",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 35571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:28+00:00",
+      "rows": 720,
+      "sha256": "785e4a1ee648a1eb4ad8c7546e4fd1ee6701e0a0556830e9e1d0e262b413b357",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 35853,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:27+00:00",
+      "rows": 744,
+      "sha256": "71385ab3cd60dd943cc2dcf88204f10ec8bb9984ad25c29c12e8349807abebc8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 36701,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:28+00:00",
+      "rows": 740,
+      "sha256": "3b3ef4ced3b8019170681c808586996784f0489b4c2a2efb611474d5d7e2d635",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:29+00:00",
+      "rows": 718,
+      "sha256": "e535095f47c1dc699c2c0d8635ef518c6dbe8cfd8fb86180e4cb447e9aed4715",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33630,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:29+00:00",
+      "rows": 744,
+      "sha256": "ca683e4ae6248b300e49e00ca67c78e0cea3e5a080cc30088525c17dab73c542",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32984,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:29+00:00",
+      "rows": 720,
+      "sha256": "918e0d3f4702f72b70367f40fb78b7637badddc3430cb2528571b5e1ea5603f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33043,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:30+00:00",
+      "rows": 744,
+      "sha256": "072d536f6ed23d3a5d3f423f60eded83d1271f96ac71986e982de4d5a03469a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:30+00:00",
+      "rows": 744,
+      "sha256": "96c3c28caf2d41162bcce8a261a1294eb3abbc7f870765abe96f8741d60e7afc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29673,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:30+00:00",
+      "rows": 672,
+      "sha256": "07c0782055d069fef52d720137bf1d839dd588f1656719641b917d70c97747f5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32399,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 744,
+      "sha256": "601cec3bacd4de8aa87237322f19e5dbab8b54194e241da0d7bbfdc5f55b0ae9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31029,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 720,
+      "sha256": "d565e5f5f7504a9c89626925adbbd16a0a6600c3de04338bf44ddc0ac66100d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 31827,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 744,
+      "sha256": "5292fe4c6194ff72c4441b92dcf7c098ca5383ade562c0554a7a39c3ddd08d5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30288,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 720,
+      "sha256": "0c59a4ff1028e2b6d4ed239a9f392f184081d18e8bbefd0770769d4c11c84db6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31181,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 744,
+      "sha256": "ec9d12e32349feaa7bafcda10f8d004f8d4ab14b92bee4de92545b1633afc04f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30530,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:31+00:00",
+      "rows": 744,
+      "sha256": "4e3f541212c7fc78c9a8a9c36ac12e450dd00819a7b51cd3e2dbdd42dfbbc9ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29109,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:32+00:00",
+      "rows": 720,
+      "sha256": "2cb38a3439588b83d4d39792e38b9e5a08f5ba738d0966dd7809984e54b76e49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29022,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:33+00:00",
+      "rows": 744,
+      "sha256": "6baeb143724511352f9574483394149c72669ce2a58cda53acab49c48eb01b1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 29072,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:33+00:00",
+      "rows": 720,
+      "sha256": "76ecf9db945f286d93becc12d470d0bc7368d3286bb06d0b486d0d55934c6463",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 28890,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:32+00:00",
+      "rows": 744,
+      "sha256": "f9795ad580bc8428dbe8863be20f0db188f6bdde3ee207f03278c4c312b57e51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 29808,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:33+00:00",
+      "rows": 744,
+      "sha256": "ea54b01e14938cc6654f765d38cac80fa8c694f5e5f18b565647fb6444ef43ec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28214,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:33+00:00",
+      "rows": 672,
+      "sha256": "c0301c327482084a443d9376918b44e115eb32e63fc2eeb2f00a1a66487f522b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 30777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:34+00:00",
+      "rows": 743,
+      "sha256": "2e4aaf36430246e7b04c2563e759c6a572ffe91fe0f4fbd14e2fbdc321d08781",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 28819,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:34+00:00",
+      "rows": 720,
+      "sha256": "db806848aa8b148b4d21d0d5a2a8ce82d8ebfd21be34241b20d7dc06accc9753",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29215,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:35+00:00",
+      "rows": 744,
+      "sha256": "b74c6af7fb43b09260b102f3e6bc309c6c717afd4602a491da331ffdea17241a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 28459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:35+00:00",
+      "rows": 720,
+      "sha256": "417380083ea56961243a99ef06a8bc721ddd90dbf75697e47220fe0c35fec067",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 30042,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:35+00:00",
+      "rows": 744,
+      "sha256": "8df473cae1d762ab16e9ae5bbd2f2135294d6a3eb9a154371903c78c5fc6fd60",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29170,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:35+00:00",
+      "rows": 744,
+      "sha256": "3d898e9c67e006dd8ccb2a25e00673a30e06c63b4b151f604485a21175bc831a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:35+00:00",
+      "rows": 720,
+      "sha256": "fb665fe5dae7d035de49282af1ca2157f2b9b5960db2888e9dd0430552710f7d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29581,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:36+00:00",
+      "rows": 744,
+      "sha256": "a4531a7863b58e537d23f0ed98931a99d70dc1aa5d704e825dd303d71d321aab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:36+00:00",
+      "rows": 720,
+      "sha256": "4a5f5c78c9f2abf3b7b27f93e9b31c157a59f7b72e173eac7ccb762859686be2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31123,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:36+00:00",
+      "rows": 744,
+      "sha256": "47e5ae0217adce0498bb5a0cd262c06067ba807b8c1aeba7c1851160c83194af",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 30539,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:37+00:00",
+      "rows": 744,
+      "sha256": "ac25ecffa53685252d15dde785bfdbca0b390ac6a6749743f5652054cb6d8d9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 28347,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:37+00:00",
+      "rows": 696,
+      "sha256": "19cb6b40e88ddd48fe1944eca1c5ca183e18bb4322c37c546d2236bbf9dd2962",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32372,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:37+00:00",
+      "rows": 744,
+      "sha256": "8d822350dd8fdf24583b27f3f48dffd122b5999bd558f21fa648718b83bed4b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 30917,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:37+00:00",
+      "rows": 720,
+      "sha256": "dc03dbd41e586714bec5ddc2ea44ff83b5b986d954f3231381d93b75c164c03d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 30273,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:38+00:00",
+      "rows": 744,
+      "sha256": "acc5beb76189c6ac462b833a534d93d446437440bc12983d53cfc9ee5b861f17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 28574,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:37+00:00",
+      "rows": 720,
+      "sha256": "61539609c509ae92a3743178aeae61e1b4a9746ac0fde56a9aeaa9b3af85c634",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 29859,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:38+00:00",
+      "rows": 744,
+      "sha256": "b7bc6fbe9ead09beb08144bd8edba30312d8198a9ad3d91b3a5782a47b3e3305",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 29871,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:38+00:00",
+      "rows": 744,
+      "sha256": "c433765c819c9602cb3bb210455116ef0c8c90a8e369bd01414730c4637ccc95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28297,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:38+00:00",
+      "rows": 720,
+      "sha256": "5d8f1109442564b9da87d2fe749902fefaa67c96c74d9517e34b1c4724e27a84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 29377,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:39+00:00",
+      "rows": 744,
+      "sha256": "eec7acf8c8463caab1dc911cca37759109a010375bca06fdd3ecd4f458b23c9f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30143,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:38+00:00",
+      "rows": 720,
+      "sha256": "86c39c0c2a9dc599a940cb139cf5bf8dae6b2f72dc1d2a9398713dc053dc2f55",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 31570,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:39+00:00",
+      "rows": 744,
+      "sha256": "9b58e0bff7f4f85ed244925e8705e4a8eea554c45ec101b8fbe3a9d9c83aed3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 744,
+      "sha256": "8559e638e8326a0a0020582856a4623129661a5d43e03dfb0e21bf27cbe1944c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29833,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 672,
+      "sha256": "0cf86de2c7cc9fb990797dca3bd237cb3936cdd9708aa194ea44fb65e46b5d3f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 30742,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 744,
+      "sha256": "672964ccdf27a43282d994da3c3d874176484c184155523e79edb191ef44d515",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 29681,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 720,
+      "sha256": "266263a62a478781294384cbfac512fa20c70df619ef36a18b8fb959d4a96879",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 30646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 744,
+      "sha256": "1d2d47fe4b5ebdd8b5f77c56d1462bf63e95b93fba0cd00088ec37e341e62c7b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 28642,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:40+00:00",
+      "rows": 720,
+      "sha256": "9c0a270559c7adf6f7534d544fbd6858011cace72b3a935fa852b07515c72171",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 30495,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:42+00:00",
+      "rows": 744,
+      "sha256": "6c0f385ec23a74e160c6d910bc6ea74a2eaf0a37a09beb34bacabd9091f9ba2e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31660,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:42+00:00",
+      "rows": 744,
+      "sha256": "cdffab60f11ad5146a7e7f092a8e62aa0f9573c8d996fd96c27690bb56e874dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29829,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:42+00:00",
+      "rows": 720,
+      "sha256": "8628b61c7497ced13b0d876f3fb381704f1740618166538481ec064d4abdb176",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30517,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:41+00:00",
+      "rows": 744,
+      "sha256": "85530881f6259f2b1b30b12db76f1c4a72c76fdaef2f44116083b8ac49d523b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29042,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:41+00:00",
+      "rows": 720,
+      "sha256": "6f49ad891856a17ba722de9eead7692fd8048333912e8983a53dcf937d498506",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29028,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:42+00:00",
+      "rows": 744,
+      "sha256": "10a579090db52a1b4704d7ea97140ca0f989a859c2e0eb1cc3443e732a1f78dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29564,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:43+00:00",
+      "rows": 744,
+      "sha256": "91ff944ac78dce3958494b7c28a0db75337c37569c6ce48ecd770f2eb93346b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 25736,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:43+00:00",
+      "rows": 672,
+      "sha256": "3cbef4e200f24e28046419f4b35dfbcea7f2d7142ec5f2012ec232b9e5857500",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 28205,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:43+00:00",
+      "rows": 744,
+      "sha256": "abcd5ff17c2a0866a8537ea9a984b82615d5c7860c2ae49813712541503a7f10",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 27226,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:43+00:00",
+      "rows": 720,
+      "sha256": "a8382f909efba19ad7b704af3e9f7f69cc34f78839b79cdcfe078e3de7173760",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 27982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:44+00:00",
+      "rows": 744,
+      "sha256": "996c9dba5f4efdf5ac6f3421b9b70ec59f4cc83c6fba147eecd4e8ecf0d9e83a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 26520,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:46:44+00:00",
+      "rows": 720,
+      "sha256": "997317dc314c8ce73e790d959d760bf7b22b5a3c88ef4bec392081a444abe777",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/QTUMUSDT/1h/QTUMUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "QTUMUSDT",
+  "total_rows": 72529
+}

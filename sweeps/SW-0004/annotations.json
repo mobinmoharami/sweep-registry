@@ -1,0 +1,5 @@
+{
+  "status": "VOID",
+  "void_reason": "Not run, and will not be. This sweep is the holdout for SW-0003, whose discovery sample produced a best annualised Sharpe of 1.4893 against an expected-max-under-null of 2.0678 - the best variant was worse than chance predicts, DSR 0.050, 46.6% of variants positive. A confirmatory test on a hypothesis the discovery sample already refuted adds no information. Spending the sealed window would only consume it. Recorded as declined rather than left open.",
+  "declined_utc": "2026-08-30T00:19:17.962912+00:00"
+}

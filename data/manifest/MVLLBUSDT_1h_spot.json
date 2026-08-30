@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9044,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:21:12+00:00",
+      "rows": 227,
+      "sha256": "4161df077e14e2e3319ba2a8ce55fd5698f66c91bae17ed73e4a66fe74bce8fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MVLLBUSDT/1h/MVLLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MVLLBUSDT",
+  "total_rows": 227
+}

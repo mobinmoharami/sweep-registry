@@ -1,0 +1,797 @@
+{
+  "files": [
+    {
+      "bytes": 898,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:29+00:00",
+      "rows": 15,
+      "sha256": "bdfbae72b851a80806e61e6db1ae74ef206ff4dada150125adbbdb1a43824c91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-05.zip"
+    },
+    {
+      "bytes": 34803,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:29+00:00",
+      "rows": 709,
+      "sha256": "dab6bfd7de25f069cb0dadfa120f17681803009e8d8a338ba29c2c265c7c3b35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-06.zip"
+    },
+    {
+      "bytes": 35837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:29+00:00",
+      "rows": 737,
+      "sha256": "366b4ad35d5eda79e20c70571dd90bf5a53288ab5f149b569191b68925352e83",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-07.zip"
+    },
+    {
+      "bytes": 36751,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:30+00:00",
+      "rows": 744,
+      "sha256": "7a0d4995e64f9db01a4f1f4540ad55a781e027238bcd661b3ee417dfb574432f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-08.zip"
+    },
+    {
+      "bytes": 34933,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:30+00:00",
+      "rows": 720,
+      "sha256": "2cd643cbf76341bbe7ab4ed22c8d9f85d3f1d0193f8e9431d84b7c9a2029ee73",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-09.zip"
+    },
+    {
+      "bytes": 34811,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:30+00:00",
+      "rows": 741,
+      "sha256": "bdc7aebc73505307de26b07461e179dc3947b122dcec509b7d91488a989b8754",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-10.zip"
+    },
+    {
+      "bytes": 33353,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:31+00:00",
+      "rows": 713,
+      "sha256": "0918372ea191c6a5a405fe7a1b5bea9fc3360d30db58232c3645fb543855b7fa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-11.zip"
+    },
+    {
+      "bytes": 34395,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:31+00:00",
+      "rows": 744,
+      "sha256": "71dec26952142ddfbcda986ce3fd6c23662f25b098f72a7351d73bbfdebd2ebe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2018-12.zip"
+    },
+    {
+      "bytes": 33911,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:31+00:00",
+      "rows": 744,
+      "sha256": "b085646b8c1d2b9262ef686eec45da7f458f7be44beb5f21f44f2d07b6b10440",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-01.zip"
+    },
+    {
+      "bytes": 30554,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:32+00:00",
+      "rows": 672,
+      "sha256": "5fdd72bb06e83e83ac9cad1cedc7f26598af8cf25e7bad47a3b04245c745204f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-02.zip"
+    },
+    {
+      "bytes": 33612,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:32+00:00",
+      "rows": 738,
+      "sha256": "574c7cce6f6558e600904ae14247b4fb3017b203104a5ce6b74efe71eec393da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-03.zip"
+    },
+    {
+      "bytes": 33527,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:32+00:00",
+      "rows": 720,
+      "sha256": "2f181e4d10ce2d506f5ca5ed5d90fba7c1e9869a2b44d81aae884eba40beb024",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-04.zip"
+    },
+    {
+      "bytes": 35054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:31+00:00",
+      "rows": 734,
+      "sha256": "48bace1c8f3a86dd207684edd6e03968aab98ed6000522edd122a16b460c0458",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-05.zip"
+    },
+    {
+      "bytes": 34074,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:32+00:00",
+      "rows": 720,
+      "sha256": "5fe8f2bb96be04fd0f3fbf21a994525f58c01853eb0041fc11ac1937aec8675e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-06.zip"
+    },
+    {
+      "bytes": 34115,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:32+00:00",
+      "rows": 744,
+      "sha256": "9922bc80631cf755cdf15d15e670b9683855d671d71af06021cf44d24e8f9770",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-07.zip"
+    },
+    {
+      "bytes": 32787,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:33+00:00",
+      "rows": 736,
+      "sha256": "e97adf513dfd0a7cb06ecffbd089b981c947417b0953aa8efeae6323e108d57b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-08.zip"
+    },
+    {
+      "bytes": 31843,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:34+00:00",
+      "rows": 720,
+      "sha256": "81b3c43fdb687b02e57577b7fef96c45dc3056cb7b054ee0ed9f294086d6524e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 32982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:34+00:00",
+      "rows": 744,
+      "sha256": "64389a6b44e93ed5e9cc6a4e204d6b5992c6cf5f1bf84dc2cc306165138cbc97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 31618,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:34+00:00",
+      "rows": 716,
+      "sha256": "98c1a57e1ff28257c673db55342ac118dda5bf58da50704bcc9d129372944dec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 32881,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:34+00:00",
+      "rows": 744,
+      "sha256": "542c8c59d8ca39f1399451d2a6813e5b595ab8dd0d874870b4f6927591da56ca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 34218,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:34+00:00",
+      "rows": 744,
+      "sha256": "2b9bd7cec62c88fb6ed42ba2e93c70d94a58b9366f1d3b7eb4c0413b73ddf982",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 32926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:35+00:00",
+      "rows": 690,
+      "sha256": "dcc54e8fa0b8c9c5a524271376cc1dad0018a10fe1473de70d6f2b0bbcf4f716",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 34344,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:35+00:00",
+      "rows": 743,
+      "sha256": "8f511607bd2297248f8b006e6434f577a77c7e557251ca14580bdf342bb368b7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 32360,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:35+00:00",
+      "rows": 718,
+      "sha256": "114aa6c264ef37cc9cdbbc4d9c5172e3a3aedfa0b5791f861536f7de06ca10b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 34067,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:35+00:00",
+      "rows": 744,
+      "sha256": "f02ec423ed3da2e0a80e30f426d3b801047dce73d5321fb42274ce1acb48d996",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 32421,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:35+00:00",
+      "rows": 717,
+      "sha256": "398e1b72230d829092d69520d3e4471c06b8858c6000e514409ecc9d13502bd0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 34377,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:36+00:00",
+      "rows": 744,
+      "sha256": "0d1d6de4eae37835fe97c0945f21de9e5d2bf0a0da460de584fd7afb17e73d56",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 35483,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:36+00:00",
+      "rows": 744,
+      "sha256": "9ceb177fb9acc6ef552f707238039e7689184b24c8422dc3ed4193bcc2b49188",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 33647,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:36+00:00",
+      "rows": 720,
+      "sha256": "536c643fb32bd8da403661bc405d50c20aeaa9b054e56b6908908710851762da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 34069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:37+00:00",
+      "rows": 744,
+      "sha256": "25a16c2ff08a96dde21c25a510df4d788c533eb2258ff31e5ba7b15f29c21c30",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 34152,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:37+00:00",
+      "rows": 719,
+      "sha256": "a7e00331d1384645dbc6a47926a0dd4070a164772b17ee13533844a096f568b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 35201,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:37+00:00",
+      "rows": 740,
+      "sha256": "3d9e27ad8c7f193a6c2090b6a14a24ef7b668478ddb755e922ce10fdf213e910",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 36837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:38+00:00",
+      "rows": 744,
+      "sha256": "eceb282971633fc5166b9db67593bed732ab938d7e2376eb2e834cfb1a28b36c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 34760,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:37+00:00",
+      "rows": 671,
+      "sha256": "769488d2011ff6ccc57ae6a5097c26bf64daaff4b1904a794da503c6b667cc0c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 37767,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:38+00:00",
+      "rows": 743,
+      "sha256": "17826ea622343e1cec8202fa774d2411375c18e13e2c5f726c99f14f509bb8b2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 37258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:38+00:00",
+      "rows": 715,
+      "sha256": "a5f0c6020fa5f152e676d003abffc5e96e3d2c47c2b0217d4b31c9cbfa4a4422",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 38636,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:39+00:00",
+      "rows": 744,
+      "sha256": "503115087ba99b0aec9b80288a5c897df846e8de33cbe9afc2745f748dd7cb06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 36258,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:39+00:00",
+      "rows": 720,
+      "sha256": "a32b799185b5a66250dd9c354ab1919ae71c7bdf2ec5a7887dadbcc2076472d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 36766,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:39+00:00",
+      "rows": 744,
+      "sha256": "a8460ebbef618e025f1ffdc08aa83e31071652f59314037096a38ea44406bb06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 36508,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:39+00:00",
+      "rows": 740,
+      "sha256": "7a696e4b80654dffab9f6af97e783a4ec47c87ccb08fe220ec2a800d5d8caf8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 33647,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:40+00:00",
+      "rows": 718,
+      "sha256": "9f93013793b3e1e4460681510e8d95751847860b03236c9aaa8b14fddb416baf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 33878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:40+00:00",
+      "rows": 744,
+      "sha256": "b8be018683e08822b2696355d32539bc1dda4a80a4f5b12cf849ce7497170dfb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 32761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:41+00:00",
+      "rows": 720,
+      "sha256": "d35eb0b572c09cef5d7d0619df7b46dc96430da6f34ba457bd8a5aba429005f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33664,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:40+00:00",
+      "rows": 744,
+      "sha256": "18c2cd86d406f2cb908a14f3379db37b688f43d674a3cb52ac32efb67991c111",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:41+00:00",
+      "rows": 744,
+      "sha256": "2a37a496cb71d4432404c20ccaf47fe9c0f000a5aab52f80ab2ba1dc26a6f5ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29772,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:41+00:00",
+      "rows": 672,
+      "sha256": "c39c237d414e6c1a464b89399e781b61bde38619290a01caff7ad95b122db945",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:40+00:00",
+      "rows": 744,
+      "sha256": "428e3678b57883310bc722dff8ed0019a299bb012bafa5daa0b02e5090439cc4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31409,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:41+00:00",
+      "rows": 720,
+      "sha256": "ad52180c400143395315cacb7e736410205f1694a7545bdb6743d6a11f8051ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32788,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:42+00:00",
+      "rows": 744,
+      "sha256": "954ade5fc13b1d0480655f0332f68e7d2fb1e1da43396f299a7293031156d80b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 30688,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:42+00:00",
+      "rows": 720,
+      "sha256": "5c4bc9a0e7e1df3a3131195910074792b7dc9a0d1329d1465a6aaaeb2afb0b5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31207,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:42+00:00",
+      "rows": 744,
+      "sha256": "b81a086a92abcdd2d7abd823a4b6e6367c9b7c14ce301ec5b7f6f1774a7b8c1f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 31125,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:43+00:00",
+      "rows": 744,
+      "sha256": "df28758bd1a1836c4318c47c8c5c0c085cf81657ad2cd7d32190c7194e24cc1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 30035,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:43+00:00",
+      "rows": 720,
+      "sha256": "f7ff6ee30371741d209afd7a9ab7906cd8471614dc28a2e2f48ce5f39ec3f875",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 30071,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:42+00:00",
+      "rows": 744,
+      "sha256": "31f18b42a8cf45abfba1a0d4314f9ba512086ec440f0d74a3cd31dc794ed9358",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 29658,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:43+00:00",
+      "rows": 720,
+      "sha256": "9a9ed5999586da1cffbd88a719a65b43d4a066bd8b99a562f2cb9f4176f12d35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 29586,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:43+00:00",
+      "rows": 744,
+      "sha256": "e869d0a0e30ea137acdc0002f01ffa388cf0c17c0e6a668d1418131c8224c1e3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 30557,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:44+00:00",
+      "rows": 744,
+      "sha256": "50898a13cb4c431904666bcdd201495e20e4302d25e98a7f4d803b61a35bc170",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28054,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:44+00:00",
+      "rows": 672,
+      "sha256": "e03ea185d6a119cf80f34265f96520763cab147f2391d58d179bb5e347e60508",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 30783,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:44+00:00",
+      "rows": 743,
+      "sha256": "f9dbcb6d7a61a88bbab3c4123145bd53fb3ad7231e2f6ff8bd667024b0b53b35",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:45+00:00",
+      "rows": 720,
+      "sha256": "70b98ae3ecde8c7a47c31c1c32b3b88fee02311be8e38d6f33eabd7b3bf3a410",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29931,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:45+00:00",
+      "rows": 744,
+      "sha256": "8eb00f0812617269c1f2decfb056ff726e2c7f39f56721d2cfb4b6a3f7d1cffc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29231,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:45+00:00",
+      "rows": 720,
+      "sha256": "63b2bb10a8be4649e06009a599f2a981570bb56030a7a133a3dd2c338e5d0361",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29140,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:46+00:00",
+      "rows": 744,
+      "sha256": "1060ed70beea18c56530c41273522a18aa19f7585b38e6e51d9c36b31cd60d67",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28626,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:46+00:00",
+      "rows": 744,
+      "sha256": "a88061e3352da546e44d05ed94a3585b426645535e5ea49397ce138c06095e21",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 28566,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:46+00:00",
+      "rows": 720,
+      "sha256": "964becb8dd8768d93285cfcb55efbc6dc88a11dc7bee8a2eddcd4998f98f5dc3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29548,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:46+00:00",
+      "rows": 744,
+      "sha256": "c1cd5d1c3b998521238234ce6a3632de96779c480c34209aff72770db00c73f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30012,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:46+00:00",
+      "rows": 720,
+      "sha256": "3dcc23c1c5eca0283656ccf801189d8314c33ad129d07ca4fbfe6f6371e25fcd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 32780,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:47+00:00",
+      "rows": 744,
+      "sha256": "9e5744795c1d89dafd84c719a102f96d9a8c36ac138e850622a8ad7d23a52d00",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 31834,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:47+00:00",
+      "rows": 744,
+      "sha256": "ab1f98da9350c1fc0a8b73c4ccda1a0e6196f82f42d80ffeca05f5133ed34de8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 29529,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:47+00:00",
+      "rows": 696,
+      "sha256": "00b03dc195a20eb5c6ee77b29cc50d603cdeac10166e00dddb445315547fa3d7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 32976,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:48+00:00",
+      "rows": 744,
+      "sha256": "18f1486190c9dfaa9081ed5f9d441d1e3b34fdee8761ec8c6f8f77ed4af23fa2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:48+00:00",
+      "rows": 720,
+      "sha256": "6b2564bcb154caf489ccac3181771e5a855aae751742f5d5e3f433f91e295a49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 31275,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:48+00:00",
+      "rows": 744,
+      "sha256": "0f1f9b3abc4bd0db0d459b91a8c8237f2fc7bf8ecf3bab0b71c825044569f476",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30130,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:48+00:00",
+      "rows": 720,
+      "sha256": "b6c42c8848addc548eea44d0ce0475cb27f01ccafe9458f03fb678874682c9f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30471,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:48+00:00",
+      "rows": 744,
+      "sha256": "6edc6efaebf3d9bc7df68218ef8fa5221d24b47472a69185004e4c1596445935",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:49+00:00",
+      "rows": 744,
+      "sha256": "ef28c34cedb8d5cd7f9f8508de3ef9e32eff94d600a4982d198a62e900a32011",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 29157,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:49+00:00",
+      "rows": 720,
+      "sha256": "9728847d7d1bd43ce46043b6010729b1a6a8dc968b493e3bccaa5b7049b0ec72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 30330,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:50+00:00",
+      "rows": 744,
+      "sha256": "e80ac30e6dc1b09f592feb55105223fd645e2cd84a32471f66eeaee12a613d99",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31179,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:50+00:00",
+      "rows": 720,
+      "sha256": "8a7858e4757120e26d4ccc01767867e5e6b9b6d10c0f4af26f3d2890045510d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33962,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:49+00:00",
+      "rows": 744,
+      "sha256": "bd2752739cadb0a8d0906101b292dc96c6ce19d433533d57d90d4131674d0654",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33666,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:50+00:00",
+      "rows": 744,
+      "sha256": "29bd4b47474bc3368f09d5ef696ec683f9e2ab82d10ef8b5d2e0456054b2338b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 672,
+      "sha256": "09d137807007ed5af7ed599d8eb4569278d9a17effbb55c02d17dcdaee961e42",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31746,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 744,
+      "sha256": "6b8dfb173f1c25fb55991b70b35057b774bce2c469f6cf78bed63563a45d739d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 720,
+      "sha256": "2055174580905ee44ec8fa2e931e6518b4f5c9b54e1d0b899f30d80c983a80d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 31838,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 744,
+      "sha256": "9f89602e188ab340ec278ba7a361a7fdff3a8dd866a857fbdf844755bf1c9939",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 29588,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 720,
+      "sha256": "1f8afdcf76aa0b735643735a49073e368f6559ff9026b0bb90c4ce4fb02f1b7f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 31793,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 744,
+      "sha256": "2759a51b9bb4f2cdc6a43df3d8bb570beb4bcb6d5715923dfdd32598daf454ad",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 31108,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:51+00:00",
+      "rows": 744,
+      "sha256": "c40783553a47506cc3e229785babd6968b519aea8d75e49ba0101be80e5a65ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29407,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:52+00:00",
+      "rows": 720,
+      "sha256": "39c2d9a1859bcb0630f56ddb86269f717b351bcca35ff5e02f91be5a47cc0369",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 30915,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:52+00:00",
+      "rows": 744,
+      "sha256": "803b2bd202f8534998f51d2d21f7d654a322c338e123ff9f46399c09df973c72",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 29576,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:52+00:00",
+      "rows": 720,
+      "sha256": "e3951d32594b11cfaf53fb4f57abbdf0bb7d0c59ce04e47a2fb50a83755a435c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29643,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:53+00:00",
+      "rows": 744,
+      "sha256": "ff4ae5a84fd21f22da2e5640f26b728da5eb4ac2b64ba910bb39738ce453a5e6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:53+00:00",
+      "rows": 744,
+      "sha256": "3d3ca11c2650c812f0295c38a9032290ee5ed9726c3314f7b19195f5269fb479",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 26840,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:53+00:00",
+      "rows": 672,
+      "sha256": "79276076e9e94b8d54a43fa154831ea591cc0587a681ad17554c4e31bd00e6cc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29070,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:53+00:00",
+      "rows": 744,
+      "sha256": "fa6167ba8206a975ffffb3be22c553e121703490a9c1972f6ab64ef8fcde99c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 28321,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:54+00:00",
+      "rows": 720,
+      "sha256": "028be21e2fe842c63e8d72e3207abcee28d048952ea7240c916b9b98a7eca36b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29515,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:53+00:00",
+      "rows": 744,
+      "sha256": "486f3c50605e28260c9d1bd4b860de4062313f025aa4d6880b22ba5224458b84",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28154,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:32:55+00:00",
+      "rows": 720,
+      "sha256": "0866a2026eabc68ea9104905c8ded5ed88bbec2efbd867fe567c8d836f5c0ddc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "IOTAUSDT",
+  "total_rows": 70776
+}

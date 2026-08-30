@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:41:52+00:00",
+      "rows": 60,
+      "sha256": "2834be0fccb190006161c7cc498323773a0ce5fc52fe92f84e0c7b7c4aee8fc0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BEBUSDT/1h/BEBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BEBUSDT",
+  "total_rows": 60
+}

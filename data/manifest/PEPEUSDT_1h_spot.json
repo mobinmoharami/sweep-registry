@@ -1,0 +1,317 @@
+{
+  "files": [
+    {
+      "bytes": 32768,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:28+00:00",
+      "rows": 630,
+      "sha256": "668d4347affc197cb36a7fea2dc9cc552d7dba46d9de160c0003e6ad45bf3f91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 36208,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:29+00:00",
+      "rows": 720,
+      "sha256": "372121e0c2f67fdb9117a7b8faa3666010e04ce822503529b27c04642b81458e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 36507,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:29+00:00",
+      "rows": 744,
+      "sha256": "836c7ba19322eee12614320e7c01eb71194141a9111294efdf29be9204279d3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 36186,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:29+00:00",
+      "rows": 744,
+      "sha256": "0c44f598635d7a30d45f36c84693e16046af1df9f2e219bc0bebbe9fdabd19fd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 33627,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:29+00:00",
+      "rows": 720,
+      "sha256": "2d8169eb07b2f90fcf08410b7a6c2a9fbd8699f6116fccfaeb7e759c9d3bb3ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 35439,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:29+00:00",
+      "rows": 744,
+      "sha256": "ac0e4821926154327fe72ef9af549fa31b04fafb9ce053ff7e9414860c9a25c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 35171,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:30+00:00",
+      "rows": 720,
+      "sha256": "3f73cbd1912a37db3e0c21882806ab4a6bb156613fe8eb656865df6919b10006",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 37129,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:30+00:00",
+      "rows": 744,
+      "sha256": "25cfb09b65a998ad1db5cbd7a4e9426392000b7d111a03c8e006de04253001e7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 36274,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:30+00:00",
+      "rows": 744,
+      "sha256": "a8151f86439c71831632a35d8c97ade5740a8a178a5675a17cb2914586aabbcb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 34345,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:31+00:00",
+      "rows": 696,
+      "sha256": "eca536fb30f0974ea8077d099fa67629dfc55271f5542a9245a03fcf969c8907",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 41676,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:30+00:00",
+      "rows": 744,
+      "sha256": "59675dacfd2f618889f1891aff7b67951720a3d14e29a0869445532b0a54a186",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 39350,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:31+00:00",
+      "rows": 720,
+      "sha256": "26511b4b162a061e78b086e062dd007c4a0cf57dda84ccf4d75a1103da1ed5a1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 41313,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:31+00:00",
+      "rows": 744,
+      "sha256": "2791fb8f540b324926466a7a22a8c6f1b2c4a47b927c8a3e94390cad3dde050e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 39509,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:32+00:00",
+      "rows": 720,
+      "sha256": "5690f3f8b020999b4c3b4f0d2057d23605f5281b0cc2cb8696ee9268ed0c2393",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 40638,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:32+00:00",
+      "rows": 744,
+      "sha256": "8c7e2df7ca69431475c0bdede2507425b4889d2a7e3f20573ffb65df556161ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 40187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:32+00:00",
+      "rows": 744,
+      "sha256": "611016e0d1c7fce350ecc9b906f9836407b192a39eb01cdbd0f9b609bd0dd78d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 38558,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:32+00:00",
+      "rows": 720,
+      "sha256": "71d06699a95efc92c7b46015974e35f1b9639738faaf05dc48ed06f8ed4f69c1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 40373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:33+00:00",
+      "rows": 744,
+      "sha256": "de544fbe8505c2f0f49735b9f4407834ae177ac2b77bda2108ea69e6e05c41a3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 40536,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:33+00:00",
+      "rows": 720,
+      "sha256": "74557ea0ad0381596a00f76b9c747f8b8d69063fc7c5a0892983b43ea5e363ff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 41640,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:34+00:00",
+      "rows": 744,
+      "sha256": "6c142d10a6cc0d9b11d71ab95baec7d516ec354972fdd3504f21fe6e2219b674",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 40994,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:34+00:00",
+      "rows": 744,
+      "sha256": "0087b0aef3f178ab17086817a9cffe0feb2cddb9032fd71ff631ede0471daf06",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 36444,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:34+00:00",
+      "rows": 672,
+      "sha256": "668452e51d90b2e53ace90c5ed97a5214f650db92a5d248a48302d8a94589d1a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 39970,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:34+00:00",
+      "rows": 744,
+      "sha256": "2fd8bd142402b576469cdf23854a4be5d4a7b39cdd592e36de33643d4b39015e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 38532,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:35+00:00",
+      "rows": 720,
+      "sha256": "1b918881d961df55053e605c52c5767af395da49d71cb66278658dbdc9145fd2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 41018,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:34+00:00",
+      "rows": 744,
+      "sha256": "47234ac2b48d7e25a3d0f80e38ef9ff7f2316bd4c35113fb23c50861bc965fbe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 38777,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 720,
+      "sha256": "8be26e375dca0579bafb2c66a789722076ef28fac91ba242dd8ce4fdb3d24f4b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 40386,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 744,
+      "sha256": "a82cf09db1fbaa1d80a1dac25bd4cc8826dbd211c120015d128a8c79f0fdcc82",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 39518,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 744,
+      "sha256": "4c519da580866aaa3b71d0643091e300a68a3c781bfccef5b4ce0357cab7d429",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 37875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 720,
+      "sha256": "1c705cf16e76b9dd47eb68f7e9feab9d0ae347d165c911fc1fa2075a692a121d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 38909,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 744,
+      "sha256": "e0f86ba1f1233ef30b421f422e23f0b88a0dadbbd87080f0640f35873abf38d4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 37131,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:36+00:00",
+      "rows": 720,
+      "sha256": "bc39339ce02bf47ca21596a7621307ebf97b086b189ab8167611a0197096ed39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 37554,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:37+00:00",
+      "rows": 744,
+      "sha256": "41c0745356a55a2b57393380ff99672a502290d471e9a188ee321144f4b4f335",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 38663,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:37+00:00",
+      "rows": 744,
+      "sha256": "c451f093c91ef8a507129f9d7dd6204b2022f29a3606749ada0f49367b03439a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 34609,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:37+00:00",
+      "rows": 672,
+      "sha256": "1558cccb9cc73637e5b0e7a7c003565c68c9747de6af6123c23dbe5e04e3f441",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 37524,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:38+00:00",
+      "rows": 744,
+      "sha256": "1fb393596925dd98f94daebb86ac66d0b02a7fcb14423151faa4899990f01135",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 36323,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:38+00:00",
+      "rows": 720,
+      "sha256": "d0895e75f8fced06965b9f50379c66beb9d765ed56ba4e9102e7eb6944a17d92",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 37048,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:38+00:00",
+      "rows": 744,
+      "sha256": "50c2abe1d959d91d9c36880c32ad3d2bac0967f1b250747a5faa3358c9173190",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 35668,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:45:39+00:00",
+      "rows": 720,
+      "sha256": "60d0191bd4399ebd37343cafc74486099043acc8645e7c08e77fd51224b1721b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PEPEUSDT/1h/PEPEUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PEPEUSDT",
+  "total_rows": 27654
+}

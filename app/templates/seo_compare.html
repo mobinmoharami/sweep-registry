@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% import "_seo_macros.html" as m %}
+{% block title %}{{ title }}: both tested on identical data{% endblock %}
+{% block desc %}{{ blurb }} Both pre-registered, sealed on Bitcoin before running, and scored the same way.{% endblock %}
+{% block body %}
+<div class="wrap">
+<div class="rec-head">
+  <a class="back" href="{{ url_for('seo_directory') }}">&larr; All strategies</a>
+  <h1 class="glow">{{ title }}</h1>
+  <p class="lede">{{ blurb }}</p>
+</div>
+<section style="border-top:0;padding-top:0">
+  <div class="grid2">
+    {% for fam, meta, s in sides %}
+    <div class="cell" style="padding:26px">
+      <b style="font-size:22px">{{ meta.label }}</b>
+      <span style="margin-top:14px">Best score {{ '%.3f'|format(s.best_dsr) }}</span>
+      <em style="margin-top:10px">{{ '{:,}'.format(s.variants) }} versions ·
+        best return {{ '%+.2f'|format(s.best_sharpe) if s.best_sharpe is not none else '—' }}</em>
+      <em style="margin-top:14px"><a href="{{ url_for('seo_family', slug=slugs[fam]) }}"
+         style="color:var(--seal)">Full record &rarr;</a></em>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% for fam, meta, s in sides %}
+  <div class="block" style="margin-top:34px">
+    <p class="tag">{{ meta.label }}</p>
+    <p>{{ meta.claim }}</p>
+    <p style="color:var(--text)">{{ meta.catch }}</p>
+  </div>
+  {% endfor %}
+
+  <div class="block confirm">
+    <p class="tag">The comparison itself</p>
+    <p>Both were run on the same data, over the same period, with the same
+    costs and the same scoring rule, each sealed before it ran. That is the
+    only way a head-to-head means anything: comparing a backtest someone
+    published against one you ran yourself compares two different searches, not
+    two strategies.</p>
+    <p>{% if sides|map(attribute=2)|map(attribute='any_passed')|select|list %}
+      One side cleared the bar.
+    {% else %}
+      Neither cleared the bar, so the comparison is between two null results
+      rather than a winner and a loser.
+    {% endif %}</p>
+  </div>
+</section>
+</div>
+{% endblock %}

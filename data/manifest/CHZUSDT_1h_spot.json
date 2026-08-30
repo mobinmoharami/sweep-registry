@@ -1,0 +1,669 @@
+{
+  "files": [
+    {
+      "bytes": 25737,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:16+00:00",
+      "rows": 596,
+      "sha256": "fbb15879c5d2f4bfbb68a33d06d06fdf2924f24bef6b918621c21243a64fc467",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2019-09.zip"
+    },
+    {
+      "bytes": 31932,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:15+00:00",
+      "rows": 744,
+      "sha256": "8a8342591fbb724c8ba2baa5443ab5575d096dd28c69b4c2a63b50279b7382a0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2019-10.zip"
+    },
+    {
+      "bytes": 32475,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:16+00:00",
+      "rows": 716,
+      "sha256": "976f87fe9792efe868d27f8982091eeb0a886ff94bed66f2588b95c5b6c12383",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2019-11.zip"
+    },
+    {
+      "bytes": 31641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:16+00:00",
+      "rows": 744,
+      "sha256": "5f7269b08681c8ef632673d290085d88837f5afec3bc417475b76db9acb8b2fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2019-12.zip"
+    },
+    {
+      "bytes": 30939,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:16+00:00",
+      "rows": 744,
+      "sha256": "fd303b5da6bfada6029c43fc264872ab9731b71c15e40da01dd7bf66113b85f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-01.zip"
+    },
+    {
+      "bytes": 31254,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:16+00:00",
+      "rows": 690,
+      "sha256": "f964a1dfe40c968b4732e2e7e0bec045706df98dbdaa52b31c24027a1a76b691",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-02.zip"
+    },
+    {
+      "bytes": 33488,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:17+00:00",
+      "rows": 743,
+      "sha256": "350ea5f138fc672a5b05d93808c283d07abc6cf776f11ef39072e8a7a4e85b07",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-03.zip"
+    },
+    {
+      "bytes": 31001,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:17+00:00",
+      "rows": 718,
+      "sha256": "abdb680190ebb1c79df8668e1cc2b7c2b60522d4d9f9f910999487f2fc68333e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-04.zip"
+    },
+    {
+      "bytes": 33761,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:17+00:00",
+      "rows": 744,
+      "sha256": "4c103f19115498a2bd1d319d98f650d186e055c591ebe64e4b71bf529b9516ab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-05.zip"
+    },
+    {
+      "bytes": 32495,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:17+00:00",
+      "rows": 717,
+      "sha256": "0f23cbab7ecb8981a4646583d755699ec09379a95040da765aea527cd2ca4372",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-06.zip"
+    },
+    {
+      "bytes": 32637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:18+00:00",
+      "rows": 744,
+      "sha256": "53eb2e93158ddd809f2aee8ea93c891add77411d660add95e1c5767e00437fa1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-07.zip"
+    },
+    {
+      "bytes": 34630,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:17+00:00",
+      "rows": 744,
+      "sha256": "284311be9f7ade592e0102c8194b518af9cfd9c39efe3ec86f2b92696e7f95bd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-08.zip"
+    },
+    {
+      "bytes": 32285,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:18+00:00",
+      "rows": 720,
+      "sha256": "6cb9737d7ae34da2f3376748a06a5a6ba6803f47bc27d974af1185fec780cdea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-09.zip"
+    },
+    {
+      "bytes": 32357,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:19+00:00",
+      "rows": 744,
+      "sha256": "48ef351a9275feb4b24237122c951c6a67e0ae3b0de9d2b6d204726f74b65385",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-10.zip"
+    },
+    {
+      "bytes": 32229,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:19+00:00",
+      "rows": 719,
+      "sha256": "29fd58984144fed333c120a7ced1eb6f8bcfeefd3937cf5421de321a01aae574",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-11.zip"
+    },
+    {
+      "bytes": 35426,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:19+00:00",
+      "rows": 740,
+      "sha256": "81abe8952b999786f102a5204cfd6783181ea0435d5189a2f4235dda7fefc4d2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2020-12.zip"
+    },
+    {
+      "bytes": 36430,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:19+00:00",
+      "rows": 744,
+      "sha256": "3e60524d3262b3e7ac918700b41269d856f94d4987db96b71aa768b45aa34cec",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-01.zip"
+    },
+    {
+      "bytes": 34333,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:19+00:00",
+      "rows": 671,
+      "sha256": "77188a37530bd807eec8a70cbd6134946a73504a885cb6bc35aab65cd65e573e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-02.zip"
+    },
+    {
+      "bytes": 40775,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:20+00:00",
+      "rows": 743,
+      "sha256": "74c14fe71a2130c6a6d815aa79d8c6c46b1b267c2455f6ed86abc9024eb465c8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-03.zip"
+    },
+    {
+      "bytes": 38973,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:21+00:00",
+      "rows": 715,
+      "sha256": "7c87794307cb5599eaf0dd2272094f2f92cee3d6d692e421d1103048740e7dc4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-04.zip"
+    },
+    {
+      "bytes": 39897,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:20+00:00",
+      "rows": 744,
+      "sha256": "ec13e725126d360e7b9a5e4342479deeb3dcfa9310cb3493802b45267120bc65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-05.zip"
+    },
+    {
+      "bytes": 37905,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:20+00:00",
+      "rows": 720,
+      "sha256": "49a63514c4e7a10d121b1d4cfeb42fa724da0c00935191abd928418caa0b60d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-06.zip"
+    },
+    {
+      "bytes": 38310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:21+00:00",
+      "rows": 744,
+      "sha256": "70d3c103af2440474462c217e89b7baae95b2d0c668cc13505d3d2e52cb8552d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-07.zip"
+    },
+    {
+      "bytes": 38060,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:20+00:00",
+      "rows": 740,
+      "sha256": "3903897dcf802828397fc1180bd7c8c39d896219009a52bc535817023fcde7b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-08.zip"
+    },
+    {
+      "bytes": 32939,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:21+00:00",
+      "rows": 718,
+      "sha256": "88f33eceb0c53653f03442df93d27e17ba54755fa0b42b6bb57bed9a2da61a4c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-09.zip"
+    },
+    {
+      "bytes": 34190,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:22+00:00",
+      "rows": 744,
+      "sha256": "c7113f734a53495f58ff6f17c4c7fb15d56c8142a807cb2c76f0244b0b39bea7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-10.zip"
+    },
+    {
+      "bytes": 34178,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:22+00:00",
+      "rows": 720,
+      "sha256": "cffda56597bda7d6706857b74e70206a2b12e20332f2e64be3ecab7564ff4e70",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:22+00:00",
+      "rows": 744,
+      "sha256": "0c4db81a37fffc719276ba58b7b58c008c46cd7411cd8b50ac0c227cf3218907",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33152,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:22+00:00",
+      "rows": 744,
+      "sha256": "805fdcc6dc063273a85ae3fdcb5121d272fa6cad292558ebfb7af4c5379adafe",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29817,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:23+00:00",
+      "rows": 672,
+      "sha256": "af358dfb96a73ea1a6c80c1d40a24b70137fb0cd63da4f534a82767651dcbed4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 33415,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:23+00:00",
+      "rows": 744,
+      "sha256": "5b08c289de7a92bc14ca20c08442731614f382d4193d6016464c13b5ab09b251",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 32058,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:23+00:00",
+      "rows": 720,
+      "sha256": "2a6d6ab9cf91cb7443b257e600732c35ce6583e3fa7648d2333df7cb75a9af07",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 32861,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:23+00:00",
+      "rows": 744,
+      "sha256": "230eae8bece1f9e546b6655a948b26ecf9098dc779eec765198df8eb70fdc93e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31396,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:24+00:00",
+      "rows": 720,
+      "sha256": "3d8d8c7b0cf9359e5c7055a68497039546c6d27168be3d53c050ed3c6a155278",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 31855,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:24+00:00",
+      "rows": 744,
+      "sha256": "94ed561738e7786b72cfdc2e8033e76e8d411f9aab717ea3b61e654c26d46feb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 34106,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:23+00:00",
+      "rows": 744,
+      "sha256": "355d93649e3cc38ef0abb8891d7d8efd62f632129ecb2f2db6cda4ce8b58b1d6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 33065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:24+00:00",
+      "rows": 720,
+      "sha256": "f1b91c577768a87d104514ba52bed3e69f5e9e83241818279111bd1f0882c21d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 33061,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:24+00:00",
+      "rows": 744,
+      "sha256": "d3812efa8989177552cb680888522fd9d24f0d0d63b9e907e128fde63f4527b4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 33513,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:24+00:00",
+      "rows": 720,
+      "sha256": "7995efc019f2a689bdae3090f934e823974791b04ce7f15659c167ef5cb95504",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 31845,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:25+00:00",
+      "rows": 744,
+      "sha256": "cc9d0d452c5cba96b73f164aa953135a50ff8bf05516082e62fda8f7fd9a9feb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 32250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:25+00:00",
+      "rows": 744,
+      "sha256": "e9d7dddcdd8fbbe8a96b49df56248d2dec8aebff32762f30edca1a6b50b69cbc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 29228,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:26+00:00",
+      "rows": 672,
+      "sha256": "a5c2f9289be1d8b29138839efa5604e47c5de5287e11ec72b7731a2d7cecd94d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31621,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:25+00:00",
+      "rows": 743,
+      "sha256": "c434f44206d378a28411fa8c69d366dd1b12ed4c48db0c057d5ffd4a58d6ae67",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 30885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:26+00:00",
+      "rows": 720,
+      "sha256": "fac93cf87f34ab8270eed7a52ac4d43533b81dbef7f68826f49d1e0a41ae6aaa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 30606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:26+00:00",
+      "rows": 744,
+      "sha256": "5967de4edee14468514b5e2a5c461ea39aa057d77838cc38d40239fd9982bfa8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29749,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:27+00:00",
+      "rows": 720,
+      "sha256": "43341372fb9b5fb85c3c62b84cda8156426c8e696990334e175a31620e1eab0d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29788,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:27+00:00",
+      "rows": 744,
+      "sha256": "3cdde770dd3fc541e8146a713069553a6c861d1ef9fb5170aae39f418749a0ef",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 29033,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:27+00:00",
+      "rows": 744,
+      "sha256": "521766e819ca4a6fcb475389ce04a8870131ff5fa62b2507850e7da77799e048",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:27+00:00",
+      "rows": 720,
+      "sha256": "5cddb8c7dd7736e3bd06d865d72d3301e1cd744a0e4e369aef9741a7a9fc854e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32535,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:28+00:00",
+      "rows": 744,
+      "sha256": "145a9b10169fcd8a66fd05f3d355195c638904d4b76d7ebcfefca092b5919092",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:28+00:00",
+      "rows": 720,
+      "sha256": "66a1d4b5e5ea4c2b134e46989b5759d94729fe8012ad8dfa309e9662bee81a6a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34585,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:28+00:00",
+      "rows": 744,
+      "sha256": "fcf40df91da667579834229f4a1466a9521d597bc325f80dc25acdf0de76c537",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 35581,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:28+00:00",
+      "rows": 744,
+      "sha256": "520f65b3244b82079c8675dff9c29d03beeb205c3feaa56f1a0c1163c3e34b18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32964,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 696,
+      "sha256": "26b44da82941470d3c89a74a92e1cae3249f3ddae4e55034a56dfd76e5dec4e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35723,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 744,
+      "sha256": "dbe14215cd49d1c8f1e7523ceb8ae94ce763af951dc6adb39a91b497d1a81195",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34335,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 720,
+      "sha256": "d9bd25942413293d0478f7f9d2f6090f68731755748056b65c8aa63d6ef5c7dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 35370,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 744,
+      "sha256": "87e8e15d944eb399427161a3a7630367fe5fa7740aa3d2cfbc591fe7e92dfd85",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 33752,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:30+00:00",
+      "rows": 720,
+      "sha256": "4c8cc9f3d9ac8bc9e0a24222a2e619953cbfc331c8f8ba45a57065152f69c628",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 30611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 744,
+      "sha256": "ca3ef6557e1a4ceae0391e6f0bc755e25a7ff2c90bd32679d0ff00af320c887b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 30046,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:29+00:00",
+      "rows": 744,
+      "sha256": "f44fae5410b3b5565ee9edf948617175d964f1308c8aab1da33ed768aa6efdeb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 28881,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:31+00:00",
+      "rows": 720,
+      "sha256": "d4d7cd5a56b78cd429d44e7968fed8df7f96b6ad1cd44638cb8bbadc2d41d0e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31610,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:31+00:00",
+      "rows": 744,
+      "sha256": "fe224b0182fbdff29b75f6134d06d02d9fb6d34cb983f67c71c1c940a7d5f87c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 31498,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:31+00:00",
+      "rows": 720,
+      "sha256": "1aeb8f162672cf21ef5c2ca88b57fcc0f0b633ff27bb7279ad13deaa4c4123bc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32912,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:31+00:00",
+      "rows": 744,
+      "sha256": "f5d82a7d44656f199cab71f896e56551ae71dc3497efe698787d53c1df9b5ab9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31641,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:30+00:00",
+      "rows": 744,
+      "sha256": "a35bcd53bbc8e5a4578931afbd6019a0ccefee67dc763cdf0a7345daed6cb7f0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 28505,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:31+00:00",
+      "rows": 672,
+      "sha256": "444f88a2390429b77a7f17d3a85f1fb300004981edb13fe6f83584f9f32d1b18",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33162,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:32+00:00",
+      "rows": 744,
+      "sha256": "5baf202114fee29f87e4d8a0a03c42a844014ef362f8c4cf2d54f9513a11927c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32365,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:32+00:00",
+      "rows": 720,
+      "sha256": "2adfcdf2fcced2b1c6561cebbc9f4f26adf2ccce959ef39c838ec85ced165555",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33275,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:32+00:00",
+      "rows": 744,
+      "sha256": "08ce5f517baff4e0c1891c200f9c2e5fcc3ea736ccc77141efe0670c9d81c73c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31212,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:33+00:00",
+      "rows": 720,
+      "sha256": "029508079da317320000c764e100816701802547fb0453e8665b1bbc43cdf1b5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32848,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:32+00:00",
+      "rows": 744,
+      "sha256": "0684c04bfa123ecc0e26f8ce41e1c40410767eae72ba171210a8189554293196",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32822,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:32+00:00",
+      "rows": 744,
+      "sha256": "b108c227fd7a483b51cf5612657477ccfa049c324c0f93f02a1b60d1efd34045",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31492,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:33+00:00",
+      "rows": 720,
+      "sha256": "8743098f26b95b4ed1f4b2cb781c8ab96bc1b80da727d30e418f28e9a2e44a5d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 32875,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:33+00:00",
+      "rows": 744,
+      "sha256": "6fa525de444bcde63552bcff005d4cf5467c4075ec1c429d94cbd782cc275d9a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31493,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:34+00:00",
+      "rows": 720,
+      "sha256": "4b5638b4b2fde4f81fab3186962797032c18eb0dc1826ed80388e5e8408970a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 33390,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:34+00:00",
+      "rows": 744,
+      "sha256": "7e2d9979c122bb5fc040578918b1bf702bbbf409f220d401ce19aeeef8ad3f8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 34711,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:34+00:00",
+      "rows": 744,
+      "sha256": "0eb2d0cea48e24032d014e6c41e17f3280cc0bd3306f9cac77d551fe292b2f16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:34+00:00",
+      "rows": 672,
+      "sha256": "8f198a54ccff59a09937378fc7b0bef7af92c873356ce156406235d92319e07d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 33266,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:33+00:00",
+      "rows": 744,
+      "sha256": "1593f2c07b30e0557edd1bfd080da16125664b702bea4101d4b7b200dd237541",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32631,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:35+00:00",
+      "rows": 720,
+      "sha256": "a4406d69e8e42df4ecdee041c7785ba53d4f50820cf49380f94dfd92a7e7b7f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34024,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:35+00:00",
+      "rows": 744,
+      "sha256": "eb4254c2df83adc88a1e5ed65d9285d429a6726dacd3db6acae2740c4cde7ac9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32851,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:16:35+00:00",
+      "rows": 720,
+      "sha256": "6bcaf92e9a9ec6785dd84d32af1c43cb235292e6e356118970753296f7d9376b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CHZUSDT/1h/CHZUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CHZUSDT",
+  "total_rows": 59721
+}

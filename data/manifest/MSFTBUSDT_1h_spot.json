@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 639,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:19:42+00:00",
+      "rows": 11,
+      "sha256": "a9e687f42ae5ea285ec170386b66f207e278633ae83d1aeaa71f5db13b67056f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MSFTBUSDT/1h/MSFTBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29837,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:19:42+00:00",
+      "rows": 744,
+      "sha256": "66f98f363da24cb2fc34ff4bc8b6939f331e64941f67911befe8aecf7db3f7e4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MSFTBUSDT/1h/MSFTBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "MSFTBUSDT",
+  "total_rows": 755
+}

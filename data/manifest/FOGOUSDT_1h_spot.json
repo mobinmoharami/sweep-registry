@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 19669,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 394,
+      "sha256": "5b062ef6585ab9c522316856120bac173f3384f6d1096273e797fc00e53bd87d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 30799,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 672,
+      "sha256": "2968bbb7aa1402baae37225802053b367443b43eb509d5f1f9ede75515ddf013",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 32189,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 744,
+      "sha256": "8af0dfb78c1bc533a73e6b8faede5195abd98fc99ae7cc1e73baed83a1da3944",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30830,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 720,
+      "sha256": "c36cdfc057f37a3b25abf60127446b7f5f1da1c5874b300e6a4b7aa91520d5ce",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31725,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 744,
+      "sha256": "b6b1fb3dcda3c1746e38b9c72be3ee0292724afc3e67b4f6437b0ebc3260c778",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30253,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:15+00:00",
+      "rows": 720,
+      "sha256": "0f37bf52b33e5559705045675a10f3cef922ceb5921682c736e5757e9e31b783",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29465,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:59:16+00:00",
+      "rows": 744,
+      "sha256": "3993550a2c75b3748c630651d3352aab89c4c110421df625269e14d6997d9ef1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "FOGOUSDT",
+  "total_rows": 4738
+}

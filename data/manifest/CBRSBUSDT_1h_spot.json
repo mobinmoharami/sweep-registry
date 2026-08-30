@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24428,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:45:57+00:00",
+      "rows": 587,
+      "sha256": "2fde37a71846e7548b349e4923f1a6f00f16e9af34e57e4b2c892255d99738e1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/CBRSBUSDT/1h/CBRSBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "CBRSBUSDT",
+  "total_rows": 587
+}

@@ -1,0 +1,61 @@
+{
+  "breakeven_cost_bps": {
+    "best_variant": 45.451,
+    "median": 0.209,
+    "note": "round-trip cost at which a variant's mean return reaches zero"
+  },
+  "cost_bps_total": 1.5,
+  "directional_tilt": {
+    "mean": 0.0013,
+    "median": 0.0,
+    "share_net_short": 0.2864
+  },
+  "gross_sharpe_annual": {
+    "max": 1.2837,
+    "mean": 0.0492,
+    "median": 0.0684,
+    "p05": -0.6665,
+    "p95": 0.7759,
+    "share_positive": 0.5617
+  },
+  "market_beta": {
+    "mean": -0.0061,
+    "median": -0.0002
+  },
+  "market_neutral_residual_sharpe_annual": {
+    "mean": 0.0577,
+    "median": 0.0688,
+    "share_positive": 0.5617
+  },
+  "mean_exposure": 0.1155,
+  "mechanism": "NO SIGNAL. Gross Sharpe is centred on zero \u2014 the rules carry no predictive content before costs are charged.",
+  "n_variants": 810,
+  "net_sharpe_annual": {
+    "max": 0.8,
+    "mean": -0.57,
+    "median": -0.4122,
+    "share_positive": 0.2235
+  },
+  "null_calibration": {
+    "n_runs": 10,
+    "note": "Null datasets reuse the real bar returns in random order: same distribution, no serial structure. If the observed value sits inside this spread it is an artefact of the measurement, not a property of the market.",
+    "observed": 0.0577,
+    "residual_sharpe_mean": 0.0673,
+    "residual_sharpe_sd": 0.0589,
+    "z_score": -0.164
+  },
+  "preregistration_sha256": "defa3ca09a9a0bb396c3622b734b90a88fdcabe0158e1db334a653cd44078ec5",
+  "sweep_id": "SW-0026",
+  "turnover_per_bar": {
+    "median": 0.010954,
+    "p05": 8.2e-05,
+    "p95": 0.078738
+  },
+  "variance_explained": {
+    "gross_sharpe_by_directional_tilt": 0.0387,
+    "gross_sharpe_by_market_beta": 0.0205,
+    "net_sharpe_by_gross_sharpe": 0.3904,
+    "net_sharpe_by_log_turnover": 0.4187,
+    "net_sharpe_by_turnover": 0.5654
+  }
+}

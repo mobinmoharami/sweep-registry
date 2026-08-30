@@ -1,0 +1,210 @@
+{% extends "base.html" %}
+{% block title %}Every trading strategy we tested, and how it failed{% endblock %}
+{% block desc %}{{ n_records }} strategy families, {{ '{:,}'.format(n_variants) }} versions, tested across {{ n_markets }} markets. Each claim was sealed on the Bitcoin blockchain before the test ran. {{ n_passed }} passed.{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"Dataset",
+  "name":"Pre-registered trading strategy test registry",
+  "description":"{{ n_records }} strategy families tested across {{ '{:,}'.format(n_variants) }} parameter combinations, each pre-registered and timestamped on the Bitcoin blockchain before testing.",
+  "creator":{"@type":"Organization","name":"Strategy Registry"},
+  "license":"https://creativecommons.org/licenses/by/4.0/",
+  "variableMeasured":["Deflated Sharpe Ratio","Probability of Backtest Overfitting","Minimum detectable Sharpe"]
+}
+</script>
+{% endblock %}
+{% block body %}
+<div class="wrap">
+<header>
+  <p class="eyebrow">Pre-registered &middot; Sealed on Bitcoin &middot; Every result published</p>
+  <h1><span class="glow">We tested {{ '{:,}'.format(n_variants) }} trading<br>strategies properly.</span></h1>
+  <p class="lede">Every rule that gets sold in a course or a Telegram channel:
+  RSI, moving average crosses, breakouts, order blocks, fair value gaps. Run
+  the way a statistician would run them, on {{ n_markets }} markets and eight
+  years of hourly data.</p>
+
+  <div class="verdict-hero">
+    <div class="big">{{ n_passed }}</div>
+    <div class="said">
+      <b>passed the test.</b>
+      <span>Not one family beat what the same number of random strategies
+      would have produced by luck alone.
+      {% if closest %} The closest, {{ closest.label }}, scored
+      {{ '%.2f'|format(closest.dsr) }} against the 0.95 it needed.{% endif %}</span>
+    </div>
+  </div>
+
+  <div class="metrics">
+    <div class="metric"><b>{{ n_records }}</b><span>Strategy families</span></div>
+    <div class="metric"><b>{{ '{:,}'.format(n_variants) }}</b><span>Versions run</span></div>
+    <div class="metric"><b>{{ n_markets }}</b><span>Markets</span></div>
+    <div class="metric"><b>{{ n_stamped }}</b><span>Sealed on Bitcoin</span></div>
+  </div>
+</header>
+
+{% if scatter %}
+<section>
+  <h2>Every result at once</h2>
+  {% set W = 1240 %}{% set H = 300 %}{% set PADL = 46 %}{% set PADB = 40 %}
+  <figure class="scatter">
+    <h4>Score by strategy &middot; the line at 0.95 is the bar</h4>
+    <div class="plot">
+    <svg viewBox="0 0 {{ W }} {{ H }}" role="img" style="width:100%;height:auto"
+         aria-label="Score of every tested strategy against the 0.95 threshold">
+      {% set PLOT = H - PADB %}
+      {% for g in [0, 0.25, 0.5, 0.75, 1.0] %}
+        {% set y = PLOT - g * (PLOT - 20) %}
+        <line x1="{{ PADL }}" y1="{{ y }}" x2="{{ W }}" y2="{{ y }}" stroke="#1c2534" stroke-width="1"/>
+        <text x="0" y="{{ y + 4 }}" fill="#4d5a70" font-size="11"
+              font-family="JetBrains Mono,monospace">{{ '%.2f'|format(g) }}</text>
+      {% endfor %}
+      {% set ybar = PLOT - 0.95 * (PLOT - 20) %}
+      <line x1="{{ PADL }}" y1="{{ ybar }}" x2="{{ W }}" y2="{{ ybar }}"
+            stroke="#f97066" stroke-width="1.5" stroke-dasharray="5 4"/>
+      <text x="{{ W - 4 }}" y="{{ ybar - 8 }}" fill="#f97066" font-size="11"
+            font-family="JetBrains Mono,monospace" text-anchor="end">pass mark 0.95</text>
+      {% for r in scatter %}
+        {% set x = PADL + 16 + loop.index0 * ((W - PADL - 40) / (scatter|length)) %}
+        {% set y = PLOT - r.dsr * (PLOT - 20) %}
+        <a class="dot" href="{{ url_for('record', sweep_id=r.id) }}">
+          <title>{{ r.label }} — {{ '%.3f'|format(r.dsr) }}</title>
+          <circle cx="{{ '%.1f'|format(x) }}" cy="{{ '%.1f'|format(y) }}" r="4"
+                  vector-effect="non-scaling-stroke"
+                  fill="{{ '#fbbf24' if r.dsr >= 0.75 else '#60a5fa' }}"
+                  fill-opacity="{{ 0.95 if r.dsr >= 0.75 else 0.55 }}"/>
+        </a>
+      {% endfor %}
+      <text x="{{ PADL }}" y="{{ H - 10 }}" fill="#4d5a70" font-size="11"
+            font-family="JetBrains Mono,monospace">{{ scatter|length }} scored families, weakest to strongest</text>
+    </svg>
+    </div>
+    <span class="hint-scroll">Scroll the chart sideways to see every family.</span>
+    <figcaption>Each dot is one strategy family. Height is how likely its best
+    version is real rather than a lucky pick. Nothing reaches the line.
+    Hover a dot to name it.</figcaption>
+  </figure>
+</section>
+{% endif %}
+
+{% if closest %}
+<section>
+  <h2>The one that came close</h2>
+  <div class="spotlight">
+    <p class="tag">Closest result in the registry</p>
+    <h3>{{ closest.label }}</h3>
+    <p>Instead of asking whether one asset is going up, this ranks twenty
+    against each other and holds the strongest against the weakest. It is also
+    the only family here with real academic support behind it, which is exactly
+    why its failure to clear the bar is the most informative result on this page.</p>
+    <p>It still did not pass. And the test could only have detected an edge
+    roughly twice as large as the one it appears to show, so this cannot be
+    called a finding either way.</p>
+    <div class="figs">
+      <div><b>{{ '%.3f'|format(closest.dsr) }}</b><span>Score, needs 0.95</span></div>
+      <div><b>{{ '%+.2f'|format(closest.best) }}</b><span>Best version</span></div>
+      <div><b>{{ '%+.2f'|format(closest.null) }}</b><span>Luck alone</span></div>
+      {% if closest.limit %}<div><b>{{ '%+.2f'|format(closest.limit) }}</b><span>Smallest edge visible</span></div>{% endif %}
+    </div>
+    <p style="margin-top:22px"><a href="{{ url_for('record', sweep_id=closest.id) }}"
+       style="color:var(--gold);text-decoration:none">Read the full record &rarr;</a></p>
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2>Why this is different</h2>
+  <div class="pillars">
+    <div><span class="n">01</span><h3>Sealed before the test</h3>
+    <p>What will be tested, and the score it has to beat, are hashed and
+    timestamped onto the Bitcoin blockchain before the data is touched. The
+    story cannot be rewritten once the answer is known.</p></div>
+    <div><span class="n">02</span><h3>Luck is measured first</h3>
+    <p>Test a thousand random strategies and the best will look brilliant by
+    chance. Every result is scored against how good pure luck would have looked
+    with the same number of tries.</p></div>
+    <div><span class="n">03</span><h3>Nothing is hidden</h3>
+    <p>Failures, near misses, and runs that had to be thrown away all stay on
+    the record with the reason attached. A registry that deletes its own
+    mistakes is asking not to be believed.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>All records</h2>
+  <div class="bar">
+    <input class="search" id="q" type="text" placeholder="Search strategies…"
+           aria-label="Search strategies">
+    <button aria-pressed="true" data-f="all">All</button>
+    {% for m in markets %}<button aria-pressed="false" data-f="{{ m }}">{{ m }}</button>{% endfor %}
+    <span class="count" id="count"></span>
+  </div>
+  <div class="tablewrap">
+  <table>
+    <thead><tr>
+      <th>ID</th><th>Strategy</th><th>Best</th><th>Luck</th><th>Score</th><th>Result</th>
+    </tr></thead>
+    <tbody id="tb">
+    {% for gname, rows in groups %}
+      <tr class="group" data-group="1"><td colspan="6">{{ gname }}<span>{{ rows|length }}</span></td></tr>
+      {% for r in rows %}
+      <tr data-market="{{ r.market }}" data-name="{{ r.label|lower }} {{ r.id|lower }}">
+        <td class="id">{{ r.id }}</td>
+        <td class="nm"><a href="{{ url_for('record', sweep_id=r.id) }}">{{ r.label }}</a>
+          <span class="sub">{{ r.market }} &middot; {{ '{:,}'.format(r.trials) }} versions</span></td>
+        <td class="num" data-l="Best">{{ '%+.2f'|format(r.best) if r.best is not none else '—' }}</td>
+        <td class="num dim" data-l="Luck">{{ '%+.2f'|format(r.null) if r.null is not none else '—' }}</td>
+        <td class="scorecell">{% if r.dsr is not none %}
+          <div class="meter"><div class="track">
+            <div class="fill{{ ' hot' if r.dsr >= 0.75 }}"
+                 style="width:{{ (100 * (r.dsr/0.95 if r.dsr < 0.95 else 1))|round(0,'floor')|int }}%"></div>
+          </div><span>{{ '%.3f'|format(r.dsr) }}</span></div>
+        {% else %}<div class="meter"><span>—</span></div>{% endif %}</td>
+        <td class="res {{ r.verdict_class }}">{{ r.verdict_text }}</td>
+      </tr>
+      {% endfor %}
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p style="margin-top:24px;color:var(--mute);font-size:13.5px">
+    <b>Best</b> is the top version's return adjusted for risk. <b>Luck</b> is
+    what that version would have scored if none of them worked. <b>Score</b> is
+    how likely the result is real rather than a lucky pick, and it has to reach
+    0.95.</p>
+</section>
+
+<section>
+  <h2>Submit a strategy</h2>
+  <p style="color:var(--mute);max-width:62ch">If a rule can be written down
+  precisely enough that someone else would implement it identically, it can be
+  tested here. Submissions are reviewed, registered, sealed, then run, and the
+  result is published whatever it says.
+  {% if queued %}<b style="color:var(--gold)">{{ queued }} waiting.</b>{% endif %}</p>
+  <p style="margin-top:20px"><a class="pill accepted" style="padding:12px 20px"
+     href="{{ url_for('submit_form') }}">Submit a strategy &rarr;</a></p>
+</section>
+</div>
+{% endblock %}
+
+{% block script %}<script>
+var tb=document.getElementById('tb'),q=document.getElementById('q'),
+    cnt=document.getElementById('count'),mkt='all';
+function apply(){var n=0,t=q.value.trim().toLowerCase(),vis={};
+  tb.querySelectorAll('tr').forEach(function(r){
+    if(r.dataset.group)return;
+    var ok=(mkt==='all'||r.dataset.market===mkt)&&(!t||r.dataset.name.indexOf(t)>-1);
+    r.style.display=ok?'':'none';if(ok)n++;});
+  // hide a group header when nothing under it survives the filter
+  var head=null,any=false;
+  tb.querySelectorAll('tr').forEach(function(r){
+    if(r.dataset.group){if(head)head.style.display=any?'':'none';head=r;any=false;}
+    else if(r.style.display!=='none')any=true;});
+  if(head)head.style.display=any?'':'none';
+  cnt.textContent=n+' records';}
+q.addEventListener('input',apply);
+document.querySelectorAll('.bar button').forEach(function(b){
+  b.addEventListener('click',function(){mkt=b.dataset.f;
+    document.querySelectorAll('.bar button').forEach(function(o){
+      o.setAttribute('aria-pressed',String(o===b));});apply();});});
+apply();
+</script>{% endblock %}

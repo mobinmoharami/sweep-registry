@@ -1,0 +1,325 @@
+{
+  "files": [
+    {
+      "bytes": 3283,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:06+00:00",
+      "rows": 60,
+      "sha256": "a464add3bc47493f1da543c9604ced3fadbd2689831944e5c50dec8b5ea4e696",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 37019,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:06+00:00",
+      "rows": 744,
+      "sha256": "59540b81cd63d17e3da3af2cb0345515fbd62186b4cfddbb3c3db43517ff05dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 34754,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:06+00:00",
+      "rows": 720,
+      "sha256": "8b35d3a7d4fc412c3feafe38b11d3bc9c3fbec8b6d5b69df050104ea2d4bcb5b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 34555,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:07+00:00",
+      "rows": 744,
+      "sha256": "4e5c98e1c16209560e8f2eacc6428c97cbc4c9a5e8c5d385d80400b12ec9f426",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 33812,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:07+00:00",
+      "rows": 744,
+      "sha256": "fda8da39fecc9a249fc172d4e6adbfc341b92fcb9f7ccf9a5b5064d6066ffe4e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 32665,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:06+00:00",
+      "rows": 720,
+      "sha256": "30d3f300748b31c1d496fbbf851330b417b0d04afcaeaf7dd30da86a8e3c0cc7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 33874,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 744,
+      "sha256": "8431e1a821066ad926f74c706a4ba8db63b1689db20e7c966af741d3674c76d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33758,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 720,
+      "sha256": "050ecd2ae662e3fd3dc31ad16c5fe60532e33e882475f3560994d8ee709c1055",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34717,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 744,
+      "sha256": "714f3a7bf6f4ae8a6216d9b1830e3e98b56bde2de75b0d89eb96d35781f8bfe2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34372,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 744,
+      "sha256": "8c7ecd6e636df6ea9c7363a87af6ea76c71fb27cd044186b07e9aad03d1628de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32358,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 696,
+      "sha256": "b94504d524e00bde3d7cd7cade8d8277f943b06e8809168ba74ded51cc691b6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 35538,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:08+00:00",
+      "rows": 744,
+      "sha256": "1c5169a66fb7dd203f0437b6a85674a8c85708c8a159d070b5a1378a1490e752",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 33689,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 720,
+      "sha256": "789629bea79f2a7670dfa15bb843217f89fb92966ea088a25d59fa4adb4bb5fb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34026,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 744,
+      "sha256": "a462bb67333c26fd317723a3655601720c76801c80261563d5ac0036e51340c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 30510,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 720,
+      "sha256": "dbec73bda6c0e28bc2b8122f9cbbfd5b754db9eb3b1a090f5f9c77a61ae13f87",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 31801,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 744,
+      "sha256": "609af5fd006fe9a23150ddf5249ee657e55be05cff9c4b2626de713927d5013b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 31411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 744,
+      "sha256": "c54ec8c20a06e13c5f73aeff8bc5a46ab61f96acfbf51e2de1fbd08a43a42d63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30373,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:10+00:00",
+      "rows": 720,
+      "sha256": "3e3a51e3bb67fc3a1ed35062c3dd8028ac6a57c867b3ca3378594ff6963e824c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31280,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:11+00:00",
+      "rows": 744,
+      "sha256": "64f2161a479fb8b7975151858dada9c2d1981d526c3ef48b81b35838cb61ffed",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 30954,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:11+00:00",
+      "rows": 720,
+      "sha256": "0e35c2a411904c679bc639bbbe2707e01a6b2b8d8a6e26f3914eb5a521df8c95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 32251,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:11+00:00",
+      "rows": 744,
+      "sha256": "53520c5738bd2e7cd1bc596c1dbd2a532b02866704d417db82e9f8e9a74b87e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 31316,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:12+00:00",
+      "rows": 744,
+      "sha256": "192593a11cbf583e08fff92e605974b698a0f190a1daf9693ea7900de60e40aa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 28406,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:12+00:00",
+      "rows": 672,
+      "sha256": "8da837ee5e525b57586839b7628e54dd9448b754b0855eb13d0797d3094ac28c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 30531,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:12+00:00",
+      "rows": 744,
+      "sha256": "c90e1e2715c1a9377ddb8229eee4dd65ca08949a088eafe0166378fb5f1c3a98",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 29975,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:12+00:00",
+      "rows": 720,
+      "sha256": "7d489cfdde94df8a88a502d2440650f9b7a82447eb1253f34610784b001ee089",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 30694,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:13+00:00",
+      "rows": 744,
+      "sha256": "c75d9a5b7d76924888d7c9243eb1759ae25d7f6093e83d42fcff00bd1d926c16",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 28366,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:13+00:00",
+      "rows": 720,
+      "sha256": "b97f7da3ac6b24fffa31967d0f597590962608f1ec5f9629ed779042caf9df03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 30000,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:13+00:00",
+      "rows": 744,
+      "sha256": "53e82e3cf2e31473356b06f8354dafa4017eb78734661467ba175f2e11f44596",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 30104,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:13+00:00",
+      "rows": 744,
+      "sha256": "8dd37c705a17749fb4fba6bbae94d5a4e4a68601f3012879e7f037f969d98e50",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 29242,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:14+00:00",
+      "rows": 720,
+      "sha256": "b490fe565d3d3ef78c6da84ccce940ff2d04f95fa55a47215ad7f15762bdd7c2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31781,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:14+00:00",
+      "rows": 744,
+      "sha256": "f0b19c6cc7c39c6745301548ada46b6e20804c5ed3e3fd8ab9d55d4b401e2326",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30074,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 720,
+      "sha256": "7bb6258262f54eb581da2f752b176cef4229c9cbca52137208dc4f45bbba09bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29179,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 744,
+      "sha256": "27f310338732a29a9de65c50c2dd2f4030595a3b7c1adb1828fa5e6bfd1befa6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 29650,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 744,
+      "sha256": "8fa348a0cc045b0db1cbb0114a62d24d7da5404248439b163b0eb53018f50276",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 26926,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 672,
+      "sha256": "c33a168ffaec81866ca6fd83e1370c8ee3b940193e66cac7a21c54d236a14030",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 28862,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 744,
+      "sha256": "1221e77ff84d3d3e82c1b0d1d695f1a1f7b30bf98c95e35c5bfa65446e4a8f6e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29408,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:15+00:00",
+      "rows": 720,
+      "sha256": "52eccfd261e5c90d4ac1f345ef0ac19fc91dbcaadd6f59fed5c5b597b8d29a17",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:16+00:00",
+      "rows": 744,
+      "sha256": "23181f0f304f7b9e10bc2a9457a1a6db2662723a66fbde0e7bfef7e428164f2a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 28336,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:21:16+00:00",
+      "rows": 722,
+      "sha256": "b38d4229860bd9098d3cc7474e8348e5819ecae9faf20002f3070fd5bb1bfd6f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/EDUUSDT/1h/EDUUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "EDUUSDT",
+  "total_rows": 27828
+}

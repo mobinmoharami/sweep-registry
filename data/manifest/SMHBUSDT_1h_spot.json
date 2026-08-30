@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 2615,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:41:31+00:00",
+      "rows": 60,
+      "sha256": "93066d36e6bc8e89523f747c0dd77b1391d517c15167f929c077f35c394db1a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SMHBUSDT/1h/SMHBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SMHBUSDT",
+  "total_rows": 60
+}

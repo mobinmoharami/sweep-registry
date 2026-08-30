@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 24646,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:56:38+00:00",
+      "rows": 587,
+      "sha256": "3b4643eafe49b7d9a0ef0b2f782f5b184312a7d9c9d23acf63b8e642680613b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/WDCBUSDT/1h/WDCBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "WDCBUSDT",
+  "total_rows": 587
+}

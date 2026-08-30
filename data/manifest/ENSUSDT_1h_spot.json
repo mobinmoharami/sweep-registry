@@ -1,0 +1,469 @@
+{
+  "files": [
+    {
+      "bytes": 23773,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:09+00:00",
+      "rows": 497,
+      "sha256": "a0dc1b7c0a4aadd16da37c15a9a43ed65ccaab1d1737eec912e04490df0f2578",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33937,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:09+00:00",
+      "rows": 744,
+      "sha256": "49b04476da27ed9a90d3f3cd93e3cfc15ffc6db67e0ee371a293ba3626a03bfd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 33233,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:09+00:00",
+      "rows": 744,
+      "sha256": "03dde20c784dd8d8926a47dae168854634334b1e6fad5e66f988e29b7120bafa",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29710,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:09+00:00",
+      "rows": 672,
+      "sha256": "fd16462cc1814726f4ee350a979ee9953317a208fd5a83a4e0ac834f3975a6f6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:10+00:00",
+      "rows": 744,
+      "sha256": "60c019efe3a2bc6e77aa8a8641452e7e1949df7c938c761b47b2969269934740",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31685,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:10+00:00",
+      "rows": 720,
+      "sha256": "11b405b9639ece03bbe890a014c90e0a58a39c5341ab5ccfa6760098c3eb6f91",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 34166,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:10+00:00",
+      "rows": 744,
+      "sha256": "856783be24725b95a0ef4fbb34302a151dc042cea807de841e9922f075bfb3c6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 31608,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:10+00:00",
+      "rows": 720,
+      "sha256": "c0145da17015975bc569f3de9360a3fe49695d1fe89473893b0f6ad084f60b3f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 32464,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:11+00:00",
+      "rows": 744,
+      "sha256": "b9ebddbf319884c33321cb96a3dcf34fc63a151ed07aa53fc516699887ab831f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 32508,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:11+00:00",
+      "rows": 744,
+      "sha256": "f0716bfbffccf769b1f556473447133b0915e1b20003b746158dea21b04903ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 31405,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:12+00:00",
+      "rows": 720,
+      "sha256": "64096a853199f653264b2461ffaba36f6747ca27378c3c207575de28ad79ae39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 32486,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:11+00:00",
+      "rows": 744,
+      "sha256": "d8c1eeb4a68c531c153c0f9f6cf5d696d8bbb031cc517935f8a2919070af5b15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 31191,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:12+00:00",
+      "rows": 720,
+      "sha256": "f294dbbbb327e366ab696bd99c77d281e5217c1414bf0c5073687eb01a92e245",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 30301,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:12+00:00",
+      "rows": 744,
+      "sha256": "670f160c351c7023cb2ba9fa5c0b1886e27ba1fa315405154b2a7c85b3f3acca",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 31557,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:13+00:00",
+      "rows": 744,
+      "sha256": "b97c827ee878da94f34fab4b204a55c99bda0ea8571de36fe504d23802b67eb2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 29051,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:13+00:00",
+      "rows": 672,
+      "sha256": "92667b78fa5095d104b654fe166ce96a2cfc69cad79ec33ec0568b21d7d93cf9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31578,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:13+00:00",
+      "rows": 743,
+      "sha256": "9b9fdf763e478c75cc472acac07d4bd64a8fc0230bdf706435d55b6664c77bd1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29723,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:13+00:00",
+      "rows": 720,
+      "sha256": "a172cd6e1c785dedb13e16b9e97c0c9c5663a3a6e247400bd6e35216a2a98980",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 29717,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:14+00:00",
+      "rows": 744,
+      "sha256": "3f9d42e1f39023399a20848ff1d9646cbf569098fd97a4dcde3b2ff1ee324c08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 29012,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:13+00:00",
+      "rows": 720,
+      "sha256": "6b1e49b754e7a7bb451c834cbc5d9db5e37afb3b45cee86e1f441feb0f5e0bc5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 29522,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:14+00:00",
+      "rows": 744,
+      "sha256": "53e531a9d8266b1ff0d47504cc3c359eb8e2d4eff7f8554c5890cf3c21fb198b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 28910,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:14+00:00",
+      "rows": 744,
+      "sha256": "500ba14a322f3539f1b6871c4e5bae1648a4989ba3fdac2aff9a6545c87cb4a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 27835,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:14+00:00",
+      "rows": 720,
+      "sha256": "7bda183d500abca24efab8c9a5e9b3374d0ea37568d9e16619be3552fea4be05",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 29117,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:15+00:00",
+      "rows": 744,
+      "sha256": "fab41d6c83f17ba1c5d1c68ea7c9f7f00b14b6f71cfd9a046bc92bcc5492bbcb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 30136,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:15+00:00",
+      "rows": 720,
+      "sha256": "b4abaaefc2b58178eaf48659bc42ef978b659a21e503a01acf02b96a61e2a325",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 31542,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:15+00:00",
+      "rows": 744,
+      "sha256": "7aa0321bb66d961bbf15bea71469882567b05914ee9ca41bea26ce2be1c81536",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 33973,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:15+00:00",
+      "rows": 744,
+      "sha256": "b4aec83eb792ad4bcdb3cc1655dc65cc206836083d00e799e3a4e71507b025ac",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 31034,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:16+00:00",
+      "rows": 696,
+      "sha256": "7b1046836eb4cab63c706514881fa0462902021501f85d9f43992b35eb4aee26",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 33284,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:16+00:00",
+      "rows": 744,
+      "sha256": "b09121626cc9cd70036b8aaaba70ad7fe77ca637b086d2b49290a6a3f7160cbd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 31250,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:16+00:00",
+      "rows": 720,
+      "sha256": "77d2118567c8403aff34c054e2c60db04cafdb623c7da458601f4a698a74ed7e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 32432,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:17+00:00",
+      "rows": 744,
+      "sha256": "396c48fb8523bf625ccf305ccdd4247a4397635bebbc09d0e039239f96760d25",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32547,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:17+00:00",
+      "rows": 720,
+      "sha256": "5705421e8723f355e77bcf6f65f6745b8f988e4314e336fda0e65d0405a9bb22",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33562,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:17+00:00",
+      "rows": 744,
+      "sha256": "ac6f54ef0ce33a0f71722610096e32238e9b0ffbd1ce74852d1b982f0ff3f1e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 32459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:18+00:00",
+      "rows": 744,
+      "sha256": "59b18c18fc35f17970f7b7e9619c08c813415836d72b5805061caff3e4d9a545",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 30979,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:18+00:00",
+      "rows": 720,
+      "sha256": "ed8f873f23af5486cf03ba9434f6f7288c55855e17d9d852a5880f526e30b091",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 31595,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:18+00:00",
+      "rows": 744,
+      "sha256": "80f5564c67eab392ac2715a1ec7b79aae1a22478dcff0f6442a249d7603befe8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32682,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:18+00:00",
+      "rows": 720,
+      "sha256": "9d19c1861e770f7fd010fc0aeb98a8e94ecbeee12430b43e6a8688a5ef917dc9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 34139,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:18+00:00",
+      "rows": 744,
+      "sha256": "5b59b6dfd8f2fa7310cdd0c06e93eb4635094e613e50ca61d61e33cd2802a879",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:19+00:00",
+      "rows": 744,
+      "sha256": "edfa8923863d1e8e0862e5978501e9a7ba47c33bb5c00afd21d92dd221b56233",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 29625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:19+00:00",
+      "rows": 672,
+      "sha256": "6c80cb11a65e6f97021e393e19e09c509612eadaba5299d01ed09e59237c3806",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 31963,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:19+00:00",
+      "rows": 744,
+      "sha256": "f81ace434d5072e36ea9004cd67a96b9d94d66d216619a82dd4bfe408f542ec2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 30807,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:20+00:00",
+      "rows": 720,
+      "sha256": "cfeff1e8b2a1af9c67e1bc72f7a1a0eb903f5b11625b1c4b84d7e6a9391c7405",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 32580,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:19+00:00",
+      "rows": 744,
+      "sha256": "c99253fa48cd7ff985aa68c379f5e8889326c5ee4ba751380bd3516e8c14a9c5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 30838,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:20+00:00",
+      "rows": 720,
+      "sha256": "2beb08fa384628b08d0c0ec7ce5a838390f633e1be538a5336b928f84bd3c124",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 32623,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:20+00:00",
+      "rows": 744,
+      "sha256": "43607e99ec053bc6d55112e883f7a52acf3d239ef90d076dd610375898579f34",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 32489,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:19+00:00",
+      "rows": 744,
+      "sha256": "ce4f2a0d4c2da066f257d51fd9fbcbc3bfbb362f56ef48fd303d678afc281e81",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 30376,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:21+00:00",
+      "rows": 720,
+      "sha256": "fa88a638f0e86a78781b75f0ed62259faf56382d831dd6bf9ebd6a8b65bfdf11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 31558,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:21+00:00",
+      "rows": 744,
+      "sha256": "a1a2e50f8c9056925d3b3fd847aef490a898ea14d173667d551ac93731dc5e08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 30179,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:21+00:00",
+      "rows": 720,
+      "sha256": "7a4a5696bcf95d0b95aef552760d592de48be87dca4587265f973301b1689f8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 29878,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:22+00:00",
+      "rows": 744,
+      "sha256": "8da5c0c80b56b8cd932356c7903708497cc9738199998f4815da5c4aaf680011",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 30363,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:22+00:00",
+      "rows": 744,
+      "sha256": "38f3cd329b98c467b51bc169f36e022c745af55cc91b3c68c4766d8da1f104d1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 27516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:21+00:00",
+      "rows": 672,
+      "sha256": "1ca8b231e6c11d88c24dd3c40ca49df92ad4e72640c523e91de3e24ac6a1b71e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 29309,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:23+00:00",
+      "rows": 744,
+      "sha256": "3131053ba389e021a7cc2d46e2c6846e1ca73f60d04aaa7e5567f50534b4b986",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 27848,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:23+00:00",
+      "rows": 720,
+      "sha256": "672451dd1f03d63ff3ab4d5f1d9b0a082061b551b15287e51979ab580eb676b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 29259,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:23+00:00",
+      "rows": 744,
+      "sha256": "4ad400ed2f529b51a8305e9ec63befb0c33531bc434f1dc4316ea0094d9914b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 27947,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:23+00:00",
+      "rows": 720,
+      "sha256": "bd091c19d874e30d50cf86d6e99bc329d503b7ae2bf4a9bff18596b3857ffa8a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 28368,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:55:23+00:00",
+      "rows": 744,
+      "sha256": "25d7b4eaf30774f562cf8fefe6d218174ef64a6a2e93b64a1d9365f2612fd48b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ENSUSDT",
+  "total_rows": 41392
+}

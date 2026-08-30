@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "bytes": 27480,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:41+00:00",
+      "rows": 586,
+      "sha256": "ef5be1e3d254d65e317e641ff210968754f5d2a4bd1efa2ec96cdd2892c5c13a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29779,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:40+00:00",
+      "rows": 672,
+      "sha256": "250da10ea53b45762846548dc73e846b0c5ca8dc6d5c7c1ce9d5e7ad88cf60de",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30721,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:41+00:00",
+      "rows": 744,
+      "sha256": "d3509e0173c880517fcd39cf8fc40f189b744a90a4e292d6ced74702a44532fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 29738,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:40+00:00",
+      "rows": 720,
+      "sha256": "18dd8b051a1a34116e78e1e4e3b1d908d1a6c9b5b59ed2b0862b115bf30828b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 30705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:41+00:00",
+      "rows": 744,
+      "sha256": "205cda6e9b5a39a3e303fc614326eb076bd913afc76a66b13708addc9fb0fc90",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 29559,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:41+00:00",
+      "rows": 720,
+      "sha256": "89b612700464474a1f740d216c3e99af2e74928f972080417de8b7c3b55a90e8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29957,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:41+00:00",
+      "rows": 744,
+      "sha256": "033aeeed0db88469baefa67a579a07be7d8556d045dbbda835ba81449cb1f19f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKPUSDT/1h/ZKPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ZKPUSDT",
+  "total_rows": 4930
+}

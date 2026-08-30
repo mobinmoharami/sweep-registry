@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 27267,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:43:16+00:00",
+      "rows": 587,
+      "sha256": "a051d5d2e4107d187a0c7572cc26ba0f1749a2c38d3f92b1a9b6a9faf2f8a91c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SOXLBUSDT/1h/SOXLBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SOXLBUSDT",
+  "total_rows": 587
+}

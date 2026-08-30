@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 652,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:43+00:00",
+      "rows": 11,
+      "sha256": "dcb5c52d6eb293fff7f7a256f9b8303dae12688c1c9895ae6ec2db3c3c86ccae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METABUSDT/1h/METABUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30304,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:16:44+00:00",
+      "rows": 744,
+      "sha256": "5a79fec80282e980542d557a3bdac702e8b64af1810f54a04b7ecf24be4edb9b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/METABUSDT/1h/METABUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "METABUSDT",
+  "total_rows": 755
+}

@@ -1,0 +1,221 @@
+{
+  "files": [
+    {
+      "bytes": 16117,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:51+00:00",
+      "rows": 326,
+      "sha256": "a8e6f2cc6bdde9270685440052c4398e27d75179ae1faf37e14ef4a7479a9dd2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 35452,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:52+00:00",
+      "rows": 744,
+      "sha256": "485de414404b36f762e9e1c5ee36e8c53ef7bc16ebf11df734bffeec68095330",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34461,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:52+00:00",
+      "rows": 744,
+      "sha256": "8cc0b3c6e98e8109729b0e95c4a11f76d320feb5f5c6b705c727c8733a46ec12",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 33034,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:52+00:00",
+      "rows": 720,
+      "sha256": "de695fd46fa14f5a19836cadb9b4fe736c703450f46e1dce25998a82cb0fcc15",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34265,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:52+00:00",
+      "rows": 744,
+      "sha256": "74da9ed16403e2f2baf5ab193c67c3f3925af9da0ecf8ecd2d5194b9630d5e8e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 33764,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:52+00:00",
+      "rows": 720,
+      "sha256": "522926931529e27b4d8a7a4874a6d0a360a9c89b04fee62a97bffa195f1d674a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 35570,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:53+00:00",
+      "rows": 744,
+      "sha256": "0011e7bec46a349dbe4b6263fbb952ec0ad5d9e183763031eaa0714a97455d62",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 34679,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:53+00:00",
+      "rows": 744,
+      "sha256": "1058ac719aff0a02abf0e33f89927cc35ccd0a8aec7f8b6f4b01edc6530a7a8b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30758,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:53+00:00",
+      "rows": 672,
+      "sha256": "59e888a88c9d557ab8cff1882349845aa8be88fb31393ab6a6bf6dc5675ab6c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33569,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:53+00:00",
+      "rows": 744,
+      "sha256": "43c3391aeb1557a091aa130eb5c22f813d32111d5a8be0154c4a5c8670215585",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32134,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:54+00:00",
+      "rows": 720,
+      "sha256": "9e075732ed66aa68a4428736ec34145ab7a4a54c99e3bfda3832bc4b00a161e3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33422,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:54+00:00",
+      "rows": 744,
+      "sha256": "d39c1c9601d4303d41567cc8709f9d191c553ab33f983583692ef88105f5ed65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32065,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:55+00:00",
+      "rows": 720,
+      "sha256": "8ab2e2124cec7861f978b4862fe1e3639b88a562e4a275f4945ad89f66f4a425",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 36127,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:55+00:00",
+      "rows": 744,
+      "sha256": "58ed458dcf84a87de97c4b4b6f918bd56eb8750e03e3f478503ab25f396a9321",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 36069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:55+00:00",
+      "rows": 744,
+      "sha256": "35bee59a6d6b781f8baf7833e19fd00fcdc4a17ca38a543a89b6f41cf3074f63",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 34395,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:55+00:00",
+      "rows": 720,
+      "sha256": "15aaf32e61e68468e1fc0c4eea0463801144ebb2e5959d9108e78c8bbd13cd70",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 35776,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:55+00:00",
+      "rows": 744,
+      "sha256": "50ca3bc3327ccf4ac25b0641ce611d93d2b61f6efcebc46b843d873135fa4701",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 36827,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:56+00:00",
+      "rows": 720,
+      "sha256": "b02680d56b232d4df972399bcd2ab97c02ff51959b38f039619c2081a149c8cf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 35530,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:56+00:00",
+      "rows": 744,
+      "sha256": "2b71832ee6037fa3efe25299ccf5722a4ae00a2ca71c9e2e451adf3650bdfa97",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 35536,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:57+00:00",
+      "rows": 744,
+      "sha256": "fe542a8194ff1f8219fac7f006d16d8c407a3629045c47a5630968a9ed231320",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 32034,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:57+00:00",
+      "rows": 672,
+      "sha256": "1d6e8e445ef9801e0f5942cac49863d502bda89fa26c5c3230cfa3b3bed20a64",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 34287,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:57+00:00",
+      "rows": 744,
+      "sha256": "4a8d130d4baf52a780c77f41830ac2c050d1ee8a901babd714197e77d119e1a9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32886,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:57+00:00",
+      "rows": 720,
+      "sha256": "0b2373212e485a5eb0e5f2eaf8840edad79fabb5cb493e5e14696f0e5214b0a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 34449,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:57+00:00",
+      "rows": 744,
+      "sha256": "2fba1712cfade73fde6ea1a52fbe79612f23cecf9f381b2c95bf4a7224382010",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 32818,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:58+00:00",
+      "rows": 720,
+      "sha256": "307ed33cf9221be6aba6a81c1b82bea5c542a4865914956e16d240388798b218",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 32885,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T02:00:58+00:00",
+      "rows": 744,
+      "sha256": "592d8389c6423287e5813a2b066097f2fa60d2536d3017c02bc11ebd53218751",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "ZKUSDT",
+  "total_rows": 18590
+}

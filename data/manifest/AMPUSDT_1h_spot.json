@@ -1,0 +1,469 @@
+{
+  "files": [
+    {
+      "bytes": 9128,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:57+00:00",
+      "rows": 186,
+      "sha256": "46dda8eae5c46feaa331dfd390ec6962a49f6a65ca09a5a6545ce1022bdd7e49",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2021-11.zip"
+    },
+    {
+      "bytes": 33033,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:58+00:00",
+      "rows": 744,
+      "sha256": "c9f21afc08308ae87f6b42fb420b97e8a490bd93910a62a6572cd7108b23aef2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2021-12.zip"
+    },
+    {
+      "bytes": 32695,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:58+00:00",
+      "rows": 744,
+      "sha256": "e5a1c47aa925a50e988d2f40fa47305b51855d730cb15726e92b8a5fac279dae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-01.zip"
+    },
+    {
+      "bytes": 29339,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:57+00:00",
+      "rows": 672,
+      "sha256": "ed9acc534eb532eee62848a43ab59b15b78b397e07fc865d2f5e1b9380c36d7a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-02.zip"
+    },
+    {
+      "bytes": 32186,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:58+00:00",
+      "rows": 744,
+      "sha256": "1caf050ae9d5be08d5ad3d609ec6a50a7df2373c2dda76a273a0ca92c4eb18d3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-03.zip"
+    },
+    {
+      "bytes": 31448,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:58+00:00",
+      "rows": 720,
+      "sha256": "7ef9239d6c89bf79a2784c310535bfa960b64e3ac55f65c41bc58f7a81598850",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-04.zip"
+    },
+    {
+      "bytes": 31791,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:59+00:00",
+      "rows": 744,
+      "sha256": "790897b54c6f64152a82bb8c9412878365188e37808534670099988eda33291b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-05.zip"
+    },
+    {
+      "bytes": 29606,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:59+00:00",
+      "rows": 720,
+      "sha256": "00c24c3c3dfcbc86e87f653b6d367b13bf8d149fb84857fcca7f299bab16b59f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-06.zip"
+    },
+    {
+      "bytes": 30936,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 744,
+      "sha256": "582d69ca9a858ed44f0956ea263ff8827920834aad9df604c3c28f9723f04d54",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-07.zip"
+    },
+    {
+      "bytes": 30604,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 744,
+      "sha256": "59ad37334e04ff03a57180e919c14cb0c0aaa61f90b40b7c4014fb2f73741325",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-08.zip"
+    },
+    {
+      "bytes": 29507,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:32:59+00:00",
+      "rows": 720,
+      "sha256": "e1bb0b06f9d9a2d4c19feb7f65baa5a4c4c522e146988ae802242e814c72a1dd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-09.zip"
+    },
+    {
+      "bytes": 29581,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 744,
+      "sha256": "d1209f137d99bbe16d9ef72a85e7e1a1d74d05702f2701a3479199925023e120",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-10.zip"
+    },
+    {
+      "bytes": 28753,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 720,
+      "sha256": "67402084b9d39b94085fae530c574a93f5946966c3c4506cd822343ce00157dc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-11.zip"
+    },
+    {
+      "bytes": 28516,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 744,
+      "sha256": "b18c0f62e67adda56089dfb58e8b8d5c06eeeae0e01dc7292c976e480effe4a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2022-12.zip"
+    },
+    {
+      "bytes": 29800,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:00+00:00",
+      "rows": 744,
+      "sha256": "d1571f1bab6faa6065d835bead84382d1149dcb511695050d4189562049b6397",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-01.zip"
+    },
+    {
+      "bytes": 28420,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:01+00:00",
+      "rows": 672,
+      "sha256": "a5e1fd1967a6d33f1c4e0eb98cb68c19a5e252fd790fa060578014f7298131b0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-02.zip"
+    },
+    {
+      "bytes": 31388,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:01+00:00",
+      "rows": 743,
+      "sha256": "6b12c5898155d3d20545bc6300aa723475ce2f3157866ac5b7ad9d0b40a58b02",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-03.zip"
+    },
+    {
+      "bytes": 29293,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:01+00:00",
+      "rows": 720,
+      "sha256": "7341e126016480dbb703631791cd13c3612ff31e400c019f42fc67c96862dd53",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-04.zip"
+    },
+    {
+      "bytes": 31026,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:02+00:00",
+      "rows": 744,
+      "sha256": "bbd83c3c60b602780f102c89e879b317ecc3e99d8b66e9e9a098f1d7b84f1588",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-05.zip"
+    },
+    {
+      "bytes": 31632,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:01+00:00",
+      "rows": 720,
+      "sha256": "e5f435bb51b6a147a7c82c6b00927ebd66de24b4e8b77b83aad0ca7e403e724c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-06.zip"
+    },
+    {
+      "bytes": 33332,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:02+00:00",
+      "rows": 744,
+      "sha256": "e0f4a637dd0966c0268450c2502a5dbcd7cfb89a3869ae00591766d9a88d8af2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 33322,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:03+00:00",
+      "rows": 744,
+      "sha256": "80e46fb32ca8a0e7967185459b88919e43d7fa4990f5bf247cdf520ebebea492",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 31144,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:03+00:00",
+      "rows": 720,
+      "sha256": "7143b792323cf61251425848898c7ed93e3077d233ece2cf36d2c5e585391649",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 32270,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:03+00:00",
+      "rows": 744,
+      "sha256": "49762a860add237a358e84d8260e9450acc429f161f1d5f790650905b4ce12b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33057,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:03+00:00",
+      "rows": 720,
+      "sha256": "91d5e65598b950dfe0b498c335d07167e59e0a86f2540676029d6a03c382f3b6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34779,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:03+00:00",
+      "rows": 744,
+      "sha256": "49f70d668e719d52af4575e93235c42eff693fd9b4aba777b56ab636d58a33ae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 34336,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:04+00:00",
+      "rows": 744,
+      "sha256": "2e5582270c9b82554e11d29948b5d105d371d6246a10480c38a19087fd72e957",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 32286,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:04+00:00",
+      "rows": 696,
+      "sha256": "656422b854dc1eac737d5abac1e7216d25c37b563ad4350c671563182ceb50b1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 36873,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:04+00:00",
+      "rows": 744,
+      "sha256": "b81b1ecd2df1e62199b4a9b6dc6f04b824c7ee2245e4148ba9661f50c89cb258",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 34871,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:04+00:00",
+      "rows": 720,
+      "sha256": "5bb05cacfe565d57bb8a0245f07483dde3039e5f52ae3a16cd1957439b38b5c3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 34955,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:05+00:00",
+      "rows": 744,
+      "sha256": "27d62958ef97fc41c721831f90a4a163bfb63eb9a5ea3f7a7bfae57490aaa1a6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 33739,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:05+00:00",
+      "rows": 720,
+      "sha256": "6cf59f4c99492b6047dc9fc44161ef2cd8d055946ecfc9d7c3124f450d6b328e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 34284,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:05+00:00",
+      "rows": 744,
+      "sha256": "10113307c8fba19c6a1bc82f532096a216065e09cebeac449ded8631bdd3fd65",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 34852,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:06+00:00",
+      "rows": 744,
+      "sha256": "e4a3fc3d781621c7c0c924d07e5bd78b7a18b0f08f82d2c82aefd7f795da1b4f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32828,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:06+00:00",
+      "rows": 720,
+      "sha256": "9ed895ad3d5bd78fc4720b728c49fedecfe3f6eb8a7eb700ad8eb412334a76ea",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 34327,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:06+00:00",
+      "rows": 744,
+      "sha256": "a7f7efe90890ba8375935d3899a0add9261fa3aa28729740854d6bf6040ebc03",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 34934,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:07+00:00",
+      "rows": 720,
+      "sha256": "b5b13f515c07794e6e0efadb9db37b3bba8f37bd0820728dd99ededfe2d5426b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 37085,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:07+00:00",
+      "rows": 744,
+      "sha256": "a732e003af598c7e1e4e1401d2c0397138a218ea0872e6817b605ba4876720f2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 36198,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:07+00:00",
+      "rows": 744,
+      "sha256": "182a047a9a440145566d34ac0d76c1b4ea2e2d5618e620fc9591d260068d03f9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 31983,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:08+00:00",
+      "rows": 672,
+      "sha256": "0b566d64405a5c678b3fe9d1a657e1f63eebdea415a76ace2794e9273e4b866a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 34705,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:08+00:00",
+      "rows": 744,
+      "sha256": "52a3fe3dfca0aa43ca1a534320261331d3c7e75f110087160a3d48ae3c6405fc",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 33459,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:07+00:00",
+      "rows": 720,
+      "sha256": "195acb8102211374735adef29724eec9b8ba68df87f172eb7e9ab9684dfeaa9d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 34732,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:08+00:00",
+      "rows": 744,
+      "sha256": "609d67bcd31c3cf3a4c31e0d5ecf17909b1b1d95adcb29e8913ca098ee941a39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 32620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:09+00:00",
+      "rows": 720,
+      "sha256": "ce34f35bb16a52556c9f8415797336c78802312ab6ed1c4dad68f23d0a49aee2",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 34041,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:08+00:00",
+      "rows": 744,
+      "sha256": "7e20c4833c2fb5f24aa492a5b7a5cd83dadd44268513d083f7cb0e1b1630d219",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33657,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:09+00:00",
+      "rows": 744,
+      "sha256": "2a898253b69055935e1de788bf5c0ea1332702c2902ab6e66c546ee9789a1a08",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:09+00:00",
+      "rows": 720,
+      "sha256": "c9f58183a14097124e1c9ca3848e655d60931c9ad5a032a8055345a58365312a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33637,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:10+00:00",
+      "rows": 744,
+      "sha256": "f7762d3d5a620cb7ff9bda138856a9b9f38348c63c75e95999d225b384ae5b95",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31991,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:10+00:00",
+      "rows": 720,
+      "sha256": "5d4913c903027a22a2cbf94b163231308b5ecb1e06901922917ad177153f001d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31901,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:10+00:00",
+      "rows": 744,
+      "sha256": "0af8c60d1a5c35d7d5e1863b4c0f13cfa597820df09cc0be6d055734dbec7abf",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 33078,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:11+00:00",
+      "rows": 744,
+      "sha256": "12a8695d6be515ff865ddc92af9abfad09c37704b2e44d5b9740dee57b041905",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 29317,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:11+00:00",
+      "rows": 672,
+      "sha256": "f5791b7f1880f763a718bb74417d5a32b215b9db877c1519a7e854d769aa0201",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 31625,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:11+00:00",
+      "rows": 744,
+      "sha256": "5bb01f7907712d29ee623c028b7f23cb197cfde609e52f3f8ff5e441a9af5cae",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 31188,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:11+00:00",
+      "rows": 720,
+      "sha256": "8be034df0114cf4b40b3533a7f81e6bfc001180c66b382dfc3c9605839cbf114",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31592,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:12+00:00",
+      "rows": 744,
+      "sha256": "e0c09cd3c8a57d19d6aa9c99ac46370777383181de8e70c5a2424d71c18ad6a5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30692,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:12+00:00",
+      "rows": 720,
+      "sha256": "32a869615332a9ca12e00d39b47a9b6b6fabc5139102d473e7e788e2eb60eb7d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30569,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T00:33:12+00:00",
+      "rows": 744,
+      "sha256": "79d23d452e8c639683da9d3533302fd0d02e0a38973f231ad02fe4587f9e1042",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/AMPUSDT/1h/AMPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "AMPUSDT",
+  "total_rows": 41081
+}

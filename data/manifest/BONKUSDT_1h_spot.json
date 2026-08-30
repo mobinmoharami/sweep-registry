@@ -1,0 +1,261 @@
+{
+  "files": [
+    {
+      "bytes": 22104,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:18+00:00",
+      "rows": 400,
+      "sha256": "aa59347f23bf653a850a68c070e4cd16848dc836a77d819b4695f6737e94b464",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 39409,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:19+00:00",
+      "rows": 744,
+      "sha256": "6ee14d6918395644be935e6a1b6419f5edddec6bf7c634e94f2e72753ccf604a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 36207,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:18+00:00",
+      "rows": 696,
+      "sha256": "be3e4d699f3972cd165a71275a22dbc514e77ac80716939fb8e0ebc7f1ae7c29",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 41299,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:19+00:00",
+      "rows": 744,
+      "sha256": "25e2bc768887dfd792e48f3e4ca91bff95855714886160ca9764749bf55a01ba",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 38927,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:19+00:00",
+      "rows": 720,
+      "sha256": "b753c04f05ae4e5bd654dba4f530884ad9965cd5aacc9d10159a1ccc8211829b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 40879,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:19+00:00",
+      "rows": 744,
+      "sha256": "9c585e43f54df924eebd7819eeaf7c27818f1a7b95153adb081c5006b4cddea7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 38972,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:20+00:00",
+      "rows": 720,
+      "sha256": "dcde71f04971fbe21b61148650f8048bf464acab846884a257a916b4b4578444",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 40478,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:20+00:00",
+      "rows": 744,
+      "sha256": "ac96fa103bfc94594d3fd1a6e2e8331ca66db2a01a16b687c5f866d3c1d88eab",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 39602,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:20+00:00",
+      "rows": 744,
+      "sha256": "e123d4bafae6c535b003cc3f1e07d1c9a625cba2fa8f723a35777497b3514cb5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 37927,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:21+00:00",
+      "rows": 720,
+      "sha256": "30c06dc52af98f2ae4fc6f8166b752115b8c5a506bf4d5c3f1d606fa439a9f6d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 39840,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:21+00:00",
+      "rows": 744,
+      "sha256": "e28780df85d8c4d05c29ef1b235a2360c118ac088fca34d602f567c073a0a2a8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 40001,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:21+00:00",
+      "rows": 720,
+      "sha256": "0fb5c7d278447feb3be09f58440d640d48075e19986cb8e58374ab7809b978c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 40798,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:21+00:00",
+      "rows": 744,
+      "sha256": "21f2e765be9a39ef8e431fffe0998325ce79373f08b8b9a586faf8cbf7f9bd3c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 40620,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:21+00:00",
+      "rows": 744,
+      "sha256": "6e9c7c5bec2a0c1e25c2b4a89507fbcf42560157a5f5c65227bdd52b33671ec4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 35769,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:22+00:00",
+      "rows": 672,
+      "sha256": "4f84595e25f5c4a33c7e12d37fe1a49cbc7b8a7b4bf3c63c1813f2f17afd3112",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 39062,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:22+00:00",
+      "rows": 744,
+      "sha256": "40719041f4232b00e5326a238f20bf2b21bf07e3f2ddbd16e2d26387b3f830cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 38363,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:22+00:00",
+      "rows": 720,
+      "sha256": "491cb6c745075ef569664bbffe5be6de4acd98dc5a421f9d436483e6873a0c31",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 40187,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:23+00:00",
+      "rows": 744,
+      "sha256": "80dbd95f9cb936385e24e63b66ec46c81be0a052453cd754702a20edcc590867",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 37512,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:23+00:00",
+      "rows": 720,
+      "sha256": "1e5a36a52a25ba5f7a6b1f98d15bfe295c53a170785178759728eb46ad36e253",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 41160,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:23+00:00",
+      "rows": 744,
+      "sha256": "5085129f6bbd55a598ce3f652c576d7d9a9a61876424630d001b0293a607afd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 39935,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:24+00:00",
+      "rows": 744,
+      "sha256": "c1c0234c0985245c4037cf4cfe18b47e576145c47b4377649a8468f2527c7f88",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 38177,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:24+00:00",
+      "rows": 720,
+      "sha256": "bdd47648c8d3d3b280d01251815bc7663bcef8f753776489105ce2ba3179e0b3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 39226,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:24+00:00",
+      "rows": 744,
+      "sha256": "f5d161881daa995eb74514b70ad6cf9ef8028ca7b98c9b8e90d37e1ecc2acc8d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 37305,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:24+00:00",
+      "rows": 720,
+      "sha256": "589ef0a1bfadba7b53e23222a07fcb06111ef193e57334506eb37ed97304dd23",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 37383,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:24+00:00",
+      "rows": 744,
+      "sha256": "1dc1e8d14e76bfb1a1ce5c882a004cf8ed66ed5a4b5d7555ecf781a834829e57",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 38310,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:25+00:00",
+      "rows": 744,
+      "sha256": "4d84742b45b7c8422c40643a7f65d2ff7ff57e3095401837605a5f03f9fc4328",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 33753,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:25+00:00",
+      "rows": 672,
+      "sha256": "59d35c451f4931570d58c74b059806b65f2f5145222dd4d69bb4937efba2aee1",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 36715,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:25+00:00",
+      "rows": 744,
+      "sha256": "2f582ffc8a27fc918b21f23231e353d5f5895d73d00fdaf27428c93f68de90cb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 35300,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:26+00:00",
+      "rows": 720,
+      "sha256": "39723262030e530b4cecc4bd606aeea72ed0293bc4a4d66b4b01325f0fbe009e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 36364,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:26+00:00",
+      "rows": 744,
+      "sha256": "bb80fe0c1c9c9df8f1047cd6db635b0269d8ade1897cc0c19ce17a36030c5700",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 34411,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-01T19:13:26+00:00",
+      "rows": 720,
+      "sha256": "eb64bd8efb3566012095d2ab80e041797dd39111e65801c4297b0c653ac6c6bb",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/BONKUSDT/1h/BONKUSDT-1h-2026-06.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "BONKUSDT",
+  "total_rows": 22288
+}

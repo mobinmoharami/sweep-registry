@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 22649,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:44:32+00:00",
+      "rows": 587,
+      "sha256": "ced9f56e4046b3fffb6f845f3640b5c9f040b1183938ae7268df54b4ba09492d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SPYBUSDT/1h/SPYBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SPYBUSDT",
+  "total_rows": 587
+}

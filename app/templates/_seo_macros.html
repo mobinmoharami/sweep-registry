@@ -1,0 +1,53 @@
+{% macro verdict_line(summary) %}
+  {% if summary.any_passed %}
+    <b style="color:var(--live)">One version cleared the bar.</b>
+  {% else %}
+    <b style="color:var(--fail)">None of them passed.</b>
+  {% endif %}
+{% endmacro %}
+
+{% macro numbers(summary) %}
+<div class="grid2">
+  <div class="cell"><b>{{ '{:,}'.format(summary.variants) }}</b>
+    <span>Versions tested</span><em>every combination, fixed in advance</em></div>
+  <div class="cell"><b>{{ '%+.2f'|format(summary.best_sharpe) if summary.best_sharpe is not none else '—' }}</b>
+    <span>Best result</span><em>return adjusted for risk, per year</em></div>
+  <div class="cell"><b>{{ '%.3f'|format(summary.best_dsr) }}</b>
+    <span>Best score</span><em>has to reach 0.950</em></div>
+  <div class="cell"><b>{{ summary.n }}</b>
+    <span>Sealed tests</span><em>each hashed before it ran</em></div>
+</div>
+{% endmacro %}
+
+{% macro rowtable(rows) %}
+<div class="tablewrap"><table>
+  <thead><tr><th>ID</th><th>Test</th><th>Best</th><th>Luck</th><th>Score</th><th>Result</th></tr></thead>
+  <tbody>
+  {% for r in rows %}
+    <tr>
+      <td class="id">{{ r.id }}</td>
+      <td class="nm"><a href="{{ url_for('record', sweep_id=r.id) }}">{{ r.label }}</a>
+        <span class="sub">{{ r.market }} &middot; {{ '{:,}'.format(r.trials) }} versions</span></td>
+      <td class="num" data-l="Best">{{ '%+.2f'|format(r.best) if r.best is not none else '—' }}</td>
+      <td class="num dim" data-l="Luck">{{ '%+.2f'|format(r.null) if r.null is not none else '—' }}</td>
+      <td class="scorecell"><div class="meter"><div class="track">
+        <div class="fill{{ ' hot' if r.dsr >= 0.75 }}" style="width:{{ (100*(r.dsr/0.95 if r.dsr < 0.95 else 1))|round(0,'floor')|int }}%"></div>
+      </div><span>{{ '%.3f'|format(r.dsr) }}</span></div></td>
+      <td class="res {{ 'pass' if r.dsr >= 0.95 else 'fail' }}">{{ 'Passed' if r.dsr >= 0.95 else 'Did not pass' }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table></div>
+{% endmacro %}
+
+{% macro limit_note(summary) %}
+{% if summary.limits %}
+<div class="block">
+  <p class="tag">What this does not prove</p>
+  <p>The smallest edge these tests could have detected is around
+  {{ '%.1f'|format(summary.limits|min) }} in annual risk-adjusted return. An
+  edge below that would be invisible here, so this is a null result, not proof
+  that nothing exists. Every record states its own limit.</p>
+</div>
+{% endif %}
+{% endmacro %}

@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 21174,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:43:42+00:00",
+      "rows": 439,
+      "sha256": "ce92152c35e9badbb31eaf2a41a26f07f03caa34e01d87a6730c25d928c12a69",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SPCXBUSDT/1h/SPCXBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 35094,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:43:42+00:00",
+      "rows": 744,
+      "sha256": "45f0303cd78202d2f1c2fe6bd68aa976ff27adf2ec94bb423b3f08867c52c325",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/SPCXBUSDT/1h/SPCXBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "SPCXBUSDT",
+  "total_rows": 1183
+}

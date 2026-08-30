@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 19429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:35+00:00",
+      "rows": 462,
+      "sha256": "645398f2dd79fe266ca78aca0f8af532f2fc24b3efe2df154c902c5a12c95627",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NVDABUSDT/1h/NVDABUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 31872,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:23:36+00:00",
+      "rows": 744,
+      "sha256": "1a2dc4101f2538eb3088271bb3e9767f6d19f8f97d860114340955395687dfd6",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/NVDABUSDT/1h/NVDABUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "NVDABUSDT",
+  "total_rows": 1206
+}

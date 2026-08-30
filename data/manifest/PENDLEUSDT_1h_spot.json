@@ -1,0 +1,309 @@
+{
+  "files": [
+    {
+      "bytes": 30982,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:41+00:00",
+      "rows": 686,
+      "sha256": "966471d2031bbf72e74d7e162c0f58dee36c0c5d4eb2574d3d877e51602c0835",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-07.zip"
+    },
+    {
+      "bytes": 32829,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:42+00:00",
+      "rows": 744,
+      "sha256": "caa947f3c46192cf72a7d46f9d20741e559dcfc256dcbac6c17a231483de822f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-08.zip"
+    },
+    {
+      "bytes": 31571,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:42+00:00",
+      "rows": 720,
+      "sha256": "a38d16cafe291d9c886c03403c168b9900bb5f476669e66e21144d107ab5e373",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-09.zip"
+    },
+    {
+      "bytes": 33231,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:42+00:00",
+      "rows": 744,
+      "sha256": "745346899e2f46518dec841d9c927cfc11177d95e72b2bef83ce88fd764fb446",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-10.zip"
+    },
+    {
+      "bytes": 33027,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:42+00:00",
+      "rows": 720,
+      "sha256": "f537674c716b1e225f76fd0a501ff6f7522e5c69e658899e017f80aa32b41bdd",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-11.zip"
+    },
+    {
+      "bytes": 34166,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:41+00:00",
+      "rows": 744,
+      "sha256": "6409d477cd095f54d821d99fdfa755eb2efab6063fb6d2ab7f833aad9ef60fb7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2023-12.zip"
+    },
+    {
+      "bytes": 36042,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:43+00:00",
+      "rows": 744,
+      "sha256": "9969a5708f7f7c63ee0d08a504a6aa6edbf9321345183611fc692cf5c4bd385d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-01.zip"
+    },
+    {
+      "bytes": 33849,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:43+00:00",
+      "rows": 696,
+      "sha256": "f0f7f2ac42c857b10abacc5948a63102fce0589cdf623c04db4c3914da70295d",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-02.zip"
+    },
+    {
+      "bytes": 36410,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:43+00:00",
+      "rows": 744,
+      "sha256": "c41336a99da438fbffff8066564b4c4ee8ad44d1f3c0da9acdf779871f2cf1d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-03.zip"
+    },
+    {
+      "bytes": 35580,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:43+00:00",
+      "rows": 720,
+      "sha256": "57e7a7da13907f7d9264657e3c4e8ed42dacf849ade3ebd2cf8b997e4a8c7110",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-04.zip"
+    },
+    {
+      "bytes": 33895,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:43+00:00",
+      "rows": 744,
+      "sha256": "6768a81afe9e93fc5c5e882df4af3dad8686e2dff1b567cb3dba329dbd34efc7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-05.zip"
+    },
+    {
+      "bytes": 32320,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:44+00:00",
+      "rows": 720,
+      "sha256": "69cefb79b204aceaaa577b8c128a5e0dd642fba8dbb4ca79b3177e31ee222cb9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-06.zip"
+    },
+    {
+      "bytes": 33438,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:45+00:00",
+      "rows": 744,
+      "sha256": "d47fab68c3353631ff9eddf2432ca0159db7db32738915e86e18bccddc4d4f39",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-07.zip"
+    },
+    {
+      "bytes": 33319,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:44+00:00",
+      "rows": 744,
+      "sha256": "7f927eb1766d8067215e8f1163ce25bcb6b092163bf75d3d883b17ab003ac68b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-08.zip"
+    },
+    {
+      "bytes": 32239,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:45+00:00",
+      "rows": 720,
+      "sha256": "424849329e8d248b906a911f5a2da0b5aec2f5ff4102b22b488dcd41526ed99c",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-09.zip"
+    },
+    {
+      "bytes": 33272,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:45+00:00",
+      "rows": 744,
+      "sha256": "cf7a375e34e8e8dd10a4036bb0f1f02a4b5108d754cf20511c7f21a09a8f882f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-10.zip"
+    },
+    {
+      "bytes": 32750,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:45+00:00",
+      "rows": 720,
+      "sha256": "2f1db2eebe90988234547a94166340de1c59eacdfeaa79212021201cf55c2ba7",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-11.zip"
+    },
+    {
+      "bytes": 33782,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:45+00:00",
+      "rows": 744,
+      "sha256": "740a0d36f59a763108b1f7785768c67d52a72e15c9a212c06c08c6eb1f1f62e9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2024-12.zip"
+    },
+    {
+      "bytes": 33406,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:46+00:00",
+      "rows": 744,
+      "sha256": "5a3ffa17a905b0b74db7bed2fd74e6375fbe242407c05a477f8a79a1a05dd69f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-01.zip"
+    },
+    {
+      "bytes": 30596,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:46+00:00",
+      "rows": 672,
+      "sha256": "e4584571a1f51b1ab497ee292a0b1ee5c7bbe6e4a548acfe406366147dd8a2d9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-02.zip"
+    },
+    {
+      "bytes": 33018,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:46+00:00",
+      "rows": 744,
+      "sha256": "4d0ed4cd54440a613e1b0691c763c50ab6fea1248ec27cdb3ea0a20fae2ad846",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-03.zip"
+    },
+    {
+      "bytes": 32429,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:46+00:00",
+      "rows": 720,
+      "sha256": "3fb9d07a216d9525e7d374fc397313608e715a89c970c0c9c5ed4f418943c508",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-04.zip"
+    },
+    {
+      "bytes": 33355,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:46+00:00",
+      "rows": 744,
+      "sha256": "e2f2e9681e0cc88932374265970f0bfac004e0a5c7dad0d816bf70d95354e94e",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-05.zip"
+    },
+    {
+      "bytes": 31978,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:47+00:00",
+      "rows": 720,
+      "sha256": "62efc316e7a884a2bc10763b50155b44586fa3783e28edd3003ee4f9be6aee51",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-06.zip"
+    },
+    {
+      "bytes": 33008,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:48+00:00",
+      "rows": 744,
+      "sha256": "7fa394d3ebaff3fcdacd8e5b9136496a98a07dfe7f4c8946e8818ec3115722b8",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-07.zip"
+    },
+    {
+      "bytes": 33865,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:47+00:00",
+      "rows": 744,
+      "sha256": "d9aa8104e3c7048150d2775b97fb0f71f07fe13d6cbbceccb7e9973733dba280",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-08.zip"
+    },
+    {
+      "bytes": 31957,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:47+00:00",
+      "rows": 720,
+      "sha256": "a1e6b6dce5de83920aebbc822f307997fb0f267efe09d96675e5163364e548c4",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-09.zip"
+    },
+    {
+      "bytes": 33091,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:48+00:00",
+      "rows": 744,
+      "sha256": "151ef090bae68757350313eea2f1da21d9ba8c2bbae7297f7b33b7a3a128caff",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-10.zip"
+    },
+    {
+      "bytes": 31491,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:48+00:00",
+      "rows": 720,
+      "sha256": "387b40a86f67e4c6a2b29ae279472afa0bd07243dc6ac46dff763a37ad325160",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-11.zip"
+    },
+    {
+      "bytes": 31751,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:48+00:00",
+      "rows": 744,
+      "sha256": "5c50e376b32bec6ab7f689bcd7ec1996e58108a2eef79bb6a36176c7bc6508c0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2025-12.zip"
+    },
+    {
+      "bytes": 32069,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:49+00:00",
+      "rows": 744,
+      "sha256": "c22d3e567227993ca64ac5b85e8f189893575a43c8fe231cbd31c4f27c46815a",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-01.zip"
+    },
+    {
+      "bytes": 28511,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:48+00:00",
+      "rows": 672,
+      "sha256": "73462e6c346e3435c35f03514d7382f9c83dc2cc2662cbc7ea530a352190c7da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-02.zip"
+    },
+    {
+      "bytes": 30667,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:49+00:00",
+      "rows": 744,
+      "sha256": "aeae9578afa2aa83ed95b3db8f000995fd898cba55eb0513d5aa54c4b2069ce5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 30224,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:49+00:00",
+      "rows": 720,
+      "sha256": "c126d194f34f1de585102bb28fc51e0b614520ae8906017ee00957341977b13b",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 32597,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:50+00:00",
+      "rows": 744,
+      "sha256": "4c14eef5cd5dd8a9a8912fe13353ae9d2fdcac1275472e34d7ca3a76182d301f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30410,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:50+00:00",
+      "rows": 720,
+      "sha256": "affc7789d88cb1bf4738c8decb09c91858538e8626bb790d76c8433a9f9139c9",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30804,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:26:50+00:00",
+      "rows": 744,
+      "sha256": "162fad26f7cb79881952b8c53e2f3ff97ebcb2d72461d8b804aa4465215ae696",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PENDLEUSDT/1h/PENDLEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PENDLEUSDT",
+  "total_rows": 26990
+}

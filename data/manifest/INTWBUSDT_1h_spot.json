@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "bytes": 9079,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:08:19+00:00",
+      "rows": 227,
+      "sha256": "5f79885d4aee9095fba76abcf762b0d3277f9d0d865d2c8a0ffe5cd2ace1ba11",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/INTWBUSDT/1h/INTWBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "INTWBUSDT",
+  "total_rows": 227
+}

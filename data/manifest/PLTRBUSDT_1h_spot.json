@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "bytes": 631,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:38+00:00",
+      "rows": 11,
+      "sha256": "0967f51277e4cdf3813d99c6ff9f4c35bfb85bbed25bc8214ed72900860673da",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLTRBUSDT/1h/PLTRBUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 29611,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:27:39+00:00",
+      "rows": 744,
+      "sha256": "7baa259a02b7f78d21f8b7ed75c3bf597261f734d34bf9275ab8ddc8dc2be65f",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/PLTRBUSDT/1h/PLTRBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "PLTRBUSDT",
+  "total_rows": 755
+}

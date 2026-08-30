@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "bytes": 15309,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:50+00:00",
+      "rows": 323,
+      "sha256": "12519f8883be98b356ad5e877de88c1c8944282d4b601539d589b1dbb46d69e0",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KATUSDT/1h/KATUSDT-1h-2026-03.zip"
+    },
+    {
+      "bytes": 32316,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:51+00:00",
+      "rows": 720,
+      "sha256": "b2d57ad120661423e5c905f930c9474d3bc6196e2839f7e6d1c18f7cb92eb2d5",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KATUSDT/1h/KATUSDT-1h-2026-04.zip"
+    },
+    {
+      "bytes": 31722,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:50+00:00",
+      "rows": 744,
+      "sha256": "e9522de784a13bf6d258fb1e66a07e31d91f3625e4037657567f7df031a3db67",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KATUSDT/1h/KATUSDT-1h-2026-05.zip"
+    },
+    {
+      "bytes": 30865,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:50+00:00",
+      "rows": 720,
+      "sha256": "727385cab7719fa3363d6a9936275bc2b29758cbff48f63ac70f8fa828cae190",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KATUSDT/1h/KATUSDT-1h-2026-06.zip"
+    },
+    {
+      "bytes": 30206,
+      "checksum_verified": true,
+      "downloaded_utc": "2026-08-30T01:10:51+00:00",
+      "rows": 744,
+      "sha256": "fecf9cd3ca678b3180f5fa529146154dc11264c6590a27ba32356b3906f2f0f3",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/KATUSDT/1h/KATUSDT-1h-2026-07.zip"
+    }
+  ],
+  "interval": "1h",
+  "market": "spot",
+  "problems": [],
+  "requested_range": [
+    "2017-08",
+    "2026-07"
+  ],
+  "symbol": "KATUSDT",
+  "total_rows": 3251
+}
