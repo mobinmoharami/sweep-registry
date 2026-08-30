@@ -118,214 +118,133 @@ def fnum(v, spec="+.2f", dash="\u2014"):
 
 CSS = """
 :root{
-  --void:#07090d; --deep:#0b0f16; --raise:#0e131c;
-  --line:#1a2331; --line-2:#243040;
-  --text:#e6ecf5; --mute:#8593ab; --dim:#55627a;
+  --void:#07090d; --deep:#0b0f16; --line:#1c2534;
+  --text:#e6ecf5; --mute:#7d8ba3; --dim:#4d5a70;
   --live:#4ade80; --fail:#f97066; --seal:#60a5fa; --gold:#fbbf24;
-
-  --pad:clamp(20px,5vw,32px);
-  --gap:clamp(56px,9vw,104px);
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-body{
-  margin:0;overflow-x:hidden;
-  background:var(--void);color:var(--text);
-  font:400 16px/1.65 'Inter',system-ui,-apple-system,sans-serif;
-  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
-img,svg{max-width:100%;height:auto}
-a{color:inherit}
-a:focus-visible,button:focus-visible{outline:2px solid var(--seal);outline-offset:3px}
-
-.mono{font-family:'JetBrains Mono',ui-monospace,monospace}
-.wrap{width:100%;max-width:1100px;margin:0 auto;padding:0 var(--pad)}
-#sky{position:fixed;inset:0;z-index:0;opacity:.4;pointer-events:none}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--void);color:var(--text);
+  font:400 16px/1.65 'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.mono{font-family:'JetBrains Mono',monospace}
+.wrap{max-width:1140px;margin:0 auto;padding:0 28px}
+#sky{position:fixed;inset:0;z-index:0;opacity:.55;pointer-events:none}
 .above{position:relative;z-index:1}
 
-/* ---- header ------------------------------------------------------ */
-header{padding:clamp(64px,14vw,132px) 0 clamp(48px,8vw,84px)}
-.eyebrow{
-  font:500 10.5px/1 'JetBrains Mono',monospace;letter-spacing:.24em;
-  text-transform:uppercase;color:var(--dim);margin:0 0 clamp(20px,4vw,30px)}
-h1{
-  font:200 clamp(34px,9vw,92px)/1.02 'Inter',sans-serif;
-  letter-spacing:-.04em;margin:0 0 clamp(22px,4vw,34px);
-  overflow-wrap:break-word}
-.glow{
-  background:linear-gradient(176deg,#fff 0%,#93a6c6 100%);
+header{padding:140px 0 88px}
+.eyebrow{font:500 11px/1 'JetBrains Mono',monospace;letter-spacing:.28em;
+  text-transform:uppercase;color:var(--dim);margin:0 0 30px}
+h1{font:200 clamp(46px,8.5vw,104px)/0.96 'Inter',sans-serif;
+  letter-spacing:-.045em;margin:0 0 34px}
+.glow{background:linear-gradient(180deg,#fff 0%,#8ea3c4 100%);
   -webkit-background-clip:text;background-clip:text;color:transparent}
-.lede{
-  font-size:clamp(16.5px,2.4vw,20px);line-height:1.62;
-  color:var(--mute);max-width:46ch;margin:0 0 16px}
+.lede{font-size:20px;line-height:1.6;color:var(--mute);max-width:44ch;margin:0 0 18px}
 .lede b{color:var(--text);font-weight:500}
 
-/* ---- metric strip ------------------------------------------------ */
-.metrics{
-  display:grid;gap:1px;background:var(--line);
-  border:1px solid var(--line);margin:clamp(44px,8vw,72px) 0 0;
-  grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
-.metric{background:var(--deep);padding:clamp(18px,3.4vw,26px)}
-.metric b{
-  display:block;font:300 clamp(28px,5.4vw,40px)/1 'JetBrains Mono',monospace;
-  letter-spacing:-.035em;overflow-wrap:break-word}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+  gap:1px;background:var(--line);border:1px solid var(--line);margin:72px 0 0}
+.metric{background:var(--deep);padding:26px 24px}
+.metric b{display:block;font:300 40px/1 'JetBrains Mono',monospace;letter-spacing:-.04em}
 .metric b.zero{color:var(--fail)}
-.metric span{
-  display:block;margin-top:9px;
-  font:400 10.5px/1.45 'JetBrains Mono',monospace;
-  letter-spacing:.12em;text-transform:uppercase;color:var(--dim)}
+.metric span{display:block;margin-top:10px;font:400 11px/1.4 'JetBrains Mono',monospace;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
 
-/* ---- sections ---------------------------------------------------- */
-section{padding:var(--gap) 0;border-top:1px solid var(--line)}
-h2{
-  font:500 10.5px/1 'JetBrains Mono',monospace;letter-spacing:.24em;
-  text-transform:uppercase;color:var(--dim);margin:0 0 clamp(26px,5vw,40px)}
-h3{font:500 18px/1.35 'Inter',sans-serif;letter-spacing:-.012em;margin:0 0 10px}
-p{max-width:64ch}
+section{padding:96px 0;border-top:1px solid var(--line)}
+h2{font:500 11px/1 'JetBrains Mono',monospace;letter-spacing:.28em;
+  text-transform:uppercase;color:var(--dim);margin:0 0 40px}
+h3{font:500 19px/1.35 'Inter',sans-serif;letter-spacing:-.01em;margin:0 0 10px}
+p{max-width:62ch}
 
-.pillars{
-  display:grid;gap:clamp(30px,5vw,44px);
-  grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr))}
+.pillars{display:grid;gap:44px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
 .pillars p{color:var(--mute);font-size:15.5px;margin:0}
-.pillars .n{
-  font:400 10.5px/1 'JetBrains Mono',monospace;color:var(--seal);
-  letter-spacing:.18em;display:block;margin-bottom:14px}
+.pillars .n{font:400 11px/1 'JetBrains Mono',monospace;color:var(--seal);
+  letter-spacing:.2em;display:block;margin-bottom:16px}
 
-/* ---- filter bar -------------------------------------------------- */
-.bar{
-  display:flex;gap:8px;flex-wrap:wrap;align-items:center;
-  margin:0 0 clamp(18px,3.5vw,26px)}
-.bar button{
-  font:400 12px/1 'JetBrains Mono',monospace;letter-spacing:.06em;
-  padding:10px 15px;border:1px solid var(--line);background:transparent;
-  color:var(--mute);cursor:pointer;transition:border-color .15s,color .15s}
-.bar button:hover{border-color:var(--line-2);color:var(--text)}
+.bar{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 26px;align-items:center}
+.bar button{font:400 12px/1 'JetBrains Mono',monospace;letter-spacing:.08em;
+  padding:10px 16px;border:1px solid var(--line);background:transparent;
+  color:var(--mute);cursor:pointer}
 .bar button[aria-pressed=true]{border-color:var(--seal);color:var(--seal)}
-.count{
-  margin-left:auto;font:400 12px 'JetBrains Mono',monospace;color:var(--dim)}
+.bar button:focus-visible{outline:2px solid var(--seal);outline-offset:2px}
+.count{margin-left:auto;font:400 12px 'JetBrains Mono',monospace;color:var(--dim)}
 
-/* ---- record table ------------------------------------------------
-   Below 900px the table scrolls sideways inside its own box rather
-   than pushing the page wider. Two columns are dropped first, since a
-   horizontal scroll of eight columns on a phone is unusable.        */
-.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch;
-  margin-inline:calc(var(--pad) * -1);padding-inline:var(--pad)}
-table{width:100%;border-collapse:collapse;min-width:520px}
-thead th{
-  font:500 10px/1 'JetBrains Mono',monospace;letter-spacing:.14em;
+table{width:100%;border-collapse:collapse}
+thead th{font:500 10px/1 'JetBrains Mono',monospace;letter-spacing:.16em;
   text-transform:uppercase;color:var(--dim);text-align:right;
-  padding:0 0 13px;border-bottom:1px solid var(--line);white-space:nowrap}
+  padding:0 0 14px;border-bottom:1px solid var(--line);white-space:nowrap}
 thead th:nth-child(-n+2){text-align:left}
 tbody tr{border-bottom:1px solid var(--line)}
-tbody tr:hover{background:var(--raise)}
-td{padding:14px 0;vertical-align:middle}
+tbody tr:hover{background:#0d121b}
+td{padding:15px 0;vertical-align:middle}
 .id{font:400 11px/1.8 'JetBrains Mono',monospace;color:var(--dim)}
-.nm{padding-right:16px;min-width:200px}
+.nm{padding-right:18px}
 .nm a{text-decoration:none;font-weight:450;color:inherit}
 .nm a:hover{color:var(--seal)}
-.nm .sub{
-  display:block;font:400 11px/1.7 'JetBrains Mono',monospace;color:var(--dim)}
-.num{
-  text-align:right;font:400 13.5px/1.8 'JetBrains Mono',monospace;
-  padding-left:14px;white-space:nowrap}
+.nm .sub{display:block;font:400 11px/1.7 'JetBrains Mono',monospace;color:var(--dim)}
+.num{text-align:right;font:400 14px/1.8 'JetBrains Mono',monospace;padding-left:14px}
 .num.dim{color:var(--dim)}
-.meter{
-  display:flex;align-items:center;gap:9px;justify-content:flex-end;
-  padding-left:14px}
-.track{width:52px;height:3px;background:var(--line);position:relative;flex:none}
+.meter{display:flex;align-items:center;gap:9px;justify-content:flex-end;padding-left:14px}
+.track{width:56px;height:3px;background:var(--line);position:relative}
 .fill{position:absolute;inset:0 auto 0 0;background:var(--dim)}
 .fill.hot{background:var(--gold)}
-.meter span{
-  font:400 13px 'JetBrains Mono',monospace;min-width:42px;text-align:right}
-.res{
-  text-align:right;font:400 11px/1.8 'JetBrains Mono',monospace;
-  white-space:nowrap;padding-left:16px;letter-spacing:.04em}
+.meter span{font:400 13px 'JetBrains Mono',monospace;min-width:42px;text-align:right}
+.res{text-align:right;font:400 11px/1.8 'JetBrains Mono',monospace;
+  white-space:nowrap;padding-left:16px;letter-spacing:.05em}
 .res.fail{color:var(--dim)}
 .res.pass{color:var(--live)}
 .res.void{color:var(--fail)}
 .res.sealed{color:var(--seal)}
 
-/* ---- record page ------------------------------------------------- */
-.back{
-  display:inline-block;margin:0 0 clamp(26px,5vw,40px);
-  font:400 12px 'JetBrains Mono',monospace;color:var(--dim);
-  text-decoration:none}
+.back{display:inline-block;margin:0 0 40px;font:400 12px 'JetBrains Mono',monospace;
+  color:var(--dim);text-decoration:none}
 .back:hover{color:var(--seal)}
-.rec-head{padding:clamp(48px,9vw,80px) 0 clamp(30px,5vw,44px)}
-.rec-head .id{font-size:12px;margin-bottom:18px;display:block;line-height:1.7}
-.rec-head h1{font-size:clamp(26px,6vw,48px);margin-bottom:22px}
-.badge{
-  display:inline-block;padding:7px 13px;border:1px solid;
-  font:400 10.5px/1 'JetBrains Mono',monospace;
-  letter-spacing:.1em;text-transform:uppercase}
-.badge.fail{border-color:var(--line-2);color:var(--mute)}
+.rec-head{padding:80px 0 44px}
+.rec-head .id{font-size:12px;margin-bottom:20px;display:block}
+.rec-head h1{font-size:clamp(30px,4.6vw,50px);margin-bottom:22px}
+.badge{display:inline-block;padding:7px 14px;border:1px solid;
+  font:400 11px/1 'JetBrains Mono',monospace;letter-spacing:.12em;text-transform:uppercase}
+.badge.fail{border-color:var(--line);color:var(--mute)}
 .badge.pass{border-color:var(--live);color:var(--live)}
 .badge.void{border-color:var(--fail);color:var(--fail)}
 .badge.sealed{border-color:var(--seal);color:var(--seal)}
 
-.grid2{
-  display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
-  grid-template-columns:repeat(auto-fit,minmax(min(100%,175px),1fr))}
-.cell{background:var(--deep);padding:clamp(17px,3vw,22px)}
-.cell b{
-  display:block;font:300 clamp(21px,4.2vw,27px)/1 'JetBrains Mono',monospace;
-  letter-spacing:-.03em}
-.cell span{
-  display:block;margin-top:8px;font:400 9.5px/1.5 'JetBrains Mono',monospace;
-  letter-spacing:.12em;text-transform:uppercase;color:var(--dim)}
-.cell em{
-  display:block;margin-top:7px;font-style:normal;font-size:12.5px;
-  color:var(--mute);line-height:1.5}
+.grid2{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
+.cell{background:var(--deep);padding:22px}
+.cell b{display:block;font:300 27px/1 'JetBrains Mono',monospace;letter-spacing:-.03em}
+.cell span{display:block;margin-top:9px;font:400 10px/1.5 'JetBrains Mono',monospace;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.cell em{display:block;margin-top:7px;font-style:normal;font-size:12.5px;color:var(--mute)}
 
-.chart{
-  margin:clamp(24px,4vw,36px) 0 0;background:var(--deep);
-  border:1px solid var(--line);padding:clamp(18px,3.4vw,28px);
-  overflow-x:auto}
-.chart h4{
-  font:500 9.5px/1 'JetBrains Mono',monospace;letter-spacing:.16em;
-  text-transform:uppercase;color:var(--dim);margin:0 0 20px}
-.chart figcaption{
-  margin:16px 0 0;font-size:13.5px;line-height:1.6;
-  color:var(--mute);max-width:68ch}
+.chart{margin:36px 0 0;background:var(--deep);border:1px solid var(--line);padding:28px}
+.chart h4{font:500 10px/1 'JetBrains Mono',monospace;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--dim);margin:0 0 22px}
+.chart figcaption{margin:18px 0 0;font-size:13.5px;color:var(--mute);max-width:70ch}
 
-.block{
-  margin:clamp(22px,4vw,34px) 0 0;padding:20px 22px;
-  background:var(--deep);border:1px solid var(--line)}
+.block{margin:34px 0 0;padding:22px 24px;background:var(--deep);border:1px solid var(--line)}
 .block.confirm{border-left:2px solid var(--seal)}
 .block.explore{border-left:2px solid var(--gold)}
 .block.void{border-left:2px solid var(--fail)}
-.block .tag{
-  font:400 9.5px/1 'JetBrains Mono',monospace;letter-spacing:.16em;
-  text-transform:uppercase;color:var(--dim);margin:0 0 13px}
-.block p{margin:0 0 12px;font-size:15px;color:var(--mute);max-width:66ch}
+.block .tag{font:400 10px/1 'JetBrains Mono',monospace;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--dim);margin:0 0 14px}
+.block p{margin:0 0 12px;font-size:15px;color:var(--mute)}
 .block p:last-child{margin-bottom:0}
 .block.confirm p{color:var(--text)}
 
-.hashline{
-  margin:clamp(22px,4vw,34px) 0 0;padding:17px 20px;background:var(--deep);
-  border:1px solid var(--line);
-  font:400 11px/1.95 'JetBrains Mono',monospace;
-  color:var(--dim);word-break:break-all;overflow-wrap:anywhere}
+.hashline{margin:34px 0 0;padding:18px 22px;background:var(--deep);
+  border:1px solid var(--line);font:400 11.5px/1.9 'JetBrains Mono',monospace;
+  color:var(--dim);word-break:break-all}
 .hashline b{color:var(--seal);font-weight:400}
 
-footer{
-  padding:clamp(48px,8vw,70px) 0 clamp(70px,12vw,110px);
-  border-top:1px solid var(--line);color:var(--dim);font-size:14px}
-footer p{max-width:70ch;margin:0 0 14px;line-height:1.7}
+footer{padding:70px 0 110px;border-top:1px solid var(--line);color:var(--dim);font-size:14px}
+footer p{max-width:70ch;margin:0 0 14px}
 
-/* ---- responsive -------------------------------------------------- */
-@media(max-width:900px){
+@media(max-width:760px){
+  header{padding:88px 0 60px}
   .num.dim,thead th:nth-child(4){display:none}
+  section{padding:64px 0}
 }
-@media(max-width:620px){
-  .meter .track{display:none}
-  .nm{min-width:170px}
-  table{min-width:420px}
-}
-@media(prefers-reduced-motion:reduce){
-  #sky{display:none}
-  html{scroll-behavior:auto}
-  *{transition:none!important;animation:none!important}
-}
+@media(prefers-reduced-motion:reduce){#sky{display:none}html{scroll-behavior:auto}}
 """
 
 SKY = """
@@ -578,9 +497,9 @@ def index_page(records):
         '</div></section>'
         '<section><h2>The record</h2>'
         '<div class="bar">%s<span class="count" id="count"></span></div>'
-        '<div class=\"tscroll\"><table><thead><tr><th>ID</th><th>Strategy</th><th>Best</th>'
+        '<table><thead><tr><th>ID</th><th>Strategy</th><th>Best</th>'
         '<th>Luck</th><th>Score</th><th>Result</th></tr></thead>'
-        '<tbody id="tb">%s</tbody></table></div>'
+        '<tbody id="tb">%s</tbody></table>'
         '<p style="margin-top:28px;color:var(--mute);font-size:14.5px">'
         '<b>Best</b> is the top version\'s return adjusted for risk. '
         '<b>Luck</b> is what that version would have scored if none of them '
