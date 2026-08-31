@@ -1,0 +1,5 @@
+{
+  "notes": [
+    "Timestamp ordering is weaker here than in every other record. The pre-registration was frozen by register.py before run_sweep.py was invoked, but the OpenTimestamps stamp was applied afterwards: the first stamp attempt ran before register.py had written the hash file and silently produced nothing. The document is therefore hashed and anchored, but the anchor does not prove it predates the result. Read this record as self-reported ordering, not verified ordering."
+  ]
+}
