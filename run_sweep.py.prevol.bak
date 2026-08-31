@@ -44,7 +44,7 @@ def load_bars(symbol: str, timeframe: str, start: str, end: str) -> dict:
     lo = int(datetime.fromisoformat(start).replace(tzinfo=timezone.utc).timestamp() * 1000)
     hi = int(datetime.fromisoformat(end).replace(tzinfo=timezone.utc).timestamp() * 1000)
 
-    t, o, h, l, c, v = [], [], [], [], [], []
+    t, o, h, l, c = [], [], [], [], []
     with open(path, newline="", encoding="utf-8") as fh:
         reader = csv.reader(fh)
         next(reader, None)
@@ -57,10 +57,6 @@ def load_bars(symbol: str, timeframe: str, start: str, end: str) -> dict:
             h.append(float(row[2]))
             l.append(float(row[3]))
             c.append(float(row[4]))
-            try:
-                v.append(float(row[5]) if len(row) > 5 else 0.0)
-            except ValueError:
-                v.append(0.0)
 
     if len(c) < 100:
         fail(f"{symbol}: only {len(c)} bars in range — refusing to run")
@@ -71,7 +67,6 @@ def load_bars(symbol: str, timeframe: str, start: str, end: str) -> dict:
         "hour": ((times // 3_600_000) % 24).astype(np.int64),
         "open": np.array(o), "high": np.array(h),
         "low": np.array(l), "close": np.array(c),
-        "volume": np.array(v),
     }
 
 

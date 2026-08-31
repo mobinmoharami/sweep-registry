@@ -1,0 +1,78 @@
+{
+ "sweep_id": "SW-0036",
+ "title": "Volume-confirmed price signals on BTC and ETH spot, hourly",
+ "hypothesis": "Every one of the 21 families in this registry reads price alone. The claim these three encode is the one most widely taught alongside them: that a price move confirmed by volume behaves differently from one that is not. It has never been tested here.\n\nThe grid is built so the test answers itself. volume_breakout at threshold 0 disables the volume filter entirely and reduces to a plain Donchian breakout - verified byte-identical before freezing - so the low end of the threshold axis is an exact control for the high end. If volume confirmation carries information, variants must separate along that axis. If they do not separate, the confirmation adds nothing.\n\nvolume_climax fades the same volume spike that volume_breakout follows. The two are mirrors on one signal: if either direction is real the other should fail, and if both fail the spike carries no directional information at all, which is a stronger negative than either alone.\n\nobv_trend has the same structure as ma_cross with cumulative signed volume substituted for price, making the two directly comparable.\n\nPrediction, stated before any result was computed: no family clears the threshold, and volume_breakout does not separate from its threshold-0 control.",
+ "search_space": {
+  "families": [
+   "volume_breakout",
+   "obv_trend",
+   "volume_climax"
+  ],
+  "parameters": {
+   "lookback": [
+    12,
+    24,
+    48,
+    96
+   ],
+   "entry_threshold": [
+    0.0,
+    1.2,
+    1.5,
+    2.0,
+    3.0
+   ],
+   "exit_rule": [
+    "mean_touch",
+    "opposite_band",
+    "fixed_n_bars"
+   ],
+   "holding_cap_bars": [
+    6,
+    24,
+    72
+   ]
+  },
+  "n_trials": 1080,
+  "enumeration_note": "3 families x 4 lookbacks x 5 thresholds x 3 exits x 3 caps x 2 symbols = 1080 fully enumerated variants. Threshold 0.0 is the control: it disables the volume filter. No variant is dropped after the fact.",
+  "family_descriptions": {
+   "volume_breakout": "Donchian breakout valid only when volume is at least `threshold` times its trailing mean",
+   "obv_trend": "fast vs slow EMA of on-balance volume; threshold is the ratio of slow span to fast",
+   "volume_climax": "fade a bar whose volume exceeds `threshold` times its trailing mean, opposite the bar direction"
+  }
+ },
+ "data": {
+  "symbols": [
+   "BTCUSDT",
+   "ETHUSDT"
+  ],
+  "start": "2019-01-01",
+  "end": "2025-06-30",
+  "timeframe": "1h",
+  "source": "binance public klines via data.binance.vision",
+  "volume_note": "Base-asset volume, column 5 of the Binance kline archive. Raw volume is not comparable across symbols or across years, so every family here works in units of volume divided by its own trailing mean. Bars with missing volume take the value 0 and therefore fail any volume filter rather than passing it silently.",
+  "holdout": "2025-07-01 onward is not loaded by this sweep and is reserved for a confirmatory sweep if anything clears."
+ },
+ "protocol": {
+  "method": "Fixed rules, no in-sample parameter fitting. Every variant evaluated over the full period; in-sample/out-of-sample splitting is done by CSCV at scoring time.",
+  "costs_bps": 4.0,
+  "slippage_bps": 6.0,
+  "execution_model": "weights set from bar t close, held over bar t+1, cost charged on the size of every weight change",
+  "gap_handling": "bars following a break longer than one interval have their return zeroed and carry no position across"
+ },
+ "decision_rule": {
+  "metric": "deflated_sharpe_ratio",
+  "threshold": 0.95,
+  "note": "CONFIRMED if DSR >= 0.95. Otherwise recorded as no edge found at the stated detection limit. Fixed before any result was computed. Not adjustable. A second, weaker reading is also pre-specified: whether volume_breakout variants at threshold > 0 separate from those at threshold 0. That comparison is descriptive and does not override the DSR rule.",
+  "alpha": 0.05
+ },
+ "planning": {
+  "periods_per_year": 8760,
+  "n_observations": 56000,
+  "assumed_var_trial_sharpes": 1.8e-05,
+  "assumed_skewness": -0.2,
+  "assumed_kurtosis": 8.0,
+  "power": 0.8,
+  "cscv_splits": 16
+ }
+}
