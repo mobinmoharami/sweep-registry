@@ -1,0 +1,55 @@
+{
+ "sweep_id": "EXT-0039",
+ "title": "Capturing the funding payment itself around settlement, on liquid perpetuals",
+ "hypothesis": "Funding is paid at a single instant. A position opened minutes before settlement and closed minutes after collects the whole rate while carrying almost no price exposure - a much narrower trade than holding a hedged position continuously.\n\nWhether it survives costs is the question. The null is that the market has already priced the settlement into the minutes around it, which would appear as an adverse drift cancelling the rate. The test measures the rate collected and the price move separately so the two can be compared directly.",
+ "search_space": {
+  "families": [
+   "funding_capture"
+  ],
+  "parameters": {
+   "pre_minutes": [
+    5,
+    15,
+    30
+   ],
+   "post_minutes": [
+    5,
+    15,
+    30
+   ],
+   "cost_pct": [
+    0.08,
+    0.16
+   ]
+  },
+  "n_trials": 84,
+  "enumeration_note": "3 symmetric windows x 2 cost scenarios x 14 symbols = 84 combinations over 5,026 settlement events. Direction is set by the sign of the rate, not searched: short when funding is positive, long when negative.",
+  "family_descriptions": {
+   "funding_capture": "enter `pre` minutes before settlement at the close, exit `post` minutes after, net = rate received minus adverse price move minus cost"
+  }
+ },
+ "data": {
+  "symbols": [
+   "14 Binance USDT perpetuals by 24h volume"
+  ],
+  "start": "2026-06-08",
+  "end": "2026-09-06",
+  "timeframe": "1m",
+  "source": "binance fapi klines and fundingRate"
+ },
+ "protocol": {
+  "method": "every historical settlement in the window, no sampling",
+  "costs_bps": 8.0,
+  "slippage_bps": 0.0,
+  "execution_model": "close-to-close over the stated window"
+ },
+ "decision_rule": {
+  "metric": "mean_net_return_per_event",
+  "alpha": 0.05,
+  "threshold": 0.0,
+  "note": "CONFIRMED if any symbol-window-cost combination has mean net > 0 with t > 2. Fixed before the numbers were read."
+ },
+ "registry_note": "Not a registry sweep. This was run with purpose-written code rather than run_sweep.py, so it carries no returns matrix, no deflated Sharpe ratio, no PBO, and no Bitcoin timestamp. It is published here because the measurement is clean and the null result is informative, but it is not comparable to SW-0002 through SW-0036 and is kept outside sweeps/ so the two are never confused.",
+ "verdict": "NO EDGE FOUND",
+ "result_detail": "Zero of 84 combinations positive. All 14 symbols negative, most with t between -3 and -7.\n\nThe mechanism is visible in the two components. Pooled, the rate collected averages +0.0091% while the price moves -0.0254% against the position over the same window - roughly three times the rate, before any cost. Widening the window makes it worse, not better: -0.0254% at five minutes against -0.0638% at thirty. That monotone worsening is what a settlement already priced in looks like, and is the opposite of what noise would produce.\n\nTraders who collect funding close before it is paid, and that selling moves the price ahead of anyone arriving later."
+}

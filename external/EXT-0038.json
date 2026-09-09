@@ -1,0 +1,68 @@
+{
+ "sweep_id": "EXT-0038",
+ "title": "Directional drift in newly listed perpetuals, with stops applied on the price path",
+ "hypothesis": "Across 262 Binance USDT perpetuals listed in the preceding 540 days, the median return measured from the first hourly close falls monotonically with horizon: -0.51% at 1h, -3.01% at 12h, -6.63% at 24h, -14.13% at 7d, with the share finishing higher declining monotonically from 47.3% to 34.2%. A monotone pattern across six horizons is not the shape noise produces, and the obvious reading is that shorting new listings pays.\n\nIt does not. After subtracting the funding each short actually paid and a 0.2% round trip, the mean net 7-day return is +0.08% with a worst case of -406%. The median is +12.86% and the win rate 65.4%: the entire expectancy sits in a tail that a single listing destroys.\n\nCapping the endpoint at -30% moves the mean to +12.22%, which is the trap this sweep exists to test. Clipping an endpoint is not a stop loss. A contract closing 7 days later at -10% may have traded +40% on day two and stopped the position out first, and those losses are invisible at the endpoint. The sweep walks the hourly path so the stop fires where it would have fired.\n\nThe long side is enumerated as a control. A real directional effect must show opposite signs on the two sides; if both lose, trading costs are the explanation and direction is not.",
+ "search_space": {
+  "families": [
+   "listing_drift"
+  ],
+  "parameters": {
+   "direction": [
+    "short",
+    "long"
+   ],
+   "stop_pct": [
+    0,
+    20,
+    30,
+    50
+   ],
+   "horizon_h": [
+    24,
+    72,
+    168
+   ],
+   "entry_delay_h": [
+    0,
+    1,
+    4
+   ],
+   "spread_pct": [
+    0.2,
+    1.0
+   ]
+  },
+  "n_trials": 144,
+  "enumeration_note": "2 directions x 4 stops x 3 horizons x 3 entry delays x 2 spread scenarios = 144 variants, fully enumerated. stop_pct 0 means no stop. entry_delay exists because a listing's first bar is the least fillable moment there is.",
+  "family_descriptions": {
+   "listing_drift": "enter at the close of the bar `entry_delay_h` after listing, exit at horizon or when the stop fires on the path, funding charged from the symbol's own record"
+  }
+ },
+ "data": {
+  "symbols": [
+   "262 Binance USDT perpetuals listed within 540 days"
+  ],
+  "start": "2025-03-17",
+  "end": "2026-09-01",
+  "timeframe": "1h",
+  "source": "binance fapi klines and fundingRate",
+  "survivorship_note": "Contracts fully delisted before the scan are absent from exchangeInfo and therefore from the sample; 29 in SETTLING status were retained. The bias runs against the hypothesis rather than for it, since the symbols that collapsed hardest are the missing ones.",
+  "holdout": "Listings split by hash of symbol with seed 20260905, roughly 131 each. The split is random rather than chronological so both halves span the same market regimes."
+ },
+ "protocol": {
+  "method": "Every variant walks the hourly path of every listing in its half. Stops are checked bar by bar against the adverse extreme.",
+  "costs_bps": 20.0,
+  "slippage_bps": 0.0,
+  "execution_model": "entry at close of the delay bar, exit at the stop price or the horizon close",
+  "funding_note": "charged from the funding actually recorded for that symbol over the intervals held, not an assumed rate"
+ },
+ "decision_rule": {
+  "metric": "mean_net_return",
+  "alpha": 0.05,
+  "threshold": 0.0,
+  "note": "CONFIRMED if mean and median net return are both positive on the holdout, the same variant is positive in both halves, and the long control is negative where the short is positive. Fixed in code before the numbers were read."
+ },
+ "registry_note": "Not a registry sweep. This was run with purpose-written code rather than run_sweep.py, so it carries no returns matrix, no deflated Sharpe ratio, no PBO, and no Bitcoin timestamp. It is published here because the measurement is clean and the null result is informative, but it is not comparable to SW-0002 through SW-0036 and is kept outside sweeps/ so the two are never confused.",
+ "verdict": "NO EDGE FOUND",
+ "result_detail": "On the exploration half all 15 highest-mean variants were LONG, not short, despite medians of -2.7% to -18.9%: the positive mean comes entirely from the upper tail. Only 5 of 72 short variants had both mean and median positive.\n\nThe decisive number is the sum of matched short and long means. At 0.2% spread it is -0.40%; at 1.0% it is -2.00% - in both cases exactly twice the assumed spread. A real directional effect leaves that sum near zero, because what one side gains the other loses. Here the two sides differ by nothing but the cost of trading.\n\nThe +12.22% produced by clipping the endpoint was the artifact the sweep was built to detect. Evaluated on the path, it disappears.\n\nThe holdout was not opened. A confirmatory test on a hypothesis the exploration half already refuted adds nothing and would only consume the sealed half."
+}

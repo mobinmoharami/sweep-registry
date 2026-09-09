@@ -1,0 +1,59 @@
+{
+ "sweep_id": "EXT-0040",
+ "title": "Spot-perpetual basis reversion on venue-matched pairs, hourly",
+ "hypothesis": "A perpetual and its spot market track the same asset, and funding exists to pull them together: when the perp trades rich, longs pay, which pressures the gap closed. Unlike most claimed mean reversion this has a stated mechanism.\n\nThe question is whether the gap widens enough, often enough, to pay for four fills. Both legs are taken on the same venue so venue-specific effects cancel.\n\nAn earlier version of this test reported a 100% win rate over 182 trades with a mean gain of 0.35% on a basis whose whole standard deviation is 0.086%. That is arithmetically impossible and the cause was the exit rule, which compared the basis to its rolling mean at the time of exit; the mean chases the basis, so the two nearly always converge and every trade closed a winner by construction. This version freezes the target at entry, force-closes at the holding cap, and discards any combination whose mean exceeds the standard deviation of the series it trades.",
+ "search_space": {
+  "families": [
+   "basis_reversion"
+  ],
+  "parameters": {
+   "entry_z": [
+    1.5,
+    2.0,
+    3.0
+   ],
+   "lookback_h": [
+    48,
+    168
+   ],
+   "holding_cap_h": [
+    24,
+    72
+   ],
+   "cost_pct": [
+    0.08,
+    0.16
+   ]
+  },
+  "n_trials": 480,
+  "enumeration_note": "3 thresholds x 2 lookbacks x 2 caps x 2 cost scenarios x 20 symbols = 480 combinations. 292 were discarded by the sanity bound before scoring and are reported as discarded rather than as results.",
+  "family_descriptions": {
+   "basis_reversion": "fade the basis when it is entry_z standard deviations from its trailing mean, exit at the mean value frozen at entry or at the holding cap"
+  }
+ },
+ "data": {
+  "symbols": [
+   "20 Binance perpetuals with a matching spot pair"
+  ],
+  "start": "2026-03-10",
+  "end": "2026-09-06",
+  "timeframe": "1h",
+  "source": "binance fapi and spot klines"
+ },
+ "protocol": {
+  "method": "basis = perp/spot - 1, in percent. Both legs on the same venue.",
+  "costs_bps": 8.0,
+  "slippage_bps": 0.0,
+  "execution_model": "four fills per round trip: open both legs, close both legs",
+  "integrity_check": "No strategy on a series can average much more than that series' own standard deviation per trade. Combinations above 1.5x that bound are treated as defects and excluded."
+ },
+ "decision_rule": {
+  "metric": "mean_net_return_per_trade",
+  "alpha": 0.05,
+  "threshold": 0.0,
+  "note": "CONFIRMED if any combination has mean net > 0 with t > 2 after the sanity bound is applied."
+ },
+ "registry_note": "Not a registry sweep. This was run with purpose-written code rather than run_sweep.py, so it carries no returns matrix, no deflated Sharpe ratio, no PBO, and no Bitcoin timestamp. It is published here because the measurement is clean and the null result is informative, but it is not comparable to SW-0002 through SW-0036 and is kept outside sweeps/ so the two are never confused.",
+ "verdict": "NO EDGE FOUND, MECHANISM CONFIRMED",
+ "result_detail": "Zero of 24 surviving combinations positive; 292 of 480 were discarded by the sanity bound.\n\nThe distinction this sweep can draw is worth more than the verdict. Gross return is POSITIVE at +0.039% per trade and the target is reached 97% of the time: the reversion is real and reliable. Net is -0.041%, because four fills cost 0.08% and the basis on these pairs has a standard deviation of only 0.02% to 0.09%.\n\nLong and short are almost identical (-0.081% and -0.080%), confirming the effect is symmetric rather than a drift dressed as reversion.\n\nThis is not 'nothing happens'. It is a real mechanism smaller than the cost of trading it, which is a different finding and one that would change with maker rebates or a fee tier low enough. Recorded so that the distinction is available to anyone who has those."
+}

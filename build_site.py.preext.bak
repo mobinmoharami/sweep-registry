@@ -509,49 +509,6 @@ def record_page(r, nav):
                  % (r["label"], "{:,}".format(r["trials"]), v))
 
 
-
-def external_section():
-    """Results measured outside the registry engine.
-
-    These are rendered below the table and excluded from every count
-    above it. They carry no returns matrix, no deflated Sharpe ratio and
-    no timestamp, so presenting them alongside sealed sweeps would make
-    the two look equivalent when they are not. Separation is the point,
-    visibility is the reason they are here at all.
-    """
-    import glob
-    files = sorted(glob.glob(os.path.join(HERE, "external", "*.json")))
-    if not files:
-        return ""
-    cards = []
-    for f in files:
-        try:
-            d = load(f)
-        except Exception:
-            continue
-        n = d.get("search_space", {}).get("n_trials")
-        cards.append(
-            '<div class="block"><p class="tag">%s &middot; %s versions</p>'
-            '<h3 style="margin:0 0 10px">%s</h3>'
-            '<p style="color:var(--fail);font-family:\'JetBrains Mono\',monospace;'
-            'font-size:12px;letter-spacing:.1em;margin:0 0 14px">%s</p>'
-            '<p>%s</p></div>'
-            % (esc(d.get("sweep_id", "")), "{:,}".format(n) if n else "\u2014",
-               esc(d.get("title", "")), esc(d.get("verdict", "")),
-               esc((d.get("result_detail") or "").split("\n\n")[0])))
-    return (
-        '<section id="external"><h2>Measured outside the engine</h2>'
-        '<p style="color:var(--mute);max-width:64ch;margin:0 0 30px">'
-        'These were run with purpose-written code rather than the sweep '
-        'engine. They carry no returns matrix, no deflated Sharpe ratio, '
-        'no probability of backtest overfitting and no Bitcoin timestamp, '
-        'and they are not counted in any figure above. They are published '
-        'because the measurements are clean and the findings useful, and '
-        'kept apart because calling them sweeps would break the one '
-        'guarantee this registry makes.</p>%s</section>'
-        % "".join(cards))
-
-
 def index_page(records):
     scored = [r for r in records if r["dsr"] is not None and r["status"] == "OK"]
     cleared = [r for r in scored if r["dsr"] >= 0.95]
@@ -630,7 +587,6 @@ def index_page(records):
         'worked. <b>Score</b> is how likely the result is real rather than '
         'selection, and it has to reach 0.95. Open any row for the full '
         'record.</p></section>'
-        '%s'
         '<footer>%s<p style="margin-top:20px" class="mono">Generated %s</p>'
         '</footer></div>'
         '<script>'
@@ -645,7 +601,7 @@ def index_page(records):
         'r.style.display=(f==="all"||r.dataset.market===f)?"":"none";});upd();});});'
         'upd();</script>'
         % (close, len(records), "{:,}".format(variants), len(cleared), stamped,
-           filters, "".join(rows), external_section(), FOOT,
+           filters, "".join(rows), FOOT,
            datetime.now(timezone.utc).strftime("%d %b %Y")))
 
     return shell("The strategies that didn't work", body,
