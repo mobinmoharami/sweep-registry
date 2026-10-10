@@ -50,6 +50,10 @@ This sweep could have detected a true annualised Sharpe of **1.6109** or larger 
 
 <!-- annotations -->
 
+## Status: VOID
+
+Weight-allocation bug in sweep/cross_sectional.py: assets outside the point-in-time universe scored -inf and therefore sorted first, so the entire short leg of every long_short variant (45 of 90) was allocated to non-investable assets whose returns are zeroed. Verified by replay: the stored returns matrix reproduces exactly under the buggy allocator (max abs diff 2.6e-08) and diverges materially under the fixed one (correlation 0.54-0.69; one variant moves from 0.187 to 0.468 annualised Sharpe). The mean_touch (long-only) branch was unaffected, but the corrupted variants are counted in n_trials, in the expected-maximum-Sharpe null and in the PBO combinatorics, so the primary metric is not valid. Pre-registration and its Bitcoin timestamp remain valid; only the execution failed. Fixed and covered by tests/test_cross_sectional_weights.py; re-registered under new IDs.
+
 ## What was pre-registered
 
 Pre-registered test: DSR 0.823 against a 0.95 threshold. Verdict: NO.
@@ -60,10 +64,12 @@ Everything in this section was noticed by looking at the finished result. It is 
 
 Marginally stronger than plain cross-sectional momentum (SW-0032, DSR 0.809), consistent with the standard argument that scaling by volatility stops the most volatile assets dominating the ranking. The difference is far too small to call a result.
 
+Post hoc observation, carried forward to the replacement sweeps: the mean_touch exit rule is long-only with gross exposure 2.0, not dollar-neutral, so it is not market-neutral and does inherit the crypto trend. In all three sweeps the highest-Sharpe variant came from this branch. In SW-0034 that variant compounds to 0.22x of initial capital with a 100% maximum drawdown despite an annualised Sharpe of 0.989, losing between 37% and 53% in each of four hours during the LUNA/UST collapse (2022-05-11 to 2022-05-13; verified against BTCUSDT bar timestamps, not a data error). Sharpe and the deflated Sharpe ratio are computed from arithmetic moments and do not see the capital path.
+
 ## Notes
 
 - A numpy 'Degrees of freedom <= 0' warning appears during this sweep. It comes from all-NaN columns — symbols not yet listed — passing through nanstd. Those columns return NaN and are dropped by the ranking, so the result is unaffected.
 
 ---
 
-*Annotations added 2026-08-01T22:45:25+00:00. The frozen pre-registration, its hash and result.json are unmodified.*
+*Annotations added 2026-10-10T18:05:35+00:00. The frozen pre-registration, its hash and result.json are unmodified.*

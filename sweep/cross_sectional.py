@@ -111,13 +111,17 @@ class CrossSectionalRunner:
         # entry_threshold is the fraction of the universe taken per side:
         # 0.2 means long the top 20%, short the bottom 20%
         frac = float(variant["entry_threshold"])
-        k = max(1, int(round(n_live * frac)))
-        idx = np.argsort(np.where(live, ranks, -np.inf))
-        w[idx[-k:]] = 1.0 / k
+        k_raw = int(round(n_live * frac))
+        live_idx = np.flatnonzero(live)
+        order = live_idx[np.argsort(ranks[live_idx])]
         if variant["exit_rule"] == "mean_touch":      # long only
-            w *= 2.0                                  # same gross exposure
+            k = max(1, min(k_raw, n_live))
+            w[order[-k:]] = 2.0 / k                   # same gross exposure
         else:
-            w[idx[:k]] = -1.0 / k
+            # cap at half the universe so the two legs cannot overlap
+            k = max(1, min(k_raw, n_live // 2))
+            w[order[-k:]] = 1.0 / k
+            w[order[:k]] = -1.0 / k
         return w
 
     def run_detail(self, variant: dict) -> dict:
