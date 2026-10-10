@@ -1,0 +1,62 @@
+{
+  "breakeven_cost_bps": {
+    "best_variant": 75.136,
+    "median": 28.995,
+    "note": "per-variant round-trip cost at which mean gross return reaches zero; the reported figure is the median OF those points, not the breakeven of the median variant"
+  },
+  "cost_bps_total": 10.0,
+  "directional_tilt": {
+    "mean": -0.0,
+    "median": 0.0,
+    "share_net_short": 0.3778
+  },
+  "engine": "cross_sectional",
+  "gross_sharpe_annual": {
+    "max": 1.336,
+    "mean": 0.6804,
+    "median": 0.7102,
+    "p05": 0.15,
+    "p95": 1.2074,
+    "share_positive": 1.0
+  },
+  "market_beta": {
+    "mean": -0.0959,
+    "median": -0.0979,
+    "note": "market = equal-weighted mean return of the investable universe"
+  },
+  "market_neutral_residual_sharpe_annual": {
+    "mean": 0.7241,
+    "median": 0.7595,
+    "share_positive": 1.0
+  },
+  "mean_exposure": 1.9894,
+  "mechanism": "MIXED. Gross returns are neither clearly zero nor clearly positive.",
+  "n_variants": 45,
+  "net_sharpe_annual": {
+    "max": 0.9698,
+    "mean": 0.3724,
+    "median": 0.4033,
+    "share_positive": 0.8222
+  },
+  "null_calibration": {
+    "n_runs": 10,
+    "note": "Each asset's returns were shuffled independently: same per-asset distribution, no cross-sectional or serial structure. A value inside this spread is an artefact of the measurement, not a property of the market.",
+    "observed": 0.7241,
+    "residual_sharpe_mean": 0.0182,
+    "residual_sharpe_sd": 0.8702,
+    "z_score": 0.811
+  },
+  "preregistration_sha256": "ae0a502318589e6605f6179ce316ce99ad9315fce590889a8aafe7983497257b",
+  "sweep_id": "SW-0039",
+  "turnover_per_bar": {
+    "median": 0.026031,
+    "p05": 0.012051,
+    "p95": 0.110321
+  },
+  "variance_explained": {
+    "gross_sharpe_by_directional_tilt": 0.0001,
+    "gross_sharpe_by_market_beta": 0.2172,
+    "net_sharpe_by_gross_sharpe": 0.6055,
+    "net_sharpe_by_turnover": 0.1857
+  }
+}

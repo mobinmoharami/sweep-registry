@@ -47,3 +47,15 @@ This sweep could have detected a true annualised Sharpe of **1.9488** or larger 
 - Result sha256: `ccb96cc52b71b10474a16bb024e91ef00bbc1107cdbf75585ba40ca047fb83e5`
 - Finalised: 2026-10-10T18:19:12+00:00
 - Evidence: returns_matrix
+
+<!-- annotations -->
+
+## Exploratory — NOT pre-registered
+
+Everything in this section was noticed by looking at the finished result. It is a hypothesis, not a finding, and it carries no multiple-testing correction of its own.
+
+Post hoc, measured after both sweeps were run: SW-0040 (cross-sectional reversal) is not an independent test of this one. xs_reversal is implemented as the negation of the momentum score, so with a symmetric long/short fraction the resulting portfolio is the exact inverse. Per-variant correlation between the two returns matrices is -0.997 to -0.999; gross Sharpe, residual Sharpe, turnover and breakeven are mirror images to four decimal places. The two records should be read as one piece of evidence with a sign, not two. Only net Sharpe differs non-trivially, because transaction costs subtract from both legs rather than reflecting.
+
+---
+
+*Annotations added 2026-10-10T18:51:20+00:00. The frozen pre-registration, its hash and result.json are unmodified.*

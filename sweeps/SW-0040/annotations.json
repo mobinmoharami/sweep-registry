@@ -1,0 +1,6 @@
+{
+  "exploratory": [
+    "Post hoc, measured after both sweeps were run: this sweep is the exact inverse of SW-0039 (cross-sectional momentum), not an independent test. xs_reversal is implemented as the negation of the momentum score. Per-variant correlation between the two returns matrices is -0.997 to -0.999. The negative result here carries no information beyond the positive gross Sharpe recorded in SW-0039, and the null calibration confirms it: observed residual Sharpe -0.72 against a shuffled-panel spread of sd 0.87, z = -0.81."
+  ],
+  "updated_utc": "2026-10-10T18:51:20+00:00"
+}

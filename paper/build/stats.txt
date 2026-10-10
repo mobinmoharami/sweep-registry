@@ -1,55 +1,55 @@
 === SCOPE ===
-records in registry                                  35
+records in registry                                  38
 scored                                               29
-voided                                               5
+voided                                               8
 sealed, not yet run                                  1
-variants enumerated (declared)                       18,765
-variants scored (traded at least once)               17,946
+variants enumerated (declared)                       18,630
+variants scored (traded at least once)               17,811
 families with a scored sweep                         17
   BTC/ETH: sweeps / declared variants                14 / 9,018
-  XS crypto: sweeps / declared variants              3 / 270
+  XS crypto: sweeps / declared variants              3 / 135
   FX: sweeps / declared variants                     12 / 9,477
-crypto total: sweeps / declared                      17 / 9,288
+crypto total: sweeps / declared                      17 / 9,153
 
 === HEADLINE ===
 threshold                                            0.95
 sweeps clearing threshold                            0
-max DSR                                              0.822663 (SW-0034)
+max DSR                                              0.745490 (SW-0041)
 median minimum detectable Sharpe                     3.4918
-min / max detectable Sharpe                          1.61 / 29.41
+min / max detectable Sharpe                          1.80 / 29.41
 
 === JOINT TEST ===
 best variant below E[maxSR]                          27 of 29
 two-sided sign test p                                1.624e-06
-median best / E[maxSR] ratio                         0.325
+median best / E[maxSR] ratio                         0.321
 
 === COST SENSITIVITY ===
-sweeps with a cost decomposition                     26 of 29
-missing                                              SW-0032, SW-0033, SW-0034
-median gross Sharpe below zero                       16 of 26
-median breakeven cost (bps)                          -0.04
-breakeven above the cost charged                     SW-0005, SW-0006
-most negative breakeven                              SW-0022 at -15.16 bps
+sweeps with a cost decomposition                     29 of 29
+missing                                              none
+median gross Sharpe below zero                       17 of 29
+median breakeven cost (bps)                          -0.03
+breakeven above the cost charged                     SW-0005, SW-0006, SW-0039, SW-0041
+most negative breakeven                              SW-0040 at -29.00 bps
 
 === POWER CALIBRATION ===
 assumed kurtosis (distinct values)                   [8.0]
 assumed skewness (distinct values)                   [-0.2]
-measured kurtosis median / min / max                 2835.3 / 17.6 / 21330.1
+measured kurtosis median / min / max                 2835.3 / 30.3 / 21330.1
 measured skewness median / max                       28.93 / 128.5
 underestimation factor median / max                  354.4x / 2666x
 sweeps where measured kurtosis exceeded assumed      29 of 29
 
 === DSR DRIVERS ===
-spearman(kurtosis, DSR)                              -0.786
-spearman(best Sharpe, DSR)                           +0.473
-spearman(kurtosis, E[maxSR])                         +0.672
-spearman(mean exposure, kurtosis)                    -0.108   (n=26)
-  kurtosis < 200: n / med DSR / med E[max] / med best 11 / 0.2246 / 1.49 / 0.983
-  kurtosis >= 200: n / med DSR / med E[max] / med best 18 / 0.0000 / 3.12 / 0.732
+spearman(kurtosis, DSR)                              -0.728
+spearman(best Sharpe, DSR)                           +0.491
+spearman(kurtosis, E[maxSR])                         +0.565
+spearman(mean exposure, kurtosis)                    -0.194   (n=29)
+  kurtosis < 200: n / med DSR / med E[max] / med best 8 / 0.1216 / 1.70 / 1.037
+  kurtosis >= 200: n / med DSR / med E[max] / med best 21 / 0.0000 / 2.53 / 0.779
 
 === PBO ===
 median PBO                                           0.188
-highest PBO                                          SW-0025 0.573, SW-0034 0.530, SW-0032 0.479
+highest PBO                                          SW-0025 0.573, SW-0041 0.399, SW-0011 0.354
 
 === INTEGRITY ===
 sweeps with fewer scored than declared               7
@@ -76,5 +76,5 @@ sweeps with observation-count drift                  13
   SW-0027                                            planned 48,772, realised 48,749
   SW-0028                                            planned 48,772, realised 48,749
   SW-0036                                            planned 56,000, realised 56,870
-voided records                                       SW-0003, SW-0004, SW-0029, SW-0030, SW-0031
+voided records                                       SW-0003, SW-0004, SW-0029, SW-0030, SW-0031, SW-0032, SW-0033, SW-0034
 sealed, not yet run                                  SW-0035

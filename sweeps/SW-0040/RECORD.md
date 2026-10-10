@@ -47,3 +47,15 @@ This sweep could have detected a true annualised Sharpe of **1.9411** or larger 
 - Result sha256: `c85396c91c5ecd6cc642597d7b39f622b0b89d11e52ce17978b118d2bdf431b0`
 - Finalised: 2026-10-10T18:20:08+00:00
 - Evidence: returns_matrix
+
+<!-- annotations -->
+
+## Exploratory — NOT pre-registered
+
+Everything in this section was noticed by looking at the finished result. It is a hypothesis, not a finding, and it carries no multiple-testing correction of its own.
+
+Post hoc, measured after both sweeps were run: this sweep is the exact inverse of SW-0039 (cross-sectional momentum), not an independent test. xs_reversal is implemented as the negation of the momentum score. Per-variant correlation between the two returns matrices is -0.997 to -0.999. The negative result here carries no information beyond the positive gross Sharpe recorded in SW-0039, and the null calibration confirms it: observed residual Sharpe -0.72 against a shuffled-panel spread of sd 0.87, z = -0.81.
+
+---
+
+*Annotations added 2026-10-10T18:51:20+00:00. The frozen pre-registration, its hash and result.json are unmodified.*

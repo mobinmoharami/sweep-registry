@@ -1,0 +1,62 @@
+{
+  "breakeven_cost_bps": {
+    "best_variant": -3.512,
+    "median": -28.995,
+    "note": "per-variant round-trip cost at which mean gross return reaches zero; the reported figure is the median OF those points, not the breakeven of the median variant"
+  },
+  "cost_bps_total": 10.0,
+  "directional_tilt": {
+    "mean": 0.0,
+    "median": 0.0,
+    "share_net_short": 0.1778
+  },
+  "engine": "cross_sectional",
+  "gross_sharpe_annual": {
+    "max": -0.0898,
+    "mean": -0.6804,
+    "median": -0.7102,
+    "p05": -1.2074,
+    "p95": -0.15,
+    "share_positive": 0.0
+  },
+  "market_beta": {
+    "mean": 0.0959,
+    "median": 0.0979,
+    "note": "market = equal-weighted mean return of the investable universe"
+  },
+  "market_neutral_residual_sharpe_annual": {
+    "mean": -0.7241,
+    "median": -0.7595,
+    "share_positive": 0.0
+  },
+  "mean_exposure": 1.9894,
+  "mechanism": "ARTEFACT, NOT SIGNAL. Gross returns are negative, but panels with no structure produce -0.02 residual Sharpe against an observed -0.72 (z = -0.811). Claim nothing from it.",
+  "n_variants": 45,
+  "net_sharpe_annual": {
+    "max": -0.2034,
+    "mean": -0.9879,
+    "median": -0.9393,
+    "share_positive": 0.0
+  },
+  "null_calibration": {
+    "n_runs": 10,
+    "note": "Each asset's returns were shuffled independently: same per-asset distribution, no cross-sectional or serial structure. A value inside this spread is an artefact of the measurement, not a property of the market.",
+    "observed": -0.7241,
+    "residual_sharpe_mean": -0.0182,
+    "residual_sharpe_sd": 0.8702,
+    "z_score": -0.811
+  },
+  "preregistration_sha256": "c9f6e0e88b84fc0af5fa9d5f6333a2b9535b144b39fdadf36102e0d1afdf01f1",
+  "sweep_id": "SW-0040",
+  "turnover_per_bar": {
+    "median": 0.026031,
+    "p05": 0.012051,
+    "p95": 0.110321
+  },
+  "variance_explained": {
+    "gross_sharpe_by_directional_tilt": 0.0001,
+    "gross_sharpe_by_market_beta": 0.2172,
+    "net_sharpe_by_gross_sharpe": 0.7164,
+    "net_sharpe_by_turnover": 0.3435
+  }
+}

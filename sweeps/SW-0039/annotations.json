@@ -1,0 +1,6 @@
+{
+  "exploratory": [
+    "Post hoc, measured after both sweeps were run: SW-0040 (cross-sectional reversal) is not an independent test of this one. xs_reversal is implemented as the negation of the momentum score, so with a symmetric long/short fraction the resulting portfolio is the exact inverse. Per-variant correlation between the two returns matrices is -0.997 to -0.999; gross Sharpe, residual Sharpe, turnover and breakeven are mirror images to four decimal places. The two records should be read as one piece of evidence with a sign, not two. Only net Sharpe differs non-trivially, because transaction costs subtract from both legs rather than reflecting."
+  ],
+  "updated_utc": "2026-10-10T18:51:20+00:00"
+}
