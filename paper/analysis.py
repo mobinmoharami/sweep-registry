@@ -172,7 +172,8 @@ def table_a2(scored, out):
 
 def table_a3(scored, out):
     """Sharpe is linear in per-unit cost, so the measured gross and net points
-    determine the whole curve."""
+    Only measured points are tabulated: gross, and net at the cost
+    actually charged. No interpolation."""
     lines = []
     for r in scored:
         d = r["diag"]
@@ -182,10 +183,8 @@ def table_a3(scored, out):
         g = d["gross_sharpe_annual"]["median"]
         n = d["net_sharpe_annual"]["median"]
         be = d["breakeven_cost_bps"]["median"]
-        slope = (g - n) / charged
-        vals = [g - slope * c for c in (0, 2, 6, 10, 20)]
-        lines.append(" & ".join([r["id"]] + [fmt(v) for v in vals]
-                                + [fmt(be, 2)]) + r" \\")
+        lines.append(" & ".join([r["id"], fmt(g), fmt(charged, 1), fmt(n),
+                                 fmt(be, 2)]) + r" \\")
     open(os.path.join(out, "tableA3.tex"), "w").write("\n".join(lines))
 
 
