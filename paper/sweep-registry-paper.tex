@@ -161,7 +161,10 @@ r_t^{\text{net}} = w_{t-1} r_t - c\,\lvert w_{t-1} - w_{t-2} \rvert ,
 where $c$ is the round-trip cost in basis points fixed at pre-registration
 and never adjusted after seeing a result: 4~bps commission plus 6~bps
 slippage for the cross-sectional sweeps, which trade altcoins outside the
-majors, and 6~bps round trip for the single-asset crypto and FX sweeps.
+majors; 4 plus 2 for the single-asset crypto sweeps; and 1 plus 0.5 for the
+FX sweeps, where major-pair spreads are a fraction of those in crypto. The
+lower FX charge means a smaller true edge would have survived there, so a
+null result on FX is stronger evidence than a null on crypto, not weaker.
 
 Sharpe ratios are annualised as $\sqrt{P}\,\bar r / s_r$ with $P = 8{,}760$,
 the number of periods per year declared in every pre-registration. For the FX
@@ -257,7 +260,7 @@ volume-confirmed price signals; six price-action patterns commonly grouped
 as ``smart money concepts'' (fair value gap, order block, liquidity sweep,
 break of structure, engulfing candle, inside bar breakout); and three
 cross-sectional families (momentum, reversal, volatility-scaled momentum).
-Thirteen of the seventeen were run on both crypto and FX.
+Twelve of the seventeen were run on both crypto and FX.
 
 \section{Results}
 
@@ -314,7 +317,7 @@ and taking their best member would have.
 Figure~\ref{fig:dist} shows why. For most sweeps the entire interquartile
 range sits below zero, and the blue marker --- chance expectation --- lies
 to the right of the best variant found. The two cross-sectional momentum
-sweeps at the bottom of the figure are the visible exceptions: their
+sweeps at the top of the figure are the visible exceptions: their
 distributions sit almost entirely above zero.
 
 \begin{figure}[ht]
@@ -359,7 +362,7 @@ Two caveats. The approximation $P(\text{best} < E[\max SR]) = 0.5$ under the
 null is exact only for a symmetric distribution of the maximum, which is not
 guaranteed; the true null probability is somewhat above 0.5, which makes the
 test conservative in the direction reported. And the sweeps are not fully
-independent: thirteen families were run on both markets, and the crypto and
+independent: twelve families were run on both markets, and the crypto and
 FX samples overlap in time. The effective sample is therefore smaller than 29,
 though not by enough to overturn a $p$-value of this magnitude.
 
@@ -367,7 +370,7 @@ though not by enough to overturn a $p$-value of this magnitude.
 \label{sec:cost}
 
 Because gross and net returns were both recorded, the cost assumption can be
-examined without re-running anything. Table A3 reports, for each sweep, the
+examined without re-running anything. Table~\ref{tab:cost} reports, for each sweep, the
 median variant's annualised Sharpe gross of cost and net at the cost actually
 charged, together with the breakeven cost.
 
@@ -389,8 +392,8 @@ median variant. Earlier text described it as the latter.
 The decomposition splits the registry cleanly:
 
 \begin{itemize}
-\item \textbf{Twelve sweeps have a positive median gross Sharpe} and are killed
-      by friction. Donchian breakout and moving-average crossover on crypto
+\item \textbf{Twelve sweeps have a positive median gross Sharpe}, and eight of
+      the twelve are killed by friction. Donchian breakout and moving-average crossover on crypto
       are the only two single-asset sweeps whose breakeven cost (8.6 and 7.9~bps)
       exceeds the 6~bps charged, and whose median variant therefore remains
       positive after costs. The two cross-sectional momentum sweeps clear their
@@ -922,7 +925,7 @@ ID & Family & Market & Decl. & Scored & Best & $E[\max]$ & DSR & MDS & PBO \\
 by sweep. Both columns are measured; no values are interpolated. Breakeven is
 the median of the per-variant round-trip costs at which mean gross return
 reaches zero; negative means no cost level makes that variant profitable. All
-29 scored sweeps carry diagnostics.}\\
+29 scored sweeps carry diagnostics.\label{tab:cost}}\\
 \toprule
 ID & Gross & Cost (bps) & Net & Breakeven \\
 \midrule
