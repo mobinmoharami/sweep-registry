@@ -729,6 +729,32 @@ test on a hypothesis the discovery sample has already refuted adds no
 information, and running it would only consume a sealed window. SW-0003 is
 excluded from the 29 scored sweeps and from all totals reported here.
 
+\subsection{Symbols counted as independent trials}
+
+In the 26 multi-symbol sweeps --- 17{,}676 of the 17{,}811 scored variants, or
+99\% of the registry --- a variant is one parameter combination applied to one
+symbol, so the same combination run on BTCUSDT and on ETHUSDT counts as two
+trials. SW-0008 is typical: 270 parameter combinations across two symbols are
+enumerated and scored as 540 trials.
+
+This affects the primary metric in two ways, both in the same direction.
+The Deflated Sharpe Ratio penalises by trial count, so scoring 540 rather than
+270 applies a heavier multiple-testing penalty than the number of distinct
+hypotheses warrants. And $E[\max SR]$ assumes the trials are independent,
+which paired symbols are not: the same rule on BTCUSDT and ETHUSDT produces
+correlated return series, so the effective number of independent trials is
+below the nominal count, and the null threshold is correspondingly higher than
+an effective-$N$ calculation would give.
+
+Both errors therefore run in the conservative direction: they make the
+threshold harder to clear, not easier. This is the opposite of the bias
+described in the next subsection, and it is reported for the same reason ---
+a reader recomputing these figures with distinct parameter combinations as the
+unit, or with an effective trial count, would obtain Deflated Sharpe Ratios
+somewhat higher than those reported here. No sweep is close enough to the 0.95
+threshold for this to change a verdict: the largest, SW-0041, is a
+single-universe cross-sectional sweep with no symbol multiplication at all.
+
 \subsection{Variants that never traded}
 
 In seven of the 29 scored sweeps the number of variants scored is smaller
