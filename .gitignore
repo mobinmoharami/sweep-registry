@@ -13,3 +13,11 @@ README.md.bak-*
 README.md.old
 *.bak
 paper/*.bak*
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.toc
+paper/tableA*.tex
+paper/fig1.pdf
