@@ -13,5 +13,13 @@
     "Most likely explanation: Bitcoin rose from about 4,000 to over 100,000 across the sample. Linear beta removal does not fully neutralise a multi-year non-linear trend. FX had no comparable trend and showed no effect."
   ],
   "supersedes": [],
-  "updated_utc": "2026-08-01T22:45:25+00:00"
+  "updated_utc": "2026-10-09T23:56:11.533677+00:00",
+  "trial_count_shortfall": {
+    "declared_trials": 1620,
+    "scored_trials": 1599,
+    "never_traded": 21,
+    "explanation": "21 of the 1,620 enumerated variants produced no trade at any point in the sample. The Sharpe ratio of an identically zero return series is undefined, so those columns were excluded at scoring time and n_trials records the 1,599 that remain. This exclusion is not neutral: the Deflated Sharpe Ratio penalises by trial count, so scoring 1,599 trials instead of 1,620 applies a lighter multiple-testing penalty and biases this sweep's DSR upward. The error runs in the permissive direction and is recorded for that reason. No variant was removed on the basis of its performance; the excluded set is determined entirely by whether the parameter combination ever fired.",
+    "direction_of_bias": "permissive (DSR overstated)",
+    "recorded_utc": "2026-10-09T23:56:11.533677+00:00"
+  }
 }

@@ -4,5 +4,13 @@
   "notes": [
     "The one thing it does establish: gross Sharpe is antisymmetric under position inversion, so any symmetric bias — costs, spread, microstructure — contributes zero to it. Combined with the shuffled-null result, that rules out lookahead as the source of the SW-0002 effect."
   ],
-  "updated_utc": "2026-08-01T22:45:25+00:00"
+  "updated_utc": "2026-10-09T23:56:11.533677+00:00",
+  "trial_count_shortfall": {
+    "declared_trials": 1620,
+    "scored_trials": 1599,
+    "never_traded": 21,
+    "explanation": "21 of the 1,620 enumerated variants produced no trade at any point in the sample. The Sharpe ratio of an identically zero return series is undefined, so those columns were excluded at scoring time and n_trials records the 1,599 that remain. This exclusion is not neutral: the Deflated Sharpe Ratio penalises by trial count, so scoring 1,599 trials instead of 1,620 applies a lighter multiple-testing penalty and biases this sweep's DSR upward. The error runs in the permissive direction and is recorded for that reason. No variant was removed on the basis of its performance; the excluded set is determined entirely by whether the parameter combination ever fired.",
+    "direction_of_bias": "permissive (DSR overstated)",
+    "recorded_utc": "2026-10-09T23:56:11.533677+00:00"
+  }
 }

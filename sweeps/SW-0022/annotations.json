@@ -1,0 +1,11 @@
+{
+  "trial_count_shortfall": {
+    "declared_trials": 540,
+    "scored_trials": 261,
+    "never_traded": 279,
+    "explanation": "279 of the 540 enumerated variants produced no trade at any point in the sample. The Sharpe ratio of an identically zero return series is undefined, so those columns were excluded at scoring time and n_trials records the 261 that remain. This exclusion is not neutral: the Deflated Sharpe Ratio penalises by trial count, so scoring 261 trials instead of 540 applies a lighter multiple-testing penalty and biases this sweep's DSR upward. The error runs in the permissive direction and is recorded for that reason. No variant was removed on the basis of its performance; the excluded set is determined entirely by whether the parameter combination ever fired.",
+    "direction_of_bias": "permissive (DSR overstated)",
+    "recorded_utc": "2026-10-09T23:56:11.533677+00:00"
+  },
+  "updated_utc": "2026-10-09T23:56:11.533677+00:00"
+}

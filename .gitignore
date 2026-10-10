@@ -6,3 +6,9 @@ __pycache__/
 *.pyc
 registry.db-shm
 registry.db-wal
+.admin_token
+registry.db
+README.md.v1
+README.md.bak-*
+README.md.old
+*.bak
