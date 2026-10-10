@@ -161,7 +161,8 @@ r_t^{\text{net}} = w_{t-1} r_t - c\,\lvert w_{t-1} - w_{t-2} \rvert ,
 where $c$ is the round-trip cost in basis points fixed at pre-registration
 and never adjusted after seeing a result: 4~bps commission plus 6~bps
 slippage for the cross-sectional sweeps, which trade altcoins outside the
-majors; 4 plus 2 for the single-asset crypto sweeps; and 1 plus 0.5 for the
+majors and for SW-0036; 4 plus 2 for the other single-asset crypto sweeps;
+and 1 plus 0.5 for the
 FX sweeps, where major-pair spreads are a fraction of those in crypto. The
 lower FX charge means a smaller true edge would have survived there, so a
 null result on FX is stronger evidence than a null on crypto, not weaker.
@@ -659,6 +660,10 @@ Smaller effects are untested, not refuted.
 \label{sec:corrections}
 
 \subsection{Six voided runs, in two waves}
+
+Eight records in the registry are marked void. Six are the failed executions
+below; the other two are the declined runs of \S5.2, voided for a different
+reason.
 
 \paragraph{First wave: an empty matrix scored as a null result.}
 Three sweeps (SW-0029, SW-0030, SW-0031) produced returns matrices that were
