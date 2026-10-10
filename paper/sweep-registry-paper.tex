@@ -55,12 +55,12 @@ criteria, one analytic and one empirical, agree that an apparent effect cannot
 be separated from noise.
 
 The registry also records its own failures. Three cross-sectional sweeps were
-voided after publication of an earlier draft, when a weight-allocation defect
+voided before submission, when a weight-allocation defect
 was found that assigned the entire short leg of half their variants to assets
 outside the investable universe. They were re-registered, re-timestamped and
-re-run; both the voided records and their replacements are reported here. A
-fourth record is the exact arithmetic inverse of another and is marked as one
-piece of evidence rather than two.
+re-run; both the voided records and their replacements are reported here. One
+of the three replacements is the exact arithmetic inverse of another and is
+marked as one piece of evidence rather than two.
 
 The contribution is not a claim that technical trading does not work. It is a
 mapped region of strategy space with a stated detection limit, published
@@ -130,7 +130,7 @@ mined, and therefore before any result reported here. Only the hash is
 published to the timestamping service; the document itself stays with the
 author until release.
 
-All 35 pre-registrations in the registry carry such a timestamp.
+All 38 pre-registrations in the registry carry such a timestamp.
 
 Records are additionally linked in a hash chain,
 \begin{equation*}
@@ -266,7 +266,8 @@ Thirteen of the seventeen were run on both crypto and FX.
 No sweep cleared the pre-specified Deflated Sharpe Ratio threshold of 0.95.
 The maximum observed was 0.745 (volatility-scaled cross-sectional momentum,
 SW-0041), followed by 0.605 (cross-sectional momentum, SW-0039). Every other
-family scored below 0.5, and nine of the seventeen scored below 0.01.
+family scored below 0.5, and ten of the
+seventeen scored below 0.01.
 
 The two leading figures come from the re-run replacements described in
 \S\ref{sec:corrections}, not from the voided originals, whose higher values
@@ -285,9 +286,9 @@ Break of structure & 2 & 1{,}350 & 0.482 \\
 Donchian channel breakout & 2 & 1{,}080 & 0.415 \\
 ATR volatility breakout & 2 & 1{,}350 & 0.255 \\
 Moving-average crossover & 2 & 1{,}575 & 0.225 \\
-Cross-sectional reversal & 1 & 45 & 0.001 \\
 Volatility-filtered momentum & 2 & 900 & 0.010 \\
 Inside bar breakout & 2 & 1{,}350 & 0.002 \\
+Cross-sectional reversal & 1 & 45 & 0.001 \\
 Time-series momentum & 2 & 1{,}350 & 0.0003 \\
 Liquidity sweep & 2 & 1{,}350 & 0.00006 \\
 Short-horizon mean reversion & 1 & 1{,}620 & 0.000 \\
@@ -390,9 +391,11 @@ The decomposition splits the registry cleanly:
 \begin{itemize}
 \item \textbf{Twelve sweeps have a positive median gross Sharpe} and are killed
       by friction. Donchian breakout and moving-average crossover on crypto
-      are the only two whose breakeven cost (8.6 and 7.9~bps) exceeds the
-      6~bps charged, and they are the only two sweeps whose median variant
-      remains positive after costs.
+      are the only two single-asset sweeps whose breakeven cost (8.6 and 7.9~bps)
+      exceeds the 6~bps charged, and whose median variant therefore remains
+      positive after costs. The two cross-sectional momentum sweeps clear their
+      higher charge by a wider margin (29.0 and 30.7~bps against 10), which is
+      the subject of \S\ref{sec:best}.
 \item \textbf{Seventeen sweeps have a negative median gross Sharpe.} No cost
       assumption rescues them. Inside bar breakout on crypto is the extreme
       case: a breakeven cost of $-15.2$~bps, meaning the median variant loses
@@ -403,7 +406,7 @@ The median breakeven across all twenty-nine is $-0.03$~bps. This is the single
 most useful number for a practitioner reading this paper, and it is only
 available because the gross series was retained.
 
-The cost decomposition now covers all 29 scored sweeps. The three cross-sectional records that previously lacked one were voided and re-run as SW-0039, SW-0040 and SW-0041 with diagnostics enabled; their breakeven figures, 29.00 and 30.67 bps for the two momentum sweeps, are the highest in the registry and are discussed in Section 5.9.
+The cost decomposition now covers all 29 scored sweeps. The three cross-sectional records that previously lacked one were voided and re-run as SW-0039, SW-0040 and SW-0041 with diagnostics enabled; their breakeven figures, 29.00 and 30.68~bps for the two momentum sweeps, are the highest in the registry and are discussed in \S\ref{sec:best}.
 
 \subsection{Calibration of the power analysis}
 
@@ -436,7 +439,16 @@ The gap is not a defect in the assumption so much as a property of strategy
 returns that is easy to overlook. The assumed figure describes the
 \emph{asset}; the realised figure describes the \emph{strategy's return
 series}, which is the asset return multiplied by a position that is frequently
-zero and occasionally large. Conditioning on a trading rule concentrates the
+zero and occasionally large. The skewness figure moves in the opposite direction to the assumption rather
+than merely exceeding it: $-0.2$ was assumed, and the median realised value is
+$+28.9$, positive in 27 of 29 sweeps. The two quantities move together --- the
+sweeps with the largest skewness are the sweeps with the largest kurtosis
+(SW-0010 at 128.5 and 17{,}961; SW-0027 at 123.3 and 19{,}466) --- which is
+what a return series of mostly zeros punctuated by rare large moves produces.
+The sign of the assumption was taken from asset returns, where negative
+skewness is typical; it does not carry over to the conditioned series.
+
+Conditioning on a trading rule concentrates the
 distribution's mass at zero and leaves the tails intact, and kurtosis responds
 to exactly that shape.
 
@@ -509,7 +521,7 @@ Strategy families differ simultaneously in kurtosis and in quality, and this
 sample cannot separate the two. And an obvious candidate mechanism --- that
 sparse, infrequently-held positions produce both the high kurtosis and the
 poor performance --- is not supported: mean exposure and kurtosis are
-essentially uncorrelated ($\rho = -0.11$).
+essentially uncorrelated ($\rho = -0.19$).
 
 \subsection{Overfitting probability}
 
@@ -556,7 +568,7 @@ Minimum detectable Sharpe (realised) & 1.804 \\
 Gross Sharpe: mean / median / max & 0.823 / 0.814 / 1.529 \\
 Share of variants with positive gross Sharpe & 100\% \\
 Share with positive net Sharpe & 86.7\% \\
-Median breakeven cost & 30.67 bps \\
+Median breakeven cost & 30.68 bps \\
 Cost charged & 10.0 bps \\
 \midrule
 Mean gross exposure & 1.988 \\
@@ -582,11 +594,11 @@ four decimal places and mean market beta is $+0.027$ against an equal-weighted
 index of the investable universe --- so this is not the market trend
 reappearing in another form, which is the failure mode that contaminated the
 voided predecessor. The market-neutral residual Sharpe, 0.812, is almost
-identical to the raw gross figure. The median variant breaks even at 30.67
+identical to the raw gross figure. The median variant breaks even at 30.68
 basis points of round-trip cost against the 10 charged, so the effect is not
 one that only exists at zero cost. Cross-sectional momentum (SW-0039) shows
 the same pattern at slightly lower magnitude: 100\% positive gross Sharpe,
-median breakeven 29.00 bps, mean beta $-0.096$.
+median breakeven 29.00~bps, mean beta $-0.096$.
 
 Two independent criteria nevertheless place this inside the noise.
 
@@ -628,7 +640,7 @@ This is high, and it is the most important caveat in the paper. A real effect
 with a Sharpe of 0.8 --- which would be a good strategy --- sits well below
 this threshold for most sweeps and would not have been detected.
 
-The limit varies enormously across sweeps, from 1.61 for the cross-sectional
+The limit varies enormously across sweeps, from 1.80 for the cross-sectional
 sweeps to 29.41 for hour-of-day seasonality on FX. The driver is the
 dispersion of variant Sharpe ratios within the family: a family whose
 variants range from $-17.6$ to $+0.8$ carries so much internal variance that
